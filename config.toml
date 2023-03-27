@@ -43,6 +43,7 @@ navbar_items = [
  { code = "de", nav_items = [
   { url = "$BASE_URL/", name = "Start" },
   { url = "$BASE_URL/posts", name = "Aktuelles" },
+   { url = "$BASE_URL/infos", name = "Informationen" },
   { url = "$BASE_URL/tags", name = "Schlagworte" },
   { url = "$BASE_URL/categories", name = "Kategorien" },
  ]},
@@ -54,4 +55,9 @@ avatar = "/images/avatar.png"
 
 
 [extra.social]
-email = "<email_id>"
+email = "schulleitung@volksschule-partenkirchen.de"
+
+[extra.favicon]
+favicon_16x16 = "/images/avatar.png"
+favicon_32x32 = "/images/avatar.png"
+apple_touch_icon = "/images/avatar.png"
