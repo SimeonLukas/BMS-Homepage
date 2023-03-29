@@ -1,10 +1,5 @@
 name: Zola on GitHub Pages
 
-on: 
- push:
-  branches:
-   - main
-
 jobs:
   build:
     name: Publish site
