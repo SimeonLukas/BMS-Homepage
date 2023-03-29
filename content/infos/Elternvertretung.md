@@ -3,21 +3,21 @@ title = "Elternvertretung"
 weight = 1
 date = 2023-03-27
 template = "toppage.html"
-description="Das Amt der Klassenselternsprecher*innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenselternsprecherinnen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Gremien..."
+description="Das Amt der Klassenselternsprecher:innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenselternsprecherinnen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Gremien."
 [extra]
 toc = true
 +++
 <details>
 <summary>Weiterlesen</summary>
-Die Aufgaben der Klassenselternsprecherinnen sind vielfältig. Sie organisieren Elternabende, informieren die Eltern über schulische Angelegenheiten und unterstützen bei der Organisation von Klassenfesten und Ausflügen. Darüber hinaus sind sie Teil des Schulelternbeirats und vertreten die Interessen der Eltern auf Schul- und Gremiensitzungen.
+Die Aufgaben der Klassenselternsprecher:innen sind vielfältig. Sie organisieren Elternabende, informieren die Eltern über schulische Angelegenheiten und unterstützen bei der Organisation von Klassenfesten und Ausflügen. Darüber hinaus sind sie Teil des Schulelternbeirats und vertreten die Interessen der Eltern auf Schul- und Gremiensitzungen.
 
 Ein wichtiger Aspekt ihrer Arbeit ist die Zusammenarbeit mit der Lehrerin oder dem Lehrer der Klasse. Sie sind Bindeglied zwischen Eltern und Schule und tragen dazu bei, dass ein gutes Verhältnis zwischen beiden Parteien besteht. Wenn es Probleme oder Konflikte gibt, können sie vermitteln und helfen, eine Lösung zu finden.
 
-Die Klassenselternsprecherinnen haben auch eine wichtige Rolle bei der Mitgestaltung des Schulalltags. Sie können Anregungen und Vorschläge der Eltern an die Schulleitung weitergeben und somit dazu beitragen, dass die Schule den Bedürfnissen der Kinder und Eltern gerecht wird.
+Die Klassenselternsprecher:innen haben auch eine wichtige Rolle bei der Mitgestaltung des Schulalltags. Sie können Anregungen und Vorschläge der Eltern an die Schulleitung weitergeben und somit dazu beitragen, dass die Schule den Bedürfnissen der Kinder und Eltern gerecht wird.
 
-Um Klassenselternsprecherin zu werden, müssen Eltern bei der Wahlversammlung der Klassenelternschaft kandidieren. Hierbei ist es wichtig, dass sie die Unterstützung der anderen Eltern haben und sich aktiv in die Arbeit einbringen möchten. Eine Klassenselternsprecherin wird in der Regel für ein Schuljahr gewählt.
+Um Klassenselternsprecher:in zu werden, müssen Eltern bei der Wahlversammlung der Klassenelternschaft kandidieren. Hierbei ist es wichtig, dass sie die Unterstützung der anderen Eltern haben und sich aktiv in die Arbeit einbringen möchten. Eine Klassenselternsprecherin wird in der Regel für ein Schuljahr gewählt.
 
-Insgesamt ist das Amt der Klassenselternsprecherinnen ein wichtiges Amt, das eine enge Zusammenarbeit zwischen Eltern und Schule fördert. Durch ihre Arbeit tragen sie dazu bei, dass die Schule den Bedürfnissen der Kinder und Eltern gerecht wird und ein harmonisches Miteinander zwischen beiden Parteien besteht.
+Insgesamt ist das Amt der Klassenselternsprecher:innen ein wichtiges Amt, das eine enge Zusammenarbeit zwischen Eltern und Schule fördert. Durch ihre Arbeit tragen sie dazu bei, dass die Schule den Bedürfnissen der Kinder und Eltern gerecht wird und ein harmonisches Miteinander zwischen beiden Parteien besteht.
 </details>
 
 # Grundschule
@@ -62,6 +62,7 @@ Insgesamt ist das Amt der Klassenselternsprecherinnen ein wichtiges Amt, das ein
 | 9G   | —                            | —                         |
 | 10Ma | —                            | —                         |
 | 10Mb | Heidi Rieger                 | Lenka Raubal              |
+
 ## Elternbeirat
 **Vorsitzender:** Hubert Kuger  
 **Stellvertreterin:** Sabine Sedlmeyer  

@@ -176,7 +176,7 @@ function documentReadyCallback() {
     document.body.setAttribute("theme", "dark");
     document.querySelectorAll("img, picture, video, pre").forEach(img => img.setAttribute("theme", "dark"));
     document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.setAttribute("theme", "dark"));
-    document.getElementById("dark-mode").setAttribute("title", "Switch to light theme");
+    document.getElementById("dark-mode").setAttribute("title", "Licht an");
   }
 
   document.querySelector(".navbar-burger").addEventListener("click", () => {
@@ -224,14 +224,14 @@ function documentReadyCallback() {
       document.querySelectorAll("img, picture, video, pre").forEach(img => img.setAttribute("theme", "dark"));
       document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.setAttribute("theme", "dark"));
 
-      document.getElementById("dark-mode").setAttribute("title", "Switch to light theme");
+      document.getElementById("dark-mode").setAttribute("title", "Licht an");
     } else {
       localStorage.setItem("theme", "light");
       document.body.removeAttribute("theme", "dark");
       document.querySelectorAll("img, picture, video, pre").forEach(img => img.removeAttribute("theme", "dark"))
       document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.removeAttribute("theme", "dark"));
 
-      document.getElementById("dark-mode").setAttribute("title", "Switch to dark theme");
+      document.getElementById("dark-mode").setAttribute("title", "Licht aus");
     }
   });
 
@@ -274,7 +274,7 @@ function documentReadyCallback() {
 
       let map = new mapboxgl.Map({
         container: `map-${i}`,
-        style: "mapbox://styles/mapbox/light-v10",
+        style: "mapbox://styles/mapbox/streets-v10",
         center: [-96, 37.8],
         zoom: zoom,
       });
@@ -289,7 +289,7 @@ function documentReadyCallback() {
         center[0] += marker.geometry.coordinates[0];
         center[1] += marker.geometry.coordinates[1];
 
-        new mapboxgl.Marker()
+        new mapboxgl.Marker({ "color": "#62b32e" })
           .setLngLat(marker.geometry.coordinates)
           .setPopup(
             new mapboxgl.Popup({ offset: 25 }) // add popups
@@ -328,3 +328,6 @@ if (document.readyState === 'loading') {  // Loading hasn't finished yet
 } else {  // `DOMContentLoaded` has already fired
   documentReadyCallback();
 }
+
+
+var lightbox = new SimpleLightbox('.gallery a', { /* options */ });

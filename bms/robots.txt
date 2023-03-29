@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mt183.de/bms/sitemap.xml

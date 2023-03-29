@@ -36,6 +36,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/css/academicons.min.css" integrity="sha384-FIue+PI4SsI9XfHCz8dBLg33b0c1fMJgNU3X//L26FYbGnlSEfWmNT7zgWc2N9b6" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
   <link href="{{ get_url(path='deep-thought.css') }}" rel="stylesheet" />
+  <link href="{{ get_url(path='css/index.css') }}" rel="stylesheet" />
   {% block user_custom_stylesheet %}
   {% endblock %}
 
@@ -60,7 +61,7 @@
   <nav aria-label="section navigation" class="navbar is-light" role="navigation">
     <div class="container">
       <div class="navbar-brand">
-        <a class="navbar-item is-size-6 has-text-weight-bold" href="{{config.base_url}}">{{ config.title }}</a>
+        <a class="navbar-item is-size-6 has-text-weight-bold" href="{{config.base_url}}"><img class="" src="{{config.base_url}}/images/avatar.png" style="max-width: 100px"></a>
         <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -78,12 +79,17 @@
           {% endfor %}
           {% endif %}
           {% endfor %}
-          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+          <a class="navbar-item" title="Downloads" href="{{config.base_url}}/downloads"">
+            <span class="icon">
+              <i class="fa fa-download"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="nav-search" title="Suche" data-target="#search-modal">
             <span class="icon">
               <i class="fas fa-search"></i>
             </span>
           </a>
-          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+          <a class="navbar-item" id="dark-mode" title="Licht aus">
             <span class="icon">
               <i class="fas fa-adjust"></i>
             </span>
@@ -213,6 +219,7 @@
 <script src="{{ get_url(path='js/search.js') }}"></script>
   {%- endblock -%}
   {%- endif -%}
+  <script src="{{ get_url(path='js/simple-lightbox.js') }}"></script>
   <script src="{{ get_url(path='js/site.js') }}"></script>
 
   {% block custom_js %}

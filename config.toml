@@ -21,6 +21,7 @@ build_search_index = true
 taxonomies = [
     { name = "categories", feed = true, paginate_by = 5 },
     { name = "tags", feed = true, paginate_by = 5 },
+     { name = "klassen", feed = true, paginate_by = 5 },
 ]
 
 [markdown]
@@ -36,7 +37,7 @@ katex.auto_render = true
 
 chart.enabled = true
 mermaid.enabled = true
-galleria.enabled = true
+galleria.enabled = false
 
 
 navbar_items = [
@@ -44,8 +45,6 @@ navbar_items = [
   { url = "$BASE_URL/", name = "Start" },
   { url = "$BASE_URL/posts", name = "Aktuelles" },
    { url = "$BASE_URL/infos", name = "Informationen" },
-  { url = "$BASE_URL/tags", name = "Schlagworte" },
-  { url = "$BASE_URL/categories", name = "Kategorien" },
  ]},
 ]
 
@@ -61,3 +60,7 @@ email = "schulleitung@volksschule-partenkirchen.de"
 favicon_16x16 = "/images/avatar.png"
 favicon_32x32 = "/images/avatar.png"
 apple_touch_icon = "/images/avatar.png"
+
+[extra.mapbox]
+enabled = true
+access_token = "pk.eyJ1Ijoic2ltZXJsIiwiYSI6ImNrOXU0aWluZzAzOXYzZXBhdXF3M21kbzgifQ.TeinTh7kBnQb8re5KDYq1w"
