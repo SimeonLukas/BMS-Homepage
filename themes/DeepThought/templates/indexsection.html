@@ -20,28 +20,30 @@
       {{ section.content | safe }}
     </div>
     <h1 class="title">Von A bis Z</h1>
-      <div class="split">
-        {% if paginator %}
-        {% set pages = paginator.pages %}
-        {% else %}
-        {% set pages = section.pages %}
-        {% endif %}
+    <div class="split">
+      {% if paginator %}
+      {% set pages = paginator.pages %}
+      {% else %}
+      {% set pages = section.pages %}
+      {% endif %}
 
-        {% for page in pages %}
-   
-            <a class="has-text-blue" href='{{ page.permalink }}'>
-            {{ page.title }}
-            </a>
-          <div class="columns">
-            <div class="column">
-            </div>
-            <div class="column has-text-right-desktop">
-            </div>
-          </div>
-        </article>
-        {% endfor %}
+      {% for page in pages %}
+
+      <a class="has-text-blue" href='{{ page.permalink }}'>
+        {{ page.title }}
+      </a>
+      <div class="columns">
+        <div class="column">
+        </div>
+        <div class="column has-text-right-desktop">
+        </div>
       </div>
+      </article>
+      {% endfor %}
+    </div>
   </div>
 </section>
+<script>
+</script>
 
 {% endblock %}

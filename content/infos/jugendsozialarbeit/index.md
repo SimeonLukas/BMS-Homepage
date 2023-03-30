@@ -12,7 +12,7 @@ toc = true
 
 <div class="triple">
 
-![](images/JaS.png)
+![](infos/jugendsozialarbeit/images/JaS.png)
 
 ![](images/JaS_einzeln.png)
 
@@ -84,7 +84,7 @@ _Gefördert vom  Bayerischen Staatsministerium für Familie, Arbeit und Soziale
 _dem Landkreis und der Gemeinde, Träger: Caritas Zentrum Ga.-Pa._
 <div class="triple">
 
-![](images/bayrisches-staatsministerium.jpg)
+![](infos/jugendsozialarbeit/images/bayrisches-staatsministerium.jpg)
 
 ![](images/caritas_logo.png)
 

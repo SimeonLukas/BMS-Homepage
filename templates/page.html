@@ -35,7 +35,7 @@
           <div class="content mt-2">
             {{ page.content | safe }}
           </div>
-          <!-- <div class="gallery">
+          <div class="gallery">
             {% for asset in page.assets -%}
               {%- if asset is matching("[.](jpg|png)$") -%}
                 {% set image = resize_image(path=asset, width=150, height=150) %}
@@ -44,7 +44,7 @@
                 </a>
               {%- endif %}
             {%- endfor %}
-            </div> -->
+            </div>
         </article>
       </div>
       {% if page.extra.toc %}

@@ -11,22 +11,22 @@ Schülerinnen und Schüler der 1. bis 10. Jahrgangsstufe können unsere Schule b
 
 ---
 
-<div class="triple">
-<div>
+<div  class="triple">
+<div onclick="location.href = 'posts/' ">
 <h1 class="title">
-Beiträge
+Einträge
 </h1>
 <div id="piechart1">
 </div>
 </div>
-<div>
+<div onclick="location.href = 'klassen/' ">
 <h1 class="title">
 Schüler:innen
 </h1>
 <div id="piechart2">
 </div>
 </div>
-<div>
+<div onclick="location.href = 'infos/personal/' ">
 <h1 class="title">
 Lehrer:innen
 </h1>
@@ -36,6 +36,29 @@ Lehrer:innen
 
 </div>
 
-
-
 ---
+
+<div  class="triple">
+<div onclick="location.href = 'tags/' ">
+
+<h1 class="title">
+<span id="tagsnumber">0</span><br>
+<span class="icon">
+          <i class="fas fa-tags"></i>
+        </span>
+Schlagworte
+</h1>
+</div>
+<div onclick="location.href = 'categories/' ">
+
+
+<h1 class="title">
+<span id="categoriesnumber">0</span><br>
+<span class="icon">
+          <i class="fas fa-cubes"></i>
+        </span>
+Kategorien
+</h1>
+</div>
+
+</div>
