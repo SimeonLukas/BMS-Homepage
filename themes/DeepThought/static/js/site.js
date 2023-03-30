@@ -321,6 +321,15 @@ function documentReadyCallback() {
       ]
     });
   }
+
+
+
+
+//  Piechart
+  pieanimation(322, "piechart2", "circle1")
+  pieanimation(32, "piechart3", "circle2")
+  getarticles();
+
 };
 
 if (document.readyState === 'loading') {  // Loading hasn't finished yet
@@ -331,3 +340,49 @@ if (document.readyState === 'loading') {  // Loading hasn't finished yet
 
 
 var lightbox = new SimpleLightbox('.gallery a', { /* options */ });
+
+
+
+// Functions
+
+function pieanimation(x,y,z){
+  let percentage = x/x;
+  percentage = percentage * 100;
+  console.log(percentage);
+  let svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('viewBox', '0 0 36 36');
+  // add text
+  let text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+  text.setAttribute('x', '50%');
+  text.setAttribute('y', '60%');
+  text.setAttribute('text-anchor', 'middle');
+  text.setAttribute('font-size', '12');
+  text.setAttribute('fill', '#000');
+  text.textContent =  x ;
+  svg.appendChild(text);
+  svg.setAttribute('class', 'circular-chart');
+  let circle = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  circle.setAttribute('class', z);
+  circle.setAttribute('stroke-dasharray',+ percentage +', 100');
+  circle.setAttribute('d', 'M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831');
+  svg.appendChild(circle);
+  document.getElementById(y).innerHTML = "";
+  document.getElementById(y).appendChild(svg);
+}
+
+
+
+
+function getarticles(){
+  fetch("/sitemap.xml")
+  .then((response) => response.text())
+  .then((data) => {
+    console.log(data);
+    pieanimation(data.split("/posts/").length - 3, "piechart1", "circle");
+  
+  });
+
+
+
+  
+}

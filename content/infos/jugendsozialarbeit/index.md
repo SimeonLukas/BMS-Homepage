@@ -10,9 +10,13 @@ toc = true
 
 +++
 
-![](JaS.png)
+<div class="triple">
 
-![](JaS_einzeln.png)
+![](images/JaS.png)
+
+![](images/JaS_einzeln.png)
+
+</div>
 
 ## **Jugendsozialarbeit an der Bürgermeister-Schütte Grund- und Mittelschule**
 
@@ -47,44 +51,29 @@ Euch, **liebe Lehrkräfte, melden Sie sich bei uns, wenn Sie…**
 
 ## **Ansprechpartnerinnen**
 
-![](Image-5-1024x456.jpeg)
+![](images/Image-5-1024x456.jpeg)
 
 Elisabeth Grasegger, Maria-Theresa Zink und Muriel Herale 
 
 #### **Grundschule**
 
-**Elisabeth Grasegger**
-
-Sozialpädagogin (M.A.)  
-📞 08821 910 - 3561  
-📱 0172 7091047  
-📧[Elisabeth.Grasegger@caritasmuenchen.org](mailto:Elisabeth.Grasegger@caritasmuenchen.org)
+{{person(name = "Sozialpädagogin (M.A.) Elisabeth Grasegger" , phone="+49 172 7091047" , mail="Elisabeth.Grasegger@caritasmuenchen.org")}}
 
 Mo - Do: 07.30 - 16.00 Uhr  
 Fr: 07:30 - 14.00 Uhr
 
 #### **Mittelschule**
 
-****Maria-Theresa Zink****
-
-Sozialarbeiterin (M.A.)  
-📞 08821 910 - 3567  
-📱 0172 7091120  
-📧 [Maria-Theresa.Zink@caritasmuenchen.org](mailto:Maria-Theresa.Zink@caritasmuenchen.org)
+{{person(name = "Sozialpädagogin (M.A.) Maria-Theresa Zink" , phone="+49 172 7091120" , mail="Maria-Theresa.Zink@caritasmuenchen.org")}}
 
 Mo - Do: 8.00 - 16.00 Uhr  
-Fr: 8.00 - 12.00 Uhr nur 📞
+Fr: 8.00 - 12.00 Uhr
 
 sowie nach Vereinbarung
 
-#### **Mittelschule**
 
-**Muriel Herale** 
 
-Sozialarbeiterin (B.A.)  
-📞 08821 910-3566  
-📱 015222784460  
-📧 [Muriel.Herale@caritasmuenchen.org](mailto:Muriel.Herale@caritasmuenchen.org)
+{{person(name = "Sozialarbeiterin (B.A.) Muriel Herale " , phone="+49 1522 2784460  " , mail="Muriel.Herale@caritasmuenchen.org")}}
 
 Mo-Do: 08.00 - 16.00 Uhr  
 Fr: 08.00 - 12.00
@@ -93,7 +82,10 @@ sowie nach Vereinbarung
 
 _Gefördert vom  Bayerischen Staatsministerium für Familie, Arbeit und Soziales,_  
 _dem Landkreis und der Gemeinde, Träger: Caritas Zentrum Ga.-Pa._
+<div class="triple">
 
-![](bayrisches-staatsministerium.jpg)
+![](images/bayrisches-staatsministerium.jpg)
 
-![](caritas_logo.png)
+![](images/caritas_logo.png)
+
+</div>

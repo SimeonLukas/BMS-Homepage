@@ -282,3 +282,53 @@ body.hidden-scroll {
 .split a {
   margin: 5px auto;
 }
+
+td:nth-child(3n+1) {  
+ 
+}
+
+
+
+   /* piechart */
+    
+   .circular-chart {
+    display: block;
+    margin: 10px auto;
+    max-width: 80%;
+    max-height: 250px;
+}
+
+.circle {
+    stroke: #cb4f0b ;
+    fill: none;
+    stroke-width: 2;
+    stroke-linecap: round;
+    animation: progress 1s ease-out forwards;
+}
+
+
+.circle1 {
+  stroke:#62b32e;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  animation: progress 5s ease-out forwards;
+}
+
+
+.circle2 {
+  stroke: #cb4f0b ;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  animation: progress 2s ease-out forwards;
+}
+
+
+
+
+@keyframes progress {
+  0% {
+      stroke-dasharray: 0 100;
+  }
+}
