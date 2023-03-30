@@ -7,30 +7,16 @@ toc = false
 
 +++
 
-Angaben gemäß § 5 TMG
+# Angaben gemäß § 5 TMG
 
 Grund- und Mittelschule-Partenkirchen  
 Hindenburgstraße 10  
 82467 Garmisch-Partenkirchen
 
-**Vertreten durch:**  
-Stefanie Schmidt, Schulleiterin
+## Vertreten durch:
+{{person(name = "Rektorin Stephanie Schmidt" , phone="+49 8821 9103500" , mail="schulleitung@volksschule-partenkirchen.de")}}
 
-**Kontakt:**  
-Telefon: 08821 9103500  
-E-Mail: schulleitung@volksschule-partenkirchen.de
-
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**  
+## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Stefanie Schmidt, Schulleiterin  
 Hindenburgstraße 10  
 82467 Garmisch-Partenkirchen
-
-* * *
-
-**Fotos:**
-
-[Foto Stückl](mailto:%20foto-stueckl@t-online.de)
-
-**Seitenbearbeitung:**
-
-Simeon Stanek
