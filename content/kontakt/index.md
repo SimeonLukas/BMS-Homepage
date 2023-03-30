@@ -1,6 +1,7 @@
 +++
 title="Kontakt"
 date ="2023-01-01"
+template = "toppage.html"
 [extra]
 toc = true
 +++
