@@ -20,4 +20,4 @@ jobs:
          local-dir: ./public/
          server: home29705826.1and1-data.host
          username: u1015849597
-         password: ${{ secrets.password }}
+         password: ${{ secrets.PASSWORD }}
