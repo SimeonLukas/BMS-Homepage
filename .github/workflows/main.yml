@@ -15,9 +15,10 @@ jobs:
         run: zola build
         
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-         local-dir: ./public/
+         local_path: ./public/
+         sftp_only: true
          server: home29705826.1and1-data.host
          username: u1015849597
          password: ${{ secrets.PASSWORD }}
