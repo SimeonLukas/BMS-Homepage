@@ -1,0 +1,11 @@
+on: push
+name: Build Zola
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3.0.0
+      - name: install
+        run: sudo dpkg -i https://github.com/barnumbirr/zola-debian/releases/download/v0.17.2-1/zola_0.17.2-1_amd64_testing.deb
