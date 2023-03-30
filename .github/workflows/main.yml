@@ -1,0 +1,25 @@
+on: push
+name: Build Zola
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3.0.0
+      - name: install
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.17.1
+      - name: build
+        run: zola build
+        
+      - name: 📂 Sync files
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+         local_path: './public/'
+         remote_path: '.'
+         sftp_only: true
+         server: home29705826.1and1-data.host
+         username: u1015849597
+         password: ${{ secrets.PASSWORD }}
