@@ -79,6 +79,11 @@
           {% endfor %}
           {% endif %}
           {% endfor %}
+          <a class="navbar-item" title="Archiv" href="{{config.base_url}}/archiv"">
+            <span class="icon">
+              <i class="fas fa-archive"></i>
+            </span>
+          </a>
           <a class="navbar-item" title="Downloads" href="{{config.base_url}}/downloads"">
             <span class="icon">
               <i class="fa fa-download"></i>
@@ -137,10 +142,10 @@
           <span class="icon">
             <i class="fas fa-angle-double-left"></i>
           </span>
-          Previous
+          Zurück
         </a>
         <a class="pagination-next" href='{{ paginator.next }}' {% if not paginator.next %}disabled{% endif %}>
-          Next page
+          Weiter
           <span class="icon">
             <i class="fas fa-angle-double-right"></i>
           </span>
@@ -166,30 +171,11 @@
   {% block footer %}
   <footer class="footer py-4">
     <div class="content has-text-centered">
+      <a href="{{config.base_url}}/impressum">Impressum</a> | <a href="{{config.base_url}}/datenschutz">Datenschutz</a>
       <p>
-        Built with
-        <span class="icon-text">
-          <span class="icon">
-            <i class="fas fa-code"></i>
-          </span>
-          <span>code</span>
-        </span>
-        and
-        <span class="icon-text">
-          <span class="icon">
-            <i class="fas fa-heart"></i>
-          </span>
-          <span>love</span>
-        </span>
-      </p>
-      <p>
-        Powered by
-        <span class="icon-text">
-          <span class="icon">
-            <i class="fas fa-power-off"></i>
-          </span>
-          <span>zola</span>
-        </span>
+      Gemacht mit   <span class="icon">
+        <i class="fas fa-heart"></i>
+      </span> von Simeon Stanek
       </p>
     </div>
   </footer>

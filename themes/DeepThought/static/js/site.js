@@ -321,7 +321,6 @@ function documentReadyCallback() {
       ]
     });
   }
-start();
 };
 
 if (document.readyState === 'loading') {  // Loading hasn't finished yet
@@ -414,10 +413,39 @@ function gettags(){
 
 
 
-function start(){
-  gettags();
-  getcategories();
-  getarticles();
-}
 
+
+
+const jadeScale = document.querySelectorAll("#tagsnumber");
+
+const jadeScaleObserver = new IntersectionObserver (function (entries, observer) {
+	entries.forEach(function(entry) {
+		if (entry.isIntersecting) {
+      gettags();
+      getcategories();
+		} else {
+		}
+	});
+});
+
+jadeScale.forEach ( function (jadeScale) {
+	jadeScaleObserver.observe (jadeScale);
+});
+
+
+const pieanim = document.querySelectorAll("#piechart1");
+const options = {rootMargin: "0px"};
+
+const pieanimObserver= new IntersectionObserver (function (entries, observer) {
+	entries.forEach(function(entry) {
+		if (entry.isIntersecting) {
+      getarticles();
+		} else {
+		}
+	});
+}, options);
+
+pieanim.forEach ( function (pieanim) {
+	pieanimObserver.observe (pieanim);
+});
 

@@ -11,6 +11,4 @@ nimmt, sondern zum gesamten Werk des Schriftstellers, der 1929 in Garmisch-Parte
 und „Jim Knopf" - zeigt das Partenkirchener Hochland-Kino am Samstag, 25., und  
 Sonntag, 26. März. „Dabei...
 
-[Zeitungsbericht-Momo-und-Atreju](https://volksschule-partenkirchen.de/wp-content/uploads/Zeitungsbericht-Momo-und-Atreju.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Zeitungsbericht-Momo-und-Atreju.pdf)
-
-{{gallery()}}
+[Zeitungsbericht-Momo-und-Atreju](https://volksschule-partenkirchen.de/wp-content/uploads/Zeitungsbericht-Momo-und-Atreju.pdf)

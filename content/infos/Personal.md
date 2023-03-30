@@ -4,6 +4,7 @@ weight = 2
 date = 2023-03-27
 template = "toppage.html"
 description="Es gibt verschiedene Berufsgruppen im Personal einer Grund- und Mittelschule, wie Lehrer:innen, Schulpsycholog:innen, Schulsozialarbeiter:innen, Schulbibliothekar:innen, Schulverwaltung und Schulwartungspersonal."
+year="2023"
 [extra]
 toc = true
 +++

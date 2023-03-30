@@ -1,22 +1,26 @@
----
-title: "SMV"
-date: "2020-09-23"
----
++++
+weight = 8
+date = "2021-04-30"
+title = "SMV & Vertrauenslehrkräfte"
+template = "toppage.html"
+description="Die SMV ist ein von Schüler:innen bestehendes Entscheidungsorgan."
 
-## **Die neuen Schülersprecher der Mittelschule Garmisch-Partenkirchen**
+[extra]
+toc = true
 
-  
-1\. Suara A., 10M  
-  
-2\. Laura G., 10M  
-  
-3\. Mehmet K., 8G
++++
+
+# Die neuen Schülersprecher der Mittelschule Garmisch-Partenkirchen
+
+  1. Suara A., 10M  
+  2. Laura G., 10M  
+  3. Mehmet K., 8G
 
 (aus Datenschutzgründen werden die Namen der Schüler nicht vollständig genannt,  
 die Namen der Klassensprecher werden nur intern veröffentlicht)
 
 * * *
 
-**Eure Vertrauenslehrkräfte**
+# Eure Vertrauenslehrkräfte
 
 <table><tbody><tr><td>Vertrauenslehrerin:</td><td>&nbsp;</td><td>Vertrauenslehrer:</td></tr><tr><td>&nbsp;Maria Stemmer</td><td>&nbsp;</td><td>Herr Robert Rauch</td></tr></tbody></table>

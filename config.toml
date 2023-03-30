@@ -32,12 +32,12 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
-katex.enabled = true
-katex.auto_render = true
+# katex.enabled = true
+# katex.auto_render = true
 
-chart.enabled = true
-mermaid.enabled = true
-galleria.enabled = false
+# chart.enabled = true
+# mermaid.enabled = true
+# galleria.enabled = false
 
 
 navbar_items = [

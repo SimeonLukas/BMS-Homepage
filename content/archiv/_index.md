@@ -1,6 +1,6 @@
 +++
 title = "Archiv"
-description = "Berichte der Schule über die Zeit"
+description = "Vergangene Berichte der Schule"
 sort_by = "date"
 paginate_by = 30
 

@@ -3,31 +3,11 @@ title = "Schulberatung"
 template = "toppage.html"
 weight = 6
 date = 2023-01-10
+description = "An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte zur Seite und beraten Sie, liebe Eltern und Erziehungsberechtigte, ebenso Euch Schüler:innen bei..."
 
 [extra]
 toc = true
 +++
-
-## Aktuell
-
-Liebe Eltern und liebe Erziehungsberechtigte,
-
-aufgrund der Sondersituation durch das Corona Virus die **Beratungsstelle für Eltern, Kinder, Jugendliche u. Familien Caritas Zentrum Garmisch-Partenkirchen** eine weitere Nummer eingerichtet:
-
-Die Familienberatung kann jetzt zusätzlich über das _Familientelefon_ zu den angegebenen Zeiten erreicht werden:
-
-![](images/Caritas-Familientelefon.png)
-
-Oder auch weiterhin ganz regulär zu den Geschäftszeiten  
-  
-Mo-Do, 08:00 – 12:30 Uhr, 13:30 – 16:00 Uhr,  
-Fr, 08:00 – 13:00 Uhr
-
-unter der Tel.-Nr. 08821-94348-40
-
-* * *
-
-## **Allgemein**
 
 ![](images/Flyer-Schulberatung.png)
 
@@ -57,7 +37,7 @@ Die Beratung ist kostenlos! Wartezeiten lassen sich nicht immer vermeiden; eine 
 
 * * *
 
-### **Über Depression an Schulen aufklären**
+# Über Depression an Schulen aufklären
 
   
 Die Aufklärung über psychische Erkrankungen, insbesondere auch über Depression und Angststörungen, ist eine gesamtgesellschaftliche Aufgabe, zu der auch die Schulen einen wichtigen Beitrag leisten. Gesundheitsförderung und auch die Themen wie psychische Gesundheit und Umgang mit Stress spielen nicht nur in der Erwachsenenwelt eine große Rolle.  

@@ -299,10 +299,10 @@ td:nth-child(3n+1) {
     max-height: 250px;
 }
 
-.circle {
+.circle2 {
     stroke: #cb4f0b ;
     fill: none;
-    stroke-width: 2;
+    stroke-width: 0.5;
     stroke-linecap: round;
     animation: progress 1s ease-out forwards;
 }
@@ -311,18 +311,28 @@ td:nth-child(3n+1) {
 .circle1 {
   stroke:#62b32e;
   fill: none;
-  stroke-width: 2;
+  stroke-width: 0.5;
   stroke-linecap: round;
   animation: progress 5s ease-out forwards;
 }
 
 
-.circle2 {
+.circle {
   stroke: #cb4f0b ;
   fill: none;
-  stroke-width: 2;
+  stroke-width: 0.5;
   stroke-linecap: round;
   animation: progress 2s ease-out forwards;
+}
+
+
+/* .split{
+  text-transform: uppercase;
+} */
+
+.startanimation{
+  animation: fade-up 1s ease-in-out;
+  transition: all 1s;
 }
 
 
@@ -332,4 +342,15 @@ td:nth-child(3n+1) {
   0% {
       stroke-dasharray: 0 100;
   }
+}
+
+@keyframes fade-up {
+  0% {
+      opacity: 0;
+      transform: translate(0px,10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px,0px);
+}
 }
