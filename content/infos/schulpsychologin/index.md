@@ -53,7 +53,7 @@ Formulare:
 
 ## Kontakt zur Schulberatung:
 
-{{person(name = "Robert Rauch" , phone="+49 176 341 70 959 " , mail="###")}}
+{{person(name = "Robert Rauch" , phone="+49 176 341 70 959 " , mail="robert.rauch@schulberatung-gap.de")}}
 Dienstag 8:00 - 8:45 Uhr  
 Dienstag 9:15 - 10:00 Uhr  
 

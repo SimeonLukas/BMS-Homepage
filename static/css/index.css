@@ -332,9 +332,24 @@ td:nth-child(3n+1) {
 
 .startanimation{
   animation: fade-up 1s ease-in-out;
-  transition: all 1s;
+  transition: all 1.3s;
 }
 
+body{
+  animation: fade-right 0.5s ease-in-out;
+}
+
+body[theme=dark] img {
+  filter: invert(1) hue-rotate(180deg);
+}
+body[theme=dark]{
+  background-color: #000;
+}
+
+html:has(body[theme=dark]){
+  background-color: #000;
+  filter: contrast(1.5);
+}
 
 
 
@@ -348,6 +363,17 @@ td:nth-child(3n+1) {
   0% {
       opacity: 0;
       transform: translate(0px,10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px,0px);
+}
+}
+
+@keyframes fade-right {
+  0% {
+      opacity: 0;
+      transform: translate(10px,0px);
   }
   100% {
     opacity: 1;

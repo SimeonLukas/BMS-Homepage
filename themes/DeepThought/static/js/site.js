@@ -174,7 +174,7 @@ function documentReadyCallback() {
 
   if (localStorage.getItem("theme") === "dark") {
     document.body.setAttribute("theme", "dark");
-    document.querySelectorAll("img, picture, video, pre").forEach(img => img.setAttribute("theme", "dark"));
+    document.querySelectorAll("img, picture, video, pre, .sl-image").forEach(img => img.setAttribute("theme", "dark"));
     document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.setAttribute("theme", "dark"));
     document.getElementById("dark-mode").setAttribute("title", "Licht an");
   }
@@ -387,7 +387,7 @@ function getcategories(){
   for (let i = 0; i < number; i++) {
     setTimeout(function timer() {
       document.getElementById("categoriesnumber").innerText = i
-    }, i * 400);
+    }, i * 200);
   }
 
   
@@ -404,7 +404,7 @@ function gettags(){
   for (let i = 0; i < number; i++) {
     setTimeout(function timer() {
       document.getElementById("tagsnumber").innerText = i
-    }, i * 300);
+    }, i * 100);
   }
   
   });
