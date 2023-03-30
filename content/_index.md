@@ -11,14 +11,6 @@ Schülerinnen und Schüler der 1. bis 10. Jahrgangsstufe können unsere Schule b
 
 ---
 
-
-<div class="triple">
-<div>Informationen</div>
-<div>Schulphilosophie</div>
-<div>Klassen</div>
-
-</div>
-
 ---
 
 ---
