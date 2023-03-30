@@ -14,7 +14,7 @@ Schülerinnen und Schüler der 1. bis 10. Jahrgangsstufe können unsere Schule b
 <div  class="triple">
 <div onclick="location.href = 'posts/' ">
 <h1 class="title">
-Einträge
+Beiträge
 </h1>
 <div id="piechart1">
 </div>
@@ -62,3 +62,6 @@ Kategorien
 </div>
 
 </div>
+
+
+---
