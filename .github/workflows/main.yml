@@ -13,3 +13,12 @@ jobs:
           tool: zola@0.17.1
       - name: build
         run: zola build
+        
+      - name: Zip artifact for deployment
+        run: zip release.zip ./* -r
+
+      - name: Upload artifact for deployment job
+        uses: actions/upload-artifact@v2
+         with:
+          name: bms-static
+          path: release.zip
