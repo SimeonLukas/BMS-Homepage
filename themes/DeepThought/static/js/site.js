@@ -133,8 +133,12 @@ function search() {
   var options = {
     bool: "AND",
     fields: {
-      title: { boost: 2 },
-      body: { boost: 1 },
+      title: {
+        boost: 2
+      },
+      body: {
+        boost: 1
+      },
     },
   };
   var currentTerm = "";
@@ -236,7 +240,9 @@ function documentReadyCallback() {
   });
 
   if (typeof mermaid !== "undefined") {
-    mermaid.initialize({ startOnLoad: true });
+    mermaid.initialize({
+      startOnLoad: true
+    });
   }
 
   if (typeof chartXkcd !== "undefined") {
@@ -244,7 +250,10 @@ function documentReadyCallback() {
       el.setAttribute("id", `chart-${i}`);
 
       let svg = document.getElementById(`chart-${i}`);
-      let { type, ...chartData } = JSON.parse(el.textContent);
+      let {
+        type,
+        ...chartData
+      } = JSON.parse(el.textContent);
       new chartXkcd[type](svg, chartData);
     });
   }
@@ -253,7 +262,9 @@ function documentReadyCallback() {
     document.querySelectorAll(".galleria").forEach((el, i) => {
       el.setAttribute("id", `galleria-${i}`);
 
-      let { images } = JSON.parse(el.textContent);
+      let {
+        images
+      } = JSON.parse(el.textContent);
 
       for (let image of images) {
         el.insertAdjacentHTML("beforeend",
@@ -289,17 +300,21 @@ function documentReadyCallback() {
         center[0] += marker.geometry.coordinates[0];
         center[1] += marker.geometry.coordinates[1];
 
-        new mapboxgl.Marker({ "color": "#62b32e" })
+        new mapboxgl.Marker({
+            "color": "#62b32e"
+          })
           .setLngLat(marker.geometry.coordinates)
           .setPopup(
-            new mapboxgl.Popup({ offset: 25 }) // add popups
-              .setHTML(
-                "<h3>" +
-                marker.properties.title +
-                "</h3><p>" +
-                marker.properties.description +
-                "</p>"
-              )
+            new mapboxgl.Popup({
+              offset: 25
+            }) // add popups
+            .setHTML(
+              "<h3>" +
+              marker.properties.title +
+              "</h3><p>" +
+              marker.properties.description +
+              "</p>"
+            )
           )
           .addTo(map);
       });
@@ -313,31 +328,49 @@ function documentReadyCallback() {
 
   if (typeof renderMathInElement !== "undefined") {
     renderMathInElement(document.body, {
-      delimiters: [
-        { left: '$$', right: '$$', display: true },
-        { left: '$', right: '$', display: false },
-        { left: '\\(', right: '\\)', display: false },
-        { left: '\\[', right: '\\]', display: true }
+      delimiters: [{
+          left: '$$',
+          right: '$$',
+          display: true
+        },
+        {
+          left: '$',
+          right: '$',
+          display: false
+        },
+        {
+          left: '\\(',
+          right: '\\)',
+          display: false
+        },
+        {
+          left: '\\[',
+          right: '\\]',
+          display: true
+        }
       ]
     });
   }
+  getInfosection()
 };
 
-if (document.readyState === 'loading') {  // Loading hasn't finished yet
+if (document.readyState === 'loading') { // Loading hasn't finished yet
   document.addEventListener('DOMContentLoaded', documentReadyCallback);
-} else {  // `DOMContentLoaded` has already fired
+} else { // `DOMContentLoaded` has already fired
   documentReadyCallback();
 }
 
 
-var lightbox = new SimpleLightbox('.gallery a', { /* options */ });
+var lightbox = new SimpleLightbox('.gallery a', {
+  /* options */
+});
 
 
 
 // Functions
 
-function pieanimation(x,y,z){
-  let percentage = x/x;
+function pieanimation(x, y, z) {
+  let percentage = x / x;
   percentage = percentage * 100;
   console.log(percentage);
   let svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
@@ -349,12 +382,12 @@ function pieanimation(x,y,z){
   text.setAttribute('text-anchor', 'middle');
   text.setAttribute('font-size', '12');
   text.setAttribute('fill', '#000');
-  text.textContent =  x ;
+  text.textContent = x;
   svg.appendChild(text);
   svg.setAttribute('class', 'circular-chart');
   let circle = document.createElementNS('http://www.w3.org/2000/svg', 'path');
   circle.setAttribute('class', z);
-  circle.setAttribute('stroke-dasharray',+ percentage +', 100');
+  circle.setAttribute('stroke-dasharray', +percentage + ', 100');
   circle.setAttribute('d', 'M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831');
   svg.appendChild(circle);
   document.getElementById(y).innerHTML = "";
@@ -364,50 +397,50 @@ function pieanimation(x,y,z){
 
 
 
-function getarticles(){
+function getarticles() {
   fetch("/sitemap.xml")
-  .then((response) => response.text())
-  .then((data) => {
-    console.log(data);
-    pieanimation(data.split("</lastmod>").length - 3, "piechart1", "circle");
-  
-  });
+    .then((response) => response.text())
+    .then((data) => {
+      console.log(data);
+      pieanimation(data.split("</lastmod>").length - 3, "piechart1", "circle");
+
+    });
 
   pieanimation(620, "piechart2", "circle1")
   pieanimation(58, "piechart3", "circle2")
 }
 
-function getcategories(){
+function getcategories() {
   fetch("/categories/")
-  .then((response) => response.text())
-  .then((data) => {
-  let number = data.split('class="mr-4"').length
-  console.log(data.split('class="mr-4"').length);
+    .then((response) => response.text())
+    .then((data) => {
+      let number = data.split('class="mr-4"').length
+      console.log(data.split('class="mr-4"').length);
 
-  for (let i = 0; i < number; i++) {
-    setTimeout(function timer() {
-      document.getElementById("categoriesnumber").innerText = i
-    }, i * 200);
-  }
+      for (let i = 0; i < number; i++) {
+        setTimeout(function timer() {
+          document.getElementById("categoriesnumber").innerText = i
+        }, i * 200);
+      }
 
-  
-  });
+
+    });
 }
 
-function gettags(){
+function gettags() {
   fetch("/tags/")
-  .then((response) => response.text())
-  .then((data) => {
-  let number = data.split('class="mr-4"').length
-  console.log(data.split('class="mr-4"').length);
+    .then((response) => response.text())
+    .then((data) => {
+      let number = data.split('class="mr-4"').length
+      console.log(data.split('class="mr-4"').length);
 
-  for (let i = 0; i < number; i++) {
-    setTimeout(function timer() {
-      document.getElementById("tagsnumber").innerText = i
-    }, i * 100);
-  }
-  
-  });
+      for (let i = 0; i < number; i++) {
+        setTimeout(function timer() {
+          document.getElementById("tagsnumber").innerText = i
+        }, i * 100);
+      }
+
+    });
 }
 
 
@@ -418,34 +451,60 @@ function gettags(){
 
 const jadeScale = document.querySelectorAll("#tagsnumber");
 
-const jadeScaleObserver = new IntersectionObserver (function (entries, observer) {
-	entries.forEach(function(entry) {
-		if (entry.isIntersecting) {
+const jadeScaleObserver = new IntersectionObserver(function (entries, observer) {
+  entries.forEach(function (entry) {
+    if (entry.isIntersecting) {
       gettags();
       getcategories();
-		} else {
-		}
-	});
+    } else {}
+  });
 });
 
-jadeScale.forEach ( function (jadeScale) {
-	jadeScaleObserver.observe (jadeScale);
+jadeScale.forEach(function (jadeScale) {
+  jadeScaleObserver.observe(jadeScale);
 });
 
 
 const pieanim = document.querySelectorAll("#piechart1");
-const options = {rootMargin: "0px"};
+const options = {
+  rootMargin: "0px"
+};
 
-const pieanimObserver= new IntersectionObserver (function (entries, observer) {
-	entries.forEach(function(entry) {
-		if (entry.isIntersecting) {
+const pieanimObserver = new IntersectionObserver(function (entries, observer) {
+  entries.forEach(function (entry) {
+    if (entry.isIntersecting) {
       getarticles();
-		} else {
-		}
-	});
+    } else {}
+  });
 }, options);
 
-pieanim.forEach ( function (pieanim) {
-	pieanimObserver.observe (pieanim);
+pieanim.forEach(function (pieanim) {
+  pieanimObserver.observe(pieanim);
 });
 
+
+
+
+function getInfosection() {
+  fetch("/sitemap.xml")
+    .then((response) => response.text())
+    .then((data) => {
+      let parser = new DOMParser();
+      let xmlDoc = parser.parseFromString(data, "text/xml");
+      let urlList = xmlDoc.getElementsByTagName("url");
+      console.log(urlList);
+      for (let i = 0; i < urlList.length; i++) {
+        let linkName = urlList[i].childNodes[1].innerHTML
+        if (linkName.indexOf("/infos/") != -1 && linkName.indexOf("/page/") == -1) {
+          console.log(linkName)
+          let str = linkName;
+          str = str.slice(0, -1);
+          str =  str.slice(str.lastIndexOf('/'));
+          str = str.substring(1);
+          if (str != "infos"){document.getElementById("infoSection").innerHTML += '<a href="' + linkName + '">' + str + '</a><br>'}
+        } else {
+
+        }
+      }
+    });
+}
