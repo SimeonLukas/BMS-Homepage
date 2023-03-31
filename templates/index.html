@@ -26,12 +26,12 @@
       {% else %}
       {% set pages = section.pages %}
       {% endif %}
-
       {% for page in pages %}
-
+    
       <a class="has-text-blue" href='{{ page.permalink }}'>
         {{ page.title }}
       </a>
+  
       <div class="columns">
         <div class="column">
         </div>
@@ -43,5 +43,4 @@
     </div>
   </div>
 </section>
-
 {% endblock %}

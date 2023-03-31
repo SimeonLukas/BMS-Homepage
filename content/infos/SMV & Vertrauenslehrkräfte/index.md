@@ -1,5 +1,5 @@
 +++
-weight = 8
+weight = 3
 date = "2021-04-30"
 title = "SMV & Vertrauenslehrkräfte"
 template = "toppage.html"

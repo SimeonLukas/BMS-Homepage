@@ -186,6 +186,10 @@
   </div>
   <div class="column" id="infoSection">
     <h3>Informationen</h3>
+    {% set recent_changes = get_section(path="infos/_index.md") %}
+    {% for page in recent_changes.pages %}
+    <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+    {% endfor %}
   </div>
   <div class="column schulphilosophie">
     <h3>Schulphilosophie</h3>

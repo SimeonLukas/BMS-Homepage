@@ -351,7 +351,6 @@ function documentReadyCallback() {
       ]
     });
   }
-  getInfosection()
 };
 
 if (document.readyState === 'loading') { // Loading hasn't finished yet
@@ -481,30 +480,3 @@ const pieanimObserver = new IntersectionObserver(function (entries, observer) {
 pieanim.forEach(function (pieanim) {
   pieanimObserver.observe(pieanim);
 });
-
-
-
-
-function getInfosection() {
-  fetch("/sitemap.xml")
-    .then((response) => response.text())
-    .then((data) => {
-      let parser = new DOMParser();
-      let xmlDoc = parser.parseFromString(data, "text/xml");
-      let urlList = xmlDoc.getElementsByTagName("url");
-      console.log(urlList);
-      for (let i = 0; i < urlList.length; i++) {
-        let linkName = urlList[i].childNodes[1].innerHTML
-        if (linkName.indexOf("/infos/") != -1 && linkName.indexOf("/page/") == -1) {
-          console.log(linkName)
-          let str = linkName;
-          str = str.slice(0, -1);
-          str =  str.slice(str.lastIndexOf('/'));
-          str = str.substring(1);
-          if (str != "infos"){document.getElementById("infoSection").innerHTML += '<a href="' + linkName + '">' + str + '</a><br>'}
-        } else {
-
-        }
-      }
-    });
-}
