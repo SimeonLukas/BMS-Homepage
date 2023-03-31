@@ -3,6 +3,7 @@ title = "Bürgermeister-Schütte"
 description = "Grund- und Mittelschule"
 paginate_by = 100
 sort_by = "title"
+template="index.html"
 +++
 
 # Willkommen
