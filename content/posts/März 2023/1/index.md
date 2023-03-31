@@ -1,7 +1,9 @@
 +++
 title="Thementag Verkehrssicherheit"
-date=2023-03-30
-
+date=2023-04-01
+transparent = true
+paginate_by = 3
+sort_by = "date"
 [taxonomies]
 categories = ["Unterricht"]
 tags = ["Verkehr", "Verhalten"]
