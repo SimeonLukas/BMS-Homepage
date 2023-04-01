@@ -347,7 +347,7 @@ td:nth-child(3n+1) {
   transition: all 1.3s;
 }
 
-body{
+section{
   animation: fade-right 0.5s ease-in-out;
 }
 
