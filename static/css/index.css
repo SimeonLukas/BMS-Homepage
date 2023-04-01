@@ -347,7 +347,7 @@ td:nth-child(3n+1) {
   transition: all 1.3s;
 }
 
-section{
+.indexsection .container{
   animation: fade-right 0.5s ease-in-out;
 }
 
@@ -368,9 +368,21 @@ html:has(body[theme=dark]){
     background: url(../images/header.png);
     /* background-attachment: fixed; */
     background-repeat: no-repeat;
-    /* background-position-x: center; */
+    background-position-x: 0;
     background-position-y: top;
 }
+
+
+.button{
+  text-overflow: ellipsis;
+  max-width: 250px;
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+  display: block;
+  overflow: hidden;
+}
+
 
 
 /* .navbar {

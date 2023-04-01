@@ -5,7 +5,7 @@
 {% endblock %}
 
 {% block content %}
-<section class="section">
+<section class="section indexsection">
   <div class="container">
     <div class="columns">
       <div class="column is-8 is-offset-2">
@@ -86,20 +86,22 @@
         <nav class="level">
           {% if page.higher %}
           <div class="level-item has-text-centered">
+            <span class="icon mr-2">
+              <i class="fas fa-arrow-circle-left"></i>
+            </span>
             <a class="button is-black is-outlined" href="{{ page.higher.permalink }}">
-              <span class="icon mr-2">
-                <i class="fas fa-arrow-circle-left"></i>
-              </span>
+            
               {{ page.higher.title }}
             </a>
           </div>
           {% endif %} {% if page.lower  %}
           <div class="level-item has-text-centered">
             <a class="button is-black is-outlined" href="{{ page.lower.permalink }}">
-              {{ page.lower.title }}<span class="icon ml-2">
-                <i class="fas fa-arrow-circle-right"></i>
-              </span>
+              {{ page.lower.title }}
             </a>
+            <span class="icon ml-2">
+              <i class="fas fa-arrow-circle-right"></i>
+            </span>
           </div>
           {% endif %} 
         </nav>

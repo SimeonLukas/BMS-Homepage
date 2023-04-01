@@ -2,25 +2,33 @@
 
 
 {% block content %}
-<section class="section">
+<section class="section indexsection">
   <div class="container">
     <div class="has-text-centered">
       <h1 class="title is-2">HTTP 404</h1>
       <p class="subtitle is-4">
-        It seems you are looking for something that I don't have.
+        Diese Seite ist leider verschollen. <br> Tut uns Leid!
       </p>
       {% if config.extra.author.avatar %}
-      <figure class="image is-flex is-justify-content-center is-align-items-center">
-        <img class="is-rounded" src="{{ config.extra.author.avatar }}" style="max-width: 192px" />
+      <figure style="transform: rotate(180deg) scale(1)" class="image is-flex is-justify-content-center is-align-items-center">
+        <img  src="{{ config.extra.author.avatar }}" style="max-width: 192px" />
       </figure>
       {% endif %}
-      {{ macros:: social_links( social_config=config.extra.social) }}
       <p class="my-6">
         <a href='{{ config.base_url }}'>
           <span class="icon">
             <i class="fas fa-home"></i>
           </span>
-          <span>Home</span>
+        </a>
+        <a  title="Archiv" href="{{config.base_url}}/archiv"">
+          <span class="icon">
+            <i class="fas fa-archive"></i>
+          </span>
+        </a>
+        <a title="Downloads" href="{{config.base_url}}/downloads"">
+          <span class="icon">
+            <i class="fa fa-download"></i>
+          </span>
         </a>
       </p>
     </div>
