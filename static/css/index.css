@@ -373,6 +373,11 @@ html:has(body[theme=dark]){
 }
 
 
+html:has(body[theme=dark]) .indexsection{
+  background: #fff;
+}
+
+
 .button{
   text-overflow: ellipsis;
   max-width: 250px;

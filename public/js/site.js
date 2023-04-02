@@ -449,12 +449,13 @@ function gettags() {
 
 
 const jadeScale = document.querySelectorAll("#tagsnumber");
-
-const jadeScaleObserver = new IntersectionObserver(function (entries, observer) {
+var gotcatgories = 0;
+var jadeScaleObserver = new IntersectionObserver(function (entries, observer) {
   entries.forEach(function (entry) {
-    if (entry.isIntersecting) {
+    if (entry.isIntersecting && gotcatgories != 1) {
       gettags();
       getcategories();
+      gotcatgories = 1;
     } else {}
   });
 });
@@ -468,11 +469,13 @@ const pieanim = document.querySelectorAll("#piechart1");
 const options = {
   rootMargin: "0px"
 };
-
-const pieanimObserver = new IntersectionObserver(function (entries, observer) {
+var gotarticles = 0;
+var pieanimObserver = new IntersectionObserver(function (entries, observer) {
   entries.forEach(function (entry) {
-    if (entry.isIntersecting) {
+    if (entry.isIntersecting && gotarticles != 1) {
       getarticles();
+      gotarticles = 1;
+     
     } else {}
   });
 }, options);
