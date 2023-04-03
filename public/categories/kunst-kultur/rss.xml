@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - Kunst &amp; Kultur</title>
+      <link>https://neu.volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://neu.volksschule-partenkirchen.de/categories/kunst-kultur/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Richard Strauß Tage</title>
+          <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://neu.volksschule-partenkirchen.de/posts/richardstraussvideo/</link>
+          <guid>https://neu.volksschule-partenkirchen.de/posts/richardstraussvideo/</guid>
+          <description>&lt;video controls preload=&quot;none&quot; width=&quot;100%&quot;&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;mt183.de&#x2F;serve&#x2F;richardstrauss.mp4&quot;
+            type=&quot;video&#x2F;mov&quot;&gt;
+&lt;&#x2F;video&gt;
+</description>
+      </item>
+    </channel>
+</rss>

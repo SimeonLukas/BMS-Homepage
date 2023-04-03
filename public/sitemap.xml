@@ -426,6 +426,12 @@
         <loc>https://neu.volksschule-partenkirchen.de/categories/</loc>
     </url>
     <url>
+        <loc>https://neu.volksschule-partenkirchen.de/categories/kunst-kultur/</loc>
+    </url>
+    <url>
+        <loc>https://neu.volksschule-partenkirchen.de/categories/kunst-kultur/page/1/</loc>
+    </url>
+    <url>
         <loc>https://neu.volksschule-partenkirchen.de/categories/unterricht/</loc>
     </url>
     <url>
@@ -643,6 +649,10 @@
     </url>
     <url>
         <loc>https://neu.volksschule-partenkirchen.de/posts/page/2/</loc>
+    </url>
+    <url>
+        <loc>https://neu.volksschule-partenkirchen.de/posts/richardstraussvideo/</loc>
+        <lastmod>2023-04-03</lastmod>
     </url>
     <url>
         <loc>https://neu.volksschule-partenkirchen.de/tags/</loc>
@@ -912,6 +922,12 @@
         <loc>https://neu.volksschule-partenkirchen.de/tags/schulleben/page/4/</loc>
     </url>
     <url>
+        <loc>https://neu.volksschule-partenkirchen.de/tags/tanzprojekt/</loc>
+    </url>
+    <url>
+        <loc>https://neu.volksschule-partenkirchen.de/tags/tanzprojekt/page/1/</loc>
+    </url>
+    <url>
         <loc>https://neu.volksschule-partenkirchen.de/tags/tanzprojekte/</loc>
     </url>
     <url>
@@ -940,6 +956,12 @@
     </url>
     <url>
         <loc>https://neu.volksschule-partenkirchen.de/tags/verkehr/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://neu.volksschule-partenkirchen.de/tags/video/</loc>
+    </url>
+    <url>
+        <loc>https://neu.volksschule-partenkirchen.de/tags/video/page/1/</loc>
     </url>
     <url>
         <loc>https://neu.volksschule-partenkirchen.de/tags/vorschulprojekt/</loc>

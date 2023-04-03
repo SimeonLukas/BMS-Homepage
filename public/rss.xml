@@ -7,7 +7,19 @@
       <generator>Zola</generator>
       <language>de</language>
       <atom:link href="https://neu.volksschule-partenkirchen.de/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Richard Strauß Tage</title>
+          <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://neu.volksschule-partenkirchen.de/posts/richardstraussvideo/</link>
+          <guid>https://neu.volksschule-partenkirchen.de/posts/richardstraussvideo/</guid>
+          <description>&lt;video controls preload=&quot;none&quot; width=&quot;100%&quot;&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;mt183.de&#x2F;serve&#x2F;richardstrauss.mp4&quot;
+            type=&quot;video&#x2F;mov&quot;&gt;
+&lt;&#x2F;video&gt;
+</description>
+      </item>
       <item>
           <title>Thementag Verkehrssicherheit</title>
           <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
