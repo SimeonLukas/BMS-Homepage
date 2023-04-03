@@ -7,8 +7,6 @@ tags = ["Video", "Tanzprojekt"]
 +++
 
 
-<video controls preload="none" width="100%">
-    <source src="https://mt183.de/serve/richardstrauss.mp4"
-            type="video/mov">
+<video controls src="https://cloud.staneks.de/index.php/s/ofWYbBbDdnekTP9/download/Imagefilm%20Richard%20Strauss%20Tage%20Endfassung%204K%20Web.mov" preload="auto" width="100%">
 </video>
 
