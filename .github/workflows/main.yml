@@ -11,13 +11,13 @@ jobs:
         uses: taiki-e/install-action@v2
         with:
           tool: zola@0.17.2
-      - name: build
+      - name: 🎨 build Site with Zola
         run: zola build
 
       - name: 👍 Push Changes to Repo
         uses: stefanzweifel/git-auto-commit-action@v4
         
-      - name: ☑️ Pull Repo
+      - name: 🚀 Deploy Repo
         uses: appleboy/ssh-action@v0.1.8
         with:
           host: ${{ secrets.HOST }}
@@ -25,18 +25,4 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: cd zola/BMS-Static && git pull
-        
-        
-        
-        
 
-        
-     # - name: 📂 Sync files
-     #   uses: wlixcc/SFTP-Deploy-Action@v1.2.4
-     #   with:
-       #  local_path: './public/'
-      #   remote_path: '.'
-       #  sftp_only: true
-      #   server: home29705826.1and1-data.host
-      #   username: u1015849597
-       #  password: ${{ secrets.PASSWORD }}
