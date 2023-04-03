@@ -23,3 +23,6 @@ jobs:
          server: home29705826.1and1-data.host
          username: u1015849597
          password: ${{ secrets.PASSWORD }}
+
+      - name: Backup 
+        uses: stefanzweifel/git-auto-commit-action@v4
