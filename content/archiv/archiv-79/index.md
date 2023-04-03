@@ -1,7 +1,7 @@
 +++
 title = "Aktuelle Quarantäneregeln"
 date = 2022-03-18
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"ministerien-infos" ,"mitteilungen" ]
 +++
 

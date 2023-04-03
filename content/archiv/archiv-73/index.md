@@ -1,7 +1,7 @@
 +++
 title = "Bild Eva Ostler Klasse 8M"
 date = 2022-02-08
-[taxonomies]
+[taxonomie]
 tags = ["allgemein" ,"impressionen" ,"schulleben" ]
 +++
 

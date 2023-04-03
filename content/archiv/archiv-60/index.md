@@ -1,7 +1,7 @@
 +++
 title = "Klasse2000"
 date = 2021-11-22
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"grundschulaktivitaeten" ]
 +++
 

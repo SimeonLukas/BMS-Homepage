@@ -1,7 +1,7 @@
 +++
 title = "Tanzprojekt Alpensinfonie - Kick-Off Event"
 date = 2022-05-09
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"allgemein" ,"alpensinfonie" ,"impressionen" ,"schulleben" ]
 +++
 

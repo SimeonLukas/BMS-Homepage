@@ -1,7 +1,7 @@
 +++
 title = "Informationen zum Übertritt"
 date = 2020-09-28
-[taxonomies]
+[taxonomie]
 tags = ["mitteilungen" ]
 +++
 

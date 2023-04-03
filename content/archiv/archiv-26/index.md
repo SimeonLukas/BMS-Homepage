@@ -1,7 +1,7 @@
 +++
 title = "Unterricht ab 07.06.2021"
 date = 2021-05-19
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ]
 +++
 

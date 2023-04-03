@@ -1,7 +1,7 @@
 +++
 title = "Singklasse in Kooperation mit der Musikschule"
 date = 2022-05-17
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"grundschulaktivitaeten" ]
 +++
 

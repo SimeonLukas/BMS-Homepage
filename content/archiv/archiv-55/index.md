@@ -1,7 +1,7 @@
 +++
 title = "Treffen mit einem römischen Legionär"
 date = 2021-10-18
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"mittelschulaktivitaeten" ]
 +++
 

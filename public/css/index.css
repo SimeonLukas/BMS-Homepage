@@ -249,7 +249,7 @@ body.hidden-scroll {
 
 
 
-    .triple,   .footerLinks {
+    .triple,   .footerLinks, .double {
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
@@ -276,6 +276,35 @@ body.hidden-scroll {
 
   .footerLinks div{
     text-align: left;
+  }
+
+  .double div{
+
+    
+  }
+
+  .double img{
+    /* animation: img-anim 2s cubic-bezier(0.6,-0.84, 0.89, 2.26); */
+    filter: grayscale(1)
+  }
+
+  .double div:nth-child(1){
+    text-align: justify;
+    margin: 10px 10px;
+    max-width: 300px;
+    cursor: pointer;
+  }
+
+  .teaser{
+       text-align: justify;
+    margin: 10px 10px;
+    height: 400px;
+    width: 500px;
+    cursor: pointer;
+    background-image: url(/images/teaser.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
 
   .contacts div {
@@ -426,5 +455,20 @@ html:has(body[theme=dark]) .indexsection{
   100% {
     opacity: 1;
     transform: translate(0px,0px);
+}
+}
+
+
+
+@keyframes img-anim {
+  0% {
+      opacity: 0;
+      transform: translate(0px,600px) scale(0);
+      filter: grayscale(0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px,0px) scale(1);
+    filter: grayscale(1) ;
 }
 }

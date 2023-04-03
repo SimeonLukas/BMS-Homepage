@@ -1,7 +1,7 @@
 +++
 title = "Vorlesewettbewerb der 6. Klassen"
 date = 2021-12-06
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"mittelschulaktivitaeten" ]
 +++
 

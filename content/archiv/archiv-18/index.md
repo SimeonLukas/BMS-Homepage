@@ -1,7 +1,7 @@
 +++
 title = "Offene Ganztagsschule: Neue Räumlichkeiten ab September"
 date = 2021-03-11
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"mitteilungen" ]
 +++
 

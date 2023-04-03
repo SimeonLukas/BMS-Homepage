@@ -1,7 +1,7 @@
 +++
 title = "Frühstücksinitiative denkbar-R der BLLV-Kinderhilfe e.V."
 date = 2021-03-23
-[taxonomies]
+[taxonomie]
 tags = ["schulfruehstueck" ,"schulleben" ]
 +++
 

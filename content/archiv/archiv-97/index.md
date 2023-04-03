@@ -1,7 +1,7 @@
 +++
 title = "🎾Bundesjugendspiele der Grundschule am 11.07.22"
 date = 2022-07-28
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"allgemein" ,"grundschulaktivitaeten" ]
 +++
 

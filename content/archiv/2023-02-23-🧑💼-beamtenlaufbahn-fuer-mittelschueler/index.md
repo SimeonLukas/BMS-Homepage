@@ -1,7 +1,7 @@
 +++
 title = "🧑‍💼 Beamtenlaufbahn für Mittelschüler"
 date = 2023-02-23
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"berufsorientierung" ]
 +++
 

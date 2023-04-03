@@ -1,7 +1,7 @@
 +++
 title = "Friedenshörnchen für die Grundschulen"
 date = 2022-02-24
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"grundschulaktivitaeten" ,"presse" ,"schulleben" ]
 +++
 

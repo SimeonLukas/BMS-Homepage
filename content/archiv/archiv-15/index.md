@@ -1,7 +1,7 @@
 +++
 title = "JaS-Elternbrief Mittelschule"
 date = 2021-03-02
-[taxonomies]
+[taxonomie]
 tags = ["jas-elternbriefe" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Easy Skiing der Klasse 6g"
 date = 2022-03-14
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"allgemein" ,"mittelschulaktivitaeten" ]
 +++
 

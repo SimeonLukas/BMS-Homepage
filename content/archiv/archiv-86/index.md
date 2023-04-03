@@ -1,7 +1,7 @@
 +++
 title = "Projekt Streuobstwiese der Klassen 2a und 2d in Kooperation mit dem Netzwerk „Unser Land“"
 date = 2022-05-17
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"grundschulaktivitaeten" ]
 +++
 

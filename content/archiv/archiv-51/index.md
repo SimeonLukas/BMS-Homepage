@@ -1,7 +1,7 @@
 +++
 title = "Ministerbrief an die Eltern zum Schulstart"
 date = 2021-09-13
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"ministerien-infos" ]
 +++
 

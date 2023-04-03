@@ -1,7 +1,7 @@
 +++
 title = "🎺Bläserkonzert"
 date = 2022-08-05
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"impressionen" ,"schulleben" ]
 +++
 

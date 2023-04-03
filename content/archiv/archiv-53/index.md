@@ -1,7 +1,7 @@
 +++
 title = "Spende statt Geschenke"
 date = 2021-10-04
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Was mein Kind zum Schulanfang können muss"
 date = 2021-06-29
-[taxonomies]
+[taxonomie]
 tags = ["infos-zum-schulanfang" ]
 +++
 

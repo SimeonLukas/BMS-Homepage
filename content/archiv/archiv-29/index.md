@@ -1,7 +1,7 @@
 +++
 title = "Info zur Maskenpflicht"
 date = 2021-06-22
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"ministerien-infos" ]
 +++
 

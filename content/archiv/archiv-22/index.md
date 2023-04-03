@@ -1,7 +1,7 @@
 +++
 title = "Schütte-Schule präsentiert Angebot"
 date = 2021-03-23
-[taxonomies]
+[taxonomie]
 tags = ["presse" ]
 +++
 

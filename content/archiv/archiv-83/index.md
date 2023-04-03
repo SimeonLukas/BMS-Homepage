@@ -1,7 +1,7 @@
 +++
 title = "Coronavirus - Hygienemaßnahmen an den Schulen in Bayern"
 date = 2022-04-29
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"allgemein" ,"mitteilungen" ]
 +++
 

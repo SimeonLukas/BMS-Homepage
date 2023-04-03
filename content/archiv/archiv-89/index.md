@@ -1,7 +1,7 @@
 +++
 title = "Tanz auf die „Alpensinfonie“: Im Rahmen der Strauss-Tage treten Schülerinnen und Schüler auf"
 date = 2022-05-24
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"alpensinfonie" ,"schulleben" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "⛳ MittelschülerInnen schnuppern \"Golferluft\""
 date = 2022-07-27
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"impressionen" ,"mittelschulaktivitaeten" ,"schulleben" ]
 +++
 

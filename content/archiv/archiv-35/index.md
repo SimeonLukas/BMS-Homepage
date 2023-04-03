@@ -1,7 +1,7 @@
 +++
 title = "Fine mit der Mine Teil 9"
 date = 2021-07-05
-[taxonomies]
+[taxonomie]
 tags = ["vorschulprojekt" ]
 +++
 

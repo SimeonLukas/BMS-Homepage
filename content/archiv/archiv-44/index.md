@@ -1,7 +1,7 @@
 +++
 title = "Mit 33 das erste Zeugnis"
 date = 2021-08-02
-[taxonomies]
+[taxonomie]
 tags = ["presse" ]
 +++
 

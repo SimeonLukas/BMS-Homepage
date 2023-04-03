@@ -1,7 +1,7 @@
 +++
 title = "Landkreis-Schülersprecher der Mittelschulen"
 date = 2020-10-19
-[taxonomies]
+[taxonomie]
 tags = ["presse" ]
 +++
 

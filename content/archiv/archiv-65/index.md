@@ -1,7 +1,7 @@
 +++
 title = "Unser Schulcaterer"
 date = 2021-12-14
-[taxonomies]
+[taxonomie]
 tags = ["schulleben" ]
 +++
 

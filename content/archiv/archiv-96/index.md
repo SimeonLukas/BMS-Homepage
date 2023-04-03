@@ -1,7 +1,7 @@
 +++
 title = "✉️ Nachricht zum Schuljahresende"
 date = 2022-07-28
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"mitteilungen" ]
 +++
 

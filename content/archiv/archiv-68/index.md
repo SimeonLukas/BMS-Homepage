@@ -1,7 +1,7 @@
 +++
 title = "Schlittschuhlaufen"
 date = 2021-12-22
-[taxonomies]
+[taxonomie]
 tags = ["impressionen" ,"schulleben" ]
 +++
 

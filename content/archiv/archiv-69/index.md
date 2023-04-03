@@ -1,7 +1,7 @@
 +++
 title = "Informationsschreiben | Information zum Unterrichtsbetrieb"
 date = 2022-01-05
-[taxonomies]
+[taxonomie]
 tags = ["archiv" ,"allgemein" ,"briefe-fuer-schueler" ,"mitteilungen" ]
 +++
 

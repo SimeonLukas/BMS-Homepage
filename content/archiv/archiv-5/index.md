@@ -1,7 +1,7 @@
 +++
 title = "Zolk spielt Christkindl"
 date = 2020-12-03
-[taxonomies]
+[taxonomie]
 tags = ["presse" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Die Eintrittskarte ins Berufsleben"
 date = 2021-08-02
-[taxonomies]
+[taxonomie]
 tags = ["presse" ]
 +++
 
