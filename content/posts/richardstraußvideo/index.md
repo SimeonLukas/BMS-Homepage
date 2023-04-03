@@ -1,5 +1,5 @@
 +++
-title="Richard Strauß Tage"
+title="Richard Strauss Tage"
 date=2023-04-03
 [taxonomies]
 categories = ["Kunst & Kultur"]
