@@ -16,6 +16,19 @@ jobs:
 
       - name: Backup 
         uses: stefanzweifel/git-auto-commit-action@v4
+        
+      - name: executing remote ssh commands using password
+        uses: appleboy/ssh-action@v0.1.8
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT }}
+          script: cd zola/BMS-Static && git pull
+        
+        
+        
+        
 
         
      # - name: 📂 Sync files
