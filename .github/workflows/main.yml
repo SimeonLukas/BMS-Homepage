@@ -25,4 +25,13 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: cd zola/BMS-Static && git pull
+          
+      - name: 🔥 Delete Folder
+        uses: JesseTG/rm@v1.0.3
+        with:
+         path: ./public
+         
+      - name: 👍 Remove Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+
 
