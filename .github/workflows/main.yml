@@ -13,6 +13,10 @@ jobs:
           tool: zola@0.17.2
       - name: build
         run: zola build
+
+      - name: Backup 
+        uses: stefanzweifel/git-auto-commit-action@v4
+
         
       - name: 📂 Sync files
         uses: wlixcc/SFTP-Deploy-Action@v1.2.4
@@ -23,6 +27,3 @@ jobs:
          server: home29705826.1and1-data.host
          username: u1015849597
          password: ${{ secrets.PASSWORD }}
-
-      - name: Backup 
-        uses: stefanzweifel/git-auto-commit-action@v4
