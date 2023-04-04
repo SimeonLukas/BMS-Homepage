@@ -1,9 +1,9 @@
 +++
-weight = 3
+weight = 2
 date = "2021-04-30"
-title = "SMV & Vertrauenslehrkräfte"
+title = "Offene Ganztagschule der Grundschule"
 template = "toppage.html"
-description="Die SMV ist ein von Schüler:innen bestehendes Entscheidungsorgan."
+description="Die OGTS der Grunschule"
 
 [extra]
 toc = true

@@ -38,7 +38,7 @@ Diese finden klassenübergreifend statt.
 
 **In Planung ein regelmäßig stattfindendes Berufs-Cafe in Zusammenarbeit mit örtlichen Betrieben**
 
-![](images/Logo-IHK-Top-Bildungspartner.png)
+![](infos/berusorientierung/images/Logo-IHK-Top-Bildungspartner.png)
 
 Die Bgm-Schütte-Schule wurde als einzige oberbayerische Mittelschule  
 zweifach mit dem Prädikat "IHK Top Bildungspartner" ausgezeichnet.

@@ -1,9 +1,9 @@
 +++
-weight = 6
+weight = 3
 date = "2021-04-30"
-title = "Vorschulprojekt"
+title = "Jahrgangstufe 1"
 template = "toppage.html"
-description ="Die Berufsorientierung hat an der Bürgermeister-Schütte-Schule einen sehr hohen  Stellenwert und wird als langfristiger Prozess verstanden. Neben den notwendigen fachlichen Grundlagen werden auch Schlüsselqualifikationen wie Teamfähigkeit, Eigeninitiative, Selbstständigkeit, Gewissenhaftigkeit, Pünktlichkeit, Präsentationsfähigkeit etc. vermittelt."
+description =""
 
 [extra]
 toc = true
@@ -38,7 +38,7 @@ Diese finden klassenübergreifend statt.
 
 **In Planung ein regelmäßig stattfindendes Berufs-Cafe in Zusammenarbeit mit örtlichen Betrieben**
 
-![](images/Logo-IHK-Top-Bildungspartner.png)
+![](schulleben/3jgst1/images/Logo-IHK-Top-Bildungspartner.png)
 
 Die Bgm-Schütte-Schule wurde als einzige oberbayerische Mittelschule  
 zweifach mit dem Prädikat "IHK Top Bildungspartner" ausgezeichnet.

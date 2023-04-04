@@ -376,7 +376,7 @@ td:nth-child(3n+1) {
   transition: all 1.3s;
 }
 
-.indexsection .container{
+.indexsection .container, article{
   animation: fade-right 0.5s ease-in-out;
 }
 
@@ -524,6 +524,7 @@ html:has(body[theme=dark]) .indexsection{
 /* Place the container to the right */
 .containertimeline:nth-child(odd) {
   left: 50%;
+  text-align: right;
 }
 
 /* Add arrows to the left container (pointing right) */
