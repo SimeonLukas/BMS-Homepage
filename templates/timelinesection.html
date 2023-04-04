@@ -8,46 +8,39 @@
 <section class="section indexsection">
   <div class="container">
     <div class="has-text-centered">
-      <h1 class="title is-2"><i class="fas fa-file-alt"></i> {{ section.title }}</h1>
+      <h1 class="title is-2"><i class="fas fa-seedling"></i> {{ section.title }}</h1>
       <p class="subtitle is-4">{{ section.description }}</p>
     </div>
     <div class="content">
       {{ section.content | safe }}
     </div>
-    <div class="columns is-centered">
-      <div class="column is-9">
-        {% if paginator %}
-        {% set pages = paginator.pages %}
-        {% else %}
-        {% set pages = section.pages %}
-        {% endif %}
-        <article>
-          <div class="timeline">
+
+
+    {% if paginator %}
+    {% set pages = paginator.pages %}
+    {% else %}
+    {% set pages = section.pages %}
+    {% endif %}
+    <article>
+      <div class="timeline">
         {% for page in pages %}
-      
-  
-              <div class="containertimeline">
-                <div class="content">
-                  <h2 class="title">
-                    <a class="has-text-blue" href='{{ page.permalink }}'>
-                      <i class="fas fa-file-alt"></i> {{ page.title }}
-                    </a>
-                  </h2>
-                  <p class="subtitle">{{ page.description }}</p>
-                </div>
-              </div>
-            </div>
-  
-          
- 
-          
-        
-       
-        {% endfor %}
+
+
+        <div class="containertimeline">
+          <div class="contenttime">
+            <h3 class="title">
+              <a class="has-text-blue" href='{{ page.permalink }}'>
+                <i class="fas fa-leaf"></i> {{ page.title }}
+              </a>
+            </h3>
+            <p class="subtitle">{{ page.description }}</p>
           </div>
-      </article>
+        </div>
       </div>
-    </div>
+
+      {% endfor %}
+  </div>
+  </article>
   </div>
 </section>
 {% endblock %}
