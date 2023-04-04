@@ -487,7 +487,7 @@ html:has(body[theme=dark]) .indexsection{
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #ddd;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -508,9 +508,9 @@ html:has(body[theme=dark]) .indexsection{
   position: absolute;
   width: 25px;
   height: 25px;
-  right: -17px;
+  right: -12px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #cb4f0b;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -531,13 +531,13 @@ html:has(body[theme=dark]) .indexsection{
   content: " ";
   height: 0;
   position: absolute;
-  top: 22px;
+  top: 18px;
   width: 0;
   z-index: 1;
   right: 30px;
   border: medium solid white;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
+  border-color: transparent transparent transparent #62b32e;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -545,24 +545,24 @@ html:has(body[theme=dark]) .indexsection{
   content: " ";
   height: 0;
   position: absolute;
-  top: 22px;
+  top: 18px;
   width: 0;
   z-index: 1;
   left: 30px;
   border: medium solid white;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent #62b32e transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
 .containertimeline:nth-child(odd)::after {
-  left: -16px;
+  left: -13px;
 }
 
 /* The actual content */
 .contenttime {
   padding: 20px 30px;
-  background-color: white;
+  background-color: transparent;
   position: relative;
   border-radius: 6px;
 }
@@ -582,16 +582,16 @@ html:has(body[theme=dark]) .indexsection{
   }
 
 /* Make sure that all arrows are pointing leftwards */
-  .containertimeline::before {
+.containertimeline:nth-child(even)::before, .containertimeline:nth-child(odd)::before {
     left: 60px;
     border: medium solid white;
     border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent #62b32e transparent transparent;
   }
 
 /* Make sure all circles are at the same spot */
 .containertimeline:nth-child(even)::after, .containertimeline:nth-child(odd)::after {
-    left: 15px;
+    left: 18px;
   }
 
 /* Make all right containers behave like the left ones */
