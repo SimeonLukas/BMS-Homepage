@@ -12,6 +12,8 @@ author = ""
 generate_feed = true
 feed_filename = "rss.xml"
 
+ignored_content = ["/Users/simeonstanek/my_site/BMS-Static/content/Vorlagen/*"]
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
