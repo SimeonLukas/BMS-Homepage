@@ -3,7 +3,7 @@ title="Waldtag zum Thema „Igel“"
 date=2023-03-30
 
 [taxonomies]
-categories = ["Unterricht"]
+categories = ["Unterricht", "Nachhaltigkeit & Ressourcen"]
 tags = ["Wald", "Tier"]
 klassen = ["1. Klasse"]
 +++

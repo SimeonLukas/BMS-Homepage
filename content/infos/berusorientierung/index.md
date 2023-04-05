@@ -1,9 +1,12 @@
 +++
 weight = 6
-date = "2021-04-30"
+date = "2023-04-05"
 title = "Berufsorientierung"
 template = "toppage.html"
-description ="Die Berufsorientierung hat an der Bürgermeister-Schütte-Schule einen sehr hohen  Stellenwert und wird als langfristiger Prozess verstanden. Neben den notwendigen fachlichen Grundlagen werden auch Schlüsselqualifikationen wie Teamfähigkeit, Eigeninitiative, Selbstständigkeit, Gewissenhaftigkeit, Pünktlichkeit, Präsentationsfähigkeit etc. vermittelt."
+description ="Die Berufsorientierung hat an der Bürgermeister-Schütte-Schule einen sehr hohen Stellenwert und wird als langfristiger Prozess verstanden. Neben den notwendigen fachlichen Grundlagen werden auch Schlüsselqualifikationen wie Teamfähigkeit, Eigeninitiative, Selbstständigkeit, Gewissenhaftigkeit, Pünktlichkeit, Präsentationsfähigkeit etc. vermittelt."
+
+[taxonomies]
+categories = ["Berufsorientierung"]
 
 [extra]
 toc = true
@@ -11,7 +14,7 @@ toc = true
 +++
 
 Ziel unserer Schule  ist es, die Schülerinnen und Schüler möglichst umfassend und zielgerichtet mit ihren individuellen Besonderheiten auf den Übergang und den Einstieg in das Berufsleben vorzubereiten.
-
+<!-- more -->
 Die Bürgermeister-Schütte-Schule  kooperiert im Bereich der Berufsorientierung mit außerschulischen Partnern wie dem BFZ/ GFI GmbH aus dem Bereich externer Bildungsträger, der Agentur für Arbeit, sowie dem  Bereich der Jugend und Sozialhilfe (Kolping und Caritas). Des Weiteren bestehen fortwährende Bestrebungen, ortsansässige Betriebe aller Berufsbereiche in die Kooperation ,,Schule-Betrieb-Ausbildung“ einzubinden.
 
   

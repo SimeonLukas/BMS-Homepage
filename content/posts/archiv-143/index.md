@@ -2,6 +2,7 @@
 title = "Wir sind Sportgrundschule"
 date = 2023-03-30
 [taxonomies]
+categories = ["Sport & Gesundheit"]
 tags = ["aktuelles" ]
 +++
 Kinder zu mehr Bewegung, Spiel und Sport zu motivieren und ihnen Freude an der Bewegung zu vermitteln liegt den Lehrer\*innen der Bürgermeister-Schütte-Schule am Herzen.
