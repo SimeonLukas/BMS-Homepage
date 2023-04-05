@@ -1,9 +1,9 @@
 +++
-weight = 8
+weight = 10
 date = "2021-04-30"
 title = "Jahrgangstufe 7-10"
 template = "toppage.html"
 description =""
 +++
 
-[M-Zweig (Gebundener-Ganztags-Zweig)](/schullebenseiten/m-zweig)
+[M-Zweig (Mittlerer-Reife-Zweig)](/schullebenseiten/m-zweig)
