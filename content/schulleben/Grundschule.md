@@ -1,11 +1,13 @@
 +++
-weight = 2
+weight = 3
 date = "2021-04-30"
 title = "Grundschule"
 template = "toppage.html"
 +++
 
-#### Jahrgangstufe 1-4
-##### [Offene Ganztagsschule](../schullebenseiten/ogts-grundschule)
-##### [Schulfrühstück](../schullebenseiten/schulfruehstueck)
+_Jahrgangstufe 1-4_
+
+[Offene Ganztagsschule](../schullebenseiten/ogts-grundschule)  
+[Schulfrühstück](../schullebenseiten/schulfruehstueck)   
+[- Sport & Gesundheit](../sport-gesund)
 
