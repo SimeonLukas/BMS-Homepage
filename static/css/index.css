@@ -307,6 +307,7 @@ body.hidden-scroll {
     background-repeat: no-repeat;
     animation: img-anim 6s alternate infinite;
     opacity: 0;
+    margin: 0px -25px;
   }
 
   .contacts div {
