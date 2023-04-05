@@ -5,4 +5,6 @@ paginate_by = 300
 sort_by = "weight"
 template = "timelinesection.html"
 transparent = true
+[extra]
+toc = true
 +++

@@ -8,7 +8,7 @@ template = "toppage.html"
 toc = true
 
 +++
- <a href="test.html"><h1>test</h1></a>
+ <a href="test.html"><h4>test</h4></a>
 
 
 Dienstag von 07:30 Uhr bis 16:00 Uhr  
