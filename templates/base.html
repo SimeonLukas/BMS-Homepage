@@ -182,7 +182,8 @@
       <h3>Hinweise</h3>
     <a href="{{config.base_url}}/impressum">Impressum</a><br>
     <a href="{{config.base_url}}/datenschutz">Datenschutz</a><br>
-    <a href="{{config.base_url}}/kontakt">Kontakt</a><br>  
+    <a href="{{config.base_url}}/kontakt">Kontakt</a><br>
+    <a href="{{config.base_url}}/archiv">Archiv</a><br>    
   </div>
   <div class="column" id="infoSection">
     <h3>Informationen</h3>
@@ -197,6 +198,13 @@
     <a href="{{config.base_url}}/berufsorientierung">Berufsorientierung</a><br>
     <a href="{{config.base_url}}/sport-gesund">Sport & Gesundheit</a><br> 
     <a href="{{config.base_url}}/nachhaltigkeit-ressourcen">Nachhaltigkeit & Ressourcen</a><br> 
+  </div>
+  <div class="column" id="infoSection">
+    <h3>Schulleben</h3>
+    {% set recent_changes = get_section(path="schullebenseiten/_index.md") %}
+    {% for page in recent_changes.pages %}
+    <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+    {% endfor %}
   </div>
   </div>
     </div>
