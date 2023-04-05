@@ -8,6 +8,5 @@ template = "toppage.html"
 _Jahrgangstufe 1-4_
 
 [Offene Ganztagsschule](../schullebenseiten/ogts-grundschule)  
-[Schulfrühstück](../schullebenseiten/schulfruehstueck)   
-[- Sport & Gesundheit](../sport-gesund)
+[Schulfrühstück <i class='fas fa-skiing'></i>](../schullebenseiten/schulfruehstueck)   
 

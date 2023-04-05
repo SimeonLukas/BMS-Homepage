@@ -4,8 +4,6 @@ date = "2021-04-30"
 title = "Einschulung"
 template = "toppage.html"
 +++
-[Bilinguale Klasse](../schullebenseiten/bilingualeklasse)  
-[- Kunst & Kultur](../kunst-kultur)
+[Bilinguale Klasse <i class='fas fa-paint-brush'></i>](../schullebenseiten/bilingualeklasse)  
 
 
-. 

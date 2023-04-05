@@ -571,7 +571,7 @@ html:has(body[theme=dark]) .indexsection{
 
 /* The actual content */
 .contenttime {
-  padding: 20px 30px;
+  padding: 0px 20px;
   background-color: transparent;
   position: relative;
   border-radius: 6px;
