@@ -30,7 +30,7 @@ Am Unterrichtsende wird Ihr Kind von einem Betreuer an der Schule empfangen und 
 
 [Anmeldeformular](/downloads/#grundschule)
 
-Über Ihre Anmeldung und über dein Kommen, liebe*r 1.KlässlerIn, freuen wir uns!
+Über Ihre Anmeldung und über dein Kommen, liebe 1.Klässler:in, freuen wir uns!
 
 Herzliche Grüße!
 
