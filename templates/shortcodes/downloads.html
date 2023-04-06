@@ -3,7 +3,7 @@
   {%- if asset is matching("[.](pdf)$") -%}
   {% if asset is containing(folder) %}
   <a href="{{ get_url(path=asset) }}" download>
-    {{asset | split(pat="/") | last | replace(from="-", to=" ") | replace(from=".pdf", to="")}} <i class="fa fa-download"></i>
+    <i class="fa fa-download"></i> {{asset | split(pat="/") | last | replace(from="-", to=" ") | replace(from=".pdf", to="")}}
   </a><br>
 {% endif %}
   {%- endif %}
