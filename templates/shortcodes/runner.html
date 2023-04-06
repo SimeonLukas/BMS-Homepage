@@ -1,6 +1,6 @@
-<div class="gallery runner">
+<div class="gallery runner" id="{{name}}">
   {% for asset in section.assets -%}
-  {%- if asset is matching("[.](jpg|png|jpeg)$") -%}
+  {%- if asset is matching("[.](jpg|png|jpeg|svg)$") -%}
   {% if asset is containing(name) %}
   <a href="{{ get_url(path=asset) }}">
   <img class="runner-img" src="{{ get_url(path=asset) }}" >
@@ -8,4 +8,18 @@
 {% endif %}
   {%- endif %}
   {%- endfor %}
+  <script>
+
+
+setInterval(() => {
+  let width = document.getElementById("{{name}}").getBoundingClientRect().width;
+  
+  if (document.getElementById("{{name}}").scrollLeft> 0) {
+    document.getElementById("{{name}}").scrollLeft = 0;
+  }
+  else{
+  document.getElementById("{{name}}").scrollLeft += width*2;}
+}, "10000");
+ 
+  </script>
 </div>

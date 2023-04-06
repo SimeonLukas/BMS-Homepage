@@ -78,7 +78,7 @@ Kategorien
 
 ---
 
-# Wir sind
+# Das Wir
 
 {{runner(name="runner")}}
 
