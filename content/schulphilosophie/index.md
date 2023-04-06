@@ -8,7 +8,7 @@ toc = true
 +++
 
 
-<div style=" margin: 0 auto" class="teaser"
+<div style=" max-width: 100%;margin: 0 auto" class="teaser"
 id="teaser">
 </div>
 
