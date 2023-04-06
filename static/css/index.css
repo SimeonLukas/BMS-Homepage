@@ -610,3 +610,25 @@ html:has(body[theme=dark]) .indexsection{
     text-align: left;
   }
 }
+
+
+.runner{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  overflow: scroll;
+}
+
+.runner a{
+  display: contents;
+
+}
+
+.runner-img{
+max-height: 200px;
+padding: 20px;
+}

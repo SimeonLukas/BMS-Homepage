@@ -1,0 +1,11 @@
+<div class="gallery runner">
+  {% for asset in section.assets -%}
+  {%- if asset is matching("[.](jpg|png|jpeg)$") -%}
+  {% if asset is containing(name) %}
+  <a href="{{ get_url(path=asset) }}">
+  <img class="runner-img" src="{{ get_url(path=asset) }}" >
+</a>
+{% endif %}
+  {%- endif %}
+  {%- endfor %}
+</div>
