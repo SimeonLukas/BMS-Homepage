@@ -32,6 +32,6 @@ Am Unterrichtsende wird Ihr Kind von einem Betreuer an der Schule empfangen und 
 
 Über Ihre Anmeldung und über dein Kommen, liebe*r 1.KlässlerIn, freuen wir uns!
 
-_Herzliche Grüße!_
+_Herzliche Grüße!
 
-_Euer OGTS Team mit Sonja Ermer, 2.KRin_
+Euer OGTS Team mit Sonja Ermer, 2.KRin
