@@ -1,5 +1,5 @@
 +++
-weight = 11
+weight = 12
 date = "2021-04-30"
 title = "Jahrgangstufe 10"
 template = "toppage.html"
