@@ -1,5 +1,5 @@
 +++
-weight = 15xß
+weight = 15
 date = "2021-04-30"
 title = "Einschulung"
 template = "toppage.html"
