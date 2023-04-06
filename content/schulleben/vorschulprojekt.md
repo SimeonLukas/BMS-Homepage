@@ -1,5 +1,5 @@
 +++
-weight = 1
+weight = 10
 date = "2021-04-30"
 title = "Vorschulprojekt"
 template = "toppage.html"
