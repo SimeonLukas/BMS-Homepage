@@ -1,5 +1,5 @@
 <div class="downloads">
-  {% for asset in page.assets -%}
+  {% for asset in page.assets | sort -%}
   {%- if asset is matching("[.](pdf)$") -%}
   {% if asset is containing(folder) %}
   <a href="{{ get_url(path=asset) }}" download>
