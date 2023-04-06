@@ -14,11 +14,11 @@
 setInterval(() => {
   let width = document.getElementById("{{name}}").getBoundingClientRect().width;
   
-  if (document.getElementById("{{name}}").scrollLeft> 0) {
+  if (document.getElementById("{{name}}").scrollLeft> 2000) {
     document.getElementById("{{name}}").scrollLeft = 0;
   }
   else{
-  document.getElementById("{{name}}").scrollLeft += width*2;}
+  document.getElementById("{{name}}").scrollLeft += 5000}
 }, "10000");
  
   </script>
