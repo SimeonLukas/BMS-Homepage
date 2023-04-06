@@ -7,4 +7,4 @@ template = "toppage.html"
 
 _Jahrgangstufe 1-10_
 
-[Ganztagsklassen](../schullebenseiten/ganztagsklassen)  
+[Ganztagsklassen](schullebenseiten/ganztagsklassen)  
