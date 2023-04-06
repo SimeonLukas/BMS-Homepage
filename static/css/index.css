@@ -624,7 +624,7 @@ html:has(body[theme=dark]) .indexsection{
   justify-content: flex-start;
   align-items: center;
   width: 100%;
-  overflow: scroll;
+  overflow-x: scroll;
   scroll-behavior: smooth;
   /* animation: primary 20s linear infinite; */
 }

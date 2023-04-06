@@ -81,5 +81,3 @@ Kategorien
 # Das Wir
 
 {{runner(name="runner")}}
-
----
