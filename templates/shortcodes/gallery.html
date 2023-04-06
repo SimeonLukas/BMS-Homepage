@@ -1,9 +1,9 @@
 <div class="gallery">
-  {% for asset in page.assets -%}
-    {%- if asset is matching("[.](jpg|png)$") -%}
-      {% set image = resize_image(path=asset, width=300, height=150) %}
+  {% for asset in page.assets | sort -%}
+    {%- if asset is matching("[.](jpg|png|jpeg)$") -%}
+      {% set image = resize_image(path=asset, width=200, height=150) %}
       <a href="{{ get_url(path=asset) }}">
-        <img src="{{ image.url }}" data-title="asset" data-description="asset" />
+        <img src="{{ image.url }}" data-title="{{asset}}" data-description="{{asset}}" />
       </a>
     {%- endif %}
   {%- endfor %}

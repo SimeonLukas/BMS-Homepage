@@ -247,6 +247,10 @@ body.hidden-scroll {
       align-items: flex-start;
     }
 
+    .gallery img{
+      padding: 5px;
+    }
+
 
 
     .triple,   .footerLinks, .double {

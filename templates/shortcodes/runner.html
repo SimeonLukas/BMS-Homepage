@@ -1,5 +1,5 @@
 <div class="gallery runner" id="{{name}}">
-  {% for asset in section.assets -%}
+  {% for asset in section.assets | sort -%}
   {%- if asset is matching("[.](jpg|png|jpeg|svg)$") -%}
   {% if asset is containing(name) %}
   <a href="{{ get_url(path=asset) }}">
