@@ -1,0 +1,12 @@
+<div class="downloads">
+  {% for asset in page.assets -%}
+  {%- if asset is matching("[.](pdf)$") -%}
+  {% if asset is containing(folder) %}
+  <h3 class="title" id="{{asset}}">{{asset | split(pat="/") | last | replace(from="-", to=" ") | replace(from=".pdf", to="")}}</h3>
+  <a href="{{ get_url(path=asset) }}" download>
+    <i class="fa fa-file-alt"></i> Herunterladen
+  </a>
+{% endif %}
+  {%- endif %}
+  {%- endfor %}
+</div>
