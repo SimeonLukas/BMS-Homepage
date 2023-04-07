@@ -141,7 +141,7 @@ Hindenburgstraße 10
 
 **Seitenbearbeitung:**
 
-[Melanie Albrecht . Grafik](http://www.m-albrecht-grafik.de)
+[Simeon S](http://staneks.de)
 
 * * *
 
