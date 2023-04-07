@@ -183,7 +183,10 @@
     <a href="{{config.base_url}}/impressum">Impressum</a><br>
     <a href="{{config.base_url}}/datenschutz">Datenschutz</a><br>
     <a href="{{config.base_url}}/kontakt">Kontakt</a><br>
-    <a href="{{config.base_url}}/archiv">Archiv</a><br>    
+    <a href="{{config.base_url}}/archiv">Archiv</a><br>
+    <a href="{{config.base_url}}/tags">Schlagworte</a><br>
+    <a href="{{config.base_url}}/categories/">Kategorien</a><br>
+    <a href="{{config.base_url}}/klassen">Klassen</a><br>
   </div>
   <div class="column" id="infoSection">
     <h3>Informationen</h3>
@@ -192,19 +195,26 @@
     <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
     {% endfor %}
   </div>
-  <div class="column schulphilosophie">
-    <h3>Schulphilosophie</h3>
-    <a href="{{config.base_url}}/categories/kunst-kultur/"><i class='fas fa-paint-brush'></i> Kunst & Kultur</a><br>
-    <a href="{{config.base_url}}/categories/berufsorientierung/"><i class='fas fa-compass'></i> Berufsorientierung</a><br>
-    <a href="{{config.base_url}}/categories/sport-gesundheit/"><i class='fas fa-skiing'></i> Sport & Gesundheit</a><br> 
-    <a href="{{config.base_url}}/categories/nachhaltigkeit-ressourcen/"><i class='fas fa-lightbulb'></i> Nachhaltigkeit & Ressourcen</a><br> 
-  </div>
   <div class="column" id="infoSection">
     <h3>Schulleben</h3>
     {% set recent_changes = get_section(path="schullebenseiten/_index.md") %}
     {% for page in recent_changes.pages %}
     <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
     {% endfor %}
+  </div>
+  <div class="column schulphilosophie">
+    <h3>Externe Seiten</h3>
+    <a href="https://mebis.bycs.de/">mebis</a><br>
+    <a href="https://www.km.bayern.de/">Bayerisches Staatsministerium für Unterricht und Kultus</a><br>
+    <a href="https://www.km.bayern.de/schueler/schularten.html">Schulsystem</a><br> 
+    <a href="https://schule-infoportal.de/login/bsgmsgap">Lehrerportal</a><br> 
+  </div>
+  <div class="column schulphilosophie">
+    <h3>Schulphilosophie</h3>
+    <a href="{{config.base_url}}/categories/kunst-kultur/"><i class='fas fa-paint-brush'></i> Kunst & Kultur</a><br>
+    <a href="{{config.base_url}}/categories/berufsorientierung/"><i class='fas fa-compass'></i> Berufsorientierung</a><br>
+    <a href="{{config.base_url}}/categories/sport-gesundheit/"><i class='fas fa-skiing'></i> Sport & Gesundheit</a><br> 
+    <a href="{{config.base_url}}/categories/nachhaltigkeit-ressourcen/"><i class='fas fa-lightbulb'></i> Nachhaltigkeit & Ressourcen</a><br> 
   </div>
   </div>
     </div>

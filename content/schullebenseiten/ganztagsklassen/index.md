@@ -4,7 +4,6 @@ date = "2023-04-06"
 title = "Ganztagsklassen"
 template = "toppage.html"
 description ="Schule mit Mehrwert: Gebundene Ganztagsklassen an der Bürgermeister-Schütte-Mittelschule Garmisch-Partenkirchen"
-
 [extra]
 toc = true
 +++
