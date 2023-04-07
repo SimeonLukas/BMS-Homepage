@@ -190,14 +190,14 @@
     <a href="{{config.base_url}}/klassen">Klassen</a><br>
   </div>
   <div class="column" id="infoSection">
-    <h3>Informationen</h3>
+    <a href="{{config.base_url}}/infos"><h3>Informationen</h3></a>
     {% set recent_changes = get_section(path="infos/_index.md") %}
     {% for page in recent_changes.pages %}
     <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
     {% endfor %}
   </div>
   <div class="column" id="infoSection">
-    <h3>Schulleben</h3>
+    <a href="{{config.base_url}}/schulleben"><h3>Schulleben</h3></a>
     {% set recent_changes = get_section(path="schullebenseiten/_index.md") %}
     {% for page in recent_changes.pages %}
     <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
@@ -211,7 +211,7 @@
     <a href="https://schule-infoportal.de/login/bsgmsgap">Lehrerportal</a><br> 
   </div>
   <div class="column schulphilosophie">
-    <a href="{{config.base_url}}/schulphilosophie"></ahref><h3>Schulphilosophie</h3></a>
+    <a href="{{config.base_url}}/schulphilosophie"><h3>Schulphilosophie</h3></a>
     <a href="{{config.base_url}}/categories/kunst-kultur/"><i class='fas fa-paint-brush'></i> Kunst & Kultur</a><br>
     <a href="{{config.base_url}}/categories/berufsorientierung/"><i class='fas fa-compass'></i> Berufsorientierung</a><br>
     <a href="{{config.base_url}}/categories/sport-gesundheit/"><i class='fas fa-skiing'></i> Sport & Gesundheit</a><br> 
