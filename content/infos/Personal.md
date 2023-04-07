@@ -3,7 +3,7 @@ title = "Personal"
 weight = 2
 date = 2023-03-27
 template = "toppage.html"
-description="Es gibt verschiedene Berufsgruppen im Personal einer Grund- und Mittelschule, wie Lehrer:innen, Schulpsycholog:innen, Schulsozialarbeiter:innen, Schulbibliothekar:innen, Schulverwaltung und Schulwartungspersonal."
+description="Es gibt verschiedene Berufsgruppen im Personal einer Grund- und Mittelschule, wie Lehrer:innen, Schulpsycholog:innen, Schulsozialarbeiter:innen, Schulverwaltung und Schulwartungspersonal."
 year="2023"
 [extra]
 toc = true
@@ -18,11 +18,9 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
     
 3.  Schulsozialarbeiter:innen: Sie bieten Unterstützung und Beratung bei sozialen, emotionalen und familiären Problemen und helfen den Schüler:innen, mit Stress und Angst umzugehen. Sie arbeiten auch mit den Lehrer:innen und der Schulleitung zusammen, um sicherzustellen, dass die Schüler:innen alle Ressourcen erhalten, die sie benötigen, um erfolgreich zu sein.
     
-4.  Schulbibliothekar:innen: Sie unterstützen die Schüler:innen beim Zugang zu Büchern und anderen Medien und lehren sie, wie sie effektiv recherchieren und Informationen sammeln können.
+4.  Schulverwaltung: Sie umfassen den Schulleiter:innen und andere Administratoren:innen, die die Schule betreiben und organisieren. Sie arbeiten daran, eine sichere und unterstützende Umgebung für die Schüler:innen und das Personal zu schaffen und setzen Richtlinien und Verfahren um, um den Erfolg der Schüler:innen sicherzustellen.
     
-5.  Schulverwaltung: Sie umfassen den Schulleiter:innen und andere Administratoren:innen, die die Schule betreiben und organisieren. Sie arbeiten daran, eine sichere und unterstützende Umgebung für die Schüler:innen und das Personal zu schaffen und setzen Richtlinien und Verfahren um, um den Erfolg der Schüler:innen sicherzustellen.
-    
-6.  Schulwartungspersonal: Sie sind für die Reinigung und Instandhaltung der Schule und des Schulgeländes verantwortlich. Sie sorgen dafür, dass die Schule sauber und sicher ist und dass die Schüler:innen und das Personal alle notwendigen Ressourcen haben.
+5.  Schulwartungspersonal: Sie sind für die Reinigung und Instandhaltung der Schule und des Schulgeländes verantwortlich. Sie sorgen dafür, dass die Schule sauber und sicher ist und dass die Schüler:innen und das Personal alle notwendigen Ressourcen haben.
 </details>
 
 # Schulleitung
