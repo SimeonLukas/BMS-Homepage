@@ -110,7 +110,7 @@ _Die Datenschutzerklärung wurde mit dem_ [_Datenschutzerklärungs-Generator der
 Elgendorfer Str. 57  
 56410 Montabaur
 
-## **IMPRESSUM**
+## Impressum
 
 Angaben gemäß § 5 TMG
 
@@ -141,7 +141,7 @@ Hindenburgstraße 10
 
 **Seitenbearbeitung:**
 
-[Simeon S](http://staneks.de)
+[Simeon Stanek](http://staneks.de)
 
 * * *
 
