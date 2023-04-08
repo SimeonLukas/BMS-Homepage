@@ -35,7 +35,7 @@
           <div class="content mt-2">
             {{ page.content | safe }}
           </div>
-          <div class="gallery">
+          <div class="gallery runner">
             {% for asset in page.assets | sort -%}
               {%- if asset is matching("[.](jpg|png|jpeg)$") -%}
                 {% set image = resize_image(path=asset, width=200, height=150) %}
