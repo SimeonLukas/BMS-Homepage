@@ -13,7 +13,9 @@ toc = true
 +++
 
 
-![](https://volksschule-partenkirchen.de/wp-content/uploads/Bild1-3.png)
+![](https://volksschule-partenkirchen.de/wp-content/uploads/Bild1-3.png)    
+
+
 **Die Bürgermeister-Schütte-Grundschule Partenkirchen wird Bilinguale Grundschule**
 
 Unsere Schule hat sich erfolgreich um das Profil _Bilinguale Grundschule Englisch_ beworben.
