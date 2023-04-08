@@ -16,43 +16,43 @@ toc = true
 ![](https://volksschule-partenkirchen.de/wp-content/uploads/Bild1-3.png)    
 
 
-**Die Bürgermeister-Schütte-Grundschule Partenkirchen wird Bilinguale Grundschule**
+# Die Bürgermeister-Schütte-Grundschule Partenkirchen wird Bilinguale Grundschule
 
 Unsere Schule hat sich erfolgreich um das Profil _Bilinguale Grundschule Englisch_ beworben.
 
-# Was bedeutet das?
+## Was bedeutet das?
 
 Mit Beginn des Schuljahrs 2023/2024 wird in einer ersten Klasse dieses Unterrichtskonzept in die Tat umgesetzt und den Schülern somit ein früher und kindgerechter Umgang mit der Fremdsprache Englisch ermöglicht. 
 
-# Wie viel Unterricht wird auf Englisch abgehalten?
+## Wie viel Unterricht wird auf Englisch abgehalten?
 
 Es wird täglich eine circa 20-minütige Unterrichtsphase von der speziell dafür ausgebildeten Klassenlehrkraft auf Englisch abgehalten. Dies kann beispielsweise ein in der Fremdsprache durchgeführter Morgenbeginn, ein englisches Lied im Musikunterricht, die Einführung englischer Zahlen im Mathematikunterricht oder die Besprechung der Farben auf Englisch im Kunstunterricht sein.
 
-# Wie lange läuft die bilinguale Klasse?
+## Wie lange läuft die bilinguale Klasse?
 
 Die bilinguale Klasse startet in der ersten Jahrgangsstufe und wird bis in die vierte Jahrgangsstufe fortgeführt.
 
-# Welche Inhalte werden in bilingualen Klassen vermittelt?
+## Welche Inhalte werden in bilingualen Klassen vermittelt?
 
 Grundlage aller Inhalte ist – wie bei allen anderen Grundschulklassen – der LehrplanPLUS für die bayerische Grundschule.
 
 Fachbegriffe werden in den verschiedenen Fächern auch stets auf Deutsch eingeführt und gesichert, Leistungsnachweise und die Vorbereitung darauf werden weiterhin auf Deutsch abgehalten.
 
-# Welche Chancen ergeben sich durch die englischsprachigen Unterrichtsanteile?
+## Welche Chancen ergeben sich durch die englischsprachigen Unterrichtsanteile?
 
 Durch die oft spielerischen englischsprachigen Unterrichtsphasen werden fremdsprachliche Begriffe und Phrasen von klein auf implizit erfasst, das allgemeine Sprachgefühl und die Sprechfreude werden gefördert und eine aufgeschlossene Haltung gegenüber anderen Sprachen und Kulturen entsteht.
 
-# Wie profitieren die anderen Klassen von diesem Schulprofil?
+## Wie profitieren die anderen Klassen von diesem Schulprofil?
 
 Zu geeigneten Anlässen werden in der bilingualen Klasse erarbeitete Inhalte mit der Schulfamilie geteilt – beispielsweise bei Schulfeiern oder in Form von Ausstellungen im Schulhaus. Eine Arbeitsgemeinschaft (AG) Englisch mit freiwilliger Teilnahme am Nachmittag kann dank dieses Schulprofils für andere Grundschulklassen eingerichtet werden.
 
-# Wer kann an der bilingualen Klasse teilnehmen?
+## Wer kann an der bilingualen Klasse teilnehmen?
 
 Die bilinguale Klasse wird nach den üblichen Klassenbildungsprinzipien gebildet. Sie hat eine reguläre Klassenstärke.
 
 Es werden keine fremdsprachlichen Vorkenntnisse benötigt, um daran teilzunehmen.
 
-# Wie melde ich mein Kind für eine bilinguale erste Klasse an?
+## Wie melde ich mein Kind für eine bilinguale erste Klasse an?
 
 Bei der Schuleinschreibung werden Sie danach gefragt, ob Sie für Ihr Kind eine vertiefte Englischförderung wünschen. Diese Option können Sie ankreuzen.
 
