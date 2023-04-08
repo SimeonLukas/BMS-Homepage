@@ -68,12 +68,12 @@ Erfahrungsberichte aus diesem Schulversuch finden Sie hier:
 
 Weitere Eindrücke gewinnen Sie durch dieses Video, das während des Schulversuchs entstanden ist:
 
+{{video(src="https://www.km.bayern.de/medien/km_absatz/datei_mp4/25958_20180405_stmbw_bilinguale_grundschule_delivery_480p_mitstartbild.mp4")}}
+
 Aktuelle und weiterführende Informationen finden Sie auf der Seite des Kultusministeriums:
 
 [Klicken Sie hier!](https://www.km.bayern.de/ministerium/schule-und-ausbildung/schularten/grundschule.html#Video34)
 
-<video control src="https://www.km.bayern.de/medien/km_absatz/datei_mp4/25958_20180405_stmbw_bilinguale_grundschule_delivery_480p_mitstartbild.mp4"></video>
+Bei weiteren Fragen können Sie gerne jederzeit auf uns zukommen.
 
-**Bei weiteren Fragen können Sie gerne jederzeit auf uns zukommen.**
-
-**Wir freuen uns auf alle neuen Erstklässler.**
+Wir freuen uns auf alle neuen Erstklässler.
