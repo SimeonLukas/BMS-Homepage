@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - grundschulaktivitaeten</title>
+      <link>https://neu.volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://neu.volksschule-partenkirchen.de/tags/grundschulaktivitaeten/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>🍋 für Temposünder</title>
+          <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://neu.volksschule-partenkirchen.de/posts/archiv-109/</link>
+          <guid>https://neu.volksschule-partenkirchen.de/posts/archiv-109/</guid>
+          <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;volksschule-partenkirchen.de&#x2F;wp-content&#x2F;uploads&#x2F;Zeitungsbericht-Zitrone-f.-Temposuender-1_rotated.pdf&quot;&gt;Zeitungsbericht Zitrone für Temposünder&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
