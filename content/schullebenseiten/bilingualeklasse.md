@@ -72,7 +72,7 @@ Aktuelle und weiterführende Informationen finden Sie auf der Seite des Kultusmi
 
 [Klicken Sie hier!](https://www.km.bayern.de/ministerium/schule-und-ausbildung/schularten/grundschule.html#Video34)
 
-<video src="https://www.km.bayern.de/medien/km_absatz/datei_mp4/25958_20180405_stmbw_bilinguale_grundschule_delivery_480p_mitstartbild.mp4"></video>
+<video control src="https://www.km.bayern.de/medien/km_absatz/datei_mp4/25958_20180405_stmbw_bilinguale_grundschule_delivery_480p_mitstartbild.mp4"></video>
 
 **Bei weiteren Fragen können Sie gerne jederzeit auf uns zukommen.**
 
