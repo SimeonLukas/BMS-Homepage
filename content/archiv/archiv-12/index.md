@@ -1,8 +1,8 @@
 +++
 title = "Fine mit der Mine Teil 5"
-date = 2021-02-15
-[taxonomie]
-tags = ["vorschulprojekt" ]
+date = 2021-09-06
+[taxonomies]
+tags = ["Fine mit der Mine" ]
 +++
 
 # ****„Wir verkleiden uns!“**[](http://www.volksschule-partenkirchen.de/downloads/Vorschulprojekt_Videos/Elterninformation%204%20Vorschulkinderzeit%20daheim.pdf)**

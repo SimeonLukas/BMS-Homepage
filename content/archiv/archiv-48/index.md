@@ -1,8 +1,8 @@
 +++
 title = "Fine mit der Mine Teil 11"
-date = 2021-08-16
-[taxonomie]
-tags = ["vorschulprojekt" ]
+date = 2021-09-06
+[taxonomies]
+tags = ["Fine mit der Mine" ]
 +++
 
 # „Mein Weg zur Schule“

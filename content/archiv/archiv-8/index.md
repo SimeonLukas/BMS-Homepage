@@ -1,8 +1,8 @@
 +++
-title = "Fine mit der Mine - Teil 2"
-date = 2021-01-22
-[taxonomie]
-tags = ["vorschulprojekt" ]
+title = "Fine mit der Mine Teil 2"
+date = 2021-09-07
+[taxonomies]
+tags = ["Fine mit der Mine" ]
 +++
 
 ![](images/Ausmalbild-Fine-mit-der-Mine-e1613730536416.png)

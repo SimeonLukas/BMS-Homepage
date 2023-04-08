@@ -1,8 +1,6 @@
 +++
 title = "Was mein Kind zum Schulanfang können muss"
 date = 2021-06-29
-[taxonomie]
-tags = ["infos-zum-schulanfang" ]
 +++
 
 \[Best\_Wordpress\_Gallery id="15" gal\_title="Was mein Kind können muss"\]
