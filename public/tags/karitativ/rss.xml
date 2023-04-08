@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - karitativ</title>
+      <link>https://neu.volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://neu.volksschule-partenkirchen.de/tags/karitativ/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>🎅 Wir beteiligen uns am karitativen Adventsmarkt</title>
+          <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://neu.volksschule-partenkirchen.de/posts/archiv-114/</link>
+          <guid>https://neu.volksschule-partenkirchen.de/posts/archiv-114/</guid>
+          <description></description>
+      </item>
+    </channel>
+</rss>
