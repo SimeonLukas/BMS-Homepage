@@ -35,6 +35,7 @@
           <div class="content mt-2">
             {{ page.content | safe }}
           </div>
+          {% if page.assets | length > 0  -%}
           <div class="gallery runner">
             {% for asset in page.assets | sort -%}
               {%- if asset is matching("[.](jpg|png|jpeg)$") -%}
@@ -45,6 +46,7 @@
               {%- endif %}
             {%- endfor %}
             </div>
+            {%- endif %}
         </article>
       </div>
       {% if page.extra.toc %}

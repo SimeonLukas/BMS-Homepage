@@ -58,7 +58,7 @@ Bei der Schuleinschreibung werden Sie danach gefragt, ob Sie für Ihr Kind eine 
 
 Damit haben Sie Ihr Interesse an einem Platz in der bilingualen Klasse bekundet, aus organisatorischen Gründen kann zu diesem Zeitpunkt der Platz jedoch noch nicht zugesichert werden.
 
-# Wo finde ich Erfahrungsberichte und weitere Informationen?
+## Wo finde ich Erfahrungsberichte und weitere Informationen?
 
 Der Bildung von bilingualen Profilschulen wurde ein sehr erfolgreicher fünfjähriger Schulversuch vorausgeschaltet, der mittlerweile abgeschlossen ist.
 
