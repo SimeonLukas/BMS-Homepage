@@ -7,5 +7,5 @@ description =""
 +++
 
 [Quali](/schullebenseiten/quali)  
-[Externer Mittelschulabschluss](/schullebenseiten/externer-mittelschulabschluss) 
+[Externer Mittelschulabschluss](/schullebenseiten/externer-mittelschulabschluss)  
 [Prüfungstermine](/schullebenseiten/prufungstermine/#quali)   

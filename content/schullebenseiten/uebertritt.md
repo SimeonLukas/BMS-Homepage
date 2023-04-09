@@ -9,3 +9,5 @@ redirect_to=""
 [extra]
 toc = true
 +++
+
+<script>window.location.href = "https://www.km.bayern.de/eltern/schularten/uebertritt-schulartwechsel.html";</script>
