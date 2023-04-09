@@ -1,0 +1,650 @@
+/*!
+	By André Rinas, www.andrerinas.de
+	Documentation, www.simplelightbox.com
+	Available for use under the MIT License
+	Version 2.13.0
+*/
+body.hidden-scroll {
+  overflow: hidden; }
+
+.sl-overlay {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #fff;
+  display: none;
+  z-index: 1035; }
+
+.sl-wrapper {
+  z-index: 1040;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  position: fixed; }
+  .sl-wrapper * {
+    box-sizing: border-box; }
+  .sl-wrapper button {
+    border: 0 none;
+    background: transparent;
+    font-size: 28px;
+    padding: 0;
+    cursor: pointer; }
+    .sl-wrapper button:hover {
+      opacity: 0.7; }
+  .sl-wrapper .sl-close {
+    display: none;
+    position: fixed;
+    right: 30px;
+    top: 30px;
+    z-index: 10060;
+    margin-top: -14px;
+    margin-right: -14px;
+    height: 44px;
+    width: 44px;
+    line-height: 44px;
+    font-family: Arial, Baskerville, monospace;
+    color: #000;
+    font-size: 3rem; }
+  .sl-wrapper .sl-counter {
+    display: none;
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    z-index: 10060;
+    color: #000;
+    font-size: 1rem; }
+  .sl-wrapper .sl-download {
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+    text-align: center;
+    z-index: 10060;
+    color: #fff;
+    font-size: 1rem; }
+    .sl-wrapper .sl-download a {
+      color: #fff; }
+  .sl-wrapper .sl-navigation {
+    width: 100%;
+    display: none; }
+    .sl-wrapper .sl-navigation button {
+      position: fixed;
+      top: 50%;
+      margin-top: -22px;
+      height: 44px;
+      width: 22px;
+      line-height: 44px;
+      text-align: center;
+      display: block;
+      z-index: 10060;
+      font-family: Arial, Baskerville, monospace;
+      color: #000; }
+      .sl-wrapper .sl-navigation button.sl-next {
+        right: 5px;
+        font-size: 2rem; }
+      .sl-wrapper .sl-navigation button.sl-prev {
+        left: 5px;
+        font-size: 2rem; }
+      @media (min-width: 35.5em) {
+        .sl-wrapper .sl-navigation button {
+          width: 44px; }
+          .sl-wrapper .sl-navigation button.sl-next {
+            right: 10px;
+            font-size: 3rem; }
+          .sl-wrapper .sl-navigation button.sl-prev {
+            left: 10px;
+            font-size: 3rem; } }
+      @media (min-width: 50em) {
+        .sl-wrapper .sl-navigation button {
+          width: 44px; }
+          .sl-wrapper .sl-navigation button.sl-next {
+            right: 20px;
+            font-size: 3rem; }
+          .sl-wrapper .sl-navigation button.sl-prev {
+            left: 20px;
+            font-size: 3rem; } }
+  .sl-wrapper.sl-dir-rtl .sl-navigation {
+    direction: ltr; }
+  .sl-wrapper .sl-image {
+    position: fixed;
+    -ms-touch-action: none;
+    touch-action: none;
+    z-index: 10000; }
+    .sl-wrapper .sl-image img {
+      margin: 0;
+      padding: 0;
+      display: block;
+      border: 0 none;
+      width: 100%;
+      height: auto; }
+      @media (min-width: 35.5em) {
+        .sl-wrapper .sl-image img {
+          border: 0 none; } }
+      @media (min-width: 50em) {
+        .sl-wrapper .sl-image img {
+          border: 0 none; } }
+    .sl-wrapper .sl-image iframe {
+      background: #000;
+      border: 0 none; }
+      @media (min-width: 35.5em) {
+        .sl-wrapper .sl-image iframe {
+          border: 0 none; } }
+      @media (min-width: 50em) {
+        .sl-wrapper .sl-image iframe {
+          border: 0 none; } }
+    .sl-wrapper .sl-image .sl-caption {
+      display: none;
+      padding: 10px;
+      color: #fff;
+      background: rgba(0, 0, 0, 0.8);
+      font-size: 1rem;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0; }
+      .sl-wrapper .sl-image .sl-caption.pos-top {
+        bottom: auto;
+        top: 0; }
+      .sl-wrapper .sl-image .sl-caption.pos-outside {
+        bottom: auto; }
+
+.sl-spinner {
+  display: none;
+  border: 5px solid #333;
+  border-radius: 40px;
+  height: 40px;
+  left: 50%;
+  margin: -20px 0 0 -20px;
+  opacity: 0;
+  position: fixed;
+  top: 50%;
+  width: 40px;
+  z-index: 1007;
+  -webkit-animation: pulsate 1s ease-out infinite;
+  -moz-animation: pulsate 1s ease-out infinite;
+  -ms-animation: pulsate 1s ease-out infinite;
+  -o-animation: pulsate 1s ease-out infinite;
+  animation: pulsate 1s ease-out infinite; }
+
+.sl-scrollbar-measure {
+  position: absolute;
+  top: -9999px;
+  width: 50px;
+  height: 50px;
+  overflow: scroll; }
+
+.sl-transition {
+  transition: -moz-transform ease 200ms;
+  transition: -ms-transform ease 200ms;
+  transition: -o-transform ease 200ms;
+  transition: -webkit-transform ease 200ms;
+  transition: transform ease 200ms; }
+
+@-webkit-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0; }
+  50% {
+    opacity: 1; }
+  100% {
+    transform: scale(1.2);
+    opacity: 0; } }
+
+@keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0; }
+  50% {
+    opacity: 1; }
+  100% {
+    transform: scale(1.2);
+    opacity: 0; } }
+
+@-moz-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0; }
+  50% {
+    opacity: 1; }
+  100% {
+    transform: scale(1.2);
+    opacity: 0; } }
+
+@-o-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0; }
+  50% {
+    opacity: 1; }
+  100% {
+    transform: scale(1.2);
+    opacity: 0; } }
+
+@-ms-keyframes pulsate {
+  0% {
+    transform: scale(0.1);
+    opacity: 0.0; }
+  50% {
+    opacity: 1; }
+  100% {
+    transform: scale(1.2);
+    opacity: 0; } }
+
+
+
+    /* Simeon */
+
+
+    .gallery{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: center;
+      justify-content: center;
+      align-items: flex-start;
+    }
+
+    .gallery img{
+      padding: 5px;
+    }
+
+
+
+    .triple,   .footerLinks, .double {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+  }
+
+  .triple div{
+    text-align: center;
+    margin: 10px auto;
+    width: 250px;
+    cursor: pointer;
+
+  }
+
+  .footerLinks{
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
+
+  .footerLinks div{
+    text-align: left;
+  }
+
+  .double div{
+
+    
+  }
+
+  .double img{
+    /* animation: img-anim 2s cubic-bezier(0.6,-0.84, 0.89, 2.26); */
+    filter: grayscale(1)
+  }
+
+  .double div:nth-child(1){
+    text-align: justify;
+    margin: 10px 10px;
+    max-width: 300px;
+    
+  }
+
+  .teaser{
+    text-align: justify;
+    margin: 10px 10px;
+    height: 400px;
+    width: 500px;
+    cursor: pointer;
+    background-image: url(/images/teaser0.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    animation: img-anim 6s alternate infinite;
+    opacity: 0;
+    margin: 0px -25px;
+  }
+
+  .contacts div {
+    text-align: left;
+  }
+
+
+    .split {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: stretch;
+  }
+
+
+.split a {
+  margin: 5px auto;
+}
+
+td:nth-child(3n+1) {  
+ 
+}
+
+
+
+   /* piechart */
+    
+   .circular-chart {
+    display: block;
+    margin: 10px auto;
+    max-width: 80%;
+    max-height: 250px;
+}
+
+.circle2 {
+    stroke: #cb4f0b ;
+    fill: none;
+    stroke-width: 0.5;
+    stroke-linecap: round;
+    animation: progress 1s ease-out forwards;
+}
+
+
+.circle1 {
+  stroke:#62b32e;
+  fill: none;
+  stroke-width: 0.5;
+  stroke-linecap: round;
+  animation: progress 5s ease-out forwards;
+}
+
+
+.circle {
+  stroke: #cb4f0b ;
+  fill: none;
+  stroke-width: 0.5;
+  stroke-linecap: round;
+  animation: progress 2s ease-out forwards;
+}
+
+
+/* .split{
+  text-transform: uppercase;
+} */
+
+.startanimation{
+  animation: fade-up 1s ease-in-out;
+  transition: all 1.3s;
+}
+
+.indexsection .container, article{
+  animation: fade-right 0.5s ease-in-out;
+}
+
+body[theme=dark] img, body[theme=dark] .teaser {
+  filter: invert(1) hue-rotate(180deg);
+}
+body[theme=dark]{
+  background-color: #000;
+}
+
+html:has(body[theme=dark]){
+  background-color: #000;
+  filter: contrast(1.5);
+}
+
+
+.indexsection{
+    background: url(../images/header.png);
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-position-x: 0;
+    background-position-y: top;
+}
+
+
+html:has(body[theme=dark]) .indexsection{
+  background: #fff;
+}
+
+
+.button{
+  text-overflow: ellipsis;
+  max-width: 250px;
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+  display: block;
+  overflow: hidden;
+}
+
+
+
+/* .navbar {
+  position: fixed;
+  width: 100%;
+}
+
+.section {
+  padding: 5rem 1.5rem;
+} */
+
+
+
+@keyframes progress {
+  0% {
+      stroke-dasharray: 0 100;
+  }
+}
+
+@keyframes fade-up {
+  0% {
+      opacity: 0;
+      transform: translate(0px,10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px,0px);
+}
+}
+
+@keyframes fade-right {
+  0% {
+      opacity: 0;
+      transform: translate(10px,0px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0px,0px);
+}
+}
+
+
+
+@keyframes img-anim {
+  0% {
+      opacity: 0;
+
+  }
+
+  30%{
+    opacity: 1;
+
+  }
+  80%{
+    opacity: 1;
+
+  }
+  100% {
+    opacity: 0;
+}
+}
+
+
+
+
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #ddd;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.containertimeline {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.containertimeline::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -12px;
+  background-color: white;
+  border: 4px solid #cb4f0b;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.containertimeline:nth-child(even) {
+  left: 0;
+}
+
+/* Place the container to the right */
+.containertimeline:nth-child(odd) {
+  left: 50%;
+  text-align: right;
+}
+
+/* Add arrows to the left container (pointing right) */
+.containertimeline:nth-child(even)::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 18px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent #62b32e;
+}
+
+/* Add arrows to the right container (pointing left) */
+.containertimeline:nth-child(odd)::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 18px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent #62b32e transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.containertimeline:nth-child(odd)::after {
+  left: -13px;
+}
+
+/* The actual content */
+.contenttime {
+  padding: 0px 20px;
+  background-color: transparent;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+/* Place the timelime to the left */
+  .timeline::after {
+    left: 31px;
+  }
+
+/* Full-width containers */
+.containertimeline {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+/* Make sure that all arrows are pointing leftwards */
+.containertimeline:nth-child(even)::before, .containertimeline:nth-child(odd)::before {
+    left: 60px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent #62b32e transparent transparent;
+  }
+
+/* Make sure all circles are at the same spot */
+.containertimeline:nth-child(even)::after, .containertimeline:nth-child(odd)::after {
+    left: 18px;
+  }
+
+/* Make all right containers behave like the left ones */
+.containertimeline:nth-child(odd) {
+    left: 0%;
+    text-align: left;
+  }
+}
+
+
+.runner{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  /* animation: primary 20s linear infinite; */
+}
+
+.runner a{
+  display: contents;
+
+}
+
+.runner-img{
+max-height: 200px;
+padding: 20px;
+}
+
+
+@keyframes primary {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translate(-300%);
+  }
+}
