@@ -15,6 +15,8 @@ description =""
 
 Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2023** im Sekretariat der Bgm-Schütte-Mittelschule statt.
 
+[Anmeldeformular](/downloads/)
+
 Für die Teilnahme am Qualifizierenden Abschluss anmelden kann sich, wer innerhalb des Sprengels der Bgm-Schütte-Mittelschule wohnt.
 
 Der Qualifizierende Abschluss setzt sich aus schriftlichen, mündlichen und praktischen Prüfungen zusammen.
