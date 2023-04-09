@@ -11,21 +11,16 @@ description =""
 
 
 # Informationen
-zum Qualifizierenden Abschluss der Mittelschule für externe Bewerber
+## zum Qualifizierenden Abschluss der Mittelschule für externe Bewerber
 
-Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2023** im Sekretariat der
+Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2023** im Sekretariat der Bgm-Schütte-Mittelschule statt.
 
-Bgm-Schütte-Mittelschule statt. Für die Teilnahme am Qualifizierenden Abschluss anmelden
+Für die Teilnahme am Qualifizierenden Abschluss anmelden kann sich, wer innerhalb des Sprengels der Bgm-Schütte-Mittelschule wohnt.
 
-kann sich, wer innerhalb des Sprengels der Bgm-Schütte-Mittelschule wohnt.
+Der Qualifizierende Abschluss setzt sich aus schriftlichen, mündlichen und praktischen Prüfungen zusammen.
 
-Der Qualifizierende Abschluss setzt sich aus schriftlichen, mündlichen und praktischen
+## Prüfungsfächer sind:
 
-Prüfungen zusammen.
-
-Prüfungsfächer sind:
-
-  
 
 - Deutsch schriftlich oder Deutsch als Zweitsprache (DaZ) schriftlich und mündlich
 
