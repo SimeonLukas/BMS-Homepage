@@ -11,3 +11,5 @@ categories = ["Berufsorientierung"]
 [extra]
 toc = true
 +++
+
+<script>window.location.href = "/schullebenseiten/mittlerer-schulabschluss/";</script>
