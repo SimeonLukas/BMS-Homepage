@@ -17,11 +17,10 @@ toc = true
 
 - Handwerksberufe, soziale Berufe, kaufmännische Berufe.
 
-  
 
 Jetzt auch mit M-Kursen in Kl. 5 und 6!
 
-![](../m-zweig-flyer.png)
+![Zeigt den .pdf Flyer voll ausgezogen](../m-zweig-flyer.png "M-Zweig-Flyer")
 
 [M-Zweig-Flyer](/downloads/mittelschule/M-Zweig%20Informationen.pdf)
 
