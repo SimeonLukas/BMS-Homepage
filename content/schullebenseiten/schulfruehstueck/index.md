@@ -28,3 +28,5 @@ Dank der Frühstücksinitiative denkbar-R der BLLV-Kinderhilfe e.V. erhalten an 
 Gefördert wird das betreute Frühstück denkbar-R seit 2014 vom Bayerischen Staatsministerium für Familie, Arbeit und Soziales, beraten und unterstützt werden die Schulen durch die Initiative denkbar-R Schulfrühstück der BLLV-Kinderhilfe e.V.
 
 Weitere Informationen zum Frühstücksprojekt denkbar-R finden Sie unter [www.denkbar.bllv.de](http://www.denkbar.bllv.de/)
+
+{{gallery()}}
