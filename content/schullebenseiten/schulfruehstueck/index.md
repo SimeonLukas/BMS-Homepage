@@ -3,6 +3,7 @@ weight = 2
 date = "2021-04-30"
 title = "Schulfrühstück"
 template = "toppage.html"
+description ="In der heutigen Zeit ist es wichtiger denn je, dass wir uns um unsere Gesundheit kümmern. Ein gesundes Frühstück ist ein wichtiger Bestandteil einer gesunden Ernährung und kann uns dabei helfen, fit und konzentriert durch den Tag zu kommen. An der Bürgermeister-Schütte-Grund- und Mittelschule wird deshalb großen Wert auf ein gesundes Schulfrühstück gelegt."
 [taxonomies]
 categories = ["Sport & Gesundheit"]
 +++
