@@ -8,3 +8,5 @@ description =""
 [extra]
 toc = true
 +++
+
+<script>window.location.href = "/schullebenseiten/ganztagsklassen/";</script>
