@@ -12,7 +12,7 @@ toc = true
 
 ## Wer ist für unsere Schule zuständig?
 
-![](Foto_Seyboth.jpg)
+![](images/Foto_Seyboth.jpg)
 
 **Stefanie Seyboth**  
 Staatliche Schulpsychologin
