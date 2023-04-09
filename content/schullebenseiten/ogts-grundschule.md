@@ -3,16 +3,15 @@ weight = 2
 date = "2021-04-30"
 title = "Offene Ganztagschule der Grundschule"
 template = "toppage.html"
-description="Die OGTS der Grunschule"
+description="Eine qualifizierte Nachmittagsbetreuung ist häufig der Schlüssel für schulischen Erfolg und eine gelungene Integration. Kinder erhalten ein gesundes Mittags­essen und individuelle Förderung am Nachmittg. Gleichzeitig wird der soziale Zusammenhalt und das gegenseitige Verständis gefördert..."
 
 [extra]
 toc = true
 +++
 
-# Die OGTS des Roten Kreuzes
-
-Eine qualifizierte Nachmittagsbetreuung ist häufig der Schlüssel für schulischen Erfolg und eine gelungene Integration. Kinder erhalten ein gesundes Mittags­essen und individuelle Förderung am Nachmittg. Gleichzeitig wird der soziale Zusammenhalt und das gegenseitige Verständis gefördert...
 [weiterlesen](https://volksschule-partenkirchen.de/wp-content/uploads/Bericht-u%CC%88ber-OGTS.pdf)
+
+# Die OGTS des Roten Kreuzes
 
 [Webseite des BRK](https://www.brk-gap.de/angebote/unsere-sozialen-dienstleistungen/offene-ganztagsschulen.html)
 
