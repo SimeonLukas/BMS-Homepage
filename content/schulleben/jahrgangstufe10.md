@@ -7,4 +7,4 @@ description =""
 +++
 
 [Mittlerer Schulabschluss](/schullebenseiten/mittlerer-schulabschluss)    
-[Prüfungstermine](/schullebenseiten/prüfungstermine#mittlerer-schulabschluss)
+[Prüfungstermine](/schullebenseiten/prufungstermine/#mittlerer-schulabschluss)
