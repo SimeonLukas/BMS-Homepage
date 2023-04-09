@@ -69,3 +69,6 @@ In den Fächern GPG, NT, Sport, Religion und Ethik werden Skripten ausgegeben.
 Für Fragen stehen wir gerne zur Verfügung. Bitte im Sekretariat (08821/9103500) eine Nachricht mit Namen und Telefonnummer hinterlassen. Wir rufen dann zurück!
 
 Gez. Verena Hafenrichter 1.Konrektorin
+
+[Prüfungstermine](/schullebenseiten/prufungstermine/#quali)   
+

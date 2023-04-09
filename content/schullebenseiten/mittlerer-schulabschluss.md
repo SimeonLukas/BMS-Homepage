@@ -39,3 +39,5 @@ Die Prüfungstermine für die Projektprüfung, GSE und PCB werden bekannt gegebe
 Alle Terminangaben sind ohne Gewähr!!!
 
 Für Fragen stehen wir gerne zur Verfügung. Bitte im Sekretariat (08821/9103500) eine Nachricht mit Namen und Telefonnummer hinterlassen. Wir rufen dann zurück!
+
+[Prüfungstermine](/schullebenseiten/prufungstermine/#mittlerer-schulabschluss)   
