@@ -21,7 +21,7 @@ toc = true
 
 Jetzt auch mit M-Kursen in Kl. 5 und 6!
 
-[M-Zug-Flyer](https://volksschule-partenkirchen.de/wp-content/uploads/GSMS_M-Zug-Flyer_Einzelseiten-Stand29-07-20.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/GSMS_M-Zug-Flyer_Einzelseiten-Stand29-07-20.pdf)
+[M-Zweig-Flyer](/downloads/mittelschule/M-Zweig%20Informationen.pdf)
 
   
 
