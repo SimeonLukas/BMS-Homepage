@@ -6,4 +6,5 @@ template = "toppage.html"
 description =""
 +++
 
-[Mittlerer Schulabschluss](/schullebenseiten/mittlerer-schulabschluss)
+[Mittlerer Schulabschluss](/schullebenseiten/mittlerer-schulabschluss)    
+[Prüfungstermine](/schullebenseiten/prüfungstermine#mittlerer-schulabschluss)
