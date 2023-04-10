@@ -3,7 +3,7 @@ weight = 0
 date = "2023-04-05"
 title = "Mittlerer Schulabschluss"
 template = "toppage.html"
-description =""
+description ="Der mittlere Schulabschluss an der Mittelschule verleiht u. a. die Berechtigung, weiterführende Schulen, z. B. die Fachoberschule, zu besuchen - und ist damit gegenüber dem Wirtschafts- und Realschulabschluss gleichwertig."
 
 [extra]
 

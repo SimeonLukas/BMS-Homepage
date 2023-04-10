@@ -1,7 +1,7 @@
 +++
 weight = 0
 date = "2023-04-05"
-title = "Externer Mittelschulabschluss"
+title = "Externer qualifizierender Mittelschulabschluss"
 template = "toppage.html"
 description =""
 
@@ -12,4 +12,4 @@ categories = ["Berufsorientierung"]
 toc = true
 +++
 
-<script>window.location.href = "/schullebenseiten/quali/";</script>
+<script>window.location.href = "/schullebenseiten/mittlerer-schulabschluss/";</script>
