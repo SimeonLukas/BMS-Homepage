@@ -258,3 +258,13 @@
   {% endfor %}
 </p>
 {% endmacro %}
+
+
+
+{% macro breadcrumb(path) %}
+{% set cur = "/" %} /
+{% for elt in path %}
+    {% set_global cur = cur ~ elt ~ "/" %}
+    <a href="{{cur}}">{{ elt }}</a> /
+{% endfor %}
+{%- endmacro %}
