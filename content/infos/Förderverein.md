@@ -14,7 +14,8 @@ toc = true
 
 ### Was wir wollen
 
-[![](http://s522938624.online.de/wp-content/uploads/2021/03/GSMS_Fo%CC%88rderverein_Ansicht-web.png)](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/GSMS_Fo%CC%88rderverein_Ansicht-web.png)   
+![Förderverein | 200](../foerderverein.png)
+
 Dies geschieht vor allem, indem wir
 
 -   Aktivitäten im Sinne der pädagogischen Ziele der Schule fördern,
