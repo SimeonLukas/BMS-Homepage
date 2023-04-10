@@ -1,5 +1,5 @@
 +++
-title = "Elternvertretung"
+title = "Förderverein"
 weight = 7
 date = 2023-04-10
 template = "toppage.html"
