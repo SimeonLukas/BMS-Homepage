@@ -6,6 +6,6 @@ template = "toppage.html"
 description =""
 +++
 
-[Quali](/schullebenseiten/quali)  
-[Externer Mittelschulabschluss](externer-quali-mittelschulabschluss.md)  
+[Quali](/schullebenseiten/quali/)  
+[Externer Mittelschulabschluss](/schullebenseiten/quali/)  
 [Prüfungstermine](/schullebenseiten/prufungstermine/#quali)   
