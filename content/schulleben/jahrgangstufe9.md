@@ -9,3 +9,4 @@ description =""
 [Quali](/schullebenseiten/quali/)  
 [Externer Mittelschulabschluss](/schullebenseiten/quali/)  
 [Prüfungstermine](/schullebenseiten/prufungstermine/#quali)   
+
