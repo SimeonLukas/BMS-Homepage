@@ -6,5 +6,12 @@ template = "toppage.html"
 +++
 
 _Jahrgangstufe 5-10_
+<div class="gallery" style="display: block;">
+<a href="/images/schullaufbahn-mittelschule.png">
+Schullaufbahn
+</a>
+</div>
 
-[Ganztagsklassen](/schullebenseiten/ganztagsklassen/)  
+[Ganztagsklassen](/schullebenseiten/ganztagsklassen/)
+
+
