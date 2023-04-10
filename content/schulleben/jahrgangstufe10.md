@@ -7,5 +7,5 @@ description =""
 +++
 
 [Mittlerer Schulabschluss](/schullebenseiten/mittlerer-schulabschluss)    
-[Externer Mittlerer Mittelschulabschluss](/schullebenseiten/mittlerer-schulabschluss)    
+[Externer Mittlerer Schulabschluss](/schullebenseiten/mittlerer-schulabschluss)    
 [Prüfungstermine](/schullebenseiten/prufungstermine/#mittlerer-schulabschluss)
