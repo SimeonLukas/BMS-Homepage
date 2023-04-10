@@ -8,11 +8,9 @@ description="Der Förderverein unterstützt unsere Schule durch ehrenamtliches E
 toc = true
 +++
 
-# FÖRDERVEREIN
+# Förderverein der Bürgermeister-Schütte-Grund- und Mittelschule Garmisch-Partenkirchen e.V.
 
-## der Bürgermeister-Schütte-Grund- und Mittelschule Garmisch-Partenkirchen e.V.
-
-### Was wir wollen
+## Was wir wollen
 
 ![Förderverein | 200](../foerderverein.png)
 
@@ -27,18 +25,18 @@ Dies geschieht vor allem, indem wir
 
 [Förderverein Flyer](https://volksschule-partenkirchen.de/wp-content/uploads/P_GSMS-Fo%CC%88rderverein_Flyer_Web_29-03-19.pdf)
 
-### Was wir brauchen
+## Was wir brauchen
 
 Um unsere Ziele umsetzen zu können, sammeln wir Mittel durch die Beiträge unserer Vereinsmitglieder (Jahresbeitrag 20 €) sowie durch Geld- und Sachspenden.
 
-### Mitglied werden!
+## Mitglied werden!
 
 Eine Beitrittserklärung haben wir für Sie hier beigefügt.
 
 [Förderverein Beitrittsformular](https://volksschule-partenkirchen.de/wp-content/uploads/P_GSMS-Fo%CC%88rderverein_Beitrittsformular.pdf)
 Senden Sie einfach den Abschnitt an unsere Kontaktadresse. Vielen Dank!
 
-### Spenden!
+## Spenden!
 
 Auch wenn Sie nicht Mitglied werden  wollen, freuen wir uns über jede Art von Spende. Sollten Sie unseren Verein mit einer Spende  unterstützen wollen, dann melden Sie sich einfach bei uns. Gerne stellen wir eine Spendenquittung ab 50 € aus.  
 Helfen Sie mit, unseren Kindern und Jugendlichen die Schule zu gestalten und die Grundlagen für ihre Zukunft zu legen.
