@@ -5,7 +5,7 @@ template = "toppage.html"
 description="Grund- und Mittelschule Garmisch-Partenkirchen"
 +++
 
-Hindenburgstraße 10.    
+Hindenburgstraße 10    
 82467 Garmisch-Partenkirchen
 
 <div class="triple contacts">
