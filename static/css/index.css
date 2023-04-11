@@ -309,8 +309,7 @@ body.hidden-scroll {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    animation: img-anim 6s alternate infinite;
-    opacity: 0;
+    animation: img-anim 20s alternate infinite;
     margin: 0px -25px;
   }
 
@@ -468,22 +467,21 @@ html:has(body[theme=dark]) .indexsection{
 
 
 @keyframes img-anim {
-  0% {
-      opacity: 0;
+
+  25%{
+    background-image: url(/images/teaser1.png);
+  }
+  50%{
+    background-image: url(/images/teaser2.png);
 
   }
-
-  30%{
-    opacity: 1;
-
-  }
-  80%{
-    opacity: 1;
-
-  }
-  100% {
-    opacity: 0;
+  75% {
+    background-image: url(/images/teaser3.png);
 }
+100% {
+  background-image: url(/images/teaser4.png);
+}
+
 }
 
 

@@ -483,25 +483,3 @@ var pieanimObserver = new IntersectionObserver(function (entries, observer) {
 pieanim.forEach(function (pieanim) {
   pieanimObserver.observe(pieanim);
 });
-
-
-
-
-var imagenumber = Math.floor(Math.random() * 4);
-if (document.getElementById("teaser")){
-document.getElementById("teaser").style.backgroundImage = "url(/images/teaser" + imagenumber + ".png";
-setInterval(() => {
-  imagenumber++;
-  let prefetchnumber = imagenumber + 1;
-  if (imagenumber == 5){
-    imagenumber = 0;
-    prefetchnumber = 1;
-    
-  }
-  if (prefetchnumber == 5){
-    prefetchnumber = 0;
-  }
-  fetch("/images/teaser" + prefetchnumber + ".png");
-  document.getElementById("teaser").style.backgroundImage = "url(/images/teaser" + imagenumber + ".png";
-}, "5900");
-}
