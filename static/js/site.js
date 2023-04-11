@@ -488,6 +488,7 @@ pieanim.forEach(function (pieanim) {
 
 
 var imagenumber = Math.floor(Math.random() * 4);
+if (document.getElementById("teaser") != false){
 document.getElementById("teaser").style.backgroundImage = "url(/images/teaser" + imagenumber + ".png";
 setInterval(() => {
   imagenumber++;
@@ -496,3 +497,5 @@ setInterval(() => {
   }
   document.getElementById("teaser").style.backgroundImage = "url(/images/teaser" + imagenumber + ".png";
 }, "6000");
+fetch("/images/teaser" + imagenumber + ".png");
+}
