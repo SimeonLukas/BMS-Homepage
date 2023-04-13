@@ -17,6 +17,11 @@ Schülerinnen und Schüler der 1. bis 10. Jahrgangsstufe können unsere Schule b
 <div class="teaser"
 onclick="javascript:location.href='/schulphilosophie'"
 id="teaser">
+<img src="/images/teaser0.png">
+<img src="/images/teaser1.png">
+<img src="/images/teaser2.png">
+<img src="/images/teaser3.png">
+<img src="/images/teaser4.png">
 </div>
 </div>
 

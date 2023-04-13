@@ -10,6 +10,11 @@ toc = true
 
 <div style=" max-width: 100%;margin: 0 auto" class="teaser"
 id="teaser">
+<img src="/images/teaser0.png">
+<img src="/images/teaser1.png">
+<img src="/images/teaser2.png">
+<img src="/images/teaser3.png">
+<img src="/images/teaser4.png">
 </div>
 
 # [Kunst & Kultur <i class='fas fa-paint-brush'></i>](/categories/kunst-kultur/)
