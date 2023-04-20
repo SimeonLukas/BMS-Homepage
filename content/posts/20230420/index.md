@@ -11,7 +11,7 @@ tags = ["Sport", "Turnier"]
 
 Am 13.04.2023 fuhren zwei Basketball-Teams der Bürgermeister-Schütte-Schule nach Murnau, um am Staffelsee Gymnasium den Meister in der Region D (WM, GAP & Tölz) in den Wettkampfgruppen J III/2 und J IV auszuspielen.
 
-<!--more-->
+<!-- more -->
 
 Für einige Spieler der MS Partenkirchen war es das erste Mal, für ihre Schule aufzulaufen und im Basketball Wettkampfatmosphäre zu schnuppern.
 

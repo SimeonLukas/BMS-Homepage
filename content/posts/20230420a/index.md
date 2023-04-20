@@ -12,6 +12,8 @@ tags = ["Musik", "Konzert"]
 # Kleine Musiker ganz großen
 ## Kongresshaus: Schütte-Schule begeistert mit Frühlingskonzert
 
+<!-- more -->
+
 ![zeitungsbericht|600](images/zeitungsbericht.png)
 
 
