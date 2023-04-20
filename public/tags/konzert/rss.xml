@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - Konzert</title>
+      <link>https://neu.volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://neu.volksschule-partenkirchen.de/tags/konzert/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Frühlingskonzert</title>
+          <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://neu.volksschule-partenkirchen.de/posts/20230420a/</link>
+          <guid>https://neu.volksschule-partenkirchen.de/posts/20230420a/</guid>
+          <description>&lt;h1 id=&quot;kleine-musiker-ganz-grossen&quot;&gt;Kleine Musiker ganz großen&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;kongresshaus-schutte-schule-begeistert-mit-fruhlingskonzert&quot;&gt;Kongresshaus: Schütte-Schule begeistert mit Frühlingskonzert&lt;&#x2F;h2&gt;
+</description>
+      </item>
+    </channel>
+</rss>
