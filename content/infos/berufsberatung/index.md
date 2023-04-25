@@ -3,7 +3,7 @@ weight = 6
 date = "2021-04-30"
 title = "Berufsberatung"
 template = "toppage.html"
-description="Maßnahme zur Unterstützung von SchülerInnen am Übergang von Schule zum Beruf"
+description="Maßnahmen zur Unterstützung von Schüler:innen am Übergang von Schule zum Beruf"
 
 [extra]
 toc = true
@@ -14,7 +14,7 @@ toc = true
 
 ### Was machen wir?
 
-Maßnahme zur Unterstützung von SchülerInnen am Übergang von Schule zum Beruf
+Maßnahmen zur Unterstützung von Schüler:innen am Übergang von Schule zum Beruf
 
 ### Eure Ziele sind unsere Ziele!
 
@@ -42,6 +42,6 @@ Unabhängig davon kann mich jede/-r bei Fragen oder Unterstützungsbedarf gerne 
 
 [Der Agentur für Arbeit](https://www.arbeitsagentur.de/vor-ort/weilheim/content/1533726520811?pk_campaign=schulwebsite)
 
-![](infos/berufsberatung/images/Bildschirm­foto-2023-02-01-um-21.01.08-1024x167.png)
+![](images/Bildschirm­foto-2023-02-01-um-21.01.08-1024x167.png)
 
-![](infos/berufsberatung/images/Bildschirm­foto-2023-02-01-um-21.00.47-1024x139.png)
+![](images/Bildschirm­foto-2023-02-01-um-21.00.47-1024x139.png)
