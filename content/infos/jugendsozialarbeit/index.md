@@ -72,19 +72,13 @@ Fr: 8.00 - 12.00 Uhr
 sowie nach Vereinbarung
 
 
-
-{{person(name = "Sozialarbeiterin (B.A.) Muriel Herale " , phone="+49 1522 2784460  " , mail="Muriel.Herale@caritasmuenchen.org")}}
-
-Mo-Do: 08.00 - 16.00 Uhr  
-Fr: 08.00 - 12.00
-
-sowie nach Vereinbarung
-
 _Gefördert vom  Bayerischen Staatsministerium für Familie, Arbeit und Soziales,_  
 _dem Landkreis und der Gemeinde, Träger: Caritas Zentrum Ga.-Pa._
 <div class="triple">
 
-![](infos/jugendsozialarbeit/images/bayrisches-staatsministerium.jpg)
+![](images/bayrisches-staatsministerium.jpg)
+
+<br>
 
 ![](images/caritas_logo.png)
 

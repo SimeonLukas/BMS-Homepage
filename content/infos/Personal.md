@@ -34,7 +34,8 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 |  <!-- --> |  <!-- --> | <!-- -->  |   
 |------|---|---|
-| Anke Wesemann | Sekretärin |  Verwaltungangestellte  |   
+| Frau Anke Wesemann | Sekretärin |  Verwaltungangestellte  |   
+| Frau Brückl | Sekretärin |  Verwaltungangestellte  |   
 
 # Lehrerkollegium
 
@@ -60,7 +61,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | 3b                                  | Eva Dallmayr              | Lin    |
 | 3d                                  | Lisa Schoeps               | Lin    |
 | 4a                                  | Alexandra Scherer          | Lin    |
-| 4b                                  | Max Tauwald               | L      |
+| 4b                                  | Maximilian Tauwald               | L      |
 | 4d                                  | Maximilian Aschenbrenner  | L      |
 | 5a                                  | Katja Doser                | Lin    |
 | 5G                                  | Sebastian Schranner        | StR/MS |
@@ -68,7 +69,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | 6G                                  | Gisela Näbauer             | Lin    |
 | 7G                                  | Sebastian Hierl            | LAA    |
 | 7M                                  | Christian Maurer           | L      |
-| 8G                                  | Karl Koeppelle             | L      |
+| 8G                                  | Karl Koeppelle             | StR/MS     |
 | 8M                                  | Thomas Härter             | L      |
 | 9a                                  | Christoph Richter        | L      |
 | 9G                                  | Andreas Strobel            | L      |
@@ -87,7 +88,6 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 |          |            |
 |-------------------------------|------------|
 | Lena Andrä-Karatas            | Lin        |
-| Alessandra Carboni Riehn      |            |
 | Kurt Christian                | L          |
 | Sonja Ermer                   | KRin       |
 | Sophia Fries                  | FöLA       |

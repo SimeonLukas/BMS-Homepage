@@ -77,3 +77,19 @@ Aktuelle und weiterführende Informationen finden Sie auf der Seite des Kultusmi
 Bei weiteren Fragen können Sie gerne jederzeit auf uns zukommen.
 
 Wir freuen uns auf alle neuen Erstklässler.
+
+## Eindrücke aus dem Unterricht
+
+{{video(src="https://cloud.staneks.de/index.php/s/b3MkSnBrAbZdPBy/download/HwVideoEditor_2023_02_07_101406157.mp4")}}
+
+{{video(src="https://cloud.staneks.de/index.php/s/2w49rYBGcntdEjz/download/VID_20230207_084115.mp4")}}
+
+{{video(src="https://cloud.staneks.de/index.php/s/92y8dcQe4nqXqWt/download/VID_20230207_084947.mp4")}}
+
+{{video(src="https://cloud.staneks.de/index.php/s/mbDgezLjoiZykWy/download/VID_20230207_085921.mp4")}}
+
+
+
+
+
+
