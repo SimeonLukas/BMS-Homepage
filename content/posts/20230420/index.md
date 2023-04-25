@@ -22,3 +22,6 @@ Die Buben, Wettkampfgruppe IV (Jahrgang 10 und jünger) unter der Betreuung von 
 Unter der Führung von Kurt Christian traten die Jungen der Wettkampfgruppe III/2 (Jahrgang 06 – 09) gegen die Mittelschule aus Miesbach an. Doch selbst mit fünf Vereinsspielern in den eigenen Reihen schafften sie es nicht, die Miesbacher - hatten zwei Vereinsspieler mehr in ihrem Team - im entscheidenden ersten Satz unter Kontrolle zu bringen. Am Ende unterlagen sie mit 37 zu 53.
 
 Trotz dieser Niederlagen gingen die Schüler der Bürgermeister – Schütte – Mittelschule erhobenen Hauptes vom Platz.
+
+{{downloads(folder="downloads/")}}
+
