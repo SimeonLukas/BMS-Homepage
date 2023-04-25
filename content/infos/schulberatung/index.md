@@ -28,7 +28,7 @@ Erster Ansprechpartner ist in der Regel die Klassenlehrerin bzw. der Klassenlehr
   
 Außerdem stehen Beratungslehrer oder die für Sie zuständige Schulpsychologin zur Verfügung.  
   
-Für Euch Schülerinnen und Schüler haben die Vertrauenslehrer ein offenes Ohr. Sie sind neben der Klassenleitung die erste Anlaufstelle bei Problemen untereinander. Außerdem könnt Ihr Euch jederzeit an die Schulsozialarbeiterinnen (JaS) hier an unserer Schule wenden.  
+Für Euch Schüler:innen haben die Vertrauenslehrer ein offenes Ohr. Sie sind neben der Klassenleitung die erste Anlaufstelle bei Problemen untereinander. Außerdem könnt Ihr Euch jederzeit an die Schulsozialarbeiterinnen (JaS) hier an unserer Schule wenden.  
   
   
 **Wichtig zu wissen:**  

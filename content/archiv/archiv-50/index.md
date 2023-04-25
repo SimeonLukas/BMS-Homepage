@@ -9,11 +9,11 @@ Sehr geehrte Eltern,
 
 der Beginn der Grundschulzeit am 14.09.2021 ist für Ihr Kind ein wichtiges Ereignis. Der besonderen Ausnahmesituation geschuldet müssen bei der Gestaltung des ersten Schultages die Erfordernisse des Infektionsschutzes angemessen berücksichtigt werden. Nur so ist ein sicherer Start in das Schuljahr 2021/22 möglich.
 
-## 1\. **Testobliegenheit für SchülerInnen**
+## 1\. **Testobliegenheit für Schüler:innen**
 
   
 Die Teilnahme an der Schuleingangsfeier (9:00 Uhr auf dem Schulhof) und am Präsenzunterricht ist auch für unsere ErstklässlerInnen nur mit Nachweis eines negativen Testergebnisses möglich.  
-Der Testnachweis entfällt für asymptomatische Schülerinnen und Schüler, die vollständig geimpft oder genesen sind und einen entsprechenden Nachweis erbringen.  
+Der Testnachweis entfällt für asymptomatische Schüler:innen, die vollständig geimpft oder genesen sind und einen entsprechenden Nachweis erbringen.  
   
 Liebe Eltern, das bedeutet für Sie:  
 Lassen Sie Ihr Kind im Vorfeld an einer Teststation oder Apotheke testen und bringen Sie am ersten Schultag einen gültigen negativen Testnachweis mit (maximal 48 Std. alter PCR-Test oder maximal 24 Std. alter Antigen-Schnelltest gemäß §3Abs.4 Nr. 1 und 2 der 14. BaylfSMV), den Ihr Kind vor Betreten des Schulgebäudes der Lehrkraft zeigt.  

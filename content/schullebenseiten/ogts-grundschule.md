@@ -3,7 +3,7 @@ weight = 2
 date = "2021-04-30"
 title = "Offene Ganztagschule der Grundschule"
 template = "toppage.html"
-description="Eine qualifizierte Nachmittagsbetreuung ist häufig der Schlüssel für schulischen Erfolg und eine gelungene Integration. Kinder erhalten ein gesundes Mittags­essen und individuelle Förderung am Nachmittg. Gleichzeitig wird der soziale Zusammenhalt und das gegenseitige Verständis gefördert..."
+description="Eine qualifizierte Nachmittagsbetreuung ist häufig der Schlüssel für schulischen Erfolg und eine gelungene Integration. Kinder erhalten ein gesundes Mittags­essen und individuelle Förderung am Nachmittg. Gleichzeitig wird der soziale Zusammenhalt und das gegenseitige Verständnis gefördert..."
 
 [extra]
 toc = true
@@ -25,7 +25,7 @@ Am Unterrichtsende wird Ihr Kind von einem Betreuer an der Schule empfangen und 
 -   Die OGTS findet Montag bis Donnerstag von 11Uhr – 16Uhr statt.
 -   Sie können die Tage und auch die Anzahl (2-4 Nachmittage) frei wählen.
 -   Es gibt dann vier Gruppen je nach Unterrichtsende: 11 Uhr, 12 Uhr, 12:45 Uhr, 13:30 Uhr
--   Diese gehen dann zuerst mit ihrem Betreuer in die Mensa essen und danach gemeinsam zu den Räumlichkeiten in der Bahnhoftraße.
+-   Diese gehen dann zuerst mit ihrem Betreuer in die Mensa essen und danach gemeinsam zu den Räumlichkeiten in der Bahnhofstraße.
 
 [Anmeldeformular](/downloads/#grundschule)
 

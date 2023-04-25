@@ -3,7 +3,7 @@ title = "Elternvertretung"
 weight = 1
 date = 2023-03-27
 template = "toppage.html"
-description="Das Amt der Klassenselternsprecher:innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenelternsprecher:innen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Gremien."
+description="Das Amt der Klassenselternsprecher:innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenelternsprecher:innen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Personen."
 [extra]
 toc = true
 +++
@@ -21,7 +21,7 @@ Insgesamt ist das Amt der Klassenselternsprecher:innen ein wichtiges Amt, das ei
 </details>
 
 # Grundschule
-## KlassenelternsprecherIn 2022/2023
+## Klassenelternsprecher:in 2022/2023
 
 | Kl | ElternsprecherIn           | ElternsprecherIn       |
 | -- | -------------------------- | ---------------------- |
@@ -46,12 +46,12 @@ Insgesamt ist das Amt der Klassenselternsprecher:innen ein wichtiges Amt, das ei
 **E-Mail:** [elternbeirat@volksschule-partenkirchen.de](mailto:elternbeirat@volksschule-partenkirchen.de)
 
 # Mittelschule
-## KlassenelternsprecherIn 2022/2023
+## Klassenelternsprecher:in 2022/2023
 | Kl   | ElternsprecherIn             | ElternsprecherIn          |
 | ---- | ---------------------------- | ------------------------- |
 | 5a   | Sepp Schnitzer               | Veronika Glatz            |
 | 5G   | Katrin Adam                  | Barbara Baudrexl          |
-| 6a   |  Kerstin Turnhuber           |  Daniela Barkow-Topcuoglu |
+| 6a   | Kerstin Turnhuber           |  Daniela Barkow-Topcuoglu |
 | 6G   | Barbara Brenner              | Katharina Avcu            |
 | 7G   | Hans-Jürgen Koppien-Schiebel | —                         |
 | 7M   | Gabriele Laczko              | Linus Käßer               |

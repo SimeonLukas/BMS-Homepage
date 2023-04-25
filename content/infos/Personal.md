@@ -77,7 +77,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | 10Ma                                | Olga Beermann              | Lin    |
 | 10Mb                                | Helmut Bürger              | L      |
 
-## Mittagskräfte im geb. Ganztag
+## Mittagskräfte im gebunden Ganztag
 |     |                |   |   
 |-------------------------------------|----------------|---|
 | 5G,7G                               | Frau Albakkour |   |   
@@ -105,14 +105,14 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 |          |            |
 |-------------------------------|------------|
 | Stefanie Echter*              | FLin       |
-| Andrea Meiler                 | FOL        |
-| Stefanie Schilling *          | FOL/EG     |
+| Andrea Meiler                 | FOLin        |
+| Stefanie Schilling *          | FOLin     |
 | Hans-Peter Schmitt*           | FOL/mt     |
 | Monika Pach                   | FLin       |
 | Andrea Schwinghammer          | FOLin/EG   |
 | Louis Gabler*                 | FL/mus.    |
 | Ludwig Geiger                 | FOL/mt     |
-| Maria Anna Haseidl            | FL/EG      |
+| Maria Anna Haseidl            | FOLin      |
 
 *nicht Stammschule
 

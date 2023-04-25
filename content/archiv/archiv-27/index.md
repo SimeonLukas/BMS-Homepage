@@ -21,7 +21,7 @@ Das Kunstprojekt wurde als regelmäßiges, wöchentliches Angebot für Kinder im
 
 \[Best\_Wordpress\_Gallery id="11" gal\_title="Alpensinfonie"\]
 
-Trotz der Hemmnisse blieben die jungen Künstler bei der Sache. Azra (14) und ihre Mitschülerinnen und Mitschüler Bengisu (14), Ilma (13), Lara (13), Polina (14) und weitere Schülerinnen und Schüler der 8. Klasse ließen sich von den durch die Musik der Alpensinfonie erzeugten Stimmungen leiten und setzten diese malerisch auf Leinwand und/ oder Glas um. Während der Pandemie entstand dadurch ein Zyklus von farbenfrohen Gemälden, der die Musik der Alpensinfonie in Bildern fasst.
+Trotz der Hemmnisse blieben die jungen Künstler bei der Sache. Azra (14) und ihre Mitschülerinnen und Mitschüler Bengisu (14), Ilma (13), Lara (13), Polina (14) und weitere Schüler:innen der 8. Klasse ließen sich von den durch die Musik der Alpensinfonie erzeugten Stimmungen leiten und setzten diese malerisch auf Leinwand und/ oder Glas um. Während der Pandemie entstand dadurch ein Zyklus von farbenfrohen Gemälden, der die Musik der Alpensinfonie in Bildern fasst.
 
 Parallel dazu wurde den Schülern die Person und die Musik von Richard Strauss nähergebracht.
 

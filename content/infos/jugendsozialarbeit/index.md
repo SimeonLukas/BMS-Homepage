@@ -22,7 +22,7 @@ toc = true
 
 #### **Was ist Jugendsozialarbeit an Schulen (JaS)?**
 
-JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schülerinnen und Schüler, Eltern sowie Lehrkräfte. JaS schlägt eine Brücke zwischen dem System Schule und der Kinder- und Jugendhilfe.
+JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler:innen, Eltern sowie Lehrkräfte. JaS schlägt eine Brücke zwischen dem System Schule und der Kinder- und Jugendhilfe.
 
 <!-- more -->
 

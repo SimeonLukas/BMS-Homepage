@@ -35,7 +35,7 @@ Bader und Peter Sedlmayr, die beide die BGM-Schütte-Mittelschule Garmisch-Pa.
 besuchen.  
 Alle Schülersprecherinnen und Schülersprecher sowie alle Verbindungslehrkräfte  
 wünschten abschließend den drei neuen Landkreisschülersprechern, die nun die  
-Interessen von insgesamt 1.000 Schülerinnen und Schülern der Mittelschulen  
+Interessen von insgesamt 1.000 Schüler:innenn der Mittelschulen  
 vertreten, viel Erfolg in ihrem neuen Aufgabenbereich.  
 Bildbeschreibung v.l.n.r.:
 

@@ -3,7 +3,7 @@ weight = 0
 date = "2023-04-05"
 title = "Quali"
 template = "toppage.html"
-description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere Leistungsfeststellung, der sich Schülerinnen und Schüler in Jahrgangsstufe 9 zusätzlich unterziehen können. Dabei müssen sie sich am Ende der neunten Klasse in bestimmten Fächern eine besondere Prüfung (schriftlich, praktisch und mündlich) ablegen.Wer bei der Gesamtbewertung mindestens die Note 3,0 erreicht, erhält das Zeugnis über den qualifizierenden Abschluss der Mittelschule. Die Teilnahme ist freiwillig."
+description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere Leistungsfeststellung, der sich Schüler:innen in Jahrgangsstufe 9 zusätzlich unterziehen können. Dabei müssen sie sich am Ende der neunten Klasse in bestimmten Fächern eine besondere Prüfung (schriftlich, praktisch und mündlich) ablegen.Wer bei der Gesamtbewertung mindestens die Note 3,0 erreicht, erhält das Zeugnis über den qualifizierenden Abschluss der Mittelschule. Die Teilnahme ist freiwillig."
 
 [extra]
 

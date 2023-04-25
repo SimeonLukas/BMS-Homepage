@@ -11,6 +11,6 @@ Daher freuen sich die Kinder der 2. Klassen sehr, dass während des gesamten Sch
 
 Im Rahmen des gemeinsamen Singens werden dabei auch die sozialen Kompetenzen der Kinder in hohem Maße gefordert und gefördert.
 
-Die Schülerinnen und Schüler der 2. Klassen freuen sich jeden Donnerstag, wenn Frau Hornsteiner mit ihnen gemeinsam singt und musiziert.
+Die Schüler:innen der 2. Klassen freuen sich jeden Donnerstag, wenn Frau Hornsteiner mit ihnen gemeinsam singt und musiziert.
 
 [![](images/Foto-Singklasse-1024x768.jpg)](https://volksschule-partenkirchen.de/wp-content/uploads/Foto-Singklasse.jpg)

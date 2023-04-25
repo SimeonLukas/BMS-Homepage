@@ -40,7 +40,7 @@ Lesen Sie Ihrem Kind abschließend das Gedicht als Abschlussritual unserer
 
 Wir hoffen, auch die fünfte „Vorschulkinderzeit daheim“ hat Ihnen und Ihrem Kind gefallen und wir dürfen Sie auch beim nächsten Mal wieder begrüßen.
 
-_Herzliche Grüße von Fine und den Lehrerinnen und Lehrern der Bürgermeister-Schütte-Grundschule!_
+_Herzliche Grüße von Fine und den Lehrer:innenn der Bürgermeister-Schütte-Grundschule!_
 
 * * *
 

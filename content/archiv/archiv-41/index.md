@@ -18,7 +18,7 @@ vielen Dank für Ihre fristgerechte Einreichung der Dokumentation zum Landesprog
   
 Die Jury hat Ihre Projektdokumentation und Ihr Engagement im Rahmen des Landesprogramms für die gute gesunde Schule im Projektzeitraum 2019-2021 positiv bewertet. Ich freue mich, Ihnen mitteilen zu können, dass die Bürgermeister-Schütte Grund- und Mittelschule Garmisch-Partenkirchen die Auszeichnung der guten gesunden Schule Bayern 2021 erhält. Herzlichen Glückwunsch!  
   
-Überzeugt haben die Ausführungen Ihrer Projekte, die sich an den Grundbedürfnissen eines jeden Kindes orientieren und eine Partizipation der Schülerinnen und Schüler ermöglichen.  
+Überzeugt haben die Ausführungen Ihrer Projekte, die sich an den Grundbedürfnissen eines jeden Kindes orientieren und eine Partizipation der Schüler:innen ermöglichen.  
   
 Das Engagement aller ausgezeichneten Schulen wird im Rahmen einer digitalen Veranstaltung gewürdigt. Ich darf Sie schon jetzt auf diese bayernweite Auszeichnungsveranstaltung in KW 42 aufmerksam machen, in der Ihnen offiziell Ihre Auszeichnungsplakette „überreicht wird“. Die Veranstaltung wird vom Bayerischen Staatsministerium für Unterricht und Kultus sowie vom Staatsministerium für Gesundheit und Pflege und allen weiteren Partnern des Landesprogramms ausgerichtet. Eine Einladung dazu erhalten Sie noch rechtzeitig.
 

@@ -14,7 +14,7 @@ Ich bin schon ganz aufgeregt!
 Warum, fragst du? Na, vielleicht kannst du es dir sogar schon denken. Morgen bekommen wir ganz viel Besuch! Ob ich Geburtstag habe, fragst du?  
 Nein, Geburtstag habe ich nicht, aber ich freue mich genau so sehr, als wenn es mein Geburtstag wäre!
 
-Morgen dürfen alle Kinder, die im September zu uns in die Schule kommen, schon einmal bei uns vorbeischauen, sich den Schulhof und die Klassenräume ansehen und hineinschnuppern, wie es ist, ein Schulkind zu sein. Die Mamas und Papas können Fragen an die Lehrerinnen und Lehrer stellen und erfahren, wie es für dich als Schulkind im September los geht. Und ich darf euch endlich persönlich kennenlernen! Ich freue mich schon riesig!
+Morgen dürfen alle Kinder, die im September zu uns in die Schule kommen, schon einmal bei uns vorbeischauen, sich den Schulhof und die Klassenräume ansehen und hineinschnuppern, wie es ist, ein Schulkind zu sein. Die Mamas und Papas können Fragen an die Lehrer:innen stellen und erfahren, wie es für dich als Schulkind im September los geht. Und ich darf euch endlich persönlich kennenlernen! Ich freue mich schon riesig!
 
 Ich bin gespannt, ob du mich morgen im Schulhaus entdeckst! Ich habe auf jeden Fall schon meinen Schulranzen gepackt und kann es kaum erwarten!
 
