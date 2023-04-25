@@ -22,7 +22,7 @@ Maßnahme zur Unterstützung von SchülerInnen am Übergang von Schule zum Beruf
 
 - Berufsorientierung und Berufswahl
 
-- Suche eines Ausbildungsplatzes S
+- Suche eines Ausbildungsplatzes
 
 - Stabilisierung des Ausbildungsverhältnisses
 
