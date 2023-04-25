@@ -1,7 +1,7 @@
 +++
 weight = 100
 date = "2021-04-30"
-title = "Jahrgangstufe 9"
+title = "Jahrgangsstufe 9"
 template = "toppage.html"
 description =""
 +++
