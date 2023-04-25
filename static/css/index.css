@@ -412,7 +412,7 @@ body.hidden-scroll {
   animation: mask-play 5s steps(43) forwards;
   animation-play-state: running;
   left: auto;
-  margin-left: 0px;
+  margin-left: -10px;
 }
 
 
