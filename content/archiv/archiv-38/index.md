@@ -1,6 +1,6 @@
 +++
 title = "Fine mit der Mine Teil 10"
-date = 2021-09-06
+date = 2021-09-15
 [taxonomies]
 tags = ["Fine mit der Mine" ]
 +++

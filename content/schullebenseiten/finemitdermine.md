@@ -18,4 +18,4 @@ Anschließend folgt passend dazu eine kleine Aufgabe, die Ihr Kind nach einer ku
 Bitte nehmen Sie sich die Zeit, Ihr Kind während der Bearbeitung zu begleiten und eventuelle Fragen zu klären.  
 Als Abschluss der „Vorschulkinderzeit daheim“ haben wir ein Gedicht ausgewählt, welches Sie Ihrem Kind vorlesen oder wieder als Hördatei abspielen können, um die gemeinsame Zeit zu beenden.
 
-[Los gehts!](/tags/fine-mit-der-mine/)
+[Los gehts!](/archiv/archiv-7/)
