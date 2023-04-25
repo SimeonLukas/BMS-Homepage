@@ -3,7 +3,7 @@ title = "Elternvertretung"
 weight = 1
 date = 2023-03-27
 template = "toppage.html"
-description="Das Amt der Klassenselternsprecher:innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenselternsprecherinnen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Gremien."
+description="Das Amt der Klassenselternsprecher:innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenelternsprecher:innen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Gremien."
 [extra]
 toc = true
 +++

@@ -3,7 +3,7 @@ weight = 5
 date = "2021-04-30"
 title = "Schulpsychologische Beratung"
 template = "toppage.html"
-description="Aufgabe der Schulpsychologie sind die Betreuung und Beratung von Schülern, Eltern und Lehrern bei schulischen Fragestellungen und auftretenden Schwierigkeiten. Die Beratung ist freiwillig, vertraulich und kostenlos. Sie schließt die enge Zusammenarbeit mit Beratungslehrkräften und außerschulischen Einrichtungen ein."
+description="Aufgaben der Schulpsychologie sind die Betreuung und Beratung von Schülern, Eltern und Lehrern bei schulischen Fragestellungen und auftretenden Schwierigkeiten. Die Beratung ist freiwillig, vertraulich und kostenlos. Sie schließt die enge Zusammenarbeit mit Beratungslehrkräften und außerschulischen Einrichtungen ein."
 
 [extra]
 toc = true
@@ -21,7 +21,7 @@ Liebe Eltern, liebe Schülerinnen und Schüler,
 
 als zuständige Schulpsychologin möchte ich mich und das Angebot der schulpsychologischen Beratung hiermit kurz vorstellen:  
   
-Aufgabe der Schulpsychologie sind die Betreuung und Beratung von Schülern, Eltern und Lehrern bei schulischen Fragestellungen und auftretenden Schwierigkeiten.  
+Aufgaben der Schulpsychologie sind die Betreuung und Beratung von Schülern, Eltern und Lehrern bei schulischen Fragestellungen und auftretenden Schwierigkeiten.  
 Die Beratung ist freiwillig, vertraulich und kostenlos.  
 Sie schließt die enge Zusammenarbeit mit Beratungslehrkräften und außerschulischen Einrichtungen ein.
 

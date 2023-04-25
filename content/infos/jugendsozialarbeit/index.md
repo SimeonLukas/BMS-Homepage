@@ -3,7 +3,7 @@ weight = 5
 date = "2021-04-30"
 title = "Jugendsozialarbeit"
 template = "toppage.html"
-description="JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler:innen Eltern sowie Lehrkräfte. JaS schlägt eine Brücke zwischen dem System Schule und der Kinder- und Jugendhilfe."
+description="JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler:innen, Eltern sowie Lehrkräfte. JaS schlägt eine Brücke zwischen dem System Schule und der Kinder- und Jugendhilfe."
 
 [extra]
 toc = true
