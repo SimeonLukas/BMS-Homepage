@@ -11,7 +11,7 @@ tags = ["Fine mit der Mine" ]
 
 Liebe Eltern
 
-wir alle kennen es gut. Das Spielen ist vorbei und die Spielsachen im Kinderzimmer räumt sich nicht von alleine auf. Das Kind ist plötzlich so müde, dass es ohne Zähneputzen direkt ins Bett möchte und leider ist die Kraft zum Aufräumen auch nicht mehr da.  
+wir alle kennen es gut. Das Spielen ist vorbei und die Spielsachen im Kinderzimmer räumen sich nicht von alleine auf. Das Kind ist plötzlich so müde, dass es ohne Zähneputzen direkt ins Bett möchte und leider ist die Kraft zum Aufräumen auch nicht mehr da.  
 Doch auch das Aufräumen gehört zum Spielen dazu und ist ein wichtiger Aspekt, den Kinder lernen müssen.  
 Auch in der Schule ist ein strukturierter Arbeitsplatz, das Herrichten des eigenen Materials und das Aufräumen ein wichtiges Thema. Von Beginn an legen wir Wert darauf, dass jedes Kind seinen eigenen Platz an der Garderobe hat und alle seine Materialien an speziell dafür vorgesehenen Plätzen findet. So werden zum Beispiel Arbeitsblätter in dafür vorgesehenen Ablagen gesammelt, Kunstmaterialien in Kästen verstaut und auch die Bücher haben ihre festen Plätze. Der Arbeitsplatz Ihres Kindes in der Schule sowie daheim und auch der Schulranzen sollten immer so strukturiert und geordnet sein, dass jedes Kind sich voll und ganz auf seine Aufgaben konzentrieren kann.  
 Natürlich bedarf es hier noch einiger Hilfe, bis jedes Kind es schafft, seine Unterrichtsmaterialien und seinen Arbeitsplatz zu ordnen und zu strukturieren, aber wir können bereits jetzt beginnen, jedes Kind dabei zu unterstützen dieses zu lernen. 
@@ -24,7 +24,7 @@ Sollten Sie zu diesem Thema weitere Informationen oder Tipps zum Üben benötige
 
 **Zum heutigen Ablauf:**  
 Bauen Sie zu Beginn gemeinsam mit Ihrem Kind einen Turm oder ein Gebäude aus Holzbausteinen oder ähnlichen Bausteinen.  
-Wählen Sie gemeinsam mit Ihrem Kind eine Musik aus, die sie ab nun als Aufräummusik nutzen möchte und räumen Sie gemeinsam mit Ihrem Kind die Bausteine auf.  
+Wählen Sie gemeinsam mit Ihrem Kind eine Musik aus, die sie ab nun als Aufräummusik nutzen möchten und räumen Sie gemeinsam mit Ihrem Kind die Bausteine auf.  
   
 Lesen Sie Ihrem Kind danach den zweiten Teil der Geschichte über „Fine mit der Mine“ vor. Sie trägt den Titel „Fine und das große Chaos“. Sie können alternativ auch die Geschichte von der Homepage unserer Schule abspielen und vorlesen lassen.  
   
@@ -45,8 +45,8 @@ Unser Abschlussgedicht
 
 Downloads
 
-[Fine und das große Chaos](https://volksschule-partenkirchen.de/wp-content/uploads/Fine-und-das-grosse-Chaos.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Fine-und-das-grosse-Chaos.pdf)
+[Fine und das große Chaos](https://volksschule-partenkirchen.de/wp-content/uploads/Fine-und-das-grosse-Chaos.pdf)
 
-[Mein-Arbeitsplatz](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Mein-Arbeitsplatz.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Mein-Arbeitsplatz.pdf)
+[Mein-Arbeitsplatz](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Mein-Arbeitsplatz.pdf)
 
-[Geschichte Fine Teil 2](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-2.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-2.pdf)
+[Geschichte Fine Teil 2](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-2.pdf)
