@@ -7,7 +7,7 @@ tags = ["aktuelles" ,"berufsorientierung" ]
 
 Eine gelungene Abwechslung im Schulalltag wurde den Klassen 8 und 9 der be-rufsorientierenden Wirtschaft und Kommunikation-Gruppen zuteil!
 
-22 Schüler/-innen der Bürgermeister-Schütte-Mittelschule bekamen am Mittwoch,
+22 Schüler:innen der Bürgermeister-Schütte-Mittelschule bekamen am Mittwoch,
 
 8\. Februar 2023, die Gelegenheit, das Finanzamt sowie das Amtsgericht zu be-suchen.
 
