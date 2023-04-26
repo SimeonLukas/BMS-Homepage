@@ -1,7 +1,7 @@
 +++
 title = "Sternsinger 2022"
 date = 2022-01-21
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"impressionen" ,"schulleben" ]
 +++
 

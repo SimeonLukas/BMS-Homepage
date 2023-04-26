@@ -1,7 +1,7 @@
 +++
 title = "Feedback zum unserem \"Momo\"-Projekt"
 date = 2021-07-19
-[taxonomie]
+[taxonomies]
 tags = ["mittelschulaktivitaeten" ]
 +++
 

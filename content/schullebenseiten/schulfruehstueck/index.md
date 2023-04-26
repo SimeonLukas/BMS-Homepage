@@ -12,8 +12,6 @@ categories = ["Sport & Gesundheit"]
 
 ## Warum gibt es das Schulfrühstück?
 
-In der heutigen Zeit ist es wichtiger denn je, dass wir uns um unsere Gesundheit kümmern. Ein gesundes Frühstück ist ein wichtiger Bestandteil einer gesunden Ernährung und kann uns dabei helfen, fit und konzentriert durch den Tag zu kommen. An der Bürgermeister-Schütte-Grund- und Mittelschule wird deshalb großen Wert auf ein gesundes Schulfrühstück gelegt.
-
 Gleichzeitig wird auch das Thema Gleichberechtigung in der Schule großgeschrieben. Denn es ist wichtig, dass alle Schüler:innen die gleichen Chancen und Möglichkeiten haben, unabhängig von ihrem Geschlecht oder ihrer Herkunft.
 
 Das gesunde Schulfrühstück an der Bürgermeister-Schütte-Grund- und Mittelschule umfasst eine Vielzahl an gesunden Lebensmitteln wie Obst, Gemüse, Vollkornbrot und Milchprodukte. Auch auf den Zuckergehalt wird geachtet, denn zu viel Zucker kann zu Konzentrationsschwierigkeiten und Müdigkeit führen.

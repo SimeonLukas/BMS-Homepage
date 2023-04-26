@@ -1,7 +1,7 @@
 +++
 title = "Elternbrief"
 date = 2021-11-25
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"mitteilungen" ]
 +++
 

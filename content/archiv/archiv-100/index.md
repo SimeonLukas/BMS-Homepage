@@ -1,7 +1,7 @@
 +++
 title = "🧑‍🎓Entlassfeier der SchulabsolventInnen"
 date = 2022-08-05
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"impressionen" ]
 +++
 

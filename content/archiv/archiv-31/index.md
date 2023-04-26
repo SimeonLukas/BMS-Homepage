@@ -1,7 +1,7 @@
 +++
 title = "Die Alpensinfonie in farbenfrohen Bildern"
 date = 2021-06-29
-[taxonomie]
+[taxonomies]
 tags = ["kultur-macht-stark-projekte" ,"presse" ]
 +++
 

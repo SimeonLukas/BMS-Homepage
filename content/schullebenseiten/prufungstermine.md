@@ -20,10 +20,8 @@ toc = true
 |  Di | 27.06.2023 |  Deutsch, DaZ  |
 |  Fr | 30.06.2023 |  Mathematik    |
 
-Zu den aufgeführten Zeiten beginnt die Prüfung.
-
 Gez.V.Hafenrichter  
-30.09.2023
+30.09.2022
 
 # Mittlerer Schulabschluss
 
@@ -38,7 +36,7 @@ Gez.V.Hafenrichter
 ---
 
 S Gez.V.Hafenrichter  
-30.09.2023
+30.09.2022
   
 Jeder Prüfling muss sich selbstständig über die Prüfungstermine informieren.  
 Genaue Uhrzeiten und Gruppeneinteilungen der einzelnen Prüfungen hängen eine Woche vor dem Prüfungstermin am Schwarzen Brett im 1. Stock des Verwaltungstraktes der Bürgermeister-Schütte-Schule.

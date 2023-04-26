@@ -1,7 +1,7 @@
 +++
 title = "Bewegungsangebote"
 date = 2020-10-30
-[taxonomie]
+[taxonomies]
 tags = ["schulleben" ]
 +++
 

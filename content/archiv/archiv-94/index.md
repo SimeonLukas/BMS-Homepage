@@ -1,7 +1,7 @@
 +++
 title = "🎬 Die Alpensinfonie als Tanz | Trailer"
 date = 2022-07-04
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"alpensinfonie" ,"tanzprojekte" ]
 +++
 

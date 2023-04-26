@@ -1,7 +1,7 @@
 +++
 title = "Pooltestverfahren Klassen 5 & 6"
 date = 2022-02-23
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"briefe-fuer-schueler" ,"mitteilungen" ]
 +++
 

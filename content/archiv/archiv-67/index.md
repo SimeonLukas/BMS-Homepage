@@ -1,7 +1,7 @@
 +++
 title = "Wunderbares Christkindl"
 date = 2021-12-21
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"karitativ" ,"schulleben" ]
 +++
 

@@ -13,7 +13,7 @@ description ="Der mittlere Schulabschluss an der Mittelschule verleiht u. a. die
 
 Die Anmeldefrist für externe Bewerber für den Mittleren Schulabschluss ist bis Montag, 1. Februar 2024. Das letzte Zeugnis ist bei der Anmeldung vorzulegen.
 
-Teilnehmen am Mittleren Schulabschluss können nur Personen, die zum Mittelschulverbund GAP –Mittenwald gehören.
+Teilnehmen am Mittleren Schulabschluss können nur Personen, die zum Mittelschulverbund GAP–Mittenwald gehören.
 
 Die Abschlussprüfung besteht …
 
@@ -22,8 +22,6 @@ Die Abschlussprüfung besteht …
 - im Fach Mathematik aus einer schriftlichen Prüfung
 
 - im Fach Englisch aus einer schriftlichen und einer mündlichen Prüfung
-
-- aus einer Projektprüfung mit schriftlichen, mündlichen und praktischen Lerninhalten des Faches AWT (Arbeit-Wirtschaft-Technik) sowie eines der berufsorientierenden Wahlpflichtfächer ( Soziales oder Wirtschaft oder Technik)
 
 - im Fach GSE aus einer mündlichen Prüfung
 
@@ -36,7 +34,7 @@ In den mündlichen Prüfungen GSE und PCB wird der gesamte Jahresstoff abgeprüf
 
 Die Prüfungstermine für die Projektprüfung, GSE und PCB werden bekannt gegeben, sobald sie feststehen.
 
-Alle Terminangaben sind ohne Gewähr!!!
+Alle Terminangaben sind ohne Gewähr!
 
 Für Fragen stehen wir gerne zur Verfügung. Bitte im Sekretariat (08821/9103500) eine Nachricht mit Namen und Telefonnummer hinterlassen. Wir rufen dann zurück!
 

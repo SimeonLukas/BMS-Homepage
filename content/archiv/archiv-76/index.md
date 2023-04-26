@@ -1,7 +1,7 @@
 +++
 title = "Richtiger Umgang mit digitalen Medien"
 date = 2022-02-23
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"impressionen" ,"mittelschulaktivitaeten" ,"presse" ,"schulleben" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Aufgeben gibt es nicht"
 date = 2022-05-31
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"mittelschulaktivitaeten" ]
 +++
 

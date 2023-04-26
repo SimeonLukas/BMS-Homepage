@@ -1,7 +1,7 @@
 +++
 title = "😎 Ihr seid die coolen Socken"
 date = 2022-07-28
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"schulleben" ]
 +++
 

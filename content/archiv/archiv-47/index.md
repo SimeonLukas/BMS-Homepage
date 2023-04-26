@@ -1,7 +1,7 @@
 +++
 title = "Sonnenliegen für’n Sunnaweg"
 date = 2021-08-09
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"mittelschulaktivitaeten" ]
 +++
 

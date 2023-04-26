@@ -1,7 +1,7 @@
 +++
 title = "JaS-Brief für Grundschulkinder"
 date = 2021-03-11
-[taxonomie]
+[taxonomies]
 tags = ["briefe-fuer-schueler" ]
 +++
 

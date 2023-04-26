@@ -1,7 +1,7 @@
 +++
 title = "Zwei Schulen, zwei Sanierungsfälle"
 date = 2021-01-14
-[taxonomie]
+[taxonomies]
 tags = ["presse" ]
 +++
 

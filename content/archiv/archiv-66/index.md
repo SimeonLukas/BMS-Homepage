@@ -1,7 +1,7 @@
 +++
 title = "Weihnachtsbrief"
 date = 2021-12-21
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"briefe-fuer-schueler" ,"mitteilungen" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Starke Partner für große Herausforderung"
 date = 2021-04-19
-[taxonomie]
+[taxonomies]
 tags = ["presse" ]
 +++
 

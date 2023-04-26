@@ -1,7 +1,7 @@
 +++
 title = "Bläserklasse"
 date = 2021-07-26
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"blaeserklassen" ,"mittelschulaktivitaeten" ]
 +++
 

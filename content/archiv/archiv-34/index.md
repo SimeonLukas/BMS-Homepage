@@ -1,7 +1,7 @@
 +++
 title = "\"Alpensinfonie in Farbe\""
 date = 2021-07-05
-[taxonomie]
+[taxonomies]
 tags = ["kultur-macht-stark-projekte" ,"mittelschulaktivitaeten" ,"presse" ]
 +++
 

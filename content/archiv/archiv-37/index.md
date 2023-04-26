@@ -1,7 +1,7 @@
 +++
 title = "Regelungen der ersten Schultage"
 date = 2021-07-05
-[taxonomie]
+[taxonomies]
 tags = ["infos-zum-schulanfang" ]
 +++
 

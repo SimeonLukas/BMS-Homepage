@@ -1,7 +1,7 @@
 +++
 title = "Wir sind \"gute gesunde Schule\""
 date = 2021-07-26
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"ministerien-infos" ]
 +++
 

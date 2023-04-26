@@ -1,7 +1,7 @@
 +++
 title = "Sicher zur Schule"
 date = 2021-06-28
-[taxonomie]
+[taxonomies]
 tags = ["infos-zum-schulanfang" ]
 +++
 

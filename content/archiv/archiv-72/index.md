@@ -1,7 +1,7 @@
 +++
 title = "Präsentation zur Schuleinschreibung"
 date = 2022-01-24
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"einschulung_2022" ]
 +++
 

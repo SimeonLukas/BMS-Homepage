@@ -1,7 +1,7 @@
 +++
 title = "Ein Kunstwerk bleibt im Ort"
 date = 2022-01-10
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"impressionen" ,"karitativ" ,"presse" ]
 +++
 

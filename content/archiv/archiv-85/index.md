@@ -1,7 +1,7 @@
 +++
 title = "Eislaufen auf der Eisfläche am Mohrenplatz"
 date = 2022-05-17
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"grundschulaktivitaeten" ]
 +++
 

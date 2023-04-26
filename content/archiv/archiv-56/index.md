@@ -1,7 +1,7 @@
 +++
 title = "Internationales Begegnungsprojekt"
 date = 2021-10-29
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"mittelschulaktivitaeten" ]
 +++
 

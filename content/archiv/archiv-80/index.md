@@ -1,7 +1,7 @@
 +++
 title = "Information for children and young people from Ukraine"
 date = 2022-03-25
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"karitativ" ,"mitteilungen" ]
 +++
 

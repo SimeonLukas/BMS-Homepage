@@ -2,7 +2,7 @@
 title="Kontakt"
 date ="2023-01-01"
 template = "toppage.html"
-description="Grund- und Mittelschule Garmisch-Partenkirchen"
+description="Bürgermeister-Schütte-Grund-und Mittelschule"
 +++
 
 Hindenburgstraße 10    
@@ -10,7 +10,7 @@ Hindenburgstraße 10
 
 <div class="triple contacts">
 <div>{{person(name = "Rektorin Stephanie Schmidt" , phone="+49 8821 9103500" , mail="schulleitung@volksschule-partenkirchen.de")}}</div>
-<div>{{person(name = "Sekräterin Anke Wesemann" , phone="+49 8821 9103500" , mail="schulleitung@volksschule-partenkirchen.de")}}</div>
+<div>{{person(name = "Sekretariat" , phone="+49 8821 9103500" , mail="schulleitung@volksschule-partenkirchen.de")}}</div>
 </div>
 
 ---

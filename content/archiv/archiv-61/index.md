@@ -1,7 +1,7 @@
 +++
 title = "Klima und Klimaschutz"
 date = 2021-11-22
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"grundschulaktivitaeten" ]
 +++
 

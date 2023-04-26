@@ -13,9 +13,9 @@ toc = true
 
 +++
 
-Ziel unserer Schule  ist es, die Schüler:innen möglichst umfassend und zielgerichtet mit ihren individuellen Besonderheiten auf den Übergang und den Einstieg in das Berufsleben vorzubereiten.
+Ziel unserer Schule ist es, die Schüler:innen möglichst umfassend und zielgerichtet mit ihren individuellen Besonderheiten auf den Übergang und den Einstieg in das Berufsleben vorzubereiten.
 <!-- more -->
-Die Bürgermeister-Schütte-Schule  kooperiert im Bereich der Berufsorientierung mit außerschulischen Partnern wie dem BFZ/ GFI GmbH aus dem Bereich externer Bildungsträger, der Agentur für Arbeit, sowie dem  Bereich der Jugend und Sozialhilfe (Kolping und Caritas). Des Weiteren bestehen fortwährende Bestrebungen, ortsansässige Betriebe aller Berufsbereiche in die Kooperation ,,Schule-Betrieb-Ausbildung“ einzubinden.
+Die Bürgermeister-Schütte-Schule kooperiert im Bereich der Berufsorientierung mit außerschulischen Partnern wie dem BFZ/ GFI GmbH aus dem Bereich externer Bildungsträger, der Agentur für Arbeit, sowie dem  Bereich der Jugend und Sozialhilfe (Kolping und Caritas). Des Weiteren bestehen fortwährende Bestrebungen, ortsansässige Betriebe aller Berufsbereiche in die Kooperation ,,Schule-Betrieb-Ausbildung“ einzubinden.
 
   
 Im Zuge des Berufswahlprozesses finden seitens der Schule in den verschiedenen Jahrgangsstufen vielfältige Aktionen und Maßnahmen statt:
@@ -30,7 +30,7 @@ Im Zuge des Berufswahlprozesses finden seitens der Schule in den verschiedenen J
 
 # Klasse 9
 
-<table><tbody><tr><td>Bewerbertag in Zusammenarbeit mit<br>10 verschiedenen örtlichen Betrieben</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse</td></tr><tr><td>Werksführung BMW München</td></tr><tr><td>AusbildungsScouts der IHK kommen in die Schule</td></tr><tr><td><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/">Berufseinstiegsbegleitung »</a></td></tr></tbody></table>
+<table><tbody><tr><td>Bewerbertag in Zusammenarbeit mit 10 verschiedenen örtlichen Betrieben</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse</td></tr><tr><td>Werksführung BMW München</td></tr><tr><td>AusbildungsScouts der IHK kommen in die Schule</td></tr><tr><td><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/">Berufseinstiegsbegleitung »</a></td></tr></tbody></table>
 
 # Klasse 10
 

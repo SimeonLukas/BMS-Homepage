@@ -1,7 +1,7 @@
 +++
 title = "Umgang mit Krankheits-und Erkältungssymptomen"
 date = 2021-11-15
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"ministerien-infos" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Laufen für bedürftige Kinder und Flutopfer"
 date = 2021-08-02
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"grundschulaktivitaeten" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Schulbusfahrplan ab 15.03.21"
 date = 2021-03-11
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"mitteilungen" ]
 +++
 

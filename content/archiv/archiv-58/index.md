@@ -1,7 +1,7 @@
 +++
 title = "Maskenpflicht"
 date = 2021-11-05
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"mitteilungen" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Wintersportwoche im Februar"
 date = 2022-04-25
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"impressionen" ,"schulleben" ]
 +++
 

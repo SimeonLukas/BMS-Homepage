@@ -1,7 +1,7 @@
 +++
 title = "gute gesunde Schule – Auszeichung"
 date = 2021-10-04
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Kunstprojekt 8G \"Kultur macht stark\""
 date = 2021-06-07
-[taxonomie]
+[taxonomies]
 tags = ["kultur-macht-stark-projekte" ,"archiv" ,"mittelschulaktivitaeten" ]
 +++
 

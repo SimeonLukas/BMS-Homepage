@@ -1,7 +1,7 @@
 +++
 title = "Dritter von Oberbayern"
 date = 2022-05-31
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"mittelschulaktivitaeten" ,"schulleben" ]
 +++
 

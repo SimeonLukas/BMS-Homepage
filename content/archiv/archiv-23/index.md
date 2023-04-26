@@ -1,7 +1,7 @@
 +++
 title = "Gebundener Ganztag an Schütte-Schule"
 date = 2021-03-25
-[taxonomie]
+[taxonomies]
 tags = ["presse" ]
 +++
 

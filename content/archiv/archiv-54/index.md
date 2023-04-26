@@ -1,7 +1,7 @@
 +++
 title = "Ende des Investitionsstaus in Sicht"
 date = 2021-10-11
-[taxonomie]
+[taxonomies]
 tags = ["presse" ]
 +++
 

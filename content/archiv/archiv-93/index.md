@@ -1,7 +1,7 @@
 +++
 title = "Materialliste für die neuen 1. Klassen"
 date = 2022-06-27
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"infos-zum-schulanfang" ]
 +++
 

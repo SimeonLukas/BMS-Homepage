@@ -1,7 +1,7 @@
 +++
 title = "Unsere Grundschule wird bilingual"
 date = 2022-02-21
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ]
 +++
 

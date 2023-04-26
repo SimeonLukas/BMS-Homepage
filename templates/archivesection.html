@@ -23,36 +23,23 @@
         {% endif %}
 
         {% for page in pages %}
-        <article class="box" style="width: 100%; max-width: 250px; height: 200px;">
+        <article class="box" style="width: 100%; max-width: 250px; height: 200px;overflow: scroll;">
           <p class="subtitle" style="font-size: 15px"> {{ macros::page_publish_metadata(page=page) }}</p>
           <h3 class="title" style="font-size: 20px">
             <a class="has-text-blue" href='{{ page.permalink }}'>
           {{ page.title }}
             </a>
           </h3>
-          <div class="columns ">
-  
-          
-          </div>
-          <div class="mt-2">
-            <!-- {{ page.summary | safe }} -->
-            <!-- <a class="has-text-danger-dark has-text-weight-semibold" href='{{ page.permalink }}'> -->
-              <!-- Weiterlesen -->
-              <!-- <span class="icon is-small"> -->
-                <!-- <i class="fas fa-arrow-right fa-xs"></i> -->
-              <!-- </span> -->
-            </a>
-          </div>
+          <hr>
           <div class="columns">
-            <div class="column">
-              <!-- {% if page.taxonomies.categories %}
-              {{ macros::render_categories(categories=page.taxonomies.categories) }}
-              {% endif %} -->
-            </div>
-            <div class="column has-text-right-desktop">
-              <!-- {% if page.taxonomies.tags %}
-              {{ macros::render_tags(tags=page.taxonomies.tags) }}
-              {% endif %} -->
+            <div class="column" style="font-size: 12px;">
+              {% if page.taxonomies.categories %}
+              {{ macros::render_categories_small(categories=page.taxonomies.categories) }}
+              {% endif %}
+           
+              {% if page.taxonomies.tags %}
+              {{ macros::render_tags_small(tags=page.taxonomies.tags) }}
+              {% endif %}
             </div>
           </div>
         </article>

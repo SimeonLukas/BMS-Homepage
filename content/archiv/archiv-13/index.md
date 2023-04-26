@@ -1,7 +1,7 @@
 +++
 title = "Eine Chance für die Kinder"
 date = 2021-02-26
-[taxonomie]
+[taxonomies]
 tags = ["presse" ]
 +++
 

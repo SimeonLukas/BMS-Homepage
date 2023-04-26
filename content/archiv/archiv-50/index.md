@@ -1,7 +1,7 @@
 +++
 title = "1. Schultag – Testung für Erstklässler:innen"
 date = 2021-09-05
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"mitteilungen" ]
 +++
 

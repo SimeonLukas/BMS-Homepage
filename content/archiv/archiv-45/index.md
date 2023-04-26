@@ -1,7 +1,7 @@
 +++
 title = "Sonnenliegen für den Sunnaweg"
 date = 2021-08-02
-[taxonomie]
+[taxonomies]
 tags = ["presse" ]
 +++
 

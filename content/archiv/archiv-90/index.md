@@ -1,7 +1,7 @@
 +++
 title = "Partenkirchner Mittelschule fördert den Schulsport"
 date = 2022-05-25
-[taxonomie]
+[taxonomies]
 tags = ["archiv" ,"allgemein" ,"mittelschulaktivitaeten" ]
 +++
 

@@ -261,6 +261,35 @@
 
 
 
+{% macro render_categories_small(categories) %}
+  {% for category in categories %}
+  <a class="has-text-info-dark has-text-weight-semibold" href="{{ get_taxonomy_url(kind='categories', name=category) }}">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>{{category}}</span>
+    </span>
+  </a>
+  {% endfor %}
+{% endmacro %}
+
+{% macro render_tags_small(tags) %}
+
+  {% for tag in tags %}
+  <a class="has-text-info-dark has-text-weight-semibold" href="{{ get_taxonomy_url(kind='tags', name=tag) }}">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>{{tag}}</span>
+    </span>
+  </a>
+  {% endfor %}
+{% endmacro %}
+
+
+
 {% macro breadcrumb(path) %}
 {% set cur = "/" %} /
 {% for elt in path %}

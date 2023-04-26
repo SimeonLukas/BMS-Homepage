@@ -1,7 +1,7 @@
 +++
 title = "Training der Erstklässler zur Sicherheit im Straßenverkehr"
 date = 2021-02-09
-[taxonomie]
+[taxonomies]
 tags = ["grundschulaktivitaeten" ]
 +++
 
