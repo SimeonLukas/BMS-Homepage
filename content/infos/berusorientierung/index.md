@@ -43,5 +43,5 @@ Diese finden klassenübergreifend statt.
 
 ![](images/Logo-IHK-Top-Bildungspartner.png)
 
-Die Bgm-Schütte-Schule wurde als einzige oberbayerische Mittelschule  
+Die Bürgermeister-Schütte-Schule wurde als einzige oberbayerische Mittelschule  
 zweifach mit dem Prädikat "IHK Top Bildungspartner" ausgezeichnet.

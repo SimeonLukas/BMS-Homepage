@@ -19,7 +19,7 @@ Landkreis mit ihren jeweiligen Verbindungslehrkräften für ein demokratisches, 
 und werteorientiertes gemeinsames Schulleben. Kürzlich trafen sich die neu gewählten  
 Schülersprecher aller sieben Mittelschulen des Landkreises Garmisch-Partenkirchen  
 und ihre jeweiligen Verbindungslehrkräfte mit den beiden SMV-Landkreiskoordinatoren  
-Kurt Christian und Robert Rauch (beide Lehrkräfte an der BGM-Schütte-Mittelschule  
+Kurt Christian und Robert Rauch (beide Lehrkräfte an der Bürgermeister-Schütte-Mittelschule  
 Garmisch-Pa.), um sich näher kennenzulernen und sich auszutauschen. Da das  
 Wetter dieses Jahr nicht mitspielte, verlagerten die Teilnehmer ihre team- und  
 vertrauensbildenden Aktionen kurzerhand in die Sporthalle der Mittelschule am Gröben  
@@ -31,7 +31,7 @@ Wahrnehmung schulischer Interessen der Schüler und auch bei der Lösung von
 Konfliktfällen. Aus ihrer Mitte heraus wurden zum Abschluss der Veranstaltung dann  
 noch die Landkreisschülersprecher für die nächsten beiden Schuljahre bestimmt. Zum  
 Landkreisschülersprecher wurde dabei Alikerim Cetin, der Christoph-ProbstMittelschule Murnau besucht, gewählt. Ihm zur Seite stehen als Stellvertreter Lilli  
-Bader und Peter Sedlmayr, die beide die BGM-Schütte-Mittelschule Garmisch-Pa.  
+Bader und Peter Sedlmayr, die beide die Bürgermeister-Schütte-Mittelschule Garmisch-Pa.  
 besuchen.  
 Alle Schülersprecherinnen und Schülersprecher sowie alle Verbindungslehrkräfte  
 wünschten abschließend den drei neuen Landkreisschülersprechern, die nun die  
