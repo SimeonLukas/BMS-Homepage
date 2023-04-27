@@ -197,7 +197,7 @@
     <a href="{{config.base_url}}/klassen">Klassen</a><br>
   </div>
   <div class="column" id="infoSection">
-    <a href="{{config.base_url}}/infos"><h3>Informationen</h3></a>
+    <a href="{{config.base_url}}/infos"><h3>Personen</h3></a>
     {% set recent_changes = get_section(path="infos/_index.md") %}
     {% for page in recent_changes.pages %}
     <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
