@@ -2,7 +2,7 @@
 title="Kontakt"
 date ="2023-01-01"
 template = "toppage.html"
-description="Bürgermeister-Schütte-Grund-und Mittelschule"
+description="Bürgermeister-Schütte-Grund- und Mittelschule"
 +++
 
 Hindenburgstraße 10    
