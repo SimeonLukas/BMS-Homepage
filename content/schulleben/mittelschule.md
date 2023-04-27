@@ -12,6 +12,7 @@ Schullaufbahn
 </a>
 </div>
 
-[Ganztagsklassen](/schullebenseiten/ganztagsklassen/)
+[Ganztagsklassen](/schullebenseiten/ganztagsklassen/)   
+[Pausenzeiten](/schullebenseiten/pausenzeiten)
 
 
