@@ -71,6 +71,8 @@ Fr: 8.00 - 12.00 Uhr
 
 sowie nach Vereinbarung
 
+## [Aktivitäten](/categories/jugendsozialarbeit-an-schulen/)
+
 
 _Gefördert vom  Bayerischen Staatsministerium für Familie, Arbeit und Soziales,_  
 _dem Landkreis und der Gemeinde, Träger: Caritas Zentrum Ga.-Pa._
