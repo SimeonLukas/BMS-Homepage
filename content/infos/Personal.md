@@ -141,10 +141,9 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 ## Jugendsozialarbeit an Schulen (JaS)
 |      |                |      |
-|-------------------------------------|----------------|---|
-| Maria-Theresa Zink                  |                |   |   
-| Elisabeth Grasegger                 |                |   |   
-| Muriel Herale                       |                |   |    
+|-------------------------------------|----------------|
+| Maria-Theresa Zink                  |       JaS MS         |    
+| Elisabeth Grasegger                 |     JaS GS           |    
 
 ## Berufseinstiegsbegleiter
 |      |                |      |

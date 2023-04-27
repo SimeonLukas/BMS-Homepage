@@ -1,7 +1,7 @@
 +++
 weight = 5
 date = "2021-04-30"
-title = "Jugendsozialarbeit"
+title = "Jugendsozialarbeit an Schulen"
 template = "toppage.html"
 description="JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler:innen, Eltern sowie Lehrkräfte. JaS schlägt eine Brücke zwischen dem System Schule und der Kinder- und Jugendhilfe."
 
@@ -28,7 +28,7 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler:i
 
 #### Wir sind da für
 
-Dich, **liebe Schülerin, lieber Schüler, melde dich bei uns, wenn du…**
+**Dich**, **liebe Schülerin, lieber Schüler, melde dich bei uns, wenn du…**
 
 - zu Hause oder in der Schule in Problemen steckst, mit denen du alleine nicht klarkommst,
 - nicht weißt, wie es nach der Schule weitergehen soll,
@@ -36,14 +36,14 @@ Dich, **liebe Schülerin, lieber Schüler, melde dich bei uns, wenn du…**
 - etwas angestellt hast und nicht mehr weiter weißt,
 - einfach nur mal reden möchtest.
 
-Sie, **Liebe Eltern und Erziehungsberechtigte, melden Sie sich bei uns, wenn Sie…**
+**Sie**, **Liebe Eltern und Erziehungsberechtigte, melden Sie sich bei uns, wenn Sie…**
 
 - Immer weniger an Ihr Kind herankommen und familiäre oder schulische Probleme zunehmend belastend werden,
 - feststellen, dass Ihre Tochter/Ihr Sohn den Schulbesuch zunehmend meidet oder Angst davor hat,
 - Vermittlung zu anderen Institutionen wünschen,
 - sich Sorgen um die berufliche Zukunft Ihres Kindes machen.
 
-Euch, **liebe Lehrkräfte, melden Sie sich bei uns, wenn Sie…**
+**Euch**, **liebe Lehrkräfte, melden Sie sich bei uns, wenn Sie…**
 
 - Unterstützungsbedarf bei einem Schüler/einer Schülerin wahrnehmen,
 - eine sozialpädagogische Einschätzung und Beratung in einer bestimmten Situation wünschen,

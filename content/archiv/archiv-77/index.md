@@ -3,6 +3,7 @@ title = "Friedenshörnchen für die Grundschulen"
 date = 2022-02-24
 [taxonomies]
 tags = ["archiv" ,"grundschulaktivitaeten" ,"presse" ,"schulleben" ]
+categories = ["Jugendsozialarbeit an Schulen"]
 +++
 
 GAP – Bereits im Dezember 2021 fand sowohl an der Grundschule am Gröben als auch an der Bürgermeister-Schütte-Grundschule in Garmisch-Partenkirchen eine Ausbildung der Grundschulkinder zu Streitschlichtern statt. An zwei Nachmittagen trafen sich insgesamt 35 Mädchen und Jungen der 3. Klassen mit ihren Jugendsozialarbeiterinnen (JaS) Sabrina Pietsch und Elisabeth Grasegger an ihrer jeweiligen Schule. Die Grundschüler hatten im Vorfeld ein Bewerbungsblatt gestaltet, warum genau sie die richtigen für diese neue Aufgabe sind: „anderen helfen wollen“, „es selbst besser machen wollen“, „was Gutes tun“, „helfen, damit nicht so viele traurig sind“, sind Gründe für das Engagement.
