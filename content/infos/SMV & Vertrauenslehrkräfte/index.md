@@ -12,9 +12,10 @@ toc = true
 
 # Die neuen Schülersprecher der Mittelschule Garmisch-Partenkirchen
 
-  1. Suara A., 10M  
-  2. Laura G., 10M  
-  3. Mehmet K., 8G
+  1. Schülersprecherin: Lilli Bader, 9g
+  2. Schülersprecherin: Abigirl Odidika, 8M
+  3. Schülersprecher: Peter Sedlmayr, 9a
+
 
 (aus Datenschutzgründen werden die Namen der Schüler nicht vollständig genannt,  
 die Namen der Klassensprecher werden nur intern veröffentlicht)
@@ -23,4 +24,8 @@ die Namen der Klassensprecher werden nur intern veröffentlicht)
 
 # Eure Vertrauenslehrkräfte
 
-<table><tbody><tr><td>Vertrauenslehrerin:</td><td>&nbsp;</td><td>Vertrauenslehrer:</td></tr><tr><td>&nbsp;Maria Stemmer</td><td>&nbsp;</td><td>Herr Robert Rauch</td></tr></tbody></table>
+|  <!-- --> |  <!-- --> | <!-- -->  |   
+|---|---|---|
+| Vertrauenslehrerin | Maria Stemmer |  Klassenleiterin 6a |   
+|  Vertrauenslehrerin | Andreas Strobel  |  Klassenleiter 9g |   
+
