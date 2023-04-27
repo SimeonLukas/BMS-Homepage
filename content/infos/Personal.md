@@ -140,7 +140,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | Magdalena Hornsteiner         |            |
 
 ## Jugendsozialarbeit an Schulen (JaS)
-|      |                |      |
+|      |                |
 |-------------------------------------|----------------|
 | Maria-Theresa Zink                  |       JaS MS         |    
 | Elisabeth Grasegger                 |     JaS GS           |    
