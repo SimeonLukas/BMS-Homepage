@@ -65,5 +65,5 @@ favicon_32x32 = "/images/avatar.png"
 apple_touch_icon = "/images/avatar.png"
 
 [extra.mapbox]
-enabled = true
+enabled = false
 access_token = "pk.eyJ1Ijoic2ltZXJsIiwiYSI6ImNrOXU0aWluZzAzOXYzZXBhdXF3M21kbzgifQ.TeinTh7kBnQb8re5KDYq1w"
