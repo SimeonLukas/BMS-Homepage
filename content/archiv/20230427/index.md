@@ -7,6 +7,7 @@ description =""
 [taxonomies]
 tags = ["mittelschulaktivitaeten" ,"presse" ,"schulleben" ]
 categories = ["Jugendsozialarbeit an Schulen"]
+
 +++
 Acht Schüler der siebten Jahrgangstufe der Bürgermeister-Schütte-Mittelschule organisierten einen Verkaufsstand für das Jugendfestival in Garmisch-Partenkirchen. Der Erlös geht an den Sozialen Dienst des Caritas-Zentrums Garmisch-Partenkirchen.
 

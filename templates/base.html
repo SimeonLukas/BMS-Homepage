@@ -26,15 +26,17 @@
   {% endif %}
 
   {% if config.extra.galleria.enabled %}
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.css" integrity="sha384-+rY0QD+LRnTOquDMzGa9lXU6jIwdiQuwCJQ2cdcW0qeP/0UbjQCZlXnRsUMA+9pH" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.css"
+    integrity="sha384-+rY0QD+LRnTOquDMzGa9lXU6jIwdiQuwCJQ2cdcW0qeP/0UbjQCZlXnRsUMA+9pH" crossorigin="anonymous">
   {% endif %}
 
   {% if config.extra.mapbox.enabled %}
-  <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" integrity="sha384-oGm59HWAkwO32h2w8u0B98wKBZJwd6MbWtAJwQKCTffZjOXHXrnyv9Syjovgc+UV" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css"
+    integrity="sha384-oGm59HWAkwO32h2w8u0B98wKBZJwd6MbWtAJwQKCTffZjOXHXrnyv9Syjovgc+UV" crossorigin="anonymous">
   {% endif %}
 
-  <link rel="stylesheet" href="{{ get_url(path='css/academicons.min.css') }}" >
-  <link rel="stylesheet" href="{{ get_url(path='css/all.min.css') }}" >
+  <link rel="stylesheet" href="{{ get_url(path='css/academicons.min.css') }}">
+  <link rel="stylesheet" href="{{ get_url(path='css/all.min.css') }}">
   <link href="{{ get_url(path='css/deep-thought.css') }}" rel="stylesheet" />
   <link href="{{ get_url(path='css/index.css') }}" rel="stylesheet" />
   {% block user_custom_stylesheet %}
@@ -47,12 +49,19 @@
   </title>
 
   {% if config.extra.katex.enabled %}
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css"
+    integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"
+    integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous">
+  </script>
 
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/mathtex-script-type.min.js" integrity="sha384-jiBVvJ8NGGj5n7kJaiWwWp9AjC+Yh8rhZY3GtAX8yU28azcLgoRo4oukO87g7zDT" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/mathtex-script-type.min.js"
+    integrity="sha384-jiBVvJ8NGGj5n7kJaiWwWp9AjC+Yh8rhZY3GtAX8yU28azcLgoRo4oukO87g7zDT" crossorigin="anonymous">
+  </script>
   {% if config.extra.katex.auto_render %}
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js"
+    integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous">
+  </script>
   {% endif %}
   {% endif %}
 </head>
@@ -61,7 +70,8 @@
   <nav aria-label="section navigation" class="navbar is-light" role="navigation">
     <div class="container">
       <div class="navbar-brand">
-        <a class="navbar-item is-size-6 has-text-weight-bold" href="{{config.base_url}}"><img class="" src="{{config.base_url}}/images/avatar.png" style="max-width: 100px"></a>
+        <a class="navbar-item is-size-6 has-text-weight-bold" href="{{config.base_url}}"><img class=""
+            src="{{config.base_url}}/images/avatar.png" style="max-width: 100px"></a>
         <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -73,34 +83,35 @@
           {% for item in config.extra.navbar_items %}
           {% if lang == item.code %}
           {% for nav in item.nav_items %}
-          <a class="navbar-item has-text-weight-semibold" href="{{ nav.url | replace(from='$BASE_URL', to=config.base_url) }}">
+          <a class="navbar-item has-text-weight-semibold"
+            href="{{ nav.url | replace(from='$BASE_URL', to=config.base_url) }}">
             {{ nav.name }}
           </a>
           {% endfor %}
           {% endif %}
           {% endfor %}
           <div style="display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;">
-          <a class="navbar-item" title="Archiv" href="{{config.base_url}}/archiv"">
-            <span class="icon">
+            <a class="navbar-item" title="Archiv" href="{{config.base_url}}/archiv"">
+            <span class=" icon">
               <i class="fas fa-archive"></i>
-            </span>
-          </a>
-          <a class="navbar-item" title="Downloads" href="{{config.base_url}}/downloads"">
-            <span class="icon">
+              </span>
+            </a>
+            <a class="navbar-item" title="Downloads" href="{{config.base_url}}/downloads"">
+            <span class=" icon">
               <i class="fa fa-download"></i>
-            </span>
-          </a>
-          <a class="navbar-item" id="nav-search" title="Suche" data-target="#search-modal">
-            <span class="icon">
-              <i class="fas fa-search"></i>
-            </span>
-          </a>
-          <a class="navbar-item" title="Kontakt" href="{{config.base_url}}/kontakt"">
-            <span class="icon">
+              </span>
+            </a>
+            <a class="navbar-item" id="nav-search" title="Suche" data-target="#search-modal">
+              <span class="icon">
+                <i class="fas fa-search"></i>
+              </span>
+            </a>
+            <a class="navbar-item" title="Kontakt" href="{{config.base_url}}/kontakt"">
+            <span class=" icon">
               <i class="fa fa-envelope"></i>
-            </span>
-          </a>
-        </div>
+              </span>
+            </a>
+          </div>
           <!-- <a class="navbar-item" id="dark-mode" title="Licht aus">
             <span class="icon">
               <i class="fas fa-adjust"></i>
@@ -145,7 +156,8 @@
   <section class="section">
     <div class="container">
       <nav class="pagination is-centered" role="navigation" aria-label="pagination">
-        <a class="pagination-previous" href='{{ paginator.previous }}' {% if not paginator.previous %}disabled{% endif %}>
+        <a class="pagination-previous" href='{{ paginator.previous }}'
+          {% if not paginator.previous %}disabled{% endif %}>
           <span class="icon">
             <i class="fas fa-angle-double-left"></i>
           </span>
@@ -160,7 +172,8 @@
         <ul class="pagination-list">
           {% for pager in range(start=1, end=paginator.number_pagers+1) %}
           <li>
-            <a class="pagination-link {% if paginator.current_index == pager %}is-current{% endif %}" href='{{ paginator.base_url }}{{pager}}' aria-label="Goto page {{pager}}">
+            <a class="pagination-link {% if paginator.current_index == pager %}is-current{% endif %}"
+              href='{{ paginator.base_url }}{{pager}}' aria-label="Goto page {{pager}}">
               {{pager}}
             </a>
           </li>
@@ -184,73 +197,97 @@
       </span> von <a href="https://staneks.de">Simeon Stanek</a>
       </p> -->
       <!-- <hr> -->
-    <div class="footerLinks">
-    <div class="column">
-      <h3>Hinweise</h3>
-    <a href="{{config.base_url}}/impressum">Impressum</a><br>
-    <a href="{{config.base_url}}/datenschutz">Datenschutz</a><br>
-    <a href="{{config.base_url}}/kontakt">Kontakt</a><br>
-    <a href="{{config.base_url}}/archiv">Archiv</a><br>
-    <a href="{{config.base_url}}/downloads">Downloads</a><br>
-    <a href="{{config.base_url}}/tags">Schlagworte</a><br>
-    <a href="{{config.base_url}}/categories/">Kategorien</a><br>
-    <a href="{{config.base_url}}/klassen">Klassen</a><br>
-  </div>
-  <div class="column" id="infoSection">
-    <a href="{{config.base_url}}/infos"><h3>Personen</h3></a>
-    {% set recent_changes = get_section(path="infos/_index.md") %}
-    {% for page in recent_changes.pages %}
-    <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
-    {% endfor %}
-  </div>
-  <div class="column" id="infoSection">
-    <a href="{{config.base_url}}/schulleben"><h3>Schulleben</h3></a>
-    {% set recent_changes = get_section(path="schullebenseiten/_index.md") %}
-    {% for page in recent_changes.pages %}
-    <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
-    {% endfor %}
-  </div>
-  <div class="column schulphilosophie">
-    <h3>Externe Seiten</h3>
-    <a href="https://mebis.bycs.de/">mebis</a><br>
-    <a href="https://www.km.bayern.de/">Bayerisches Staatsministerium für Unterricht und Kultus</a><br>
-    <a href="https://www.km.bayern.de/schueler/schularten.html">Schulsystem</a><br> 
-    <a href="https://schule-infoportal.de/login/bsgmsgap">Lehrerportal</a><br> 
-  </div>
-  <div class="column schulphilosophie">
-    <a href="{{config.base_url}}/schulphilosophie"><h3>Schulphilosophie</h3></a>
-    <a href="{{config.base_url}}/categories/kunst-kultur/"><i class='fas fa-paint-brush'></i> Kunst & Kultur</a><br>
-    <a href="{{config.base_url}}/categories/berufsorientierung/"><i class='fas fa-compass'></i> Berufsorientierung</a><br>
-    <a href="{{config.base_url}}/categories/sport-gesundheit/"><i class='fas fa-skiing'></i> Sport & Gesundheit</a><br> 
-    <a href="{{config.base_url}}/categories/nachhaltigkeit-ressourcen/"><i class='fas fa-lightbulb'></i> Nachhaltigkeit & Ressourcen</a><br> 
-  </div>
-  </div>
+      <div class="footerLinks">
+        <div class="column">
+          <h3>Hinweise</h3>
+          <a href="{{config.base_url}}/impressum">Impressum</a><br>
+          <a href="{{config.base_url}}/datenschutz">Datenschutz</a><br>
+          <a href="{{config.base_url}}/kontakt">Kontakt</a><br>
+          <a href="{{config.base_url}}/archiv">Archiv</a><br>
+          <a href="{{config.base_url}}/downloads">Downloads</a><br>
+          <a href="{{config.base_url}}/tags">Schlagworte</a><br>
+          <a href="{{config.base_url}}/categories/">Kategorien</a><br>
+          <a href="{{config.base_url}}/klassen">Klassen</a><br>
+          <a href="https://github.com/SimeonLukas/BMS-Homepage"><i class="fa-brands fa-github"></i> Github</a><br>
+          <a href="{{config.base_url}}/rss.xml"><i class="fa fa-rss"></i> RSS</a><br>
+        </div>
+        <div class="column" id="infoSection">
+          <a href="{{config.base_url}}/infos">
+            <h3>Personen</h3>
+          </a>
+          {% set recent_changes = get_section(path="infos/_index.md") %}
+          {% for page in recent_changes.pages %}
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+          {% endfor %}
+        </div>
+        <div class="column" id="infoSection">
+          <a href="{{config.base_url}}/schulleben">
+            <h3>Schulleben</h3>
+          </a>
+          {% set recent_changes = get_section(path="schullebenseiten/_index.md") %}
+          {% for page in recent_changes.pages %}
+          <a href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+          {% endfor %}
+        </div>
+        <div class="column schulphilosophie">
+          <h3>Externe Seiten</h3>
+          <a href="https://mebis.bycs.de/">mebis</a><br>
+          <a href="https://www.km.bayern.de/">Bayerisches Staatsministerium für Unterricht und Kultus</a><br>
+          <a href="https://www.km.bayern.de/schueler/schularten.html">Schulsystem</a><br>
+          <a href="https://schule-infoportal.de/login/bsgmsgap">Lehrerportal</a><br>
+        </div>
+        <div class="column schulphilosophie">
+          <a href="{{config.base_url}}/schulphilosophie">
+            <h3>Schulphilosophie</h3>
+          </a>
+          <a href="{{config.base_url}}/categories/kunst-kultur/"><i class='fas fa-paint-brush'></i> Kunst &
+            Kultur</a><br>
+          <a href="{{config.base_url}}/categories/berufsorientierung/"><i class='fas fa-compass'></i>
+            Berufsorientierung</a><br>
+          <a href="{{config.base_url}}/categories/sport-gesundheit/"><i class='fas fa-skiing'></i> Sport &
+            Gesundheit</a><br>
+          <a href="{{config.base_url}}/categories/nachhaltigkeit-ressourcen/"><i class='fas fa-lightbulb'></i>
+            Nachhaltigkeit & Ressourcen</a><br>
+        </div>
+      </div>
     </div>
   </footer>
   {% endblock %}
 
   {% if config.extra.galleria.enabled %}
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/galleria.min.js" integrity="sha384-QSfwGT8/EU536DKdtyP2D6SLlh8zBaZ0cVkwfrwhqzIU9VCfJT00CLVP5t+HAiYg" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.js" integrity="sha384-DwpKI+deZB267+hPKwiOIc5Y2GKsVL0mR6hgz7GgIu7AgAMYqJwcJKY1YBNfhWcY" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"
+    integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous">
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/galleria.min.js"
+    integrity="sha384-QSfwGT8/EU536DKdtyP2D6SLlh8zBaZ0cVkwfrwhqzIU9VCfJT00CLVP5t+HAiYg" crossorigin="anonymous">
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.js"
+    integrity="sha384-DwpKI+deZB267+hPKwiOIc5Y2GKsVL0mR6hgz7GgIu7AgAMYqJwcJKY1YBNfhWcY" crossorigin="anonymous">
+  </script>
   {% endif %}
   {% if config.extra.mermaid.enabled %}
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.5/dist/mermaid.min.js" integrity="sha384-0yWn54pSGtfKCU+skfA69l25VsCw+MZt4LQov3xNRoS7YkAMrFokGgSBnAWSK4pv" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.5/dist/mermaid.min.js"
+    integrity="sha384-0yWn54pSGtfKCU+skfA69l25VsCw+MZt4LQov3xNRoS7YkAMrFokGgSBnAWSK4pv" crossorigin="anonymous">
+  </script>
   {% endif %}
   {% if config.extra.chart.enabled %}
-  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.13/dist/chart.xkcd.min.js" integrity="sha384-xC3h1+IHXK8seA+8KfT79Z4e0GPsznjXBoMa5nd8ooWKplPyXx92NOmljWxLC/cs" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.13/dist/chart.xkcd.min.js"
+    integrity="sha384-xC3h1+IHXK8seA+8KfT79Z4e0GPsznjXBoMa5nd8ooWKplPyXx92NOmljWxLC/cs" crossorigin="anonymous">
+  </script>
   {% endif %}
   {% if config.extra.mapbox.enabled %}
-  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js" integrity="sha384-Pulw7+h73841BQIK0LzJCydKRPChJUF9w8h8W0o3h+cLtoyNPJS847bQauLWOTwg" crossorigin="anonymous"></script>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"
+    integrity="sha384-Pulw7+h73841BQIK0LzJCydKRPChJUF9w8h8W0o3h+cLtoyNPJS847bQauLWOTwg" crossorigin="anonymous">
+  </script>
   {% endif %}
   <script src="{{ get_url(path='elasticlunr.min.js') }}"></script>
   <script src="{{ get_url(path='search_index.' ~ lang ~ '.js') }}"></script>
   {%- if lang != "en" -%}
   {%- block other_lang_search_js -%}
   <script src="{{ get_url(path='js/lunr.stemmer.support.js') }}"></script>
-<script src="{{ get_url(path='js/tinyseg.js') }}"></script>
-<script src="{{ get_url(path='js/lunr.de.js') }}"></script>
-<script src="{{ get_url(path='js/search.js') }}"></script>
+  <script src="{{ get_url(path='js/tinyseg.js') }}"></script>
+  <script src="{{ get_url(path='js/lunr.de.js') }}"></script>
+  <script src="{{ get_url(path='js/search.js') }}"></script>
   {%- endblock -%}
   {%- endif -%}
   <script src="{{ get_url(path='js/simple-lightbox.js') }}"></script>
