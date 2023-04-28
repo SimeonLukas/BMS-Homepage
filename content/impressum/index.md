@@ -9,7 +9,8 @@ toc = false
 
 # Angaben gemäß § 5 TMG
 
-Grund- und Mittelschule-Partenkirchen  
+Bürgermeister-Schütte-Grund- und Mittelschule
+Partenkirchen  
 Hindenburgstraße 10  
 82467 Garmisch-Partenkirchen
 
