@@ -3,10 +3,10 @@ title = "🌲 Wir sind Umweltschule, eine von 624 Schulen in Bayern"
 date = 2022-12-09
 [taxonomies]
 tags = ["aktuelles" ,"allgemein" ]
+categories = ["Nachhaltigkeit & Ressourcen"]
 +++
 
-Auszeichnung für Schulen mit nachhaltigem Engagement –  
-Naturschutzverband LBV koordiniert das Projekt in Bayern
+Auszeichnung für Schulen mit nachhaltigem Engagement – Naturschutzverband LBV koordiniert das Projekt in Bayern
 
 <!-- more -->
 
