@@ -215,6 +215,7 @@
 {% endmacro %}
 
 {% macro page_content_metadata(page) %}
+{% if page.word_count > 50 %}
 <span class="icon-text has-text-grey">
   <span class="icon">
     <i class="far fa-clock"></i>
@@ -225,6 +226,7 @@
   </span>
   <span>{{ page.word_count }} Wörter</span>
 </span>
+{% endif %}
 {% endmacro %}
 
 {% macro render_categories(categories) %}
