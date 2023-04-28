@@ -27,5 +27,5 @@ die Namen der Klassensprecher werden nur intern veröffentlicht)
 |  <!-- --> |  <!-- --> | <!-- -->  |   
 |---|---|---|
 | Vertrauenslehrerin | Maria Stemmer |  Klassenleiterin 6a |   
-|  Vertrauenslehrerin | Andreas Strobel  |  Klassenleiter 9g |   
+|  Vertrauenslehrer | Andreas Strobel  |  Klassenleiter 9g |   
 
