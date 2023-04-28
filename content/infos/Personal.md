@@ -105,14 +105,14 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 |          |            |
 |-------------------------------|------------|
 | Stefanie Echter*              | FLin       |
-| Andrea Meiler                 | FOLin        |
-| Stefanie Schilling *          | FOLin     |
+| Andrea Meiler                 | FOL        |
+| Stefanie Schilling*          | FOL/EG    |
 | Hans-Peter Schmitt*           | FOL/mt     |
 | Monika Pach                   | FLin       |
 | Andrea Schwinghammer          | FOLin/EG   |
 | Louis Gabler*                 | FL/mus.    |
 | Ludwig Geiger                 | FOL/mt     |
-| Maria Anna Haseidl            | FOLin      |
+| Maria Anna Haseidl            | FL/EG    |
 
 *nicht Stammschule
 
@@ -130,6 +130,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | Anja Jäger                    | Lin        |
 | Anja Krinninger               | StRin/GS   |
 | Susanne Kücker                | Lin        |
+|Jessica Ludwig|LAA|
 | Jacqueline Naujok             | Lin        |
 
 ##  Musik  
