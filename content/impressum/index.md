@@ -18,6 +18,6 @@ Hindenburgstraße 10
 {{person(name = "Rektorin Stephanie Schmidt" , phone="+49 8821 9103500" , mail="schulleitung@volksschule-partenkirchen.de")}}
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Stefanie Schmidt, Schulleiterin  
+Stefanie Schmidt, Rektorin 
 Hindenburgstraße 10  
 82467 Garmisch-Partenkirchen
