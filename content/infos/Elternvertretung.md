@@ -28,17 +28,18 @@ Insgesamt ist das Amt der Klassenselternsprecher:innen ein wichtiges Amt, das ei
 | 1a | Caroline Pircher           | Kristine Lorenz        |
 | 1b | Ramona Bauer               | Julia Tischler-Metzner |
 | 1c | Franziska Bohn             | Sinem Düzel            |
-| 2a | Sabine Schulze             | Enikö Fersch           |
-| 2b | Sarah Liese                | Guiso Bechmann         |
-| 2c | Kerstin Girbinger          | Christina Hausmann     |
-| 2d | Libertad Ballesteros Arias | Deike Albl             |
+| 1d | Sabine Schulze             | Enikö Fersch           |
+| 2a | Sarah Liese                | Guido Bechmann         |
+| 2b | Kerstin Girbinger          | Christina Hausmann     |
+| 2c | Libertad Ballesteros Arias | Deike Albl             |
 | 3a | Katrin Bauer               | Julia Tischler-Metzner |
 | 3b | Melanie Fellendorf         | Marina Winkler         |
 | 3c | Lisa Hirn                  | Carsten Hauke          |
 | 3d | Rosemarie Grasegger        | Christina Konstanzer   |
-| 4a | Lukas Wallner              | Gaby Hähl              |
-| 4b | Barbette Warnisch          | Susanne Lichtenwald    |
-| 4c | Gabriele Koller            | Wolfgang Grab          |
+| 4a | Lukas Wallner              | Sabine Schulze             |
+| 4b | Michalea Anzenberger       |Gaby Hähl               |
+| 4c | Barbette Warnisch          | Susanne Lichtenwald    |
+| 4d | Gabriele Koller            | Wolfgang Grab          |
 ## Elternbeirat
 **Vorsitzender:** Franz Weber  
 **Stellvertreter:** Wolfgang Hosak  
