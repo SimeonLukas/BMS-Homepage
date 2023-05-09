@@ -399,13 +399,15 @@ body.hidden-scroll {
 
 .teaser img{
   height: 400px;
+  width: 100%;
+  max-width: 550px;
   margin: 0 auto;
   object-fit: cover;
   position: absolute;
   -webkit-mask-position: 0% 0;
   mask-position: 0% 0;
-  -webkit-mask-image: url(../images/transition001.png);
-  mask-image: url(../images/transition001.png);
+  -webkit-mask-image: url(../images/timelinesplash-min.png);
+  mask-image: url(../images/timelinesplash-min.png);
   -webkit-mask-size: 4400% 100%;
   mask-size: 4400% 100%;
   -webkit-animation: mask-play 5s steps(43) forwards;
@@ -423,6 +425,7 @@ body.hidden-scroll {
 
 .teaser img:nth-child(2){
   animation-delay: 5s;
+  object-position: top;
 }
 
 .teaser img:nth-child(3){
