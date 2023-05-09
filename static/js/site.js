@@ -1,3 +1,7 @@
+HTMLCollection.prototype.forEach = Array.prototype.forEach;
+NodeList.prototype.forEach = Array.prototype.forEach;
+
+
 "use strict";
 
 function debounce(func, wait) {
@@ -180,7 +184,7 @@ function documentReadyCallback() {
     document.body.setAttribute("theme", "dark");
     document.querySelectorAll("img, picture, video, pre, .sl-image").forEach(img => img.setAttribute("theme", "dark"));
     document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.setAttribute("theme", "dark"));
-    document.getElementById("dark-mode").setAttribute("title", "Licht an");
+    // document.getElementById("dark-mode").setAttribute("title", "Licht an");
   }
 
   document.querySelector(".navbar-burger").addEventListener("click", () => {
@@ -218,26 +222,26 @@ function documentReadyCallback() {
     search();
   });
 
-  document.getElementById("dark-mode").addEventListener("click", () => {
-    if (
-      localStorage.getItem("theme") == null ||
-      localStorage.getItem("theme") == "light"
-    ) {
-      localStorage.setItem("theme", "dark");
-      document.body.setAttribute("theme", "dark");
-      document.querySelectorAll("img, picture, video, pre").forEach(img => img.setAttribute("theme", "dark"));
-      document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.setAttribute("theme", "dark"));
+  // document.getElementById("dark-mode").addEventListener("click", () => {
+  //   if (
+  //     localStorage.getItem("theme") == null ||
+  //     localStorage.getItem("theme") == "light"
+  //   ) {
+  //     localStorage.setItem("theme", "dark");
+  //     document.body.setAttribute("theme", "dark");
+  //     document.querySelectorAll("img, picture, video, pre").forEach(img => img.setAttribute("theme", "dark"));
+  //     document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.setAttribute("theme", "dark"));
 
-      document.getElementById("dark-mode").setAttribute("title", "Licht an");
-    } else {
-      localStorage.setItem("theme", "light");
-      document.body.removeAttribute("theme", "dark");
-      document.querySelectorAll("img, picture, video, pre").forEach(img => img.removeAttribute("theme", "dark"))
-      document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.removeAttribute("theme", "dark"));
+  //     document.getElementById("dark-mode").setAttribute("title", "Licht an");
+  //   } else {
+  //     localStorage.setItem("theme", "light");
+  //     document.body.removeAttribute("theme", "dark");
+  //     document.querySelectorAll("img, picture, video, pre").forEach(img => img.removeAttribute("theme", "dark"))
+  //     document.querySelectorAll(".vimeo, .youtube, .chart").forEach(video => video.removeAttribute("theme", "dark"));
 
-      document.getElementById("dark-mode").setAttribute("title", "Licht aus");
-    }
-  });
+  //     document.getElementById("dark-mode").setAttribute("title", "Licht aus");
+  //   }
+  // });
 
   if (typeof mermaid !== "undefined") {
     mermaid.initialize({
@@ -492,3 +496,14 @@ if (document.getElementById("teaser")){
 }, 25000);
 }
 
+let notifications = document.getElementsByClassName("notify");
+console.log(notifications);
+notifications.forEach(notification => {
+let expire = new Date(notification.getAttribute("data-date")).getTime();
+console.log(expire)
+let now = new Date().getTime();
+console.log(now)
+if (now < expire){
+  notification.style.display = "block";
+}
+});

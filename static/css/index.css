@@ -808,3 +808,9 @@ html:has(body[theme=dark]) .indexsection {
     transform: translate(-300%);
   }
 }
+
+
+.notify{
+  animation: fade-up 2s ease-in-out;
+  display: none;
+}
