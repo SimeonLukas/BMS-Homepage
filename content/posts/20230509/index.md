@@ -13,7 +13,6 @@ notification = "2023-05-17"
 
 # Schnuppertag
 an der Bürgermeister-Schütte-Grundschule am Mittwoch, 17.5.2023
-Nachname mit Anfangsbuchstaben
 
 Nachname mit Anfangsbuchstaben
 - A - K: 14.00 Uhr 
