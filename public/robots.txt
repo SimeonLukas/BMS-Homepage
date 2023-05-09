@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://neu.volksschule-partenkirchen.de/sitemap.xml
