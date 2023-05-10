@@ -818,3 +818,17 @@ html:has(body[theme=dark]) .indexsection {
   animation: fade-up 2s ease-in-out;
   display: none;
 }
+
+/* .notify {
+  animation: fade-up 2s ease-in-out;
+  display: none;
+  width: 200px;
+  height: 200px;
+  text-align: left;
+  background-color: #fff236;
+  padding: 10px;
+  transform: translate(-50%, 20px) rotate(10deg);
+  filter: drop-shadow(1px 0px 3px black);
+  border-radius: 10px 10px 10px 20px;
+  margin-left: 50%;
+} */
