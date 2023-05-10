@@ -15,18 +15,7 @@
         <img class="" alt="Das Logo der BMS-Schule ein großes grünes P mit einem Haus in der Öffnung" src="{{config.base_url}}/images/avatar.png" style="max-width: 192px" />
       </figure>
       {% endif %}
-      {% set notification = get_section(path="posts/_index.md") %}
-      {% for page in notification.pages %}
-      {% if page.extra.notification %}
-      <div class="notify" data-date="{{page.extra.notification}}">
-      <hr>
-      <a style="color: #cb4f0b !important" href="{{ page.permalink | safe }}"><i class="fa fa-exclamation-circle"></i> {{ page.title }}</a>
-      <p>{{page.description}}</p>
-      <a href="{{ page.permalink | safe }}"><b>FOLGEN</b></a>
-      <br>
-      {% endif %}
-      {% endfor %}
-    </div>
+      {{ macros::notify() }}
     </div>
     <div class="content">
       {{ section.content | safe }}
