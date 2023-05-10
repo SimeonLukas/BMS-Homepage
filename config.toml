@@ -59,10 +59,6 @@ avatar = "/images/avatar.png"
 [extra.social]
 email = "schulleitung@volksschule-partenkirchen.de"
 
-[extra.favicon]
-favicon_16x16 = "/images/avatar.png"
-favicon_32x32 = "/images/avatar.png"
-apple_touch_icon = "/images/avatar.png"
 
 [extra.mapbox]
 enabled = false

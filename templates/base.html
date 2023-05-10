@@ -8,22 +8,16 @@
   <meta content="width=device-width, initial-scale=1" name="viewport" />
   <meta content="#ffffff" name="theme-color" />
   <meta content="#da532c" name="msapplication-TileColor" />
+  <meta name="description" content="Die Webseite unserer Bürgermeister-Schütte-Grund- und Mittelschule Garmisch-Partenkirchen. Wir freuen uns über Ihr Interesse an unserer Grund- und Mittelschule im Ortsteil Partenkirchen. Schüler:innen der 1. bis 10. Jahrgangsstufe können unsere Schule besuchen. Wir bieten in unserer Sekundarstufe neben den Regelklassen den Ganztagszweig und den Mittlere-Reife-Zweig (M-Zug) an. Breite Bildungsangebote und ein reiches Schulleben fördern und begleiten die Kinder und Jugendlichen.">
+  <meta name="author" content="Simeon Stanek">
 
-  {% if config.extra.favicon.webmanifest %}
-  <link href='{{ config.extra.favicon.webmanifest }}' rel="manifest" />
-  {% endif %}
-  {% if config.extra.favicon.safari_pinned_tab %}
-  <link color="#5bbad5" href='{{ config.extra.favicon.safari_pinned_tab }}' rel="mask-icon" />
-  {% endif %}
-  {% if config.extra.favicon.favicon_16x16 %}
-  <link href='{{ config.extra.favicon.favicon_16x16 }}' rel="icon" sizes="16x16" type="image/png" />
-  {% endif %}
-  {% if config.extra.favicon.favicon_32x32 %}
-  <link href='{{ config.extra.favicon.favicon_32x32 }}' rel="icon" sizes="32x32" type="image/png" />
-  {% endif %}
-  {% if config.extra.favicon.apple_touch_icon %}
-  <link href='{{ config.extra.favicon.apple_touch_icon }}' rel="apple-touch-icon" sizes="180x180" />
-  {% endif %}
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#00a300">
+  <meta name="theme-color" content="#ffffff">
 
   {% if config.extra.galleria.enabled %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.css"

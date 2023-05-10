@@ -421,6 +421,7 @@ body.hidden-scroll {
 
 .teaser img:nth-child(1){
   animation-delay: 0s;
+  object-position: right;
 }
 
 .teaser img:nth-child(2){
