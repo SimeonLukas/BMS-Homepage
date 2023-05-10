@@ -308,7 +308,9 @@
 {% macro notify() %}
 {% set notification = get_section(path="posts/_index.md") %}
 {% for page in notification.pages %}
-{% if page.extra.notification %}
+{% if page.extra.notification  %}
+{% set expire  = page.extra.notification | date(format="%s") %}
+{% if expire | int > now(timestamp=true)%}
 <div class="notify" data-date="{{page.extra.notification}}">
 <hr>
 <a style="color: #cb4f0b !important" href="{{ page.permalink | safe }}"><i class="fa fa-exclamation-circle"></i> {{ page.title }}</a>
@@ -316,6 +318,7 @@
 <a href="{{ page.permalink | safe }}"><b>FOLGEN</b></a>
 <br>
 </div>
+{% endif %}
 {% endif %}
 {% endfor %}
 {% endmacro %}
