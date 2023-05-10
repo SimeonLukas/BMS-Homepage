@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: {{config.base_url}}/sitemap.xml
+Sitemap: https://staneks.de/sitemap.xml
