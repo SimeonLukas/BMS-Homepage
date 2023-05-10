@@ -7,7 +7,7 @@ description ="Erinnnerung an den Schnuppertag an der Bürgermeister-Schütte-Gru
 [taxonomies]
 tags = ["grundschulaktivitaeten" , "aktuelles" , "Schuleinschreibung"]
 [extra]
-notification = "2023-05-18"
+notification = "2023-05-17"
 +++
 
 
