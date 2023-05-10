@@ -5,7 +5,7 @@ title = "Welttag des Buches "
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Unterricht" ,"mittelschulaktivitaeten" ]
+tags = ["Unterricht" ,"mittelschulaktivitaeten"]
 categories = ["Kunst & Kultur"]
 klassen = ["5. Klasse"]
 +++
