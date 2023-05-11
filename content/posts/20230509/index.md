@@ -1,5 +1,5 @@
 +++
-weight = 0
+weight = 1
 date = "2023-05-09"
 title = "Memo Schnuppertag"
 template = "page.html"
