@@ -22,7 +22,7 @@ Unterrichtsschluss 10.45 Uhr
 ab Montag, 18. September 2023 Unterricht nach vorläufigem Stundenplan  
 
 **Unterrichtszeiten**  
-Unterrichtsbeginn 7.45 Uhr (Vorviertelstunde ab 7.30 Uhr) 
+Unterrichtsbeginn 7.45 Uhr (Vorviertelstunde ab 7.30 Uhr)      
 Unterrichtsschluss nach der 4. Stunde 11.00 Uhr  
 Unterrichtsschluss nach der 5. Stunde 12.00 Uhr  
 Unterrichtsschluss nach der 6. Stunde 12.45 Uhr  
