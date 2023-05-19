@@ -2,7 +2,7 @@
 title = "Sicher zur Schule"
 date = 2021-06-28
 [taxonomies]
-tags = ["infos-zum-schulanfang" ]
+tags = ["Infos zum Schulanfang" ]
 +++
 
 ![](images/grafik.png)
