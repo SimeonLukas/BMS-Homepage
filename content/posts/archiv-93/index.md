@@ -2,7 +2,7 @@
 title = "Materialliste und Regelung für die ersten Schultage"
 date = 2023-05-19
 [taxonomies]
-tags = ["Infos zum Schulanfang", "Materialien" ]
+tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
 klassen = ["1. Klasse"]
 +++
 
