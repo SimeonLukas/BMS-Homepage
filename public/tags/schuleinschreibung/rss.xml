@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - Schuleinschreibung</title>
+      <link>https://neu.volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://neu.volksschule-partenkirchen.de/tags/schuleinschreibung/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Materialliste und Regelung für die ersten Schultage</title>
+          <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://neu.volksschule-partenkirchen.de/posts/archiv-93/</link>
+          <guid>https://neu.volksschule-partenkirchen.de/posts/archiv-93/</guid>
+          <description>&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;neu.volksschule-partenkirchen.de&#x2F;posts&#x2F;archiv-93&#x2F;.&#x2F;images&#x2F;Handout-Eltern-1-212x300.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Memo Schnuppertag</title>
+          <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://neu.volksschule-partenkirchen.de/posts/20230509/</link>
+          <guid>https://neu.volksschule-partenkirchen.de/posts/20230509/</guid>
+          <description>&lt;p&gt;Schnuppertag
+an der Bürgermeister-Schütte-Grundschule am Mittwoch, 17.5.2023&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
