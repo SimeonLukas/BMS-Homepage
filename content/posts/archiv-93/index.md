@@ -6,7 +6,7 @@ tags = ["infos-zum-schulanfang", "Materialien" ]
 klassen = ["1. Klasse"]
 +++
 
-![](Handout-Eltern-1-212x300.jpg)
+![](./images/Handout-Eltern-1-212x300.jpg)
 
 # Regelung der ersten Schultage
 **Dienstag, 12. September 2023**  
@@ -21,7 +21,7 @@ ab Montag, 18. September 2023 Unterricht nach vorläufigem Stundenplan
 
 <!-- more -->
 
-**Unterrichtszeiten**
+**Unterrichtszeiten**  
 Unterrichtsbeginn 7.45 Uhr (Vorviertelstunde ab 7.30 Uhr) 
 Unterrichtsschluss nach der 4. Stunde 11.00 Uhr  
 Unterrichtsschluss nach der 5. Stunde 12.00 Uhr  
