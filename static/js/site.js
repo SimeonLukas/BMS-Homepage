@@ -525,3 +525,8 @@ article.style.display = "block";
 document.getElementsByClassName("pagination")[0].style.display = "flex";
 document.getElementsByClassName("lowhigh")[0].style.display = "block";
 }
+
+
+setTimeout(function(){
+  start();
+},1000);
