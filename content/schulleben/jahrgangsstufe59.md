@@ -6,4 +6,4 @@ template = "toppage.html"
 description =""
 +++
 
-[G-Zweig (Gebundener-Ganztags-Zweig)](/Schullebenseiten/g-zweig)
+[G-Zweig (Gebundener-Ganztags-Zweig)](/schullebenseiten/g-zweig)

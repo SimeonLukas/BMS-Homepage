@@ -6,4 +6,4 @@ template = "toppage.html"
 description =""
 +++
 
-[Übertritt](/Schullebenseiten/uebertritt/)
+[Übertritt](/schullebenseiten/uebertritt/)

@@ -8,7 +8,7 @@ template = "toppage.html"
 toc = true
 
 +++
-[Fine mit der Mine](../Schullebenseiten/finemitdermine)
+[Fine mit der Mine](../schullebenseiten/finemitdermine)
 
 
 

@@ -6,6 +6,6 @@ template = "toppage.html"
 description =""
 +++
 
-[Mittlerer Schulabschluss](/Schullebenseiten/mittlerer-schulabschluss)    
-[Externer Mittlerer Schulabschluss](/Schullebenseiten/mittlerer-schulabschluss)    
-[Prüfungstermine](/Schullebenseiten/prufungstermine/#mittlerer-schulabschluss)
+[Mittlerer Schulabschluss](/schullebenseiten/mittlerer-schulabschluss)    
+[Externer Mittlerer Schulabschluss](/schullebenseiten/mittlerer-schulabschluss)    
+[Prüfungstermine](/schullebenseiten/prufungstermine/#mittlerer-schulabschluss)
