@@ -12,4 +12,4 @@ categories = ["Berufsorientierung"]
 toc = true
 +++
 
-<script>window.location.href = "/Schullebenseiten/quali/";</script>
+<script>window.location.href = "/schullebenseiten/quali/";</script>
