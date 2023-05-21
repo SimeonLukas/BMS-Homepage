@@ -510,6 +510,18 @@ if (now < expire){
 
 
 function start(){
-document.getElementsByClassName("section")[0].style.display ="block";
-document.getElementsByClassName("footer")[0].style.display ="block";
+let containers = document.getElementsByClassName("container");
+containers.forEach(container  => {
+container.style.display = "block";
+
+} )
+
+document.getElementsByClassName("footer")[0].style.display = "block";
+let articles = document.getElementsByTagName("article");
+articles.forEach(article  => {
+article.style.display = "block";
+
+} )
+document.getElementsByClassName("pagination")[0].style.display = "flex";
+document.getElementsByClassName("lowhigh")[0].style.display = "block";
 }

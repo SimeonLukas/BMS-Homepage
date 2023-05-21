@@ -1,7 +1,7 @@
 +++
 weight = 0
 date = "2023-02-01"
-title = "Besuch in der Bürcherei"
+title = "Besuch in der Bücherei"
 template = "page.html"
 description =""
 [taxonomies]

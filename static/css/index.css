@@ -507,8 +507,13 @@ td:nth-child(3n+1) {}
 }
 
 .indexsection .container,
-article {
+article, footer, .pagination, .lowhigh {
   animation: fade-right 0.5s ease-in-out;
+  display: none;
+}
+
+.navbar .container{
+  display: flex !important;
 }
 
 body[theme=dark] img,
