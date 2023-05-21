@@ -1,7 +1,7 @@
 +++
 weight = 0
 date = "2023-03-27"
-title = "Walderlebnistag mit den Schwerpunkten „Achtsamkeit“ und „Team-Building“"
+title = "Erste-Hilfe-Kenntnisse für die 1. Klasse"
 template = "page.html"
 description =""
 [taxonomies]
