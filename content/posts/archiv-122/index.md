@@ -2,7 +2,7 @@
 title = "😇 Besinnungstage der 9. Klassen der Mittelschule Partenkirchen"
 date = 2022-12-21
 [taxonomies]
-tags = ["aktuelles" ,"allgemein" ]
+tags = ["Aktuelles" ,"allgemein" ]
 +++
 
 Die drei 9. Klassen der Bürgermeister-Schütte-Schule Partenkirchen waren auch dieses Schuljahr wieder traditionell zu den sogenannten Besinnungstagen vom 23.11. bis 25.11.2022 im Aktionszentrum des Klosters Benediktbeuern.

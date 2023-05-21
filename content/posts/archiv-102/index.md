@@ -2,7 +2,7 @@
 title = "🖼️ Alpensinfonie Galerie"
 date = 2022-09-13
 [taxonomies]
-tags = ["aktuelles" ,"alpensinfonie" ,"impressionen" ,"schulleben" ,"tanzprojekte" ]
+tags = ["Aktuelles" ,"alpensinfonie" ,"impressionen" ,"Schulleben" ,"tanzprojekte" ]
 +++
 
 ###### Richard-Strauss-Tage 2022  

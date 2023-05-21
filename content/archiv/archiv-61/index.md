@@ -2,7 +2,7 @@
 title = "Klima und Klimaschutz"
 date = 2021-11-22
 [taxonomies]
-tags = ["archiv" ,"grundschulaktivitaeten" ]
+tags = ["archiv" ,"Grundschulaktivitäten" ]
 +++
 
 ![](images/Klimawandel-Thema_20211120.jpg)

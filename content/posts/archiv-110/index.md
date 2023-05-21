@@ -2,7 +2,7 @@
 title = "👍 Voller Einsatz für Mitschülerinnen und Mitschüler"
 date = 2022-10-18
 [taxonomies]
-tags = ["aktuelles" ,"ministerien-infos" ,"presse" ]
+tags = ["Aktuelles" ,"ministerien-infos" ,"presse" ]
 +++
 
 Garmisch-Partenkirchen/Landkreis.

@@ -2,7 +2,7 @@
 title = "🎺 klasse•im•puls & Sparkasse"
 date = 2022-10-03
 [taxonomies]
-tags = ["aktuelles" ,"allgemein" ]
+tags = ["Aktuelles" ,"allgemein" ]
 +++
 
 Wir danken der örtlichen Sparkasse, dass sie unser pädagogisches Vorhaben unterstützt.

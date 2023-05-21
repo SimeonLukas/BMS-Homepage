@@ -2,7 +2,7 @@
 title = "🐢Wiedersehen mit Momo"
 date = 2023-03-26
 [taxonomies]
-tags = ["aktuelles" ]
+tags = ["Aktuelles" ]
 +++
 
 Garmisch-Partenkirchen - „Die ganze Welt ist eine große Ge schichte und wir spielen darin mit." Diese Worte legt Michael Ende dem Fremdenführer Gigi in den Mund. Sie pas- sen nicht nur zu „Momo", die es mit den Zeitdieben auf

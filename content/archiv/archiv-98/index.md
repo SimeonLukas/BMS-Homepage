@@ -2,7 +2,7 @@
 title = "😎 Ihr seid die coolen Socken"
 date = 2022-07-28
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"schulleben" ]
+tags = ["archiv" ,"allgemein" ,"Schulleben" ]
 +++
 
 _VON ASTRID KLAMMT_

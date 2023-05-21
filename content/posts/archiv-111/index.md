@@ -2,7 +2,7 @@
 title = "🛠 Bewerbertag der Schütte-Schule"
 date = 2022-10-18
 [taxonomies]
-tags = ["aktuelles" ]
+tags = ["Aktuelles" ]
 +++
 
 Nachdem die Bewerbertage an der Bürgermeister-Schütte-Mittelschule vor Corona allseits großen Anklang gefunden hatten, luden Verena Hafenrichter, erste Konrektorin und Berufseinstiegsbegleiter Marcus Beley dieses Jahr zum dritten Mal wieder zu der Veranstaltung ein.

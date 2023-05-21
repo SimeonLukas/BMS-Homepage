@@ -2,7 +2,7 @@
 title = "Training der Erstklässler zur Sicherheit im Straßenverkehr"
 date = 2021-02-09
 [taxonomies]
-tags = ["grundschulaktivitaeten" ]
+tags = ["Grundschulaktivitäten" ]
 +++
 
 Im Oktober durften die vier ersten Klassen unserer Schule in der Turnhalle ein Training zur Sicherheit im Straßenverkehr durchführen.  

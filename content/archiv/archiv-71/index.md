@@ -2,7 +2,7 @@
 title = "Sternsinger 2022"
 date = 2022-01-21
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"impressionen" ,"schulleben" ]
+tags = ["archiv" ,"allgemein" ,"impressionen" ,"Schulleben" ]
 +++
 
 - [![](images/IMG_1832-768x1024.jpg)](https://volksschule-partenkirchen.de/wp-content/uploads/IMG_1832-scaled.jpg)

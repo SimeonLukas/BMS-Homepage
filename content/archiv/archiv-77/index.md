@@ -2,7 +2,7 @@
 title = "Friedenshörnchen für die Grundschulen"
 date = 2022-02-24
 [taxonomies]
-tags = ["archiv" ,"grundschulaktivitaeten" ,"presse" ,"schulleben" ]
+tags = ["archiv" ,"Grundschulaktivitäten" ,"presse" ,"Schulleben" ]
 categories = ["Jugendsozialarbeit an Schulen"]
 klassen = ["3. Klasse"]
 +++

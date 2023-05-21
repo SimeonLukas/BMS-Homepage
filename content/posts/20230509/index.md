@@ -5,7 +5,7 @@ title = "Memo Schnuppertag"
 template = "page.html"
 description ="Erinnnerung an den Schnuppertag für Erstklässler an der Bürgermeister-Schütte-Grundschule"
 [taxonomies]
-tags = ["grundschulaktivitaeten" , "aktuelles" , "Schuleinschreibung", "Infos zum Schulanfang"]
+tags = ["Grundschulaktivitäten" , "Aktuelles" , "Schuleinschreibung", "Infos zum Schulanfang"]
 [extra]
 notification = "2023-05-17"
 +++

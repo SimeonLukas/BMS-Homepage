@@ -2,7 +2,7 @@
 title = "Klasse2000"
 date = 2021-11-22
 [taxonomies]
-tags = ["archiv" ,"grundschulaktivitaeten" ]
+tags = ["archiv" ,"Grundschulaktivitäten" ]
 +++
 
 ![](images/Klasse2000_2021-10-22.jpg)

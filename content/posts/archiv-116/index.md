@@ -2,7 +2,7 @@
 title = "🌲 Wir sind Umweltschule, eine von 624 Schulen in Bayern"
 date = 2022-12-09
 [taxonomies]
-tags = ["aktuelles" ,"allgemein" ]
+tags = ["Aktuelles" ,"allgemein" ]
 categories = ["Nachhaltigkeit & Ressourcen"]
 +++
 

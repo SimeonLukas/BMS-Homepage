@@ -5,7 +5,7 @@ title = "Mädels-Treff"
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["mittelschulaktivitaeten","schulleben" ]
+tags = ["mittelschulaktivitaeten","Schulleben" ]
 categories = ["Jugendsozialarbeit an Schulen"]
 klassen = ["8. Klasse"]
 +++

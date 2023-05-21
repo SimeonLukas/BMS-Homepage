@@ -3,7 +3,7 @@ title="Training der Erstklässler zur Sicherheit im Straßenverkehr"
 date=2023-03-30
 
 [taxonomies]
-categories = ["Unterricht"]
+categories = [ ]
 tags = ["Verkehr", "Verhalten"]
 klassen = ["1. Klasse"]
 +++

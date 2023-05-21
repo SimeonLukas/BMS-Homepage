@@ -7,7 +7,7 @@ template = "toppage.html"
 
 _Jahrgangstufe 1-4_
 
-[Offene Ganztagsschule](../schullebenseiten/ogts-grundschule)  
-[Schulfrühstück](/schullebenseiten/schulfruehstueck/)   
-[Pausenzeiten](/schullebenseiten/pausenzeiten)
+[Offene Ganztagsschule](../Schullebenseiten/ogts-grundschule)  
+[Schulfrühstück](/Schullebenseiten/schulfruehstueck/)   
+[Pausenzeiten](/Schullebenseiten/pausenzeiten)
 

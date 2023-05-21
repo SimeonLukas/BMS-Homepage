@@ -5,7 +5,7 @@ transparent = true
 paginate_by = 3
 sort_by = "date"
 [taxonomies]
-categories = ["Unterricht"]
+categories = [ ]
 tags = ["Verkehr", "Verhalten"]
 klassen = ["1. Klasse"]
 +++

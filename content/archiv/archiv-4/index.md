@@ -2,7 +2,7 @@
 title = "Bewegungsangebote"
 date = 2020-10-30
 [taxonomies]
-tags = ["schulleben" ]
+tags = ["Schulleben" ]
 +++
 
 Hier eine kleine Zusammenstellung unserer Bewegungsangebote, die nicht nur während eines Lockdowns besucht werden dürfen. Viel Spaß!

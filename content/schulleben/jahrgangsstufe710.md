@@ -6,4 +6,4 @@ template = "toppage.html"
 description =""
 +++
 
-[M-Zweig (Mittlerer-Reife-Zweig)](/schullebenseiten/m-zweig)
+[M-Zweig (Mittlerer-Reife-Zweig)](/Schullebenseiten/m-zweig)

@@ -2,7 +2,7 @@
 title = "🏐 Bezirksfinale Volleyball/ Wettkampfklasse III"
 date = 2023-03-02
 [taxonomies]
-tags = ["aktuelles" ]
+tags = ["Aktuelles" ]
 +++
 
 Sehr erfolgreich abgeschlossen haben die Mädchen der Wettkampfklasse III

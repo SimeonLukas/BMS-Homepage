@@ -2,7 +2,7 @@
 title = "🧑‍💼 Beamtenlaufbahn für Mittelschüler"
 date = 2023-02-23
 [taxonomies]
-tags = ["aktuelles" ,"berufsorientierung" ]
+tags = ["Aktuelles" ,"berufsorientierung" ]
 +++
 
 Eine gelungene Abwechslung im Schulalltag wurde den Klassen 8 und 9 der be-rufsorientierenden Wirtschaft und Kommunikation-Gruppen zuteil!

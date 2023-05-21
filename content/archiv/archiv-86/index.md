@@ -2,7 +2,7 @@
 title = "Projekt Streuobstwiese der Klassen 2a und 2d in Kooperation mit dem Netzwerk „Unser Land“"
 date = 2022-05-17
 [taxonomies]
-tags = ["archiv" ,"grundschulaktivitaeten" ]
+tags = ["archiv" ,"Grundschulaktivitäten" ]
 +++
 
 Äpfel sind für uns, ob Groß oder Klein, das beliebteste Obst – und wachsen im eigenen oder nächsten Garten. Selbst zu beobachten, was alles rund um den Apfelbaum, auf der Wiese passiert, wenn alles blüht, welche Insekten, Vögel und anderen vielfältigen Tiere hier vorbeikommen, ist für die Schüler(innen) nicht nur spannend, sondern bringt sie auch zum Nachfragen und Verstehen: Was braucht es alles, damit ein Baum blüht, Früchte kommen, wachsen und reifen? Welche Tiere verschiedenster Art leben im Umfeld des Baumes? Wer pflegt den Baum und die ganze Streuobstwiese? Was macht der Bauer mit seinen Äpfeln? Warum sind Wiesen mit Obstbäumen nicht nur schön, sondern auch wirklich kostbar und wertvoll?

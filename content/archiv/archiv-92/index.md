@@ -2,7 +2,7 @@
 title = "Dritter von Oberbayern"
 date = 2022-05-31
 [taxonomies]
-tags = ["archiv" ,"mittelschulaktivitaeten" ,"schulleben" ]
+tags = ["archiv" ,"mittelschulaktivitaeten" ,"Schulleben" ]
 +++
 
 Am 16.05.2022 fand die Bezirksmeisterschaft der Mittelschulen in Basketball Jungen III/2 (Jg.05 bis 2009) im Rahmen von „Jugend trainiert für Olympia“ in Edling statt.

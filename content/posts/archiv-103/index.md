@@ -2,7 +2,7 @@
 title = "🍴 Informationen OGTS"
 date = 2022-09-22
 [taxonomies]
-tags = ["aktuelles" ,"ogts" ]
+tags = ["Aktuelles" ,"ogts" ]
 +++
 
 Allgemeine Informationen

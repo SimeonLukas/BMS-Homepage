@@ -2,7 +2,7 @@
 title = "Tanzprojekt Alpensinfonie - Kick-Off Event"
 date = 2022-05-09
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"alpensinfonie" ,"impressionen" ,"schulleben" ]
+tags = ["archiv" ,"allgemein" ,"alpensinfonie" ,"impressionen" ,"Schulleben" ]
 +++
 
 Vor den Osterferien fand das Kick-Off Event mit fast allen Teilnehmenden des Tanzprojektes statt. Durch unterschiedliche Übungen und Spiele lernten sich alle ein wenig besser kennen und durften schon einige Tanzschritte ausprobieren.

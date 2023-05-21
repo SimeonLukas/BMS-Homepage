@@ -2,7 +2,7 @@
 title = "🏰 Berufsorientierung mal ganz anders"
 date = 2023-01-29
 [taxonomies]
-tags = ["aktuelles" ,"berufsorientierung" ]
+tags = ["Aktuelles" ,"berufsorientierung" ]
 +++
 
 **Berufsorientierung mal ganz anders – Betriebserkundung der 10Ma im Schlosshotel Elmau**
