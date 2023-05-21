@@ -291,7 +291,7 @@
   {%- endblock -%}
   {%- endif -%}
   <script src="{{ get_url(path='js/simple-lightbox.js') }}"></script>
-  <script src="{{ get_url(path='js/site.js') }}"></script>
+  <script src="{{ get_url(path='js/site.js?ver=') }}{{ now(timestamp=true) }}"></script>
 
   {% block custom_js %}
   {% endblock %}
