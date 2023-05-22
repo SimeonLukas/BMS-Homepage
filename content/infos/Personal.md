@@ -85,65 +85,65 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | 9G                                  | Frau Weber     |   |   
 
 ## Zusatzlehrer:in      
-|          |            |
-|-------------------------------|------------|
-| Lena Andrä-Karatas            | Lin        |
-| Kurt Christian                | L          |
-| Sonja Ermer                   | KRin       |
-| Sophia Fries                  | FöLA       |
-| Verena Hafenrichter           | KRin       |
-| Brigitte Kruis                | StRin/GS   |
-| Sabine Müller                 |            |
-| Heidi Richter                 | LAA        |
-| Anja Schalkhäuser-Riesch, Dr. | StRin/GS   |
-| Stefanie Schmidt              | Rin        |
-| Florian Vollmer               | FL         |
-| Florian Wipfelder             |            |
+|      |    |            |
+|-----------------------|--------|------------|
+| Lena Andrä-Karatas        |    | Lin        |
+| Kurt Christian             |   | L          |
+| Sonja Ermer                 |  | KRin       |
+| Sophia Fries                 | | FöLA       |
+| Verena Hafenrichter      |     | KRin       |
+| Brigitte Kruis           |     | StRin/GS   |
+| Sabine Müller             |    |            |
+| Heidi Richter             |    | LAA        |
+| Anja Schalkhäuser-Riesch, Dr.| | StRin/GS   |
+| Stefanie Schmidt       |       | Rin        |
+| Florian Vollmer         |      | FL         |
+| Florian Wipfelder        |     |            |
 
 ## Fachlehrer:in   
-|          |            |
-|-------------------------------|------------|
-| Stefanie Echter*              | FLin       |
-| Andrea Meiler                 | FOLin        |
-| Stefanie Schilling*          | FOL/EG    |
-| Hans-Peter Schmitt*           | FOL/mt     |
-| Monika Pach                   | FLin       |
-| Andrea Schwinghammer          | FOLin/EG   |
-| Louis Gabler*                 | FL/mus.    |
-| Ludwig Geiger                 | FOL/mt     |
-| Maria Haseidl            | FL/EG    |
+|          |      |      |
+|------------------|-------------|------------|
+| Stefanie Echter*      |        | FLin       |
+| Andrea Meiler         |        | FOLin        |
+| Stefanie Schilling*   |       | FOL/EG    |
+| Hans-Peter Schmitt*   |        | FOL/mt     |
+| Monika Pach           |        | FLin       |
+| Andrea Schwinghammer  |        | FOLin/EG   |
+| Louis Gabler*         |       | FL/mus.    |
+| Ludwig Geiger         |       | FOL/mt     |
+| Maria Haseidl         |   | FL/EG    |
 
 *nicht Stammschule
 
 ## Religionslehrer:in   
-|          |            |
-|-------------------------------|------------|
-| Angela Eitzenberger           | RLin i. K. |
-| Petra Schwimmbeck             | RLin i. K. |
-| Andreas Kolb                  | Kaplan     |
-| Dorothee Geißlinger-Henckel   | Pfarrerin  |
+|          |        |    |
+|--------------------|-----------|------------|
+| Angela Eitzenberger        |   | RLin i. K. |
+| Petra Schwimmbeck           |  | RLin i. K. |
+| Andreas Kolb                |  | Kaplan     |
+| Dorothee Geißlinger-Henckel |  | Pfarrerin  |
 
 ## Mobile Reserve   
-|          |            |
-|-------------------------------|------------|
-| Anja Jäger                    | Lin        |
-| Anja Krinninger               | StRin/GS   |
-| Susanne Kücker                | Lin        |
-|Jessica Ludwig| |
-| Jacqueline Naujok             | Lin        |
+|          |       |     |
+|-----------------------|--------|------------|
+| Anja Jäger             |       | Lin        |
+| Anja Krinninger         |      | StRin/GS   |
+| Susanne Kücker           |     | Lin        |
+|Jessica Ludwig|  | |
+| Jacqueline Naujok       |      | Lin        |
 
 ##  Musik  
-|          |            |
-|-------------------------------|------------|
-| Erwin Gaulhofer               |            |
-| Jarek Haber                   |            |
-| Magdalena Hornsteiner         |            |
+|          |          |  |
+|---------------------|----------|------------|
+| Erwin Gaulhofer          |     |            |
+| Jarek Haber             |      |            |
+| Magdalena Hornsteiner     |    |            |
 
 ## Jugendsozialarbeit an Schulen (JaS)
-|      |                |
-|-------------------------------------|----------------|
-| Maria-Theresa Zink                  |       JaS MS         |    
-| Elisabeth Grasegger                 |     JaS GS           |    
+|      |           |     |
+|----------------------------|---------|----------------|
+| Maria-Theresa Zink        |          |       JaS MS         |    
+| Elisabeth Grasegger       |          |     JaS GS           |    
 
 ## Berufseinstiegsbegleiter
 |      |                |      |
