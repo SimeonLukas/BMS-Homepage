@@ -529,4 +529,4 @@ document.getElementsByClassName("lowhigh")[0].style.display = "block";
 
 setTimeout(function(){
   start();
-},1000);
+},800);
