@@ -1,7 +1,7 @@
 +++
 weight = 2
 date = "2021-04-30"
-title = "Offene Ganztagschule der Grundschule"
+title = "Offene Ganztagsschule der Grundschule"
 template = "toppage.html"
 description="Eine qualifizierte Nachmittagsbetreuung ist häufig der Schlüssel für schulischen Erfolg und eine gelungene Integration. Kinder erhalten ein gesundes Mittags­essen und individuelle Förderung am Nachmittg. Gleichzeitig wird der soziale Zusammenhalt und das gegenseitige Verständnis gefördert..."
 
