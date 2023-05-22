@@ -38,7 +38,7 @@ Unabhängig davon kann mich jede/-r bei Fragen oder Unterstützungsbedarf gerne 
 ## Kontakt
 {{person(name = "Marcus Beley" , phone="+49 171 301 90 63" , mail="beley.marcus@wm.bfz.de")}}
 
-[Homepage](https://www.gfi-ggmbh.de)
+[Homepage](https://www.die-gfi.de/)
 
 ![](images/Bildschirm­foto-2023-02-01-um-21.01.08-1024x167.png)
 
