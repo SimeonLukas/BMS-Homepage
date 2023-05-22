@@ -34,8 +34,8 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 |  <!-- --> |  <!-- --> | <!-- -->  |   
 |------|---|---|
-| Frau Anke Wesemann | Sekretärin |  Verwaltungangestellte  |   
-| Frau Christine Brückl | Sekretärin |  Verwaltungangestellte  |   
+| Anke Wesemann | Sekretärin |  Verwaltungangestellte  |   
+| Christine Brückl | Sekretärin |  Verwaltungangestellte  |   
 
 # Lehrerkollegium
 
@@ -67,8 +67,8 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | 5G                                  | Sebastian Schranner        | StR/MS |
 | 6a                                  | Maria Stemmer              | Lin    |
 | 6G                                  | Gisela Näbauer             | Lin    |
-| 7G                                  | Sebastian Hierl            | LAA    |
-| 7M                                  | Christian Maurer           | L      |
+| 7G                                  | Mobile Reserve            |     |
+| 7M                                  | Jasmin Zahler           | Lin      |
 | 8G                                  | Karl Koeppelle             | StR/MS     |
 | 8M                                  | Thomas Härter             | L      |
 | 9a                                  | Christoph Richter        | L      |
@@ -80,8 +80,8 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 ## Mittagskräfte im gebunden Ganztag
 |     |                |   |   
 |-------------------------------------|----------------|---|
-| 5G,7G                               | Frau Albakkour |   |   
-| 6G,8G                               | Frau Martonosi |   |   
+| 5G, 7G                               | Frau Albakkour |   |   
+| 6G, 8G                               | Frau Martonosi |   |   
 | 9G                                  | Frau Weber     |   |   
 
 ## Zusatzlehrer:in      
@@ -95,7 +95,6 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | Brigitte Kruis                | StRin/GS   |
 | Sabine Müller                 |            |
 | Heidi Richter                 | LAA        |
-| Peter Wowra                   | L          |
 | Anja Schalkhäuser-Riesch, Dr. | StRin/GS   |
 | Stefanie Schmidt              | Rin        |
 | Florian Vollmer               | FL         |
@@ -105,14 +104,14 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 |          |            |
 |-------------------------------|------------|
 | Stefanie Echter*              | FLin       |
-| Andrea Meiler                 | FOL        |
+| Andrea Meiler                 | FOLin        |
 | Stefanie Schilling*          | FOL/EG    |
 | Hans-Peter Schmitt*           | FOL/mt     |
 | Monika Pach                   | FLin       |
 | Andrea Schwinghammer          | FOLin/EG   |
 | Louis Gabler*                 | FL/mus.    |
 | Ludwig Geiger                 | FOL/mt     |
-| Maria Anna Haseidl            | FL/EG    |
+| Maria Haseidl            | FL/EG    |
 
 *nicht Stammschule
 
@@ -130,7 +129,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | Anja Jäger                    | Lin        |
 | Anja Krinninger               | StRin/GS   |
 | Susanne Kücker                | Lin        |
-|Jessica Ludwig|LAA|
+|Jessica Ludwig| |
 | Jacqueline Naujok             | Lin        |
 
 ##  Musik  

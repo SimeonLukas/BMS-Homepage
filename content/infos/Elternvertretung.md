@@ -3,7 +3,7 @@ title = "Elternvertretung"
 weight = 1
 date = 2023-03-27
 template = "toppage.html"
-description="Das Amt der Klassenselternsprecher:innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenelternsprecher:innen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Personen."
+description="Das Amt der Klassenelternsprecher:innen ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenelternsprecher:innen sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Personen."
 [extra]
 toc = true
 +++
@@ -35,10 +35,10 @@ Insgesamt ist das Amt der Klassenselternsprecher:innen ein wichtiges Amt, das ei
 | 3a | Katrin Bauer               | Julia Tischler-Metzner |
 | 3b | Melanie Fellendorf         | Marina Winkler         |
 | 3c | Lisa Hirn                  | Carsten Hauke          |
-| 3d | Rosemarie Grasegger        | Christina Konstanzer   |
+| 3d | Rosemarie Grasegger        | Christine Konstanzer   |
 | 4a | Lukas Wallner              | Sabine Schulze             |
-| 4b | Michalea Anzenberger       |Gaby Hähl               |
-| 4c | Barbette Warnisch          | Susanne Lichtenwald    |
+| 4b | Michaela Anzenberger       |Gaby Hähl               |
+| 4c | Babette Wanisch          | Susanne Lichtenwald    |
 | 4d | Gabriele Koller            | Wolfgang Grab          |
 ## Elternbeirat
 **Vorsitzender:** Franz Weber  
@@ -52,7 +52,7 @@ Insgesamt ist das Amt der Klassenselternsprecher:innen ein wichtiges Amt, das ei
 | ---- | ---------------------------- | ------------------------- |
 | 5a   | Sepp Schnitzer               | Veronika Glatz            |
 | 5G   | Katrin Adam                  | Barbara Baudrexl          |
-| 6a   | Kerstin Turnhuber           |  Daniela Barkow-Topcuoglu |
+| 6a   | Kerstin Thurnhuber           | Daniela Barkow-Topcuoglu |
 | 6G   | Barbara Brenner              | Katharina Avcu            |
 | 7G   | Hans-Jürgen Koppien-Schiebel | —                         |
 | 7M   | Gabriele Laczko              | Linus Käßer               |
