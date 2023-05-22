@@ -5,7 +5,7 @@ date = 2021-12-21
 tags = ["archiv" ,"allgemein" ,"karitativ" ,"Schulleben" ]
 +++
 
-![Schüler:innen der Bürgermiester Schütte Schule halten Sterne in den Händen und die Spendnescheine. Frau Elisabeth Lindauer ist auch zu sehen.](images/Spendenuebergabe-1024x768.jpg)
+![Schüler der Bürgermiester Schütte Schule halten Sterne in den Händen und die Spendnescheine. Frau Elisabeth Lindauer ist auch zu sehen.](images/Spendenuebergabe-1024x768.jpg)
 
 Spendenübergabe an das Tierheim Garmisch-Partenkirchen und an das Kinderheim ‘s Mauganest
 

@@ -8,7 +8,7 @@ description="Der Förderverein unterstützt unsere Schule durch ehrenamtliches E
 toc = true
 +++
 
-# Förderverein der Bürgermeister-Schütte-Grund- und Mittelschule Garmisch-Partenkirchen e.V.
+# Förderverein der Bürgermeister-Schütte Grund- und Mittelschule Garmisch-Partenkirchen e.V.
 
 ## Was wir wollen
 

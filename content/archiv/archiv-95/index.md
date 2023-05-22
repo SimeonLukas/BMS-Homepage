@@ -11,7 +11,7 @@ tags = ["archiv" ,"impressionen" ,"mittelschulaktivitaeten" ,"Schulleben" ]
 
 _„Abschlag Schule“ – lautete die Projektinitiative des Deutschen Golf Verbandes._
 
-_„Du verlierst nie. Entweder du gewinnst oder du lernst!“ – anhand dieses Mottos versucht die 2. Konrektorin Sonja Ermer ihren Mittelschülern der Bürgermeister-Schütte-Schule Garmisch-Partenkirchen ein breites Spektrum an Sportarten näher kommen zu lassen._
+_„Du verlierst nie. Entweder du gewinnst oder du lernst!“ – anhand dieses Mottos versucht die 2. Konrektorin Sonja Ermer ihren Mittelschülern der Bürgermeister-Schütte Schule Garmisch-Partenkirchen ein breites Spektrum an Sportarten näher kommen zu lassen._
 
 So bekam die Klasse 8a die Möglichkeit, einen professionellen Unterricht im Golfclub Garmisch-Partenkirchen zu absolvieren.
 

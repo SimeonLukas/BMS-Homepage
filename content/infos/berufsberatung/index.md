@@ -3,7 +3,7 @@ weight = 6
 date = "2021-04-30"
 title = "Berufsberatung"
 template = "toppage.html"
-description="Maßnahmen zur Unterstützung von Schüler:innen am Übergang von Schule zum Beruf"
+description="Maßnahmen zur Unterstützung von Schüler am Übergang von Schule zum Beruf"
 
 [extra]
 toc = true
@@ -14,7 +14,7 @@ toc = true
 
 ### Was machen wir?
 
-Maßnahmen zur Unterstützung von Schüler:innen am Übergang von Schule zum Beruf
+Maßnahmen zur Unterstützung von Schüler am Übergang von Schule zum Beruf
 
 ### Eure Ziele sind unsere Ziele!
 

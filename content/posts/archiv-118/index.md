@@ -215,7 +215,7 @@ Foto: Tobias Hase / stmuk
 
 [![](images/2022_12_09stmuk0635_-1024x683.jpg)](https://volksschule-partenkirchen.de/wp-content/uploads/2022_12_09stmuk0635_-scaled.jpg)
 
-Auszeichnung für Bürgermeister-Schütte-Grundschule Garmisch-Partenkirchen
+Auszeichnung für Bürgermeister-Schütte Grundschule Garmisch-Partenkirchen
 
 Kultusminister Prof. Dr. Michael Piazolo (r), BLSV-Präsident Jörg Ammon (l) sowie Rektorin Stefanie Schmidt und Anja Schalkhäuser-Riesch
 

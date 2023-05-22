@@ -5,7 +5,7 @@ date = 2022-05-25
 tags = ["archiv" ,"allgemein" ,"mittelschulaktivitaeten" ]
 +++
 
-Mit dem Ende der Pandemie rückt auch der Schulsport wieder mehr in den Fokus der sportlichen Schüler und Schülerinnen. So auch an der Bürgermeister-Schütte-Mittelschule. Schon im letzten Schuljahr wurde im Auftrag von Rektorin Schmidt ein Sportteam aus mehreren Lehrkräften unter der Führung von Frau Dr. Schalkhäuser-Riesch gebildet, das es sich zum Ziel setzte, u.a. Schulmannschaften zu beleben bzw. neu aufzubauen. Dazu wurden die Schüler im Vorfeld abgefragt und ihre Interessen gebündelt.
+Mit dem Ende der Pandemie rückt auch der Schulsport wieder mehr in den Fokus der sportlichen Schüler und Schülerinnen. So auch an der Bürgermeister-Schütte Mittelschule. Schon im letzten Schuljahr wurde im Auftrag von Rektorin Schmidt ein Sportteam aus mehreren Lehrkräften unter der Führung von Frau Dr. Schalkhäuser-Riesch gebildet, das es sich zum Ziel setzte, u.a. Schulmannschaften zu beleben bzw. neu aufzubauen. Dazu wurden die Schüler im Vorfeld abgefragt und ihre Interessen gebündelt.
 
 Nun konnte offensiv für die Teilnahme an den staatlichen Turnieren, u.a. „Jugend trainiert für Olympia“ unter den Schülern der MS Partenkirchen geworben werden.
 

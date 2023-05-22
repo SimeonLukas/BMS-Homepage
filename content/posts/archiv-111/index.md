@@ -5,13 +5,13 @@ date = 2022-10-18
 tags = ["Aktuelles" ]
 +++
 
-Nachdem die Bewerbertage an der Bürgermeister-Schütte-Mittelschule vor Corona allseits großen Anklang gefunden hatten, luden Verena Hafenrichter, erste Konrektorin und Berufseinstiegsbegleiter Marcus Beley dieses Jahr zum dritten Mal wieder zu der Veranstaltung ein.
+Nachdem die Bewerbertage an der Bürgermeister-Schütte Mittelschule vor Corona allseits großen Anklang gefunden hatten, luden Verena Hafenrichter, erste Konrektorin und Berufseinstiegsbegleiter Marcus Beley dieses Jahr zum dritten Mal wieder zu der Veranstaltung ein.
 
 Während die Firmen Langmatz GmbH, Autohaus Hornung, Autoteile Konrad, Kern Microtechnik schon in den vorhergehenden Jahren vertreten waren, kamen nunmehr das Finanzamt, das Amtsgericht, die Gemeindewerke GAP, das BSZ Schongau, die Zugspitz AG, die Werdenfelserei und Sport Conrad neu hinzu.
 
-Sämtliche 150 Schüler:innen aus den achten, neunten und zehnten Klassen waren aufgerufen, an dem Bewerbertag teilzunehmen.
+Sämtliche 150 Schüler aus den achten, neunten und zehnten Klassen waren aufgerufen, an dem Bewerbertag teilzunehmen.
 
-Die Veranstaltung gliederte sich in zwei Teile. Zunächst präsentierten sich die einzelnen Firmen detailliert den interessierten Schüler:innenn und gaben einen Überblick über die verschiedenen angebotenen Ausbildungsberufe und deren Anforderungsprofil.
+Die Veranstaltung gliederte sich in zwei Teile. Zunächst präsentierten sich die einzelnen Firmen detailliert den interessierten Schülern und gaben einen Überblick über die verschiedenen angebotenen Ausbildungsberufe und deren Anforderungsprofil.
 
 Anschließend waren die Schüler selbst gefordert und stellten sich bei den Betrieben mit einer Selbstpräsentation vor. Im Anschluss daran erhielt jeder Bewerber sofort eine Rückmeldung in Form eines Gesprächs mit einem Repräsentanten des jeweiligen Betriebes.
 

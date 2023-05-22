@@ -9,7 +9,7 @@ Sehr erfolgreich abgeschlossen haben die Mädchen der Wettkampfklasse III
 
 ( Jahrgänge 2008 und jünger)  im Volleyball Bezirksfinale.
 
-Bei der fast zweistündigen Anfahrt mit einem Kleinbus nach Edling merkte man den Mädchen der Bürgermeister-Schütte-Schule die Nervosität schon ein bisschen an. Schließlich waren alle das erste Mal ( nach zweijähriger Coronapause) bei einem Bezirksfinale der Mittelschulen dabei. Nach fünf Wochen Vorbereitung mit intensiven Volleyballtraining konnten es die Mädchen schon nicht mehr erwarten endlich spielen zu dürfen. So hat es dann auch enormen Spaß gemacht vor einem großen Publikum in der Edlinger Halle auf zu treten.
+Bei der fast zweistündigen Anfahrt mit einem Kleinbus nach Edling merkte man den Mädchen der Bürgermeister-Schütte Schule die Nervosität schon ein bisschen an. Schließlich waren alle das erste Mal ( nach zweijähriger Coronapause) bei einem Bezirksfinale der Mittelschulen dabei. Nach fünf Wochen Vorbereitung mit intensiven Volleyballtraining konnten es die Mädchen schon nicht mehr erwarten endlich spielen zu dürfen. So hat es dann auch enormen Spaß gemacht vor einem großen Publikum in der Edlinger Halle auf zu treten.
 
 <!-- more -->
 

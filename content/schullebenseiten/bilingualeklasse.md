@@ -3,7 +3,7 @@ weight = 2
 date = "2021-04-30"
 title = "Bilinguale Klasse"
 template = "toppage.html"
-description="Die Bürgermeister-Schütte-Grundschule Partenkirchen wird Bilinguale Grundschule. Unsere Schule hat sich erfolgreich um das Profil Bilinguale Grundschule Englisch beworben."
+description="Die Bürgermeister-Schütte Grundschule Partenkirchen wird Bilinguale Grundschule. Unsere Schule hat sich erfolgreich um das Profil Bilinguale Grundschule Englisch beworben."
 
 [taxonomies]
 categories = ["Kunst & Kultur"]
@@ -16,7 +16,7 @@ toc = true
 ![](https://volksschule-partenkirchen.de/wp-content/uploads/Bild1-3.png)    
 
 
-# Die Bürgermeister-Schütte-Grundschule Partenkirchen wird Bilinguale Grundschule
+# Die Bürgermeister-Schütte Grundschule Partenkirchen wird Bilinguale Grundschule
 
 Unsere Schule hat sich erfolgreich um das Profil _Bilinguale Grundschule Englisch_ beworben.
 

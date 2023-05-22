@@ -3,7 +3,7 @@ weight = 6
 date = "2023-04-05"
 title = "Berufsorientierung"
 template = "toppage.html"
-description ="Die Berufsorientierung hat an der Bürgermeister-Schütte-Schule einen sehr hohen Stellenwert und wird als langfristiger Prozess verstanden. Neben den notwendigen fachlichen Grundlagen werden auch Schlüsselqualifikationen wie Teamfähigkeit, Eigeninitiative, Selbstständigkeit, Gewissenhaftigkeit, Pünktlichkeit, Präsentationsfähigkeit etc. vermittelt."
+description ="Die Berufsorientierung hat an der Bürgermeister-Schütte Schule einen sehr hohen Stellenwert und wird als langfristiger Prozess verstanden. Neben den notwendigen fachlichen Grundlagen werden auch Schlüsselqualifikationen wie Teamfähigkeit, Eigeninitiative, Selbstständigkeit, Gewissenhaftigkeit, Pünktlichkeit, Präsentationsfähigkeit etc. vermittelt."
 
 [taxonomies]
 categories = ["Berufsorientierung"]
@@ -13,9 +13,9 @@ toc = true
 
 +++
 
-Ziel unserer Schule ist es, die Schüler:innen möglichst umfassend und zielgerichtet mit ihren individuellen Besonderheiten auf den Übergang und den Einstieg in das Berufsleben vorzubereiten.
+Ziel unserer Schule ist es, die Schüler möglichst umfassend und zielgerichtet mit ihren individuellen Besonderheiten auf den Übergang und den Einstieg in das Berufsleben vorzubereiten.
 <!-- more -->
-Die Bürgermeister-Schütte-Schule kooperiert im Bereich der Berufsorientierung mit außerschulischen Partnern wie dem BFZ/ GFI GmbH aus dem Bereich externer Bildungsträger, der Agentur für Arbeit, sowie dem  Bereich der Jugend und Sozialhilfe (Kolping und Caritas). Des Weiteren bestehen fortwährende Bestrebungen, ortsansässige Betriebe aller Berufsbereiche in die Kooperation ,,Schule-Betrieb-Ausbildung“ einzubinden.
+Die Bürgermeister-Schütte Schule kooperiert im Bereich der Berufsorientierung mit außerschulischen Partnern wie dem BFZ/ GFI GmbH aus dem Bereich externer Bildungsträger, der Agentur für Arbeit, sowie dem  Bereich der Jugend und Sozialhilfe (Kolping und Caritas). Des Weiteren bestehen fortwährende Bestrebungen, ortsansässige Betriebe aller Berufsbereiche in die Kooperation ,,Schule-Betrieb-Ausbildung“ einzubinden.
 
   
 Im Zuge des Berufswahlprozesses finden seitens der Schule in den verschiedenen Jahrgangsstufen vielfältige Aktionen und Maßnahmen statt:
@@ -43,5 +43,5 @@ Diese finden klassenübergreifend statt.
 
 ![](images/Logo-IHK-Top-Bildungspartner.png)
 
-Die Bürgermeister-Schütte-Schule wurde als einzige oberbayerische Mittelschule  
+Die Bürgermeister-Schütte Schule wurde als einzige oberbayerische Mittelschule  
 zweifach mit dem Prädikat "IHK Top Bildungspartner" ausgezeichnet.

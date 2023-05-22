@@ -7,7 +7,7 @@ tags = ["archiv" ,"allgemein" ,"karitativ" ,"mitteilungen" ]
 
 You are new in Garmisch\_Partenkirchen and want your children to go to school?
 
-Then you are very welcome to contact us at “Bürgermeister-Schütte-Schule”, Hindenburgstraße 10 (primary school and middle school, 10 Hindenburg street) for every school-related question.
+Then you are very welcome to contact us at “Bürgermeister-Schütte Schule”, Hindenburgstraße 10 (primary school and middle school, 10 Hindenburg street) for every school-related question.
 
 Opening hours are from 8.30 to 10.00 or by telephone: 08821-9103500
 

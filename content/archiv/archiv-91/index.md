@@ -5,7 +5,7 @@ date = 2022-05-31
 tags = ["archiv" ,"allgemein" ,"mittelschulaktivitaeten" ]
 +++
 
-Am Mittwoch, den 18.05.2022 nahmen die Buben der Bürgermeister-Schütte-Mittelschule in der Wettkampfgruppe IV (Jg. 2009 und jünger)  als Vertreter der Landkreise Weilheim, Bad Tölz und Garmisch-Partenkirchen im Rahmen von „Jugend trainiert für Olympia“ in der Sportart Handball teil und wurden vierter im Bezirk Oberbayern.
+Am Mittwoch, den 18.05.2022 nahmen die Buben der Bürgermeister-Schütte Mittelschule in der Wettkampfgruppe IV (Jg. 2009 und jünger)  als Vertreter der Landkreise Weilheim, Bad Tölz und Garmisch-Partenkirchen im Rahmen von „Jugend trainiert für Olympia“ in der Sportart Handball teil und wurden vierter im Bezirk Oberbayern.
 
 Erneut durften die Buben der Mittelschule Partenkirchen ihr Können unter Beweis stellen, diesmal im Handball.
 

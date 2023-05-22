@@ -3,7 +3,7 @@ title = "Schulberatung"
 template = "toppage.html"
 weight = 6
 date = 2023-01-10
-description = "An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte zur Seite und beraten Sie, liebe Eltern und Erziehungsberechtigte, ebenso Euch Schüler:innen bei..."
+description = "An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte zur Seite und beraten Sie, liebe Eltern und Erziehungsberechtigte, ebenso Euch Schüler bei..."
 
 [extra]
 toc = true
@@ -28,7 +28,7 @@ Erster Ansprechpartner ist in der Regel die Klassenlehrerin bzw. der Klassenlehr
   
 Außerdem stehen Beratungslehrer oder die für Sie zuständige Schulpsychologin zur Verfügung.  
   
-Für Euch Schüler:innen haben die Vertrauenslehrer ein offenes Ohr. Sie sind neben der Klassenleitung die erste Anlaufstelle bei Problemen untereinander. Außerdem könnt Ihr Euch jederzeit an die Schulsozialarbeiterinnen (JaS) hier an unserer Schule wenden.  
+Für Euch Schüler haben die Vertrauenslehrer ein offenes Ohr. Sie sind neben der Klassenleitung die erste Anlaufstelle bei Problemen untereinander. Außerdem könnt Ihr Euch jederzeit an die Schulsozialarbeiterinnen (JaS) hier an unserer Schule wenden.  
   
   
 **Wichtig zu wissen:**  

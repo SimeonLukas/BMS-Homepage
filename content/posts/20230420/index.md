@@ -9,7 +9,7 @@ categories = ["Sport & Gesundheit"]
 tags = ["Sport", "Turnier"]
 +++
 
-Am 13.04.2023 fuhren zwei Basketball-Teams der Bürgermeister-Schütte-Schule nach Murnau, um am Staffelsee Gymnasium den Meister in der Region D (WM, GAP & Tölz) in den Wettkampfgruppen J III/2 und J IV auszuspielen.
+Am 13.04.2023 fuhren zwei Basketball-Teams der Bürgermeister-Schütte Schule nach Murnau, um am Staffelsee Gymnasium den Meister in der Region D (WM, GAP & Tölz) in den Wettkampfgruppen J III/2 und J IV auszuspielen.
 
 <!-- more -->
 

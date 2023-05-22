@@ -5,7 +5,7 @@ date = 2022-02-23
 tags = ["archiv" ,"impressionen" ,"mittelschulaktivitaeten" ,"presse" ,"Schulleben" ]
 +++
 
-Bürgermeister-Schütte-Mittelschule: Condrops-Experten bilden Siebtklässler zu Netpiloten aus
+Bürgermeister-Schütte Mittelschule: Condrops-Experten bilden Siebtklässler zu Netpiloten aus
 
 [![](images/Zeitungsbericht-Netpiloten-vom-07.02.22-1024x495.png)](https://volksschule-partenkirchen.de/wp-content/uploads/Zeitungsbericht-Netpiloten-vom-07.02.22.png)
 

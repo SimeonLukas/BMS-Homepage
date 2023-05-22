@@ -9,4 +9,4 @@ description =""
 toc = true
 +++
 
-<script>window.location.href = "/Schullebenseiten/ganztagsklassen/";</script>
+<script>window.location.href = "/schullebenseiten/ganztagsklassen/";</script>

@@ -11,7 +11,7 @@ In dem rund 45-minütigem Programm vermittelte eine speziell ausgebildete ADAC-M
 
 ![](images/ADACUS-21.-Oktober-2020-01.jpg)
 
-Bürgermeister-Schütte-Schule Garmisch-Partenkirchen
+Bürgermeister-Schütte Schule Garmisch-Partenkirchen
 
 ![](images/ADACUS-21.-Oktober-2020-02.jpg)
 

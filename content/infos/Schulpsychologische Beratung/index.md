@@ -17,7 +17,7 @@ toc = true
 **Stefanie Seyboth**  
 Staatliche Schulpsychologin
 
-Liebe Eltern, liebe Schüler:innen,
+Liebe Eltern, liebe Schüler,
 
 als zuständige Schulpsychologin möchte ich mich und das Angebot der schulpsychologischen Beratung hiermit kurz vorstellen:  
   

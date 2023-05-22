@@ -9,7 +9,7 @@
   <div class="container">
     <div class="has-text-centered startanimation">
       <h1 class="title is-2">{{ section.title }}</h1>
-      <p class="subtitle is-4">{{ section.description }}</p>
+      <p class="subtitle is-4">{{ section.description }}<br> <small><small> Garmisch-Partenkirchen</small></small></p>
       {% if config.extra.author.avatar %}
       <figure class="image is-flex is-justify-content-center is-align-items-center">
         <img class="" alt="Das Logo der BMS-Schule ein großes grünes P mit einem Haus in der Öffnung" src="{{config.base_url}}/images/avatar.png" style="max-width: 192px" />
@@ -41,6 +41,69 @@
       </div>
       </article>
       {% endfor %}
+    </div>
+    <hr>
+    <h1 class="title" id="das-wir">Das Wir</h1>
+    <div class="gallery runner" id="runner">
+  
+      <a href="{{config.base_url}}/runner1.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner1.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner10.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner10.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner11.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner11.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner2.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner2.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner3.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner3.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner4.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner4.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner5.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner5.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner6.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner6.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner7.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner7.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner8.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner8.jpeg">
+    </a>
+    
+      <a href="{{config.base_url}}/runner9.jpeg">
+      <img class="runner-img" src="{{config.base_url}}/runner9.jpeg">
+    </a>
+    
+      <script>
+    
+    
+    setInterval(() => {
+      let width = document.getElementById("runner").getBoundingClientRect().width;
+      
+      if (document.getElementById("runner").scrollLeft> 2000) {
+        document.getElementById("runner").scrollLeft = 0;
+      }
+      else{
+      document.getElementById("runner").scrollLeft += 5000}
+    }, "10000");
+     
+      </script>
     </div>
   </div>
 </section>

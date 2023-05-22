@@ -3,7 +3,7 @@ weight = 0
 date = "2023-04-05"
 title = "Quali"
 template = "toppage.html"
-description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere Leistungsfeststellung, der sich Schüler:innen in Jahrgangsstufe 9 zusätzlich unterziehen können. Dabei müssen sie sich am Ende der neunten Klasse in bestimmten Fächern eine besondere Prüfung (schriftlich, praktisch und mündlich) ablegen.Wer bei der Gesamtbewertung mindestens die Note 3,0 erreicht, erhält das Zeugnis über den qualifizierenden Abschluss der Mittelschule. Die Teilnahme ist freiwillig."
+description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere Leistungsfeststellung, der sich Schüler in Jahrgangsstufe 9 zusätzlich unterziehen können. Dabei müssen sie sich am Ende der neunten Klasse in bestimmten Fächern eine besondere Prüfung (schriftlich, praktisch und mündlich) ablegen.Wer bei der Gesamtbewertung mindestens die Note 3,0 erreicht, erhält das Zeugnis über den qualifizierenden Abschluss der Mittelschule. Die Teilnahme ist freiwillig."
 
 [extra]
 
@@ -13,11 +13,11 @@ description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere 
 # Informationen
 ## zum Qualifizierenden Abschluss der Mittelschule für externe Bewerber
 
-Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2023** im Sekretariat der Bürgermeister-Schütte-Mittelschule statt.
+Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2023** im Sekretariat der Bürgermeister-Schütte Mittelschule statt.
 
 [Anmeldeformular](/downloads/)
 
-Für die Teilnahme am Qualifizierenden Abschluss anmelden kann sich, wer innerhalb des Sprengels der Bürgermeister-Schütte-Mittelschule wohnt.
+Für die Teilnahme am Qualifizierenden Abschluss anmelden kann sich, wer innerhalb des Sprengels der Bürgermeister-Schütte Mittelschule wohnt.
 
 Der Qualifizierende Abschluss setzt sich aus schriftlichen, mündlichen und praktischen Prüfungen zusammen.
 

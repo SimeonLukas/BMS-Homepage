@@ -5,7 +5,7 @@ title = "Grundschule"
 template = "toppage.html"
 +++
 
-_Jahrgangstufe 1-4_
+_Jahrgangstufe 1 - 4_
 
 [Offene Ganztagsschule](../schullebenseiten/ogts-grundschule)  
 [Schulfrühstück](/schullebenseiten/schulfruehstueck/)   

@@ -5,7 +5,7 @@ date = 2023-02-07
 tags = ["Aktuelles" ,"allgemein" ,"einschulung_2022" ,"Infos zum Schulanfang" ]
 +++
 
-**Die Bürgermeister-Schütte-Grundschule Partenkirchen wird Bilinguale Grundschule**
+**Die Bürgermeister-Schütte Grundschule Partenkirchen wird Bilinguale Grundschule**
 
 Unsere Schule hat sich erfolgreich um das Profil _Bilinguale Grundschule Englisch_ beworben.
 
