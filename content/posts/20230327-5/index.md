@@ -5,7 +5,7 @@ title = "Walderlebnistag mit den Schwerpunkten „Achtsamkeit“ und „Team-Bui
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Grundschulaktivitäten" ,"Wald" ,"Achtsamkeit" ]
+tags = ["Grundschulaktivitäten" ,"Wald" ,"Achtsamkeit"]
 categories = ["Nachhaltigkeit & Ressourcen"]
 klassen =["1. Klasse"]
 +++
