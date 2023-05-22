@@ -67,5 +67,5 @@ Für Fragen stehen wir gerne zur Verfügung. Bitte im Sekretariat (08821/9103500
 
 Gez. Verena Hafenrichter 1.Konrektorin
 
-[Prüfungstermine](/Schullebenseiten/prufungstermine/#quali)   
+[Prüfungstermine](/schullebenseiten/prufungstermine/#quali)   
 
