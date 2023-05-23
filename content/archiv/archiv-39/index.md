@@ -2,7 +2,7 @@
 title = "Feedback zum unserem \"Momo\"-Projekt"
 date = 2021-07-19
 [taxonomies]
-tags = ["mittelschulaktivitaeten" ]
+tags = ["Mittelschulaktivitäten" ]
 +++
 
 Wir freuen uns riesig über die positive Resonanz zu unserem Filmprojekt:

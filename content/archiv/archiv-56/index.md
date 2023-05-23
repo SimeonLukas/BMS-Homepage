@@ -2,7 +2,7 @@
 title = "Internationales Begegnungsprojekt"
 date = 2021-10-29
 [taxonomies]
-tags = ["archiv" ,"mittelschulaktivitaeten" ]
+tags = ["archiv" ,"Mittelschulaktivitäten" ]
 +++
 
 **Internationales Begegnungsprojekt der Bürgermeister-Schütte Schule**  

@@ -2,7 +2,7 @@
 title = "Richtiger Umgang mit digitalen Medien"
 date = 2022-02-23
 [taxonomies]
-tags = ["archiv" ,"impressionen" ,"mittelschulaktivitaeten" ,"presse" ,"Schulleben" ]
+tags = ["archiv" ,"impressionen" ,"Mittelschulaktivitäten" ,"presse" ,"Schulleben" ]
 +++
 
 Bürgermeister-Schütte Mittelschule: Condrops-Experten bilden Siebtklässler zu Netpiloten aus

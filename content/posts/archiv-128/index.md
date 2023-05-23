@@ -2,7 +2,7 @@
 title = "✍️ Potentialanalyse der Klasse 7M"
 date = 2023-01-23
 [taxonomies]
-tags = ["Aktuelles" ,"berufsorientierung" ,"mittelschulaktivitaeten" ]
+tags = ["Aktuelles" ,"berufsorientierung" ,"Mittelschulaktivitäten" ]
 +++
 
 [Hier geht es zum Bereich Berufsorientierung](https://volksschule-partenkirchen.de/unsere-schule/berusorientierung/)

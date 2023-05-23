@@ -5,4 +5,6 @@ title = "Einschulung"
 template = "toppage.html"
 +++
 [Bilinguale Klasse](/schullebenseiten/bilingualeklasse/)  
+[Infos zum Schulanfang](/tags/infos-zum-schulanfang/)   
+
 

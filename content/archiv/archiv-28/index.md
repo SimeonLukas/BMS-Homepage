@@ -2,7 +2,7 @@
 title = "Tanzprojekt \"Momo\": Filmtag mit der 9. Klasse"
 date = 2021-06-21
 [taxonomies]
-tags = ["archiv" ,"mittelschulaktivitaeten" ]
+tags = ["archiv" ,"Mittelschulaktivitäten" ]
 +++
 
 \[Best\_Wordpress\_Gallery id="13" gal\_title="Filmtag der 9. Klasse"\]
