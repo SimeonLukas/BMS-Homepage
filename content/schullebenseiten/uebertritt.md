@@ -4,6 +4,8 @@ date = "2021-04-30"
 title = "Übertritt"
 template = "toppage.html"
 description ="Übertritt und Schulwechsel in Bayern: So geht die Schulkarriere weiter"
+[taxonomies]
+tags = ["Infos zum Übertritt" ]
 +++
 
 ## Alles zum Übertritt von der Grundschule an die weiterführenden Schulen, alle Regelungen zu Übertritten an andere Schulen und Hinweise zum Schulwechsel über Ländergrenzen
