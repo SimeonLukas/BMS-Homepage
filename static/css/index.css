@@ -782,9 +782,10 @@ html:has(body[theme=dark]) .indexsection {
   position: fixed;
   bottom: 25px;
   right: 25px;
+  transition: 0.3s;
+  animation: fade-up 0.3s forwards;
   display: none;
 }
-
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
