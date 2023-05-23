@@ -1,5 +1,5 @@
 +++
-title = "Informationen zum Übertritt"
+title = "Präsentation zum Übertritt"
 date = 2020-09-28
 [taxonomies]
 tags = ["Infos zum Übertritt" ]
