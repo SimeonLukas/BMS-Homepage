@@ -11,3 +11,4 @@ _Jahrgangstufe 1 - 4_
 [Schulfrühstück](/schullebenseiten/schulfruehstueck/)   
 [Pausenzeiten](/schullebenseiten/pausenzeiten)   
 [Grundschulaktivitäten](/tags/grundschulaktivitaten/)     
+[Infos zur OGTS](/tags/ogts/)
