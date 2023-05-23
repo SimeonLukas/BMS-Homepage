@@ -783,7 +783,7 @@ html:has(body[theme=dark]) .indexsection {
   bottom: 25px;
   right: 25px;
   transition: 0.3s;
-  animation: fade-up 0.3s forwards;
+  animation: fade-up 1s forwards;
   display: none;
 }
 
