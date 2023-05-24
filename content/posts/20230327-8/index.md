@@ -5,7 +5,7 @@ title = "Sport"
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Grundschulaktivitäten" ,"Sport" ,"Sport" ]
+tags = ["Grundschulaktivitäten" ,"Sport" ]
 categories = ["Sport & Gesundheit"]
 klassen =["1. Klasse"]
 +++
