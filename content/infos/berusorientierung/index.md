@@ -7,6 +7,7 @@ description ="Die Berufsorientierung hat an der Bürgermeister-Schütte Schule e
 
 [taxonomies]
 categories = ["Berufsorientierung"]
+tags = ["IHK-TOP"]
 
 [extra]
 toc = true
