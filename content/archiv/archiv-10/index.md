@@ -38,18 +38,25 @@ _Herzliche Grüße von Fine und den Lehrkräften der Bürgermeister-Schütte Gru
 
 Unser Anfangsgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht.mp4")}}
+
 Fine mit der Mine
+
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Fine-mit-der-Mine-Teil-4.mp4")}}
 
 Unser Abschlussgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Abschlussgedicht_klein.mov")}}
+
+
 Downloads
 
-[Ausmalbild Wir schneiden wie die Weltmeister](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Wir-schneiden-wie-die-Weltmeister.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Wir-schneiden-wie-die-Weltmeister.pdf)
+[Ausmalbild Wir schneiden wie die Weltmeister](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Wir-schneiden-wie-die-Weltmeister.pdf)
 
-[Dekoration für Fine](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Dekoration-für-Fine.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Dekoration-für-Fine.pdf)
+[Dekoration für Fine](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Dekoration-für-Fine.pdf)
 
-[Klebeunterlage](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Klebeunterlage.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Klebeunterlage.pdf)
+[Klebeunterlage](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Klebeunterlage.pdf)
 
-[Geschichte Fine Teil 4](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Geschichte-Fine-Teil-4.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Geschichte-Fine-Teil-4.pdf)
+[Geschichte Fine Teil 4](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Geschichte-Fine-Teil-4.pdf)
 
-[Anfangsgedicht-und-Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht-und-Abschlussgedicht.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht-und-Abschlussgedicht.pdf)
+[Anfangsgedicht-und-Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht-und-Abschlussgedicht.pdf)

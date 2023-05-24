@@ -5,6 +5,10 @@ date = 2021-09-18
 tags = ["Fine mit der Mine" ]
 +++
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Fine-mit-der-Mine-Teil-12.mov")}}
+
+<!-- more -->
+
 # „Links und rechts“
 
 Hallo liebes Vorschulkind!
@@ -32,4 +36,4 @@ deine Fine!
 
 Arbeitsblatt "Links oder Rechts"
 
-[Arbeitsblatt Rechts oder Links](https://volksschule-partenkirchen.de/wp-content/uploads/Arbeitsblatt-Rechts-oder-Links.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Arbeitsblatt-Rechts-oder-Links.pdf)
+[Arbeitsblatt Rechts oder Links](https://volksschule-partenkirchen.de/wp-content/uploads/Arbeitsblatt-Rechts-oder-Links.pdf)

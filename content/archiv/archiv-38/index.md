@@ -5,6 +5,13 @@ date = 2021-09-15
 tags = ["Fine mit der Mine" ]
 +++
 
+
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Fine-mit-der-Mine-Teil-10.mov")}}
+
+
+<!-- more -->
+
+
 # „Besuch in der Schule“
 
 Hallo liebes Vorschulkind!

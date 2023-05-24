@@ -46,18 +46,25 @@ _Herzliche Grüße von Fine und den Lehrkräften der Bürgermeister-Schütte Gru
 
 Unser Anfangsgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht.mp4")}}
+
 Fine mit der Mine
+
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Fine-mit-der-Mine-Teil-6.mp4")}}
 
 Unser Abschlussgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Abschlussgedicht_klein.mov")}}
+
+
 Downloads
 
-[Das bin ich](https://volksschule-partenkirchen.de/wp-content/uploads/Das-bin-ich.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Das-bin-ich.pdf)
+[Das bin ich](https://volksschule-partenkirchen.de/wp-content/uploads/Das-bin-ich.pdf)
 
-[Nachspurbild](https://volksschule-partenkirchen.de/wp-content/uploads/Nachspurbild.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Nachspurbild.pdf)
+[Nachspurbild](https://volksschule-partenkirchen.de/wp-content/uploads/Nachspurbild.pdf)
 
-[Buchstabenkekse](https://volksschule-partenkirchen.de/wp-content/uploads/Buchstabenkekse.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Buchstabenkekse.pdf)
+[Buchstabenkekse](https://volksschule-partenkirchen.de/wp-content/uploads/Buchstabenkekse.pdf)
 
-[Geschichte Fine Teil 6](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-6.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-6.pdf)
+[Geschichte Fine Teil 6](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-6.pdf)
 
-[Anfangsgedicht und Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)
+[Anfangsgedicht und Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)

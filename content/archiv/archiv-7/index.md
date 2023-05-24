@@ -35,14 +35,20 @@ _Herzliche Grüße von Fine und den Lehrkräften der Bürgermeister-Schütte Gru
 
 Unser Anfangsgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht.mp4")}}
+
 Fine mit der Mine
+
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Fine-mit-der-Mine-Teil-1.mp4")}}
 
 Unser Abschlussgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Abschlussgedicht_klein.mov")}}
+
 Downloads
 
-[Ausmalbild Fine mit der Mine](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Fine-mit-der-Mine.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Fine-mit-der-Mine.pdf)
+[Ausmalbild Fine mit der Mine](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Fine-mit-der-Mine.pdf)
 
-[Anfangsgedicht und Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)
+[Anfangsgedicht und Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)
 
-[Fine-mit-der-Mine-Geschichte-Teil-1](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Fine-mit-der-Mine-Geschichte-Teil-1.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Fine-mit-der-Mine-Geschichte-Teil-1.pdf)
+[Fine-mit-der-Mine-Geschichte-Teil-1](https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Fine-mit-der-Mine-Geschichte-Teil-1.pdf)

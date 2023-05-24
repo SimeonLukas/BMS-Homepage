@@ -5,7 +5,7 @@ date = 2021-09-10
 tags = ["Fine mit der Mine" ]
 +++
 
-# ****„Wir verkleiden uns!“**[](http://www.volksschule-partenkirchen.de/downloads/Vorschulprojekt_Videos/Elterninformation%204%20Vorschulkinderzeit%20daheim.pdf)**
+# ****„Wir verkleiden uns!“****
 
 Liebe Eltern,
 
@@ -48,18 +48,24 @@ _Herzliche Grüße von Fine und den Lehrkräften der Bürgermeister-Schütte Gru
 
 Unser Anfangsgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht.mp4")}}
+
 Fine mit der Mine
+
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Fine-mit-der-Mine-Teil-5_1.mp4")}}
 
 Unser Abschlussgedicht
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Abschlussgedicht_klein.mov")}}
+
 Downloads
 
-[Bildergeschichte Reihenfolge](https://volksschule-partenkirchen.de/wp-content/uploads/Bildergeschichte-Reihenfolge.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Bildergeschichte-Reihenfolge.pdf)
+[Bildergeschichte Reihenfolge](https://volksschule-partenkirchen.de/wp-content/uploads/Bildergeschichte-Reihenfolge.pdf)
 
-[Kostüme für Fine](https://volksschule-partenkirchen.de/wp-content/uploads/Kostüme-für-Fine.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Kostüme-für-Fine.pdf)
+[Kostüme für Fine](https://volksschule-partenkirchen.de/wp-content/uploads/Kostüme-für-Fine.pdf)
 
-[Ausmalbild Fine mit der Mine](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Fine-mit-der-Mine.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Fine-mit-der-Mine.pdf)
+[Ausmalbild Fine mit der Mine](https://volksschule-partenkirchen.de/wp-content/uploads/2021/03/Ausmalbild-Fine-mit-der-Mine.pdf)
 
-[Geschichte Fine Teil 5](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-5.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-5.pdf)
+[Geschichte Fine Teil 5](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-5.pdf)
 
-[Anfangsgedicht und Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)
+[Anfangsgedicht und Abschlussgedicht](https://volksschule-partenkirchen.de/wp-content/uploads/Anfangsgedicht-und-Abschlussgedicht.pdf)

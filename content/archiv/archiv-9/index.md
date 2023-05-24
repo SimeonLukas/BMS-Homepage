@@ -33,16 +33,23 @@ _Herzliche Grüße von Fine und den Lehrkräften der Bürgermeister-Schütte Gru
 
 * * *
 
+
 Unser Anfangsgedicht
+
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Anfangsgedicht.mp4")}}
 
 Fine mit der Mine
 
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Fine-mit-der-Mine-Teil-3.mp4")}}
+
 Unser Abschlussgedicht
+
+{{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/2021/02/Abschlussgedicht_klein.mov")}}
 
 Downloads
 
-[Aufwärmübung Schneiden wie ein Weltmeister](https://volksschule-partenkirchen.de/wp-content/uploads/Aufwärmübung-Schneiden-wie-ein-Weltmeister.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Aufwärmübung-Schneiden-wie-ein-Weltmeister.pdf)
+[Aufwärmübung Schneiden wie ein Weltmeister](https://volksschule-partenkirchen.de/wp-content/uploads/Aufwärmübung-Schneiden-wie-ein-Weltmeister.pdf)
 
-[Ausmalbild Wir schneiden wie die Weltmeister](https://volksschule-partenkirchen.de/wp-content/uploads/Ausmalbild-Wir-schneiden-wie-die-Weltmeister.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Ausmalbild-Wir-schneiden-wie-die-Weltmeister.pdf)
+[Ausmalbild Wir schneiden wie die Weltmeister](https://volksschule-partenkirchen.de/wp-content/uploads/Ausmalbild-Wir-schneiden-wie-die-Weltmeister.pdf)
 
-[Geschichte Fine Teil 3](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-3.pdf)[Herunterladen](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-3.pdf)
+[Geschichte Fine Teil 3](https://volksschule-partenkirchen.de/wp-content/uploads/Geschichte-Fine-Teil-3.pdf)
