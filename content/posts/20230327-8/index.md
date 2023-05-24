@@ -1,11 +1,11 @@
 +++
 weight = 0
 date = "2023-02-13"
-title = "Eislaufen"
+title = "Sport"
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Grundschulaktivitäten" ,"Wintersport" ,"Eislaufen" ]
+tags = ["Grundschulaktivitäten" ,"Sport" ,"Sport" ]
 categories = ["Sport & Gesundheit"]
 klassen =["1. Klasse"]
 +++

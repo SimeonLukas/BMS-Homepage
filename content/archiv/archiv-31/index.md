@@ -2,7 +2,7 @@
 title = "Die Alpensinfonie in farbenfrohen Bildern"
 date = 2021-06-29
 [taxonomies]
-tags = ["kultur-macht-stark-projekte" ,"presse" ]
+tags = ["Kultur" ,"Presse" ]
 +++
 
 ###### Garmisch-Partenkirchner Tagblatt, 23.06.2021

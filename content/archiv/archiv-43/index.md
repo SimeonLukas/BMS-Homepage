@@ -2,7 +2,7 @@
 title = "Laufen für bedürftige Kinder und Flutopfer"
 date = 2021-08-02
 [taxonomies]
-tags = ["archiv" ,"Grundschulaktivitäten" ]
+tags = ["Archiv" ,"Grundschulaktivitäten" ]
 +++
 
 ## **Grundschüler\*innen der Bürgermeister-Schütte Grundschule sammeln über 4600 Euro bei Sportaktion**

@@ -5,7 +5,7 @@ title = "Zeitungsbericht „Jugendfestival“"
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Mittelschulaktivitäten" ,"presse" ,"Schulleben" ]
+tags = ["Mittelschulaktivitäten" ,"Presse" ,"Schulleben" ]
 categories = ["Jugendsozialarbeit an Schulen"]
 
 +++

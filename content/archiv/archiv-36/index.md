@@ -2,7 +2,7 @@
 title = "Info zum Schulbeginn 2021/2022"
 date = 2021-07-05
 [taxonomies]
-tags = ["archiv" ,"mitteilungen" ]
+tags = ["Archiv" ,"Mitteilungen" ]
 +++
 
 Sehr geehrte Eltern,

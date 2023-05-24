@@ -2,7 +2,7 @@
 title = "Kunstprojekt 8G \"Kultur macht stark\""
 date = 2021-06-07
 [taxonomies]
-tags = ["kultur-macht-stark-projekte" ,"archiv" ,"Mittelschulaktivitäten" ]
+tags = ["Kultur" ,"Archiv" ,"Mittelschulaktivitäten" ]
 +++
 
 > Pressemitteilung – KIWANIS Garmisch-Partenkirchen

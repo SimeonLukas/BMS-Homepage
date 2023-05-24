@@ -2,7 +2,7 @@
 title = "Mit 33 das erste Zeugnis"
 date = 2021-08-02
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 ###### Garmisch-Partenkirchner Tagblatt, 30.07.2021

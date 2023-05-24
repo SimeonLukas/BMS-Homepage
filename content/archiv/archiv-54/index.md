@@ -2,7 +2,7 @@
 title = "Ende des Investitionsstaus in Sicht"
 date = 2021-10-11
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 Garmisch-Partenkirchner Tagblatt 02.10.2021

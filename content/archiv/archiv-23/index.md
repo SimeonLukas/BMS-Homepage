@@ -2,7 +2,7 @@
 title = "Gebundener Ganztag an Schütte-Schule"
 date = 2021-03-25
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 ###### Garmisch Partenkirchner Tagblatt, 25.03.2021

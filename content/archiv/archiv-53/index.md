@@ -2,7 +2,7 @@
 title = "Spende statt Geschenke"
 date = 2021-10-04
 [taxonomies]
-tags = ["archiv" ]
+tags = ["Archiv" ]
 +++
 
 ![](images/Spende-Frau-Wolf-485x1024.jpg)

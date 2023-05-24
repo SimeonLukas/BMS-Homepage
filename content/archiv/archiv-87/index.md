@@ -2,7 +2,7 @@
 title = "Singklasse in Kooperation mit der Musikschule"
 date = 2022-05-17
 [taxonomies]
-tags = ["archiv" ,"Grundschulaktivitäten" ]
+tags = ["Archiv" ,"Grundschulaktivitäten" ]
 +++
 
 „_Das Einzige was besser ist als singen, ist mehr zu singen_.“ (Ella Fitzgerald)

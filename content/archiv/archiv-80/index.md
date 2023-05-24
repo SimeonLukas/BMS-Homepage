@@ -2,7 +2,7 @@
 title = "Information for children and young people from Ukraine"
 date = 2022-03-25
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"karitativ" ,"mitteilungen" ]
+tags = ["Archiv" ,"Allgemein" ,"Karitativ" ,"Mitteilungen" ]
 +++
 
 You are new in Garmisch\_Partenkirchen and want your children to go to school?

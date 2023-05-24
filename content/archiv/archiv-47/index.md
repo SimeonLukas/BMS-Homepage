@@ -2,7 +2,7 @@
 title = "Sonnenliegen für’n Sunnaweg"
 date = 2021-08-09
 [taxonomies]
-tags = ["archiv" ,"Mittelschulaktivitäten" ]
+tags = ["Archiv" ,"Mittelschulaktivitäten" ]
 +++
 
 ![](images/Wankliegen-Projekt-02-1024x768.jpg)

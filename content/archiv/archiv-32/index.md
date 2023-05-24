@@ -2,7 +2,7 @@
 title = "Einladung zum Schuppernachmittag"
 date = 2021-06-29
 [taxonomies]
-tags = ["Infos zum Schulanfang" ,"mitteilungen" ]
+tags = ["Infos zum Schulanfang" ,"Mitteilungen" ]
 +++
 
 Sehr geehrte Eltern,

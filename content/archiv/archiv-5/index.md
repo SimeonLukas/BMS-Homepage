@@ -2,7 +2,7 @@
 title = "Zolk spielt Christkindl"
 date = 2020-12-03
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 ###### Garmisch-Partenkirchner Tagblatt, 01.12.2020

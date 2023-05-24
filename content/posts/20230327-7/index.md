@@ -1,11 +1,11 @@
 +++
 weight = 0
 date = "2023-02-13"
-title = "Wintersportwoche"
+title = "Sport"
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Grundschulaktivitäten" ,"Wintersportwoche" ,"Skifahren" ]
+tags = ["Grundschulaktivitäten" ,"Sport" ,"Sport" ]
 categories = ["Sport & Gesundheit"]
 klassen =["1. Klasse"]
 +++

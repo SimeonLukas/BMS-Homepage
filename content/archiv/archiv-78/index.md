@@ -2,7 +2,7 @@
 title = "Easy Skiing der Klasse 6g"
 date = 2022-03-14
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"Mittelschulaktivitäten" ]
+tags = ["Archiv" ,"Allgemein" ,"Mittelschulaktivitäten" ]
 +++
 
 [![](images/IMG_6575-1024x768.jpg)](https://volksschule-partenkirchen.de/wp-content/uploads/IMG_6575-scaled.jpg)

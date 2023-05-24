@@ -2,7 +2,7 @@
 title = "Wir sind \"gute gesunde Schule\""
 date = 2021-07-26
 [taxonomies]
-tags = ["archiv" ,"ministerien-infos" ]
+tags = ["Archiv" ,"Mitteilungen" ]
 +++
 
 ![](images/Logo-gute-gesunde-schule-bayern.jpg)

@@ -2,7 +2,7 @@
 title = "Pooltestverfahren Klassen 5 & 6"
 date = 2022-02-23
 [taxonomies]
-tags = ["archiv" ,"briefe-fuer-schueler" ,"mitteilungen" ]
+tags = ["Archiv" ,"Mitteilungen" ,"Mitteilungen" ]
 +++
 
 ![](images/mufid-majnun-aNEaWqVoT0g-unsplash-2-1024x683.jpg)

@@ -2,7 +2,7 @@
 title = "Maskenpflicht"
 date = 2021-11-05
 [taxonomies]
-tags = ["archiv" ,"mitteilungen" ]
+tags = ["Archiv" ,"Mitteilungen" ]
 +++
 
 Laut Beschluss des Ministerrats gilt an den Schulen in Bayern  

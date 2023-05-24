@@ -2,7 +2,7 @@
 title = "Treffen mit einem römischen Legionär"
 date = 2021-10-18
 [taxonomies]
-tags = ["archiv" ,"Mittelschulaktivitäten" ]
+tags = ["Archiv" ,"Mittelschulaktivitäten" ]
 +++
 
 Ein Treffen mit einem echten, leibhaftigen römischen Legionär? Ja, das gibt es: Wo? Im Museum Werdenfels in der Ludwigstraße in Partenkirchen!

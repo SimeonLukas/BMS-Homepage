@@ -2,7 +2,7 @@
 title = "Die Eintrittskarte ins Berufsleben"
 date = 2021-08-02
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 ###### Garmisch-Partenkirchner Tagblatt, 31.07.2021

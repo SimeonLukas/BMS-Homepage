@@ -2,7 +2,7 @@
 title = "Versteigerung der Alpensinfonie-Bilder"
 date = 2021-08-02
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 ![Screenshot BR Abendschau Beitrag vom 19. Juli 2021](images/BR-Beitrag-in-der-Abendschau-19-07-21-1024x459.png)

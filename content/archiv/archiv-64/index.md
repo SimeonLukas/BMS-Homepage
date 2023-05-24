@@ -2,7 +2,7 @@
 title = "Vorlesewettbewerb der 6. Klassen"
 date = 2021-12-06
 [taxonomies]
-tags = ["archiv" ,"Mittelschulaktivitäten" ]
+tags = ["Archiv" ,"Mittelschulaktivitäten" ]
 +++
 
 **Paolo Schulsieger im bundesweiten Vorlesewettbewerb der 6. Klassen**

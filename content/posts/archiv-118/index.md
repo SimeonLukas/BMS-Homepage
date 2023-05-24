@@ -2,7 +2,7 @@
 title = "📜 Unsere Zertifizierung zur Sportgrundschule"
 date = 2022-12-16
 [taxonomies]
-tags = ["Aktuelles" ,"allgemein" ,"ministerien-infos" ]
+tags = ["Aktuelles" ,"Allgemein", "Sportgrundschule" ]
 +++
 
 [![](images/2022_12_09stmuk0032_-1024x683.jpg)](https://volksschule-partenkirchen.de/wp-content/uploads/2022_12_09stmuk0032_-1024x683.jpg)

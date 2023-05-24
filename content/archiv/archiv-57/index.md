@@ -2,7 +2,7 @@
 title = "Unvergessliche Erfahrungen"
 date = 2021-10-29
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 Garmisch-Partenkirchner Tagblatt 28.10.2021

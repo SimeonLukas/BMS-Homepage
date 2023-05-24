@@ -2,7 +2,7 @@
 title = "Zwei Schulen, zwei Sanierungsfälle"
 date = 2021-01-14
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 ###### Garmisch-Partenkirchner Tagblatt, 14.01.2021

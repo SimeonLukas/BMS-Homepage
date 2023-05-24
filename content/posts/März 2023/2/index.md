@@ -4,7 +4,7 @@ date=2023-03-30
 
 [taxonomies]
 categories = [ "Nachhaltigkeit & Ressourcen"]
-tags = ["Wald", "Tier"]
+tags = ["Natur", "Natur"]
 klassen = ["1. Klasse"]
 +++
 

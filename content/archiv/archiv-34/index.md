@@ -2,7 +2,7 @@
 title = "\"Alpensinfonie in Farbe\""
 date = 2021-07-05
 [taxonomies]
-tags = ["kultur-macht-stark-projekte" ,"Mittelschulaktivitäten" ,"presse" ]
+tags = ["Kultur" ,"Mittelschulaktivitäten" ,"Presse" ]
 +++
 
 ###### Kreisbote Garmisch-Partenkirchen, 03.07.2021

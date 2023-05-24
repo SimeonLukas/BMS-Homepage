@@ -2,7 +2,7 @@
 title = "Offene Ganztagsschule: Neue Räumlichkeiten ab September"
 date = 2021-03-11
 [taxonomies]
-tags = ["archiv" ,"mitteilungen" ]
+tags = ["Archiv" ,"Mitteilungen" ]
 +++
 
 # **Info OGTS – neue Räumlichkeiten**

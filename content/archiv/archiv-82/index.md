@@ -2,7 +2,7 @@
 title = "Wintersportwoche im Februar"
 date = 2022-04-25
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"impressionen" ,"Schulleben" ]
+tags = ["Archiv" ,"Allgemein" ,"Impressionen" ,"Schulleben" ]
 +++
 
 [![](images/IMG_20220225_094340_1-1024x768.jpg)](https://volksschule-partenkirchen.de/wp-content/uploads/IMG_20220225_094340_1-scaled.jpg)

@@ -2,7 +2,7 @@
 title = "😎 Beispielhafte Schulprojekte - wir sind dabei!"
 date = 2022-12-05
 [taxonomies]
-tags = ["Aktuelles" ,"ministerien-infos" ]
+tags = ["Aktuelles" ,"Mitteilungen" ]
 +++
 
 [unser Projekt auf S.49/50](https://volksschule-partenkirchen.de/wp-content/uploads/Buendnisse_2018-2022.pdf)

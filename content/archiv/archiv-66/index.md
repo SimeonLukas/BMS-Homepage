@@ -2,7 +2,7 @@
 title = "Weihnachtsbrief"
 date = 2021-12-21
 [taxonomies]
-tags = ["archiv" ,"briefe-fuer-schueler" ,"mitteilungen" ]
+tags = ["Archiv" ,"Mitteilungen" ,"Mitteilungen" ]
 +++
 
 _Informationen zum letzten Schultag_

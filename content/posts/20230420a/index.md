@@ -6,7 +6,7 @@ template = "page.html"
 description =""
 [taxonomies]
 categories = ["Kunst & Kultur"]
-tags = ["Musik", "Konzert"]
+tags = ["Musik", "Kultur"]
 +++
 
 # Kleine Musiker ganz groß

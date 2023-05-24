@@ -2,7 +2,7 @@
 title = "Info zur Maskenpflicht"
 date = 2021-06-22
 [taxonomies]
-tags = ["archiv" ,"ministerien-infos" ]
+tags = ["Archiv" ,"Mitteilungen" ]
 +++
 
 > **Bayerische Staatskanzlei**  

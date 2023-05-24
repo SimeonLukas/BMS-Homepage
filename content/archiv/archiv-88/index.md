@@ -2,7 +2,7 @@
 title = "Sunnaweg wird seinem Namen gerecht ☀"
 date = 2022-05-24
 [taxonomies]
-tags = ["archiv" ,"gruenes-klassenzimmer" ]
+tags = ["Archiv" ,"Natur" ]
 +++
 
 ![](images/image-1-1024x556.png)

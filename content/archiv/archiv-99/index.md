@@ -2,7 +2,7 @@
 title = "🎺Bläserkonzert"
 date = 2022-08-05
 [taxonomies]
-tags = ["archiv" ,"impressionen" ,"Schulleben" ]
+tags = ["Archiv" ,"Impressionen" ,"Schulleben" ]
 +++
 
 [![](images/Bildschirmfoto-2022-08-03-um-09.06.06-766x1024.png)](https://volksschule-partenkirchen.de/wp-content/uploads/Bildschirmfoto-2022-08-03-um-09.06.06.png)

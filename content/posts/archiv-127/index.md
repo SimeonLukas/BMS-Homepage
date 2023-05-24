@@ -2,7 +2,7 @@
 title = "🐸Die Frösche in der Milch | Impuls für einen guten Start in das neue Jahr"
 date = 2023-01-19
 [taxonomies]
-tags = ["Aktuelles" ,"allgemein" ]
+tags = ["Aktuelles" ,"Allgemein" ]
 +++
 
 Eines Tages trocknete die Sommerhitze einen Tümpel aus,  

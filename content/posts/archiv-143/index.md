@@ -3,7 +3,7 @@ title = "Wir sind Sportgrundschule"
 date = 2023-03-30
 [taxonomies]
 categories = ["Sport & Gesundheit"]
-tags = ["Aktuelles" ]
+tags = ["Aktuelles", "Sportgrundschule", "fit4future"]
 +++
 Kinder zu mehr Bewegung, Spiel und Sport zu motivieren und ihnen Freude an der Bewegung zu vermitteln liegt den Lehrer\*innen der Bürgermeister-Schütte Schule am Herzen.
 2022 wurden wir vom Kultusministerium als Sportgrundschule ausgezeichnet. Unsere ersten Klassen haben deshalb jeweils eine Stunde mehr Sport pro Woche. Neben einem großen Spektrum an Sportmöglichkeiten (wie z.B. Schwimmen, Ballspiele, Leichtathletik, Wintersport, Tanz, Bewegungskünste, etc.) wird an unserer Grundschule „Voll in Form“ umgesetzt. Auch im Rahmen der „Flexiblen Förderung“ spielt Bewegung eine große Rolle. Bewegtes Lernen fördert die Konzentration und die kognitive Wahrnehmung und hat somit einen positiven Effekt auf den Lernerfolg. In der Pause haben die Schüler\*innen die Möglichkeit, sich mit Sportgeräten des Präventionsprogramms „fit4future“ zu bewegen.

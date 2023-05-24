@@ -2,7 +2,7 @@
 title = "Ein Kunstwerk bleibt im Ort"
 date = 2022-01-10
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"impressionen" ,"karitativ" ,"presse" ]
+tags = ["Archiv" ,"Allgemein" ,"Impressionen" ,"Karitativ" ,"Presse" ]
 +++
 
 ![Das Bild zeigt die Übergabe eines blauen Gemäldes.](images/image.png)

@@ -2,7 +2,7 @@
 title = "Informationen für Kinder und Jugendliche aus der Ukraine"
 date = 2022-03-25
 [taxonomies]
-tags = ["archiv" ,"allgemein" ,"karitativ" ,"mitteilungen" ]
+tags = ["Archiv" ,"Allgemein" ,"Karitativ" ,"Mitteilungen" ]
 +++
 
 Sie sind neu in Garmisch-Partenkirchen angekommen und möchten Ihr Kind in die Schule schicken?

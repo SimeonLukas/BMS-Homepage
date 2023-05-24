@@ -2,7 +2,7 @@
 title = "Eine Chance für die Kinder"
 date = 2021-02-26
 [taxonomies]
-tags = ["presse" ]
+tags = ["Presse" ]
 +++
 
 ###### Garmisch-Partenkirchner Tagblatt, 15.02.2021
