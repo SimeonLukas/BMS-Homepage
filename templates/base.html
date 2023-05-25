@@ -34,8 +34,8 @@
   {% endif %}
 
   <link rel="stylesheet" href="{{ get_url(path='css/academicons.min.css') }}">
-  <link rel="stylesheet" href="{{ get_url(path='css/all.min.css') }}">
-  <link href="{{ get_url(path='css/deep-thought.css') }}" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ get_url(path='css/all.min.css?ver=minified') }}">
+  <link href="{{ get_url(path='css/deep-thought.css?ver=minified') }}" rel="stylesheet" />
   <link href="{{ get_url(path='css/index.css?ver=') }}{{ now(timestamp=true) }}" rel="stylesheet" />
   {% block user_custom_stylesheet %}
   {% endblock %}
