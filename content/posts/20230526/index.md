@@ -1,7 +1,7 @@
 +++
 weight = 0
 date = "2023-05-25"
-title = "Sieben graue Herren aus Pappmaché
+title = "Sieben graue Herren aus Pappmaché"
 template = "page.html"
 description =""
 [taxonomies]
