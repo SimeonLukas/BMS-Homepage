@@ -852,6 +852,10 @@ html:has(body[theme=dark]) .indexsection {
   padding: 20px;
 }
 
+video{
+  border-radius: 5px;
+}
+
 
 @keyframes primary {
   from {
