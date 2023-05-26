@@ -8,7 +8,7 @@ description =""
 tags = ["Musik" ,"Video" ,"Schulleben" ]
 categories = ["Kunst & Kultur"]
 +++
-{{video(src="videos/video.mp4")}}
+{{video(src="https://volksschule-partenkirchen.de/posts/20230526-1/videos/video.mp4")}}
 
 <!-- more -->
 
