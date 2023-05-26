@@ -6,7 +6,7 @@ template = "page.html"
 description =""
 [taxonomies]
 tags = ["Mittelschulakivitäten" ,"Presse" ,"Schulleben" ]
-categories = ["Kunst & Kulturamt"]
+categories = ["Kunst & Kultur"]
 +++
 
 Kunstprojekt an Bürgermeister-Schütte-Schule: Jugendliche gestalten Figuren aus Ende-Klassiker "Momo"
