@@ -8,7 +8,7 @@ description =""
 tags = ["Musik" ,"Video" ,"Schulleben" ]
 categories = ["Kunst & Kultur"]
 +++
-{{video(src="/videos/video.mp4")}}
+{{video(src="videos/video.mp4")}}
 
 <!-- more -->
 
