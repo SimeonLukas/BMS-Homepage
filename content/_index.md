@@ -10,9 +10,9 @@ template="index.html"
 
 
 <div class="double">
-<div style="text-align: left; hyphens: auto;"><h1>Willkommen</h1>
-auf der Webseite unserer Bürgermeister-Schütte Grund- und Mittelschule Garmisch-Partenkirchen. Wir freuen uns über Ihr Interesse an unserer Grund- und Mittelschule im Ortsteil Partenkirchen.  
-Schüler der 1. bis 10. Jahrgangsstufe können unsere Schule besuchen. Wir bieten in unserer Sekundarstufe neben den Regelklassen den Ganztagszweig und den Mittlere-Reife-Zweig (M-Zug) an. Breite Bildungsangebote und ein reiches Schulleben fördern und begleiten die Kinder und Jugendlichen. Aufgrund der besseren Lesbarkeit wird auf der Webseite das generische Maskulinum verwendet. Gemeint sind jedoch immer alle Geschlechter.
+<div style="text-align: left;"><h1>Willkommen</h1>
+auf der Webseite unserer Bürgermeister-Schütte Grund- und Mittelschule Garmisch-Partenkirchen. <br>Wir freuen uns über Ihr Interesse an unserer Grund- und Mittelschule im Ortsteil Partenkirchen.<br>
+Schüler der 1. bis 10. Jahrgangsstufe können unsere Schule besuchen.<br>Wir bieten in unserer Sekundarstufe neben den Regelklassen den Ganztagszweig und den Mittlere-Reife-Zweig (M-Zug) an.<br>Breite Bildungsangebote und ein reiches Schulleben fördern und begleiten die Kinder und Jugendlichen. <br>Aufgrund der besseren Lesbarkeit wird auf der Webseite das generische Maskulinum verwendet. Gemeint sind jedoch immer alle Geschlechter.
 </div>
 <div class="teaser"
 onclick="javascript:location.href='/schulphilosophie'"
