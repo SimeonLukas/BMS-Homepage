@@ -39,9 +39,9 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 # Lehrerkollegium
 
-## KlassenLehrkräfte
+## Klassenlehrkräfte
 ### Haus 2
-| Klasse |         Lehrer:in        | |
+| Klasse |         Lehrer        | |
 |-------|-------------------------------------|------|
 | 1c    | Ursula Wipfelder                    | ﻿ Lin     |
 | 2c    | Alexandra Jocher                    | ﻿   Lin    | 
@@ -84,7 +84,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | 6G, 8G                               | Frau Martonosi |   |   
 | 9G                                  | Frau Weber     |   |   
 
-## Zusatzlehrer:in      
+## Zusatzlehrer      
 |      |    |            |
 |-----------------------|--------|------------|
 | Lena Andrä-Karatas        |    | Lin        |
@@ -100,7 +100,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | Florian Vollmer         |      | FL         |
 | Florian Wipfelder        |     |            |
 
-## Fachlehrer:in   
+## Fachlehrer   
 |          |      |      |
 |------------------|-------------|------------|
 | Stefanie Echter*      |        | FLin       |
@@ -115,7 +115,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 *nicht Stammschule
 
-## Religionslehrer:in   
+## Religionslehrer   
 |          |        |    |
 |--------------------|-----------|------------|
 | Angela Eitzenberger        |   | RLin i. K. |

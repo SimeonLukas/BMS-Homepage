@@ -15,13 +15,13 @@ Ein wichtiger Aspekt ihrer Arbeit ist die Zusammenarbeit mit der Lehrerin oder d
 
 Die Klassenselternsprecher haben auch eine wichtige Rolle bei der Mitgestaltung des Schulalltags. Sie können Anregungen und Vorschläge der Eltern an die Schulleitung weitergeben und somit dazu beitragen, dass die Schule den Bedürfnissen der Kinder und Eltern gerecht wird.
 
-Um Klassenselternsprecher:in zu werden, müssen Eltern bei der Wahlversammlung der Klassenelternschaft kandidieren. Hierbei ist es wichtig, dass sie die Unterstützung der anderen Eltern haben und sich aktiv in die Arbeit einbringen möchten. Eine Klassenselternsprecherin wird in der Regel für ein Schuljahr gewählt.
+Um Klassenselternsprecher zu werden, müssen Eltern bei der Wahlversammlung der Klassenelternschaft kandidieren. Hierbei ist es wichtig, dass sie die Unterstützung der anderen Eltern haben und sich aktiv in die Arbeit einbringen möchten. Eine Klassenselternsprecherin wird in der Regel für ein Schuljahr gewählt.
 
 Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine enge Zusammenarbeit zwischen Eltern und Schule fördert. Durch ihre Arbeit tragen sie dazu bei, dass die Schule den Bedürfnissen der Kinder und Eltern gerecht wird und ein harmonisches Miteinander zwischen beiden Parteien besteht.
 </details>
 
 # Grundschule
-## Klassenelternsprecher:in 2022/2023
+## Klassenelternsprecher 2022/2023
 
 | Kl | ElternsprecherIn           | ElternsprecherIn       |
 | -- | -------------------------- | ---------------------- |
@@ -47,7 +47,7 @@ Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine eng
 **E-Mail:** [elternbeirat@volksschule-partenkirchen.de](mailto:elternbeirat@volksschule-partenkirchen.de)
 
 # Mittelschule
-## Klassenelternsprecher:in 2022/2023
+## Klassenelternsprecher 2022/2023
 | Kl   | ElternsprecherIn             | ElternsprecherIn          |
 | ---- | ---------------------------- | ------------------------- |
 | 5a   | Sepp Schnitzer               | Veronika Glatz            |
