@@ -20,6 +20,49 @@
     <div class="content">
       {{ section.content | safe }}
     </div>
+    <div class="notes">
+      <div class="note blue">
+        <br>
+        <h1><b>Neuigkeiten</b></h1>
+        <br>
+    {% set tags = get_taxonomy(kind="tags") %}
+    {% set tag = tags.items | filter(attribute="name", value="Aktuelles") | last %}
+    {% for page in tag.pages  | slice(end=3) %}
+    <a title="{{page.title}}" href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+    {% endfor %}
+  </div>
+  <div class="note red">
+    <br>
+    <h1><b>Schulstart</b></h1>
+    <br>
+    {% set tags = get_taxonomy(kind="tags") %}
+    {% set tag = tags.items | filter(attribute="name", value="Infos zum Schulanfang") | last %}
+    {% for page in tag.pages  | slice(end=3) %}
+    <a title="{{page.title}}" href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+    {% endfor %}
+  </div>
+  <div class="note">
+    <br>
+    <h1><b>Presse</b></h1>
+    <br>
+    {% set tags = get_taxonomy(kind="tags") %}
+    {% set tag = tags.items | filter(attribute="name", value="Presse") | last %}
+    {% for page in tag.pages  | slice(end=3) %}
+    <a title="{{page.title}}" href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+    {% endfor %}
+  </div>
+  <div class="note green">
+    <br>
+    <h1><b>Schulleben</b></h1>
+    <br>
+    {% set tags = get_taxonomy(kind="tags") %}
+    {% set tag = tags.items | filter(attribute="name", value="Schulleben") | last %}
+    {% for page in tag.pages  | slice(end=3) %}
+    <a title="{{page.title}}" href="{{ page.permalink | safe }}">{{ page.title }}</a><br>
+    {% endfor %}
+  </div>
+  </div>
+    <hr>
     <h1 class="title">Von A bis Z</h1>
     <div class="split">
       {% if paginator %}

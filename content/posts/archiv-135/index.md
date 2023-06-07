@@ -2,7 +2,7 @@
 title = "💡Bilinguale Grundschule"
 date = 2023-02-07
 [taxonomies]
-tags = ["Aktuelles" ,"Allgemein" ,"Infos zum Schulanfang" ,"Infos zum Schulanfang" ]
+tags = ["Aktuelles"  ,"Infos zum Schulanfang"  ]
 +++
 
 **Die Bürgermeister-Schütte Grundschule Partenkirchen wird Bilinguale Grundschule**

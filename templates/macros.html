@@ -322,3 +322,12 @@
 {% endif %}
 {% endfor %}
 {% endmacro %}
+
+
+{% macro render_pages_with_tag(pages, tag) %}
+    {% for p in pages %}
+        {% if p.tags is containing(tag) %}
+          Render the page, could be another macro if it needs to be reused elsewhere
+        {% endif %}
+    {% endfor %}
+{% endmacro %}
