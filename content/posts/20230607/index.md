@@ -13,6 +13,6 @@ Sie sind ein Team, zusammengewachsen für ihr Projekt im Rahmen der Richard-Stra
 <!-- more -->
 
 Am Strand, irgendwo auf dieser Welt. Ein Filmteam trifft
-sich. Überall stehen Kameras, Kostüme werden anprobiert, Texte einstudiert. Hier soll die klassische Ariadne verfilmt werden. Die erste Szene ist im Kasten,da taucht eine Gruppe Jugendlicher auf, die just am selben Strand für ihre „Beach-Baby-Dance-Challenge" drehen möchte. Nichts läuft mehr wie geplant...
+sich. Überall stehen Kameras, Kostüme werden anprobiert, Texte einstudiert. Hier soll die klassische Ariadne verfilmt werden. Die erste Szene ist im Kasten, da taucht eine Gruppe Jugendlicher auf, die just am selben Strand für ihre „Beach-Baby-Dance-Challenge" drehen möchte. Nichts läuft mehr wie geplant...
 
 {{downloads(folder="downloads/")}}
