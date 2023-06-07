@@ -861,12 +861,12 @@ video{
   justify-content: space-around;
   flex-direction: row;
   flex-wrap: wrap;
-  font-family: 'Patrick Hand';
+
 }
 
 .notes h1{
-  font-family: 'Patrick Hand';
-  text-decoration: underline;
+
+font-family: 900;
   font-size: 17px;
 }
 .note{
