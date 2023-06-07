@@ -23,7 +23,7 @@
     <div class="notes">
       <div class="note blue">
         <br>
-        <h1><b>Neuigkeiten</b></h1>
+        <h1>Neuigkeiten</h1>
         <br>
     {% set tags = get_taxonomy(kind="tags") %}
     {% set tag = tags.items | filter(attribute="name", value="Aktuelles") | last %}
@@ -33,7 +33,7 @@
   </div>
   <div class="note red">
     <br>
-    <h1><b>Schulstart</b></h1>
+    <h1>Schulstart</h1>
     <br>
     {% set tags = get_taxonomy(kind="tags") %}
     {% set tag = tags.items | filter(attribute="name", value="Infos zum Schulanfang") | last %}
@@ -43,7 +43,7 @@
   </div>
   <div class="note">
     <br>
-    <h1><b>Presse</b></h1>
+    <h1>Presse</h1>
     <br>
     {% set tags = get_taxonomy(kind="tags") %}
     {% set tag = tags.items | filter(attribute="name", value="Presse") | last %}
@@ -53,7 +53,7 @@
   </div>
   <div class="note green">
     <br>
-    <h1><b>Schulleben</b></h1>
+    <h1>Schulleben</h1>
     <br>
     {% set tags = get_taxonomy(kind="tags") %}
     {% set tag = tags.items | filter(attribute="name", value="Schulleben") | last %}
