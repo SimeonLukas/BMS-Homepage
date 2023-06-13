@@ -1,7 +1,7 @@
 +++
 weight = 0
 date = "2023-06-13"
-title = "BIO-Mittagsmenüs für Kindergärten und Schule"
+title = "BIO-Mittagsmenüs für Kindergärten und Schulen"
 template = "page.html"
 description =""
 [taxonomies]
