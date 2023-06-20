@@ -3,8 +3,8 @@
   {% for asset in page.assets | sort -%}
     {%- if asset is matching("[.](jpg|png|jpeg)$") -%}
       {% set image = resize_image(path=asset, width=200, height=150) %}
-      <a href="{{ get_url(path=asset) }}">
-        <img src="{{ image.url }}" data-title="{{asset}}" data-description="{{asset}}" />
+      <a href="{{ get_url(path=asset) }}?ver={{ now(timestamp=true) }}">
+        <img src="{{ image.url}}?ver={{ now(timestamp=true) }}" data-title="{{asset}}" data-description="{{asset}}" />
       </a>
     {%- endif %}
   {%- endfor %}
