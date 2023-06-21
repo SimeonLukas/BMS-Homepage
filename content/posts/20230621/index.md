@@ -1,7 +1,7 @@
 +++
 weight = 0
 date = "2023-06-21"
-title = "Team „Ariadne 2.0" wächst über sich hinaus"
+title = "Team Ariadne 2.0 wächst über sich hinaus"
 template = "page.html"
 description =""
 [taxonomies]
