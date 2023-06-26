@@ -53,7 +53,7 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler, 
 
 ![](images/team.jpeg)
 
-Elisabeth Grasegger, Maria-Theresa Zink und Muriel Herale 
+Elisabeth Grasegger, Maria-Theresa Zink und Yara Farman 
 
 #### **Grundschule**
 
