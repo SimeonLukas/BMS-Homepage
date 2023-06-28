@@ -1,6 +1,7 @@
 +++
 title = "⏰ Unterrichtszeiten zum Schuljahresbeginn"
 date = 2022-09-10
+draft = true
 [taxonomies]
 tags = ["Aktuelles" ,"Infos zum Schulanfang" ,"Infos zum Schulanfang" ]
 +++
