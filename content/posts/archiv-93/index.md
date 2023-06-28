@@ -15,7 +15,8 @@ klassen = ["1. Klasse"]
 09:00 Uhr Begrüßung aller Erstklässler im Schulhof im Anschluss: Unterricht im Klassenzimmer  
 Abholung ca. 10:30 Uhr  
 **Mittwoch, 13. September 2023**  
-Unterrichtsschluss 10:15 Uhr  
+Unterrichtsschluss 10:15 Uhr 
+Start der OGTS (Offene Ganztagsschule GS)
 **Donnerstag, 14. September 2023 und Freitag, 15. September 2023**  
 Unterrichtsschluss 10:45 Uhr  
 ab Montag, 18. September 2023 Unterricht nach vorläufigem Stundenplan
