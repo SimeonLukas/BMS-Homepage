@@ -29,5 +29,16 @@ Unterrichtsschluss nach der 4. Stunde 11:00 Uhr
 Unterrichtsschluss nach der 5. Stunde 12:00 Uhr  
 Unterrichtsschluss nach der 6. Stunde 12:45 Uhr  
 
+
+## Schulstart im September für die Klassen 2 – 10
+
+12.09.2023 Der Unterricht beginnt um 07:45 Uhr und endet um 11:00 Uhr.
+
+13.09. - 18.09.23 Unterrichtsschluss nach Stundenplan, spätestens um 12:45 Uhr
+
+Die Schüler und Schülerinnen der Ganztagsklassen essen zu Mittag und haben anschließend Schulschluss ab 19.09.2023 Unterricht nach Stundenplan
+
+**Die Offene Ganztagsschule beginnt am 13.09.2023 mit Mittagessen und endet um 16:00 Uhr.**
+
 Weitere Informationen finden Sie im angehängten Dokument:
 {{downloads(folder="downloads/")}} 
