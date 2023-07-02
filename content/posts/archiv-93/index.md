@@ -34,9 +34,10 @@ Unterrichtsschluss nach der 6. Stunde 12:45 Uhr
 
 12.09.2023 Der Unterricht beginnt um 07:45 Uhr und endet um 11:00 Uhr.
 
-13.09. - 18.09.23 Unterrichtsschluss nach Stundenplan, spätestens um 12:45 Uhr
+13.09. - 18.09.23 Unterrichtsschluss nach Stundenplan, spätestens um 12:45 Uhr  
+Die Schüler und Schülerinnen der Ganztagsklassen essen zu Mittag und haben anschließend Schulschluss
 
-Die Schüler und Schülerinnen der Ganztagsklassen essen zu Mittag und haben anschließend Schulschluss ab 19.09.2023 Unterricht nach Stundenplan
+ab 19.09.2023 Unterricht nach Stundenplan
 
 **Die Offene Ganztagsschule beginnt am 13.09.2023 mit Mittagessen und endet um 16:00 Uhr.**
 
