@@ -10,6 +10,7 @@ klassen = ["1. Klasse"]
 
 
 # Regelung der ersten Schultage
+## Schulstart im September für Klasse 1
 **Dienstag, 12. September 2023**  
 08:00 Uhr voraussichtlich Segnung in der Kirche  
 09:00 Uhr Begrüßung aller Erstklässler im Schulhof im Anschluss: Unterricht im Klassenzimmer  
