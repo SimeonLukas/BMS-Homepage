@@ -9,6 +9,5 @@ tags = ["Schulleben" ,"Grundschulaktivitäten" ,"Kultur" ]
 klassen = ["3. Klasse"]
 +++
 Projekt der Klasse 3d
-![Ski mit Düsenantrieb](images/modernes Fortbewegungsmittel.jpg)
 <!-- more -->
 Moderne Fortbewegungsmittel -  Ski mit Düsenantrieb
