@@ -5,7 +5,7 @@ title = "Ski mit Düsenantrieb"
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Schulleben" ,"Grundschulaktivitäten" ,"Kultur" ]
+tags = ["Schulleben" ,"Grundschulaktivitäten" ,"Sport" ]
 klassen = ["3. Klasse"]
 +++
 Projekt der Klasse 3d
