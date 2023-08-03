@@ -10,7 +10,7 @@ tags = [ "Aktuelles" , "Mitteilungen"]
 notification = "2023-08-27"
 +++
 
-Der Besetzungsplan für die Sommerferien 2023 der Bürgermeister-Schütte-Grund- und Mittelschule in Partenkirchen:
+Der Besetzungsplan für die Sommerferien 2023 der Bürgermeister-Schütte Grund- und Mittelschule in Partenkirchen:
 
 - Es gibt Sprechzeiten in der ersten und letzten Ferienwoche von 8:30-10 Uhr, besetzt durch Schulleitung und Stellvertretung. Kontakt über die Schule per Email oder Telefon.
 
