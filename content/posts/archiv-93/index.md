@@ -1,6 +1,6 @@
 +++
 title = "Schulbeginn 2023/2024"
-date = 2023-08-03
+date = 2023-09-06
 [taxonomies]
 tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
 klassen = ["1. Klasse"]
