@@ -38,7 +38,7 @@ Bei
 
 ## Kontakt:
 {{person(name = "Stefanie Seyboth" , phone="+49 8824 9146300 " , mail="stefanie.seyboth@schulpsychologie.gsms-ob.de")}}
-Dienstag 8:00 - 8:45 Uhr  
+Dienstag 8:00 - 9:00 Uhr  
 james - loeb - grundschule, dr. august - einsele - ring 8, 82418 murnau  
 
 Ich freue mich auf eine gute Zusammenarbeit.  
