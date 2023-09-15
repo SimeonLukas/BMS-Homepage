@@ -43,39 +43,43 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 ### Haus 2
 | Klasse |         Lehrer        | |
 |-------|-------------------------------------|------|
-| 1c    | Ursula Wipfelder                    | ﻿ Lin     |
-| 2c    | Alexandra Jocher                    | ﻿   Lin    | 
-| 3c    | Marie Friedrichs                    | ﻿   RSLin     |
-| 4c    | Ann-Cathrin Krahmer                 | ﻿    Lin     |        
+| 1c      | Ann-Cathrin Krahmer            | Lin      |
+| 2c      | Ursula Wipfelder               | Lin      |
+| 3c      | Julia Kammerer                 | Lin      |
+| 4c      | Franziska Wielander            | Lin      |      
 
 ### Hindenburgstr. 10
 
 |                  |                          |                       |
 |-------------------------------------|--------------------------|---|
-| 1a                               | Daniela Bechmann           | Lin    |
-| 1b                                | Heike Hertlein-Schneider   | Lin    |
-| 1d                                   | Anna Bäumler                | Lin    |
-| 2a                                  | Katharina Kößler           | Lin    |
-| 2b                                  | Ursula Buntz              | Lin    |
-| 3a                                  | Franziska Singer           | LAA    |
-| 3b                                  | Eva Dallmayr              | Lin    |
-| 3d                                  | Lisa Schoeps               | Lin    |
-| 4a                                  | Alexandra Scherer          | Lin    |
-| 4b                                  | Maximilian Tauwald               | L      |
-| 4d                                  | Maximilian Aschenbrenner  | L      |
-| 5a                                  | Katja Doser                | Lin    |
-| 5G                                  | Sebastian Schranner        | StR/MS |
-| 6a                                  | Maria Stemmer              | Lin    |
-| 6G                                  | Gisela Näbauer             | Lin    |
-| 7G                                  | Mobile Reserve            |     |
-| 7M                                  | Jasmin Zahler           | Lin      |
-| 8G                                  | Karl Koeppelle             | StR/MS     |
-| 8M                                  | Thomas Härter             | L      |
-| 9a                                  | Christoph Richter        | L      |
-| 9G                                  | Andreas Strobel            | L      |
-| 9M                                  | Robert Rauch              | L      |
-| 10Ma                                | Olga Beermann              | Lin    |
-| 10Mb                                | Helmut Bürger              | L      |
+| 1a      | Jacqueline Naujok              | Lin      |
+| 1b      | Ursula Buntz                   | StRin/GS |
+| 1d      | Florian Kreuzer                | L        |
+| 2a      | Daniela Bechmann               | Lin      |
+| 2b      | Heike Hertlein-Schneider       | StRin/GS |
+| 2d      | Anna Bäumler                   | Lin      |
+| 3a      | Heidi Richter                  | L        |
+| 3b      | Elena Mackrodt/Kathrin Gspan   | Lin      |
+| 5G      | Gisela Näbauer                 | Lin      |
+| 6a      | Sonja Ermer                    | KR       |
+| 6G      | Sebastian Schranner            | StR/MS   |
+| 7G      | Olga Beermann                  | Lin      |
+| 7M      | Andrea Rau                     | StRin/MS |
+| 8G      | Helmut Bürger                  | L        |
+| 8M      | Christoph Richter              | StR/MS   |
+| 9G      | Karl Koeppelle                 | StR/MS   |
+| 9M      | Thomas Härter                  | L        |
+| 10M     | Robert Rauch                   | L        |
+
+### Container Bahnhofstr. 9-11
+
+|                  |                          |                       |
+|-------------------------------------|--------------------------|---|
+| 4a      | Franziska Singer               | Lin      |
+| 4b      | Eva Dallmayr                   | Lin      |
+| 4d      | Maximilian Tauwald             | L        |
+| 5a      | Katja Doser                    | Lin      |
+
 
 ## Mittagskräfte im gebunden Ganztag
 |     |                |   |   
@@ -87,63 +91,66 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 ## Zusatzlehrer      
 |      |    |            |
 |-----------------------|--------|------------|
-| Lena Andrä-Karatas        |    | Lin        |
-| Kurt Christian             |   | L          |
-| Sonja Ermer                 |  | KRin       |
-| Sophia Fries                 | | FöLA       |
-| Verena Hafenrichter      |     | KRin       |
-| Brigitte Kruis           |     | StRin/GS   |
-| Sabine Müller             |    |            |
-| Heidi Richter             |    | LAA        |
-| Anja Schalkhäuser-Riesch, Dr.| | StRin/GS   |
-| Stefanie Schmidt       |       | Rin        |
-| Florian Vollmer         |      | FL         |
-| Florian Wipfelder        |     |            |
+| Kurt Christian                | L          |
+| Verena Hafenrichter           | KRin       |
+| Alexandra Jocher              | Lin        |
+| Brigitte Kruis                | StRin/GS   |
+| Anja Lechner\*                |            |
+| Sabine Müller                 |            |
+| Anja Schalkhäuser-Riesch, Dr. | StRin/GS   |
+| Stefanie Schmidt              | Rin        |
+| Celine Völkel                 | FöLin      |
+| Florian Vollmer               | FL         |
+| Florian Wipfelder             |            |
 
 ## Fachlehrer   
 |          |      |      |
 |------------------|-------------|------------|
-| Stefanie Echter*      |        | FLin       |
-| Andrea Meiler         |        | FOLin        |
-| Stefanie Schilling*   |       | FOL/EG    |
-| Hans-Peter Schmitt*   |        | FOL/mt     |
-| Monika Pach           |        | FLin       |
-| Andrea Schwinghammer  |        | FOLin/EG   |
-| Louis Gabler*         |       | FL/mus.    |
-| Ludwig Geiger         |       | FOL/mt     |
-| Maria Haseidl         |   | FL/EG    |
+| Louis Gabler                  | FL/mus.    |
+| Ludwig Geiger                 | FOL/mt     |
+| Maria Anna Haseidl            | FL/EG      |
+| Andrea Meiler                 | FOL        |
+| Johanna Saul                  | FL/Sport   |
+| Stefanie Schilling \*         | FOL/EG     |
+| Hans-Peter Schmitt\*          | FOL/mt     |
+| Andrea Schwinghammer          | FOLin/EG   |
+| Ulrike Weichseldorfer         | FL/EG      |
 
 *nicht Stammschule
 
 ## Religionslehrer   
 |          |        |    |
 |--------------------|-----------|------------|
-| Angela Eitzenberger        |   | RLin i. K. |
-| Petra Schwimmbeck           |  | RLin i. K. |
-| Andreas Kolb                |  | Kaplan     |
-| Dorothee Geißlinger-Henckel |  | Pfarrerin  |
+| Angela Eitzenberger           | RLin i. K. |
+| Petra Schwimmbeck             | RLin i. K. |
+| Andreas Kolb                  | Kaplan     |
+| Dorothee Geißlinger-Henckel   | Pfarrerin  |
 
 ## Mobile Reserve   
 |          |       |     |
 |-----------------------|--------|------------|
-| Anja Jäger             |       | Lin        |
-| Anja Krinninger         |      | StRin/GS   |
-| Susanne Kücker           |     | Lin        |
-|Jessica Ludwig|  | |
-| Jacqueline Naujok       |      | Lin        |
+| Marzena Bader                 | Lin        |
+| Jessica Ludwig                |            |
+| David Pircher                 | L          |
+| Alexandra Scherer             | Lin        |
+| Maria Stemmer                 | Lin        |
+| Peter Wowra                   | StR/MS     |
 
 ##  Musik  
 |          |          |  |
 |---------------------|----------|------------|
+| Venelin Filipov            |       |         |
 | Erwin Gaulhofer          |     |            |
 | Jarek Haber             |      |            |
 | Magdalena Hornsteiner     |    |            |
+| Sylvia Meggyes     |     |            |
 
 ## Jugendsozialarbeit an Schulen (JaS)
 |      |           |     |
 |----------------------------|---------|----------------|
+| Elisabeth Grasegger       |          |     JaS GS           | 
 | Maria-Theresa Zink        |          |       JaS MS         |    
-| Elisabeth Grasegger       |          |     JaS GS           |    
+| Yara Farman      |          |     JaS MS           |  
 
 ## Berufseinstiegsbegleiter
 |      |                |      |
