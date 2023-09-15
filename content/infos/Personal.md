@@ -163,5 +163,5 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 |-------------------------------|---|
 | Hannes Pfanzelter             | |
 
-# Sprechstunden der Lehrkräfte ()
+# Sprechstunden der Lehrkräfte
 [Herunterladen](/downloads/allgemein/Sprechstunden-der-Lehrkräfte.pdf) 
