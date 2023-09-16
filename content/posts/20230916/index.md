@@ -5,7 +5,7 @@ title = "Training der Alltagskompetenz „Wir gehen mit unserer Natur
 verantwortungsvoll um“"
 template = "page.html"
 [taxonomies]
-tags = ["Schulleben" , "Aktuelles" , "Allgemein"]
+tags = ["Schulleben" , "Verhalten" , "Natur"]
 categories = ["Nachhaltigkeit & Ressourcen"]
 +++
 Bei unserer heutigen Wanderung (15.09.2023) von der Bürgermeister-Schütte-
