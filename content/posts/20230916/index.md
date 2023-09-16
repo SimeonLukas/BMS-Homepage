@@ -1,8 +1,7 @@
 +++
 weight = 1
 date = "2023-09-16"
-title = "Training der Alltagskompetenz - Wir gehen mit unserer Natur
-verantwortungsvoll um"
+title = "Training der Alltagskompetenz - Wir gehen mit unserer Natur verantwortungsvoll um"
 template = "page.html"
 [taxonomies]
 tags = ["Schulleben" , "Verhalten" , "Natur"]
