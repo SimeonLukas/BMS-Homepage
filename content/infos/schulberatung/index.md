@@ -43,3 +43,7 @@ Die Beratung ist kostenlos! Wartezeiten lassen sich nicht immer vermeiden; eine 
 Die Aufklärung über psychische Erkrankungen, insbesondere auch über Depression und Angststörungen, ist eine gesamtgesellschaftliche Aufgabe, zu der auch die Schulen einen wichtigen Beitrag leisten. Gesundheitsförderung und auch die Themen wie psychische Gesundheit und Umgang mit Stress spielen nicht nur in der Erwachsenenwelt eine große Rolle.  
   
 An den Schulen sind die regionalen Schulpsychologinnen, Schulpsychologen und Beratungslehrkräfte vor Ort erste Ansprechpartner für Kinder und Jugendliche zu seelischen Notlagen, die über Schulprobleme hinausgehen. Um eine frühe Diagnose und die entsprechende Therapie zu ermöglichen, übermitteln sie vor Ort wichtige und aktuelle Hinweise zu Beratungsstellen, Ärzten, Therapeuten und Kliniken im jeweiligen Schulumfeld.
+
+## Webseite
+[Hier klicken](https://www.info-schulberatung-gap.de/)
+
