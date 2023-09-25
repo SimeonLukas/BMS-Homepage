@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - Schuleinschreibung</title>
+      <link>https://volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://volksschule-partenkirchen.de/tags/schuleinschreibung/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Schulbeginn 2023&#x2F;2024</title>
+          <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/posts/archiv-93/</link>
+          <guid>https://volksschule-partenkirchen.de/posts/archiv-93/</guid>
+          <description>&lt;h1 id=&quot;regelung-der-ersten-schultage&quot;&gt;Regelung der ersten Schultage&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;schulstart-im-september-fur-klasse-1&quot;&gt;Schulstart im September für Klasse 1&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;Dienstag, 12. September 2023&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+08:00 Uhr voraussichtlich Segnung in der Kirche&lt;br &#x2F;&gt;
+09:00 Uhr Begrüßung aller Erstklässler im Schulhof im Anschluss: Unterricht im Klassenzimmer&lt;br &#x2F;&gt;
+Abholung ca. 10:30 Uhr&lt;br &#x2F;&gt;
+&lt;strong&gt;Mittwoch, 13. September 2023&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+Unterrichtsschluss 10:15 Uhr 
+Start der OGTS (Offene Ganztagsschule GS)
+&lt;strong&gt;Donnerstag, 14. September 2023 und Freitag, 15. September 2023&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;
+Unterrichtsschluss 10:45 Uhr&lt;br &#x2F;&gt;
+ab Montag, 18. September 2023 Unterricht nach vorläufigem Stundenplan&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Memo Schnuppertag</title>
+          <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/posts/20230509/</link>
+          <guid>https://volksschule-partenkirchen.de/posts/20230509/</guid>
+          <description>&lt;p&gt;Schnuppertag
+an der Bürgermeister-Schütte Grundschule am Mittwoch, 17.5.2023&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
