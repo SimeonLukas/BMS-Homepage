@@ -1,6 +1,6 @@
 +++
 weight = 1
-date = "2023-09-16"
+date = "2023-09-24"
 title = "U18 Wahl an der Bürgermeister-Schütte Schule als Beitrag zur Demokratieerziehung"
 template = "page.html"
 [taxonomies]

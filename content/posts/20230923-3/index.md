@@ -1,6 +1,6 @@
 +++
 weight = 1
-date = "2023-09-16"
+date = "2023-09-24"
 title = "Arbeit unserer Erstklässer"
 template = "page.html"
 [taxonomies]
