@@ -408,8 +408,8 @@ function getarticles() {
 
     });
 
-  pieanimation(620, "piechart2", "circle1")
-  pieanimation(58, "piechart3", "circle2")
+  pieanimation(607, "piechart2", "circle1")
+  pieanimation(62, "piechart3", "circle2")
 }
 
 function getcategories() {

@@ -5,7 +5,7 @@ title = "Sieben graue Herren aus Pappmaché"
 template = "page.html"
 description =""
 [taxonomies]
-tags = ["Mittelschulakivitäten" ,"Presse" ,"Schulleben" ]
+tags = ["Mittelschulaktivitäten" ,"Presse" ,"Schulleben" ]
 categories = ["Kunst & Kultur"]
 +++
 

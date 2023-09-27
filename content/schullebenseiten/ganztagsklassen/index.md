@@ -28,7 +28,7 @@ toc = true
 ## Anmeldung
 
 [Anmeldeformular](/downloads/#mittelschule)  
-Ausgefüllte Anmeldungen bitte unserem Sekretariat (Frau Wesemann, Frau Brückl) zukommen lassen.
+Ausgefüllte Anmeldungen bitte unserem Sekretariat (Frau Wesemann) zukommen lassen.
 
 ## Präsentation
 
