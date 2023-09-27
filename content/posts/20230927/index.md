@@ -6,9 +6,11 @@ template = "page.html"
 tags = ["Aktuelles" ,"Berufsorientierung" ,"Mittelschulaktivitäten" ]
 +++
 
-# Mittelschule erhält Berufswahl-Siegel
-
 Die Bürgermeister-Schütte Mittelschule in Garmisch-Partenkirchen wurde kürzlich für ihren herausragenden Einsatz bei der Berufsorientierung ihrer Schülerinnen und Schüler ausgezeichnet.
+
+<!-- more -->
+
+# Mittelschule erhält Berufswahl-Siegel
 
 Sie erhielt das Berufswahl-Siegel des Bildungswerks der Bayerischen Wirtschaft. Damit gehört die Schule zu nur 44 Schulen in ganz Bayern, die diese Auszeichnung tragen dürfen. 
 
