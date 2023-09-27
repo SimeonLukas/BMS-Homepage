@@ -1,6 +1,6 @@
 +++
 title = "Berufswahl-Siegel für Mittelschule"
-date = 2023-02-27
+date = 2023-09-27
 template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" ,"Berufsorientierung" ,"Mittelschulaktivitäten" ]
