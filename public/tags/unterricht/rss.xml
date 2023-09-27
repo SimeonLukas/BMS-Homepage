@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - Unterricht</title>
+      <link>https://volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://volksschule-partenkirchen.de/tags/unterricht/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Arbeit unserer Erstklässer</title>
+          <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/posts/20230923-3/</link>
+          <guid>https://volksschule-partenkirchen.de/posts/20230923-3/</guid>
+          <description>&lt;p&gt;Die ABC-Schützen haben ihren ersten Schultag! Stolz und mit leuchtender Schultüte ausgestattet kommen die Erstklässler in die Schule. Dort wartet viel Neues auf sie.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
