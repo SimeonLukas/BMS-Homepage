@@ -61,6 +61,4 @@ avatar = "/images/avatar.png"
 email = "schulleitung@volksschule-partenkirchen.de"
 
 
-[extra.mapbox]
-enabled = false
-access_token = "pk.eyJ1Ijoic2ltZXJsIiwiYSI6ImNrOXU0aWluZzAzOXYzZXBhdXF3M21kbzgifQ.TeinTh7kBnQb8re5KDYq1w"
+
