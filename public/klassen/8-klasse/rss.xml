@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - 8. Klasse</title>
+      <link>https://volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://volksschule-partenkirchen.de/klassen/8-klasse/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Mädels-Treff</title>
+          <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/archiv/20230427a/</link>
+          <guid>https://volksschule-partenkirchen.de/archiv/20230427a/</guid>
+          <description>&lt;p&gt;Wir, die Jugendsozialarbeiterinnen Muriel Herale und Maria-Theresa Zink, luden die Mädchen der 8. Jahrgangsstufe an vier Nachmittagen zum Projekt „Mädels-Treff“ ein. In jeder Einheit wurde ein gewünschtes Thema der Schülerinnen, wie bspw. Gleichberechtigung oder der Zyklus der Frau, besprochen und kreativ bearbeitet. &lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
