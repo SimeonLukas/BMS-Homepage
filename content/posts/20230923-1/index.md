@@ -1,7 +1,7 @@
 +++
 weight = 1
 date = "2023-09-23"
-title = "Elternbrief der JaS "
+title = "Elternbrief der JaS Mittelschule"
 template = "page.html"
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
