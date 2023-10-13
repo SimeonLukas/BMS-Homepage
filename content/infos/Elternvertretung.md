@@ -66,7 +66,7 @@ Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine eng
 
 ## Elternbeirat
 
-![Förderverein | 400](../elternbeirat.jpg)
+![Elternbeirat | 400](../Elternbeirat.jpg)
 
 Franz Weber (Vorsitzender Grundschule), Ayfer Eursch, Agnes Hosak,
 Thomas Thalmeier, Esther Trunk, Wolfgang Hosak, Hubert Kuger
