@@ -65,7 +65,10 @@ Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine eng
 | 10Mb | Heidi Rieger                 | Lenka Raubal              |
 
 ## Elternbeirat
-**Vorsitzender:** Hubert Kuger  
-**Stellvertreterin:** Sabine Sedlmeyer  
-**Weitere Mitglieder:** Lana Bader  
+
+![Förderverein | 400](../elternbeirat.jpg)
+
+Franz Weber (Vorsitzender Grundschule), Ayfer Eursch, Agnes Hosak,
+Thomas Thalmeier, Esther Trunk, Wolfgang Hosak, Hubert Kuger
+(Vorsitzender Mittelschule), Libertad Ballesteros Arias, Abed Hamdan   
 **E-Mail:** [elternbeirat@volksschule-partenkirchen.de](mailto:elternbeirat@volksschule-partenkirchen.de)
