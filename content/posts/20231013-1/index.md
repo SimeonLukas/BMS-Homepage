@@ -1,6 +1,6 @@
 +++
 title = "Sonnenuhr im neuen Glanz"
-date = 2023-10-13
+date = "2023-10-13"
 template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" ,"Presse" ,"Mittelschulaktivitäten" ]
