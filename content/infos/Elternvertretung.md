@@ -23,7 +23,7 @@ Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine eng
 # Grundschule
 ## Klassenelternsprecher 2023/2024
 
-| Kl*| 1\. ElternsprecherIn** | 2\. ElternsprecherIn  |
+| Kl*| 1\. ElternsprecherIn | 2\. ElternsprecherIn  |
 | ------ | ------------------------ | -------------------------- |
 | 1a     | Manuela Skinner          | Martin Hirmer              |
 | 1b     | Eva Sedlmayr             | Daniela Bader              |
