@@ -21,50 +21,43 @@ Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine eng
 </details>
 
 # Grundschule
-## Klassenelternsprecher 2022/2023
+## Klassenelternsprecher 2023/2024
 
-| Kl | ElternsprecherIn           | ElternsprecherIn       |
-| -- | -------------------------- | ---------------------- |
-| 1a | Caroline Pircher           | Kristine Lorenz        |
-| 1b | Ramona Bauer               | Julia Tischler-Metzner |
-| 1c | Franziska Bohn             | Sinem Düzel            |
-| 1d | Sabine Schulze             | Enikö Fersch           |
-| 2a | Sarah Liese                | Guido Bechmann         |
-| 2b | Kerstin Girbinger          | Christina Hausmann     |
-| 2c | Libertad Ballesteros Arias | Deike Albl             |
-| 3a | Katrin Bauer               | Julia Tischler-Metzner |
-| 3b | Melanie Fellendorf         | Marina Winkler         |
-| 3c | Lisa Hirn                  | Carsten Hauke          |
-| 3d | Rosemarie Grasegger        | Christine Konstanzer   |
-| 4a | Lukas Wallner              | Sabine Schulze             |
-| 4b | Michaela Anzenberger       |Gaby Hähl               |
-| 4c | Babette Wanisch          | Susanne Lichtenwald    |
-| 4d | Gabriele Koller            | Wolfgang Grab          |
-## Elternbeirat
-**Vorsitzender:** Franz Weber  
-**Stellvertreter:** Wolfgang Hosak  
-**Weitere Mitglieder:** Libertad Ballesteros Arias, Marina Yakubovskaya  
-**E-Mail:** [elternbeirat@volksschule-partenkirchen.de](mailto:elternbeirat@volksschule-partenkirchen.de)
+| Kl*| 1\. ElternsprecherIn** | 2\. ElternsprecherIn  |
+| ------ | ------------------------ | -------------------------- |
+| 1a     | Manuela Skinner          | Martin Hirmer              |
+| 1b     | Eva Sedlmayr             | Daniela Bader              |
+| 1c     | Babette Wanisch          | Brit Argyriou Rauschenbach |
+| 1d     | Sebastian Rode           | Ayfer Eursch               |
+| 2a     | Carolina Pircher         | Kristine Lorenz            |
+| 2b     | Ramona Bauer             | Marina Metzner             |
+| 2c     | Sinem Düzel              | Franziska Bohn             |
+| 2d     | Sabine Schulze           | Eni Fersch                 |
+| 3a     | Sarah Liese              | Guido Bechmann             |
+| 3b     | Kerstin Girbinger        | Christine Hausmann         |
+| 3c     | Katrin Benkert           | Libertad Ballesteros Arias |
+| 4a     | Julia Tischler-Metzner   | Katrin Bauer               |
+| 4b     | Marina Winkler           | Melanie Fellendorf         |
+| 4c     | Tiffany Hilbert          | Alexandra Bauer            |
+| 4d     | Rosemarie Grasegger      | Christine Konstanzer       |
 
 # Mittelschule
-## Klassenelternsprecher 2022/2023
-| Kl   | ElternsprecherIn             | ElternsprecherIn          |
-| ---- | ---------------------------- | ------------------------- |
-| 5a   | Sepp Schnitzer               | Veronika Glatz            |
-| 5G   | Katrin Adam                  | Barbara Baudrexl          |
-| 6a   | Kerstin Thurnhuber           | Daniela Barkow-Topcuoglu |
-| 6G   | Barbara Brenner              | Katharina Avcu            |
-| 7G   | Hans-Jürgen Koppien-Schiebel | —                         |
-| 7M   | Gabriele Laczko              | Linus Käßer               |
-| 8G   | Simon Keel                   | Claudia Dechant           |
-| 8M   | Hubert Kuger                 | Sabrina Lahr              |
-| 9a   | Barbara Ebner                | —                         |
-| 9M   | Veronika Feuchtinger         | Maria Volenweider         |
-| 9G   | —                            | —                         |
-| 10Ma | —                            | —                         |
-| 10Mb | Heidi Rieger                 | Lenka Raubal              |
+## Klassenelternsprecher 2023/2024
+| Kl  | 1\. ElternsprecherIn        | 2\. ElternsprecherIn |
+| --- | --------------------------- | -------------------- |
+| 5a  | Wolfgang Grab               | Sabine Schulze       |
+| 5G  | Katrin Adam                 | Daniel Langfeld      |
+| 6a  | Nadine Tratz                | Veronika Glatz       |
+| 6G  | Katrin Adam                 | Barbara Baudrexl     |
+| 7G  | Barbara Brenner             | Carolin Santl        |
+| 7M  | Daniela Barkow              | Kerstin Thurnhuber   |
+| 8G  | Hans-Jürgen Koppin-Schiebel | Irmgard Weiß         |
+| 8M  | Gabriele Laczko             | \---                 |
+| 9G  | Simon Keel                  | Stephanie Reinisch   |
+| 9M  | Sabrina Lahr                | Hubert Kuger         |
+| 10M | Thomas Neudeck              | Brigitte Hillenbrand |
 
-## Elternbeirat
+# Elternbeirat
 
 ![Elternbeirat | 400](../Elternbeirat.jpg)
 
