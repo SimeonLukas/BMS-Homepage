@@ -25,8 +25,7 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
-          script: cd zola/BMS-Static && git rebase main && git pull
-          
+          script: cd zola/BMS-Static && rm -fr ".git/rebase-merge" && git pull  
       - name: 🔥 Delete Folder
         uses: JesseTG/rm@v1.0.3
         with:
