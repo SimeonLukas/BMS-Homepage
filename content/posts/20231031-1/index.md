@@ -1,7 +1,7 @@
 +++
 title = "SC Riessersee ehrt Vereinslegenden Tim Regan und Florian Vollmer"
 description = ""
-date = 2022-10-04
+date = 2023-10-04
 [taxonomies]
 tags = ["Aktuelles" ,"Sport" ,"Presse" ]
 categories = ["Sport & Gesundheit"]

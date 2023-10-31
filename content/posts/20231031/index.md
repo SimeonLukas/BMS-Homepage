@@ -1,7 +1,7 @@
 +++
 title = "Neue Landkreisschülersprecher der Mittelschulen gewählt"
 description = ""
-date = 2022-10-26
+date = 2023-10-26
 [taxonomies]
 tags = ["Aktuelles" ,"Unterricht" ,"Mittelschulaktivitäten" ]
 +++
