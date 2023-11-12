@@ -163,5 +163,5 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 |-------------------------------|---|
 | Hannes Pfanzelter             | |
 
-# Sprechstunden der Lehrkräfte (2022-2023)
+# Sprechstunden der Lehrkräfte
 [Herunterladen](/downloads/allgemein/Sprechstunden-der-Lehrkräfte.pdf) 
