@@ -1,6 +1,5 @@
 +++
-title = "Wir lernen wie Politik funktioniert. Besuch des
-Innenministeriums."
+title = "Wir lernen wie Politik funktioniert. Besuch des Innenministeriums."
 description = ""
 date = "2023-11-25"
 template = "page.html"
