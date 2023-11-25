@@ -7,7 +7,7 @@ template = "page.html"
 tags = ["Mittelschulaktivitäten" ,"Aktuelles" ,"Politik" ]
 klassen = ["10. Klasse"]
 +++
-{{video(src="video/video.mp4")}}
+{{video(src="https://volksschule-partenkirchen.de/posts/20231125/video/video.mp4")}}
 
 <!-- more -->
 
