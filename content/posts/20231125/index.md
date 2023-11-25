@@ -9,3 +9,5 @@ klassen = ["10. Klasse"]
 +++
 {{video(src="video/video.mp4")}}
 
+<!-- more -->
+
