@@ -1,5 +1,5 @@
 +++
-title = "Teilnahme der Bürgermeister-Schütte-Schule am Caritativen Weihnachtsmarkt GAP 2023"
+title = "Teilnahme der Bürgermeister-Schütte Schule am Caritativen Weihnachtsmarkt GAP 2023"
 description = ""
 date = "2023-11-28"
 template = "page.html"
