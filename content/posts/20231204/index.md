@@ -26,5 +26,5 @@ innen all ihre Fragen rund um das Thema Wahl einbringen.
 Nach dem Workshop hatten die Schüler/-innen im separaten Wahlraum die Möglichkeit, ihre Stimme
 abzugeben.
 
-{{downloads(folder="downloads")}}. 
+{{downloads(folder="downloads")}}
 
