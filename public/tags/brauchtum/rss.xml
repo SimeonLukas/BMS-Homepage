@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte-Grund &amp; Mittelschule - Brauchtum</title>
+      <link>https://volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://volksschule-partenkirchen.de/tags/brauchtum/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Nikolaus zu Besuch</title>
+          <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/posts/20230327-2/</link>
+          <guid>https://volksschule-partenkirchen.de/posts/20230327-2/</guid>
+          <description>&lt;p&gt;Am 6. Dezember bekamen die vier ersten Klassen hohen Besuch vom heiligen Nikolaus. &lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
