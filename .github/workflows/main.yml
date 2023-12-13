@@ -25,7 +25,7 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
-          script: cd zola && git clone https://github.com/SimeonLukas/BMS-Homepage.git && rm -r BMS-Static && mv BMS-Homepage BMS-Static && cp -r /neu/wp-content /zola/BMS-Static/public/
+          script: cd zola && git clone https://github.com/SimeonLukas/BMS-Homepage.git && rm -r BMS-Static && mv BMS-Homepage BMS-Static && cp -r wp-content BMS-Static/public/
       - name: 🔥 Delete Folder
         uses: JesseTG/rm@v1.0.3
         with:
