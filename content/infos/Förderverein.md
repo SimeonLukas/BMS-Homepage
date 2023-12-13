@@ -23,7 +23,7 @@ Dies geschieht vor allem, indem wir
 -   Klassenfahrten und außerunterrichtliche Aktivitäten fördern,
 -   aktiv zur Wertschätzung und zum Ansehen der Schule im Ort beitragen.
 
-[Förderverein Flyer](../P_GSMS-Fo%CC%88rderverein_Flyer.pdf)
+[Förderverein Flyer](../P_GSMS-Förderverein_Flyer.pdf)
 
 ## Was wir brauchen
 
@@ -33,7 +33,7 @@ Um unsere Ziele umsetzen zu können, sammeln wir Mittel durch die Beiträge unse
 
 Eine Beitrittserklärung haben wir für Sie hier beigefügt.
 
-[Förderverein Beitrittsformular](../P_GSMS-Fo%CC%88rderverein_Beitrittsformular.pdf)
+[Förderverein Beitrittsformular](../P_GSMS-Förderverein_Beitrittsformular.pdf)
 Senden Sie einfach den Abschnitt an unsere Kontaktadresse. Vielen Dank!
 
 ## Spenden!
