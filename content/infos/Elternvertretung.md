@@ -28,7 +28,7 @@ Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine eng
 | 1a     | Manuela Skinner          | Martin Hirmer              |
 | 1b     | Eva Sedlmayr             | Daniela Bader              |
 | 1c     | Babette Wanisch          | Brit Argyriou Rauschenbach |
-| 1d     | Sebastian Rode           | Ayfer Eursch               |
+| 1d     | Nils Rhode               | Ayfer Eursch               |
 | 2a     | Carolina Pircher         | Kristine Lorenz            |
 | 2b     | Ramona Bauer             | Marina Metzner             |
 | 2c     | Sinem Düzel              | Franziska Bohn             |
@@ -63,5 +63,5 @@ Insgesamt ist das Amt der Klassenselternsprecher ein wichtiges Amt, das eine eng
 
 Franz Weber (Vorsitzender Grundschule), Ayfer Eursch, Agnes Hosak,
 Thomas Thalmeier, Esther Trunk, Wolfgang Hosak, Hubert Kuger
-(Vorsitzender Mittelschule), Libertad Ballesteros Arias, Abed Hamdan   
+(Vorsitzender Mittelschule), Libertad Ballesteros Arias, Abed Hamdan, Nils Rohde
 **E-Mail:** [elternbeirat@volksschule-partenkirchen.de](mailto:elternbeirat@volksschule-partenkirchen.de)
