@@ -2,7 +2,7 @@
 date = "2021-04-30"
 title = "Schulphilosophie"
 template = "toppage.html"
-description = "Insgesamt legt unsere Schulphilosophie Wert auf eine umfassende Bildung, die nicht nur die akademischen Fähigkeiten der Schüler, sondern auch ihre kreativen, körperlichen und sozialen Fähigkeiten fördert. Durch die Förderung von Kunst und Kultur, Berufsorientierung, Sport und Gesundheit sowie Nachhaltigkeit und Ressourcen sollen die Schüler in ihrer Persönlichkeitsentwicklung unterstützt werden und darauf vorbereitet werden, ihre zukünftigen Herausforderungen als verantwortungsbewusste und aktive Mitglieder der Gesellschaft zu bewältigen."
+description = "Wir legen Wert auf eine umfassende Bildung, die nicht nur die akademischen Fähigkeiten der Schüler, sondern auch ihre kreativen, körperlichen und sozialen Fähigkeiten fördert. Durch die Förderung von Kunst und Kultur, Berufsorientierung, Sport und Gesundheit sowie Nachhaltigkeit und Ressourcen werden die Schüler in ihrer Persönlichkeitsentwicklung unterstützt und darauf vorbereitet, ihre zukünftigen Herausforderungen als verantwortungsbewusste und aktive Mitglieder der Gesellschaft zu bewältigen."
 [extra]
 toc = true
 +++
