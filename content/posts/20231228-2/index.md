@@ -5,7 +5,7 @@ template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" ,"Presse" ]
 +++
-Im kommenden Jahr soll es bei den Großprojekten losgeghen - Rotstift in Partenkirchen
+Im kommenden Jahr soll es bei den Großprojekten losgehen - Rotstift in Partenkirchen
 
 <!-- more -->
 
