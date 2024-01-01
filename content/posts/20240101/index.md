@@ -28,7 +28,9 @@ Rau den Anfang der Geschichte vor.
 Leon, 7M
 
 ![](images/image1.jpeg)
+
 ![](images/image2.jpeg)
+
 Das kleine Mädchen Momo kämpft gegen eine Übermacht von Zeitdieben, die
 grauen Herren. Diese Mächte des Bösen rauben den Menschen ihre
 Lebenszeit und damit die Freude am Leben. Mit persönlichem Mut und der
@@ -50,7 +52,11 @@ Bilder, Marionetten und Hörstationen zum Roman „Momo“.
 
 Martina, 7M
 
-![](images/image3.jpeg)![](images/image4.png)![](images/image5.png)
+![](images/image3.jpeg)
+
+![](images/image4.png)
+
+![](images/image5.png)
 
 **Klassenpartnerschaft 2b, 7M/G**
 
@@ -142,6 +148,7 @@ Milan, 7M
 ![](images/image10.jpeg)
 ![](images/image11.jpeg)
 ![](images/image12.jpeg)
+
 **Besuch einer Verhandlung im Amtsgericht**
 
 **Gerichtsprotokoll**
@@ -201,4 +208,6 @@ sich viel Mühe gegeben. Die Vorführung hat uns sehr gut gefallen.
 
 Hannah, Aliya und Marina; 7M
 
-![](images/image14.jpeg) Miriam, 7M
+![](images/image14.jpeg)
+
+Miriam, 7M
