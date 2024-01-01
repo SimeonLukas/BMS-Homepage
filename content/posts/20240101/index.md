@@ -19,6 +19,8 @@ das Thema der Geschichte ist immer noch aktuell.
 In der ganzen Stadt hängen Plakate, Fahnen und auf Bänken sind QR-Codes
 mit Informationen zu diesem Jubiläum.
 
+<!-- more -->
+
 Auf einem Unterrichtsgang mit der Klasse zum Michael-Ende-Kurpark
 besuchten wir das Geburtshaus des Autors. Im Amphitheater las uns Frau
 Rau den Anfang der Geschichte vor.
