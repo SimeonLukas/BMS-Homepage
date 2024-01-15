@@ -15,10 +15,10 @@ toc = true
 ## Schriftliche Prüfungen
 | Tag | Datum      | Fach           |
 | --- | ---------- | -------------- |
-|  Fr | 23.06.2023 |  Muttersprache |
-|  Mo | 26.06.2023 |  Englisch      |
-|  Di | 27.06.2023 |  Deutsch, DaZ  |
-|  Fr | 30.06.2023 |  Mathematik    |
+|  Fr | 21.06.2024 |  Muttersprache |
+|  Mo | 24.06.2024 |  Englisch      |
+|  Di | 25.06.2024 |  Deutsch, DaZ  |
+|  Mi | 26.06.2024 |  Mathematik    |
 
 Gez.V.Hafenrichter  
 30.09.2022
@@ -29,14 +29,14 @@ Gez.V.Hafenrichter
 
 |Tag| Datum| Fach|
 |:----|:----|:----|
-|Mo| 19.06.2023| Deutsch|
-|Di| 20.06.2023| Englisch|
-|Mi| 21.06.2023| Mathematik|
+|Mo| 18.06.2024| Deutsch|
+|Di| 19.06.2024| Englisch|
+|Mi| 20.06.2024| Mathematik|
 
 ---
 
 S Gez.V.Hafenrichter  
-30.09.2022
+10.01.2024
   
 Jeder Prüfling muss sich selbstständig über die Prüfungstermine informieren.  
 Genaue Uhrzeiten und Gruppeneinteilungen der einzelnen Prüfungen hängen eine Woche vor dem Prüfungstermin am Schwarzen Brett im 1. Stock des Verwaltungstraktes der Bürgermeister-Schütte Schule.
