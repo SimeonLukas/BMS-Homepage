@@ -34,8 +34,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 |  <!-- --> |  <!-- --> | <!-- -->  |   
 |------|---|---|
-| Anke Wesemann | Sekretärin |  Verwaltungangestellte  |   
-| Christine Brückl | Sekretärin |  Verwaltungangestellte  |   
+| Anke Wesemann | Sekretärin |  Verwaltungangestellte  |    
 
 # Lehrerkollegium
 
@@ -75,18 +74,21 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 |                  |                          |                       |
 |-------------------------------------|--------------------------|---|
-| 4a      | Franziska Singer               | Lin      |
+| 4a      | Katrin Esser               | Lin      |
 | 4b      | Eva Dallmayr                   | Lin      |
 | 4d      | Maximilian Tauwald             | L        |
 | 5a      | Katja Doser                    | Lin      |
 
 
 ## Mittagskräfte im gebunden Ganztag
-|     |                |   |   
-|-------------------------------------|----------------|---|
-| 5G, 7G                               | Frau Albakkour |   |   
-| 6G, 8G                               | Frau Martonosi |   |   
-| 9G                                  | Frau Weber     |   |   
+|     |                
+|-------------------------------------|
+|Monika Schreiber|
+|Ewa Martonosine|
+|Oleksandra Yakovliuk-Bielina|
+|Mykhailo Zhukov|
+|Tsvetomira Radeva|
+|Mary-Jo Weber| 
 
 ## Zusatzlehrer      
 |      |    |            |
@@ -102,6 +104,7 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | Celine Völkel                 | FöLin      |
 | Florian Vollmer               | FL         |
 | Florian Wipfelder             |            |
+|Antonia Jocher||
 
 ## Fachlehrer   
 |          |      |      |
@@ -143,12 +146,13 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 | Erwin Gaulhofer          |     |            |
 | Jarek Haber             |      |            |
 | Magdalena Hornsteiner     |    |            |
-| Sylvia Meggyes     |     |            |
+
 
 ## Jugendsozialarbeit an Schulen (JaS)
 |      |           |     |
 |----------------------------|---------|----------------|
 | Elisabeth Grasegger       |          |     JaS GS           | 
+| Veronika Klarmann      |          |     JaS GS           | 
 | Maria-Theresa Zink        |          |       JaS MS         |    
 | Yara Farman      |          |     JaS MS           |  
 
@@ -157,6 +161,10 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 |-------------------------------------|----------------|---|
 | Marcus Beley                |                |   |   
 
+## Mensapersonal
+|          |          |  |
+|---------------------|----------|------------|
+| Frau Endörfer          |       |         |
 
 ## Hausmeister
 |          | |

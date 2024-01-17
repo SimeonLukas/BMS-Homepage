@@ -15,8 +15,6 @@ description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere 
 
 Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2024** im Sekretariat der Bürgermeister-Schütte Mittelschule statt.
 
-[Anmeldeformular](/downloads/)
-
 Für die Teilnahme am Qualifizierenden Abschluss anmelden kann sich, wer innerhalb des Sprengels der Bürgermeister-Schütte Mittelschule wohnt.
 
 Der Qualifizierende Abschluss setzt sich aus schriftlichen, mündlichen und praktischen Prüfungen zusammen.

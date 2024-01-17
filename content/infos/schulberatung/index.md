@@ -13,7 +13,7 @@ toc = true
 
 An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte zur Seite und beraten Sie, liebe Eltern und Erziehungsberechtigte, ebenso Euch Schüler(innen) bei
 
-[Flyer-Schulberatung](https://volksschule-partenkirchen.de/wp-content/uploads/2020/09/Flyer-Schulberatung.pdf)
+[Flyer-Schulberatung](downloads/Schulberatung.pdf)
 
 - Lern- und Leistungsschwierigkeiten  
 - schulischen Krisensituationen  
