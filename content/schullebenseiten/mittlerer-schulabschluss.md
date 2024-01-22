@@ -23,16 +23,16 @@ Die Abschlussprüfung besteht …
 
 - im Fach Englisch aus einer schriftlichen und einer mündlichen Prüfung
 
-- im Fach GSE aus einer mündlichen Prüfung
+- im Fach GPG aus einer mündlichen Prüfung
 
-- im Fach PCB aus einer mündlichen Prüfung
+- im Fach NT aus einer mündlichen Prüfung
  
 
 Die Prüfungsinhalte in Deutsch, Mathematik und Englisch entsprechen den Lerninhalten der 10. Klasse. Die Prüfungstermine werden zentral festgelegt und sind in der Tabelle abgebildet.
 
-In den mündlichen Prüfungen GSE und PCB wird der gesamte Jahresstoff abgeprüft. Dabei muss der Prüfling ein Referat zu einem ausgewählten Themenbereich halten. Über die restlichen Themenbereiche erhält der Prüfling entsprechende Fragen gestellt.
+In den mündlichen Prüfungen GPG und NT wird der gesamte Jahresstoff abgeprüft. Dabei muss der Prüfling ein Referat zu einem ausgewählten Themenbereich halten. Über die restlichen Themenbereiche erhält der Prüfling entsprechende Fragen gestellt.
 
-Die Prüfungstermine für die Projektprüfung, GSE und PCB werden bekannt gegeben, sobald sie feststehen.
+Die Prüfungstermine für die Projektprüfung, GPG und NT werden bekannt gegeben, sobald sie feststehen.
 
 Alle Terminangaben sind ohne Gewähr!
 
