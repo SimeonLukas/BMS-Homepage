@@ -13,6 +13,9 @@ tags = ["Infos zum Schulanfang" ]
 - Verhalten an Ampel, Zebrastreifen und
 - Schülerlotsenübergängen
 
+
+<!-- more -->
+
   
 **Radfahren:**
 

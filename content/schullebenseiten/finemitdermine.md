@@ -4,6 +4,9 @@ date = "2021-04-30"
 title = "Fine mit der Mine"
 template = "toppage.html"
 description="Liebe Eltern, wie im Kindergarten und daheim auch wird der Tagesablauf in der Schule mit Hilfe verschiedener Rituale strukturiert und gegliedert. Dazu gehört zum Beispiel das Einteilen von Diensten, Hilfsmittel wie die Aufräummusik und eine klare Transparenz des Schulalltages.  "
+
+[taxonomies]
+tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
 +++
 
 Aufgrund dessen werden auch in der „Vorschulkinderzeit daheim“ einzelne Rituale vorgestellt und Tipps dazu gegeben. Dazu gehören natürlich auch klare Anfangs- und Abschlussrituale, die Ihrem Kind verdeutlichen, dass unsere Vorschulkinderzeit startet oder endet.

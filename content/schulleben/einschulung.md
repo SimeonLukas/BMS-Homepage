@@ -5,6 +5,7 @@ title = "Einschulung"
 template = "toppage.html"
 +++
 [Bilinguale Klasse](/schullebenseiten/bilingualeklasse/)  
-[Infos zum Schulanfang](/tags/infos-zum-schulanfang/)   
+[Schuleinschreibung](/schullebenseiten/schuleinschreibung/)   
+[Infos zum Schulanfang](https://volksschule-partenkirchen.de/tags/infos-zum-schulanfang/)    
 
 

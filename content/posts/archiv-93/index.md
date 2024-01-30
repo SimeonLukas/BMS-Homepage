@@ -1,5 +1,5 @@
 +++
-title = "Schulbeginn 2023/2024"
+title = "Schuleinschreibung 2024/2025"
 date = 2023-09-06
 draft = true
 [taxonomies]

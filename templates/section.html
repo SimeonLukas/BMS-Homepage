@@ -31,7 +31,7 @@
           </h2>
           <p class="subtitle">{{ page.description }}</p>
           <div class="columns is-multiline is-gapless">
-            <div class="column is-8">
+            <div class="column is-8 {{ page.extra.cssclass | safe }}">
               {{ macros::page_publish_metadata(page=page) }}
             </div>
             <div class="column is-4 has-text-right-desktop">
@@ -40,7 +40,7 @@
           </div>
           <div class="content mt-2">
             {{ page.summary | safe }}
-            <a class="has-text-weight-semibold" href='{{ page.permalink }}'>
+            <a class="has-text-weight-semibold  {{ page.extra.cssclass | safe }}" href='{{ page.permalink }}'>
               Weiterlesen
               <span class="icon is-small">
                 <i class="fas fa-arrow-right fa-xs"></i>
