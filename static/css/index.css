@@ -929,6 +929,24 @@ font-family: 900;
     font-weight: 600;
 }
 
+
+
+
+article.box.noextrainfo .has-text-weight-semibold {
+  display: none;
+}
+
+article.box.noextrainfo .icon-text {
+  display: none;
+}
+
+
+article.box.noextrainfo h2 a {
+  pointer-events: none;
+}
+
+
+
 /* .notify {
   animation: fade-up 2s ease-in-out;
   display: none;

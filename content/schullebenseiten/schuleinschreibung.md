@@ -30,7 +30,7 @@ Termin am Montag, 4. März 2024, 13:00 Uhr
 ## Fine mit der Mine
 Das Vorschulprojekt der Bürgermeister-Schütte Grundschule Partenkirchen.
 
-[Fine mit der Mine](../schullebenseiten/finemitdermine)
+[Fine mit der Mine](https://volksschule-partenkirchen.de/schullebenseiten/finemitdermine/)
 
 ## Sicher zur Schule
 
