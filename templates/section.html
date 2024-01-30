@@ -4,12 +4,6 @@
 {{ config.title }} | {{ section.title }}
 {% endblock title %}
 
-{% if page.extra.cssclass %}
-{% set extra_cssclass = page.extra.cssclass %}
-{% else %}
-{% set extra_cssclass = " " %}
-{% endif %}
-
 
 {% block content %}
 <section class="section indexsection">
@@ -30,6 +24,13 @@
         {% endif %}
 
         {% for page in pages %}
+
+        {% if page.extra.cssclass %}
+        {% set extra_cssclass = page.extra.cssclass %}
+        {% else %}
+        {% set extra_cssclass = " " %}
+        {% endif %}
+
         <article class="box {{ extra_cssclass }}">
           <h2 class="title">
             <a class="has-text-dark" href='{{ page.permalink }}'>
