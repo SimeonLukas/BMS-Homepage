@@ -31,7 +31,11 @@
           </h2>
           <p class="subtitle">{{ page.description }}</p>
           <div class="columns is-multiline is-gapless">
+            {% if page.extra.cssclass  %}
             <div class="column is-8 {{ page.extra.cssclass | safe }}">
+              {% else %}
+              <div class="column is-8"></div>
+              {% endif %}
               {{ macros::page_publish_metadata(page=page) }}
             </div>
             <div class="column is-4 has-text-right-desktop">
@@ -40,12 +44,22 @@
           </div>
           <div class="content mt-2">
             {{ page.summary | safe }}
+            {% if page.extra.cssclass  %}
             <a class="has-text-weight-semibold  {{ page.extra.cssclass | safe }}" href='{{ page.permalink }}'>
               Weiterlesen
               <span class="icon is-small">
                 <i class="fas fa-arrow-right fa-xs"></i>
               </span>
             </a>
+            {% else %}
+            <a class="has-text-weight-semibold " href='{{ page.permalink }}'>
+              Weiterlesen
+              <span class="icon is-small">
+                <i class="fas fa-arrow-right fa-xs"></i>
+              </span>
+            </a>
+            {% endif %}
+            
           </div>
           <div class="columns">
             <div class="column">
