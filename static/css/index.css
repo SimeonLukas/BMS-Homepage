@@ -919,6 +919,14 @@ font-family: 900;
 .notify{
   animation: fade-up 2s ease-in-out;
   display: none;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 300px;
+    display: none;
+    margin: 15px auto;
+    border: #ddd 1px solid;
+    box-shadow: -1px 1px 5px #444;
+    font-weight: 600;
 }
 
 /* .notify {

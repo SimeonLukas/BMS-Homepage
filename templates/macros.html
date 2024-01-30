@@ -312,7 +312,6 @@
 {% set expire  = page.extra.notification | date(format="%s") %}
 {% if expire | int > now(timestamp=true)%}
 <div class="notify" data-date="{{page.extra.notification}}">
-<hr>
 <a style="color: #cb4f0b !important" href="{{ page.permalink | safe }}"><i class="fa fa-exclamation-circle"></i> {{ page.title }}</a>
 <p>{{page.description}}</p>
 <a href="{{ page.permalink | safe }}"><b>Weiterlesen <i class="fas fa-arrow-right fa-xs"></i></b></a>
