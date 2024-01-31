@@ -3,6 +3,8 @@ title = "Fine mit der Mine Teil 12"
 date = 2021-09-18
 [taxonomies]
 tags = ["Fine mit der Mine" ]
+[extra]
+cssclass = "nodate"
 +++
 
 {{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Fine-mit-der-Mine-Teil-12.mov")}}

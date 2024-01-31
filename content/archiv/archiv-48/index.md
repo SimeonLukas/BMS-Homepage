@@ -3,6 +3,8 @@ title = "Fine mit der Mine Teil 11"
 date = 2021-09-17
 [taxonomies]
 tags = ["Fine mit der Mine" ]
+[extra]
+cssclass = "nodate"
 +++
 
 
