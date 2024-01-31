@@ -927,6 +927,11 @@ font-family: 900;
     border: #ddd 1px solid;
     box-shadow: -1px 1px 5px #444;
     font-weight: 600;
+    transition: 1s all;
+}
+
+.notify:hover {
+  box-shadow: 5px 5px 5px;
 }
 
 
