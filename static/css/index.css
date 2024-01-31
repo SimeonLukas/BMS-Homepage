@@ -941,7 +941,7 @@ article.box.noextrainfo .has-text-weight-semibold {
   display: none;
 }
 
-article.box.noextrainfo .icon-text, .nodate .icon-text {
+article.box.noextrainfo .icon-text, .nodate .columns.is-multiline.is-gapless {
   display: none;
 }
 
