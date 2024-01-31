@@ -6,11 +6,11 @@ template = "toppage.html"
 description="Die Bürgermeister-Schütte Grundschule Partenkirchen informiert über die Schuleinschreibung"
 
 [taxonomies]
-categories = ["Kunst & Kultur"]
 tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
 
 [extra]
 toc = true
+cssclass = "nodate"
 +++
 
 

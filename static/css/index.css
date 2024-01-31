@@ -941,7 +941,7 @@ article.box.noextrainfo .has-text-weight-semibold {
   display: none;
 }
 
-article.box.noextrainfo .icon-text {
+article.box.noextrainfo .icon-text, .nodate .icon-text {
   display: none;
 }
 
@@ -949,6 +949,8 @@ article.box.noextrainfo .icon-text {
 article.box.noextrainfo h2 a {
   pointer-events: none;
 }
+
+
 
 
 
