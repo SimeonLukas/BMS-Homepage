@@ -6,6 +6,10 @@ template = "toppage.html"
 description ="Übertritt und Schulwechsel in Bayern: So geht die Schulkarriere weiter"
 [taxonomies]
 tags = ["Infos zum Übertritt", "Infos zum Schulanfang" ]
+
+[extra]
+toc = true
+cssclass = "nodate"
 +++
 
 ## Alles zum Übertritt von der Grundschule an die weiterführenden Schulen, alle Regelungen zu Übertritten an andere Schulen und Hinweise zum Schulwechsel über Ländergrenzen

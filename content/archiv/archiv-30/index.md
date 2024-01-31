@@ -3,6 +3,9 @@ title = "Sicher zur Schule"
 date = 2021-06-28
 [taxonomies]
 tags = ["Infos zum Schulanfang" ]
+
+[extra]
+cssclass = "nodate"
 +++
 
 ![](images/grafik.png)

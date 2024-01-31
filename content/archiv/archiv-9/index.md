@@ -3,6 +3,8 @@ title = "Fine mit der Mine Teil 3"
 date = 2021-09-08
 [taxonomies]
 tags = ["Fine mit der Mine" ]
+[extra]
+cssclass = "nodate"
 +++
 
 # **„Wir schneiden wie die Weltmeister“[](http://www.volksschule-partenkirchen.de/downloads/Vorschulprojekt_Videos/Elterninformation%204%20Vorschulkinderzeit%20daheim.pdf)**

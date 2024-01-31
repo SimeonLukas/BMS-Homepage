@@ -11,6 +11,7 @@ tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
 
 [extra]
 toc = true
+cssclass = "nodate"
 +++
 
 

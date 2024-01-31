@@ -7,6 +7,11 @@ description="Liebe Eltern, wie im Kindergarten und daheim auch wird der Tagesabl
 
 [taxonomies]
 tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
+
+
+[extra]
+toc = true
+cssclass = "nodate"
 +++
 
 Aufgrund dessen werden auch in der „Vorschulkinderzeit daheim“ einzelne Rituale vorgestellt und Tipps dazu gegeben. Dazu gehören natürlich auch klare Anfangs- und Abschlussrituale, die Ihrem Kind verdeutlichen, dass unsere Vorschulkinderzeit startet oder endet.
