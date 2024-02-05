@@ -1,7 +1,7 @@
 +++
 title = "Externe Prüfungen an der Bürgermeister-Schütte Schule – Wichtige Termine"
 description = ""
-date = "2023-12-12"
+date = "2024-02-05"
 template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" ,"Schulleben" ,"Mittelschulaktivitäten" ]
