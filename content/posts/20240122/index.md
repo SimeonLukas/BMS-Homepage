@@ -7,7 +7,7 @@ description ="Öffnungszeiten des Sekretariats!"
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
-notification = "2024-02-02"
+notification = "2024-02-10"
 +++
 Die Öffnungszeiten des Sekretariats haben sich verändert. Wir bitten um Beachtung!
 
