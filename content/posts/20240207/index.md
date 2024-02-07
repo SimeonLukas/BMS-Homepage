@@ -1,6 +1,6 @@
 +++
 title = "Dabei sein ist alles!"
-date = "2024-01-15"
+date = "2024-02-07"
 template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" , "Sport" ]
