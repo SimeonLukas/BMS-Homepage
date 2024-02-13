@@ -1,6 +1,6 @@
 +++
 weight = 1
-date = "2024-02-12"
+date = "2024-02-11"
 title = "Elternvortrag - Generation mobil: Eine pädagogische Herausforderung"
 template = "page.html"
 description =""
