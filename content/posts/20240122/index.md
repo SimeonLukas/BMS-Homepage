@@ -8,6 +8,7 @@ description ="Sekretariat am 06.03. nicht besetzt."
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
 notification = "2024-03-07"
+cssclass = "nodate"
 +++
 Das Sekretariat ist am 06. März nicht besetzt.
 
