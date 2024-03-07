@@ -1,16 +1,22 @@
 +++
 weight = 1
-date = "2024-01-22"
-title = "Info"
+date = "2024-03-07"
+title = "Einladung"
 template = "page.html"
-description ="Sekretariat am 06.03. nicht besetzt."
+description ="INFOABEND am 14. März um 19:00 Uhr"
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
-notification = "2024-03-07"
+notification = "2024-03-15"
 cssclass = "nodate"
 +++
-Das Sekretariat ist am 06. März nicht besetzt.
+
+Was? Übertritt aus den Jahrgangsstufen 4-6
+in...
+die gebundene Ganztagsklasse
+den Mittleren-Reife-Zweig (M-Zug)
+
+![](images/flyer.png)
 
 <!-- more -->
 
