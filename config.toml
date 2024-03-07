@@ -45,9 +45,9 @@ highlight_code = true
 navbar_items = [
  { code = "de", nav_items = [
   { url = "$BASE_URL/", name = "Start" },
+      { url = "$BASE_URL/schulleben", name = "Über uns" },
   { url = "$BASE_URL/posts", name = "Aktuelles" },
    { url = "$BASE_URL/infos", name = "Personen" },
-    { url = "$BASE_URL/schulleben", name = "Über uns" },
     { url = "$BASE_URL/kontakt", name = "Kontakt" },
  ]},
 ]

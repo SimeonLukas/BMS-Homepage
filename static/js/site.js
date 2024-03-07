@@ -400,14 +400,14 @@ function pieanimation(x, y, z) {
 
 
 function getarticles() {
-  fetch("/sitemap.xml")
-    .then((response) => response.text())
-    .then((data) => {
-      console.log(data);
-      pieanimation(data.split("</lastmod>").length - 3, "piechart1", "circle");
+  // fetch("/sitemap.xml")
+  //   .then((response) => response.text())
+  //   .then((data) => {
+  //     // console.log(data);
+  //     // pieanimation(data.split("</lastmod>").length - 3, "piechart1", "circle");
 
-    });
-
+  //   });
+    pieanimation(2, "piechart1", "circle")
   pieanimation(607, "piechart2", "circle1")
   pieanimation(62, "piechart3", "circle2")
 }
