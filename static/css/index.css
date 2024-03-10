@@ -795,6 +795,12 @@ html:has(body[theme=dark]) .indexsection {
     left: 31px;
   }
 
+  .optionlist select {
+    width: 250px;
+    margin: 1px;
+    accent-color: #62b32e;
+}
+
   /* Full-width containers */
   .containertimeline {
     width: 100%;
