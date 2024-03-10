@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ config.title }} | {{ section.title }}
+{% endblock title %}
+
+
+{% block content %}
+
+<section class="section indexsection">
+  <div class="container">
+    <div class="has-text-centered">
+      <h1 class="title is-2">{{ section.title }}</h1>
+      <p class="subtitle is-4">{{ section.description }}</p>
+      <div class="optionlist">
+        {% set tags = get_taxonomy(kind="tags") %}
+        {% set categories = get_taxonomy(kind="categories") %}
+        {% set klassen = get_taxonomy(kind="klassen") %}
+        <select onchange="location = this.value;"  id="sort">
+        <option value="{{ tags.permalink }}">Schlagworte</option>
+        {% for tag in tags.items %}
+        <option value="{{ tag.permalink }}">{{ tag.name }}</option>
+        {% endfor %}
+        </select>
+        <select onchange="location = this.value;"  id="sort">
+        <option value="{{ categories.permalink }}">Kategorien</option> 
+        {% for category in categories.items %}
+        <option value="{{ category.permalink }}">{{ category.name }}</option>
+        {% endfor %}
+        </select>
+        <select onchange="location = this.value;"  id="sort">
+        <option value="{{ klassen.permalink }}">Klassen</option>
+        {% for klasse in klassen.items %}
+        <option value="{{ klasse.permalink }}">{{ klasse.name }}</option>
+        {% endfor %}
+        </select>
+      </div>
+    </div>
+    <div class="content">
+      {{ section.content | safe }}
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-9">
+        {% if paginator %}
+        {% set pages = paginator.pages %}
+        {% else %}
+        {% set pages = section.pages %}
+        {% endif %}
+
+        {% for page in pages %}
+
+        {% if page.extra.cssclass %}
+        {% set extra_cssclass = page.extra.cssclass %}
+        {% else %}
+        {% set extra_cssclass = " " %}
+        {% endif %}
+
+        <article class="box {{ extra_cssclass }}">
+          <h2 class="title">
+            <a class="has-text-dark" href='{{ page.permalink }}'>
+              {{ page.title }}
+            </a>
+          </h2>
+          <p class="subtitle">{{ page.description }}</p>
+          <div class="columns is-multiline is-gapless">
+            
+            <div class="column is-8">
+              
+              {{ macros::page_publish_metadata(page=page) }}
+            </div>
+            <div class="column is-4 has-text-right-desktop">
+              {{ macros::page_content_metadata(page=page) }}
+            </div>
+          </div>
+          <div class="content mt-2">
+            {{ page.summary | safe }}
+            
+            <a class="has-text-weight-semibold" href='{{ page.permalink }}'>
+              Weiterlesen
+              <span class="icon is-small">
+                <i class="fas fa-arrow-right fa-xs"></i>
+              </span>
+            </a>
+            
+            
+          </div>
+          <div class="columns">
+            <div class="column">
+              {% if page.taxonomies.categories %}
+              {{ macros::render_categories(categories=page.taxonomies.categories) }}
+              {% endif %}
+            </div>
+            <div class="column has-text-right-desktop">
+              {% if page.taxonomies.tags %}
+              {{ macros::render_tags(tags=page.taxonomies.tags) }}
+              {% endif %}
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

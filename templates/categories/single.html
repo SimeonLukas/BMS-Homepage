@@ -18,6 +18,29 @@
               <span>{{ term.name }}</span>
             </span>
           </h1>
+          <div class="optionlist">
+            {% set tags = get_taxonomy(kind="tags") %}
+            {% set categories = get_taxonomy(kind="categories") %}
+            {% set klassen = get_taxonomy(kind="klassen") %}
+            <select onchange="location = this.value;"  id="sort">
+            <option value="{{ tags.permalink }}">Schlagworte</option>
+            {% for tag in tags.items %}
+            <option value="{{ tag.permalink }}">{{ tag.name }}</option>
+            {% endfor %}
+            </select>
+            <select onchange="location = this.value;"  id="sort">
+            <option value="{{ categories.permalink }}">Kategorien</option> 
+            {% for category in categories.items %}
+            <option value="{{ category.permalink }}">{{ category.name }}</option>
+            {% endfor %}
+            </select>
+            <select onchange="location = this.value;"  id="sort">
+            <option value="{{ klassen.permalink }}">Klassen</option>
+            {% for klasse in klassen.items %}
+            <option value="{{ klasse.permalink }}">{{ klasse.name }}</option>
+            {% endfor %}
+            </select>
+          </div>
         </div>
       </div>
     </div>
