@@ -59,8 +59,15 @@ Elisabeth Grasegger, Maria-Theresa Zink und Yara Farman 
 
 {{person(name = "Sozialpädagogin (M.A.) Elisabeth Grasegger" , phone="+49 172 7091047" , mail="Elisabeth.Grasegger@caritasmuenchen.org")}}
 
+Klassen: 1a - 4a & 1b - 4b
 Mo - Do: 07.30 - 16.00 Uhr  
 Fr: 07:30 - 14.00 Uhr
+
+{{person(name = "Sozialpädagogin (B.A.) Veronika Klarmann" , phone="+49 172 7091047" , mail="veronika.klarmann@caritasmuenchen.org")}}
+
+Klassen: 1c - 4c & 1d - 4d
+Mo - Do: 07.30 - 16.00 Uhr
+Fr: 07:30 - 12.00 Uhr
 
 #### **Mittelschule**
 
