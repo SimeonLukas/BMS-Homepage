@@ -787,6 +787,17 @@ html:has(body[theme=dark]) .indexsection {
   display: none;
 }
 
+
+/* Navbaritem */
+
+.navbar-item:hover + .navbar-dropdown {
+  display: block;
+}
+
+.navbar-dropdown:hover {
+  display: block;
+}
+
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
 

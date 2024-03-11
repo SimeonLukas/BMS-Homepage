@@ -85,6 +85,16 @@
             href="{{ nav.url | replace(from='$BASE_URL', to=config.base_url) }}">
             {{ nav.name }}
           </a>
+          {% if nav.sub_items %}
+          <div class="navbar-dropdown">
+            {% for sub_item in nav.sub_items %}
+            <a class="navbar-item has-text-weight-semibold"
+              href="{{ sub_item.url | replace(from='$BASE_URL', to=config.base_url) }}">
+              {{ sub_item.name }}
+            </a>
+            {% endfor %}
+          </div>
+          {% endif %}
           {% endfor %}
           {% endif %}
           {% endfor %}
