@@ -27,6 +27,14 @@ Termin am Montag, 4. März 2024, 13:00 Uhr
 - Informationsveranstaltung für die Eltern der Schulanfänger am Montag,
 **10.06.2024, 17:00 Uhr** im Haupthaus, Hindenburgstr. 10
 
+- [Anmeldung OGTS](https://volksschule-partenkirchen.de/downloads/grundschule/Anmeldung%20OGTS.pdf)
+
+- [Einwilligung Datenschutz](https://volksschule-partenkirchen.de/downloads/grundschule/Einwilligung%20Datenschutz.pdf)
+
+Bitte denken Sie daran: Wenn Sie das Kreuz bei "örtliche Tagespresse"
+nicht setzen, darf Ihr Kind nicht mit auf das Einschulungsfoto der
+Erstklässler für die Tageszeitung!
+
 ## Fine mit der Mine
 Das Vorschulprojekt der Bürgermeister-Schütte Grundschule Partenkirchen.
 

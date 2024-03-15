@@ -51,9 +51,9 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler, 
 
 ## **Ansprechpartnerinnen**
 
-![](images/team.jpeg)
+![](images/team.jpg)
 
-Elisabeth Grasegger, Maria-Theresa Zink und Yara Farman 
+Elisabeth Grasegger, Veronika Klarmann, Yara Farman und Maria-Theresa Zink
 
 #### **Grundschule**
 
