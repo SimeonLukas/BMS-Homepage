@@ -4,7 +4,7 @@ date = "2023-12-28"
 template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" ,"Unterricht" ,"Bücher" ]
-klassen = ["2. Klasse"]
+klassen = ["02. Klasse"]
 +++
 Eine Aktion, die Spaß macht: 27 Mädchen und Buben der Bürgermeister-Schütte-Schule ni Garmisch-Partenkirchen haben an der Lesepyramide teilgenommen.
 

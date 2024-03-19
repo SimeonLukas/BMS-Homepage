@@ -6,7 +6,7 @@ template = "page.html"
 description =""
 [taxonomies]
 tags = ["Schulleben" ,"Grundschulaktivitäten" ,"Sport" ]
-klassen = ["3. Klasse"]
+klassen = ["03. Klasse"]
 +++
 Projekt der Klasse 3d
 <!-- more -->

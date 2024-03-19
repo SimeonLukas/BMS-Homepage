@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Mittelschulaktivitäten" ,"Kultur" ,"Schulleben" ]
 categories = ["Kunst & Kultur"]
-klassen = ["5. Klasse"]
+klassen = ["05. Klasse"]
 +++
 
 

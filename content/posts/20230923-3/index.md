@@ -5,7 +5,7 @@ title = "Arbeit unserer Erstklässer"
 template = "page.html"
 [taxonomies]
 tags = ["Schulleben" , "Unterricht"]
-klassen = ["1. Klasse"]
+klassen = ["01. Klasse"]
 +++
 Die ABC-Schützen haben ihren ersten Schultag! Stolz und mit leuchtender Schultüte ausgestattet kommen die Erstklässler in die Schule. Dort wartet viel Neues auf sie.
 

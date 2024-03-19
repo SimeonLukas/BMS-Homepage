@@ -14,7 +14,7 @@ template="index.html"
 Die Bürgermeister-Schütte Schule ist eine Grund- und Mittelschule in Garmisch-Partenkirchen.
 Unsere Schule besuchen Kinder und Jugendliche aus den Jahrgangsstufen eins bis zehn. Neben den
 Regelklassen gibt es bei uns ab der Sekundarstufe einen Ganztagszweig und den Mittlere-Reife-Zweig
-(M-Zug) an.
+(M-Zug). <br><a href="ueberuns/">Mehr erfahren</a>
 </div>
 <div class="teaser"
 onclick="javascript:location.href='/schulphilosophie'"

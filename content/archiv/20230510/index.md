@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = [ "Mittelschulaktivitäten"]
 categories = ["Kunst & Kultur"]
-klassen = ["5. Klasse"]
+klassen = ["05. Klasse"]
 +++
 
 Die Klasse 5g am Welttag des Buches zu Besuch in der Buchhandlung Gräfe & Unzer

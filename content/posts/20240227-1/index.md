@@ -5,7 +5,7 @@ template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" , "Schulleben" ]
 categories = ["Kunst & Kultur"]
-klassen = ["6. Klasse"]
+klassen = ["06. Klasse"]
 +++
 Am 06.02. fand der Kreisentscheid des diesjährigen Vorlesewettbewerbs der 6.
 Klassen statt. 14 Schulsieger aus dem gesamten Landkreis fanden sich dazu an der

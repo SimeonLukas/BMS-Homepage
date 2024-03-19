@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Theater" ,"Märchen" ]
 categories =["Kunst & Kultur" ]
-klassen = ["1. Klasse"]
+klassen = ["01. Klasse"]
 +++
 
 Was haben zwei Wetterfrösche, ein Schneemann und ein Kaminkehrer mit der bekannten Geschichte der Frau Holle zu tun?

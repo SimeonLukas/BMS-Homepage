@@ -7,7 +7,7 @@ sort_by = "date"
 [taxonomies]
 categories = [ ]
 tags = ["Verkehr", "Verhalten"]
-klassen = ["1. Klasse"]
+klassen = ["01. Klasse"]
 +++
 
 

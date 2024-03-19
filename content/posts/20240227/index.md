@@ -5,7 +5,7 @@ template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" , "Schulleben" ]
 categories = ["Sport & Gesundheit"]
-klassen = ["6. Klasse"]
+klassen = ["06. Klasse"]
 +++
 Jeweils am letzten Schultag vor den Ferien lud die aktuelle Klasse 6g unserer
 Mittelschule die Schüler unserer diesjährigen vierten Klassen (pro Ferien jeweils eine

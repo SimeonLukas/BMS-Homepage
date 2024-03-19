@@ -4,7 +4,7 @@ date = "2024-01-15"
 template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" ,"Kultur", "Unterricht" ]
-klassen = ["2. Klasse"]
+klassen = ["02. Klasse"]
 categories = ["Kunst & Kultur"]
 +++
 

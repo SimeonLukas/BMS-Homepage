@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Schulleben" ]
 categories = ["Jugendsozialarbeit an Schulen"]
-klassen = ["2. Klasse"]
+klassen = ["02. Klasse"]
 +++
 
 „Was kann ich besonders gut?“, „Was ist wichtig für eine Freundschaft?“, „Welche unterschiedlichen Gefühle kenne ich?“, „Was haben Gefühle eigentlich mit Freundschaft zu tun?“, „Und was macht mich glücklich?“

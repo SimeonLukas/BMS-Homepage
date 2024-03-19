@@ -2,7 +2,7 @@
 date = "2021-04-30"
 title = "Wer wir sind"
 template = "toppage.html"
-description = "Wir sind die Bürgermeister-Schütte Schule, eine Grund- und Mittelschule im Ortsteil Partenkirchen. Unsere Schule besuchen Kinder und Jugendliche aus den Jahrgangsstufen eins bis zehn. Neben den Regelklassen gibt es bei uns ab der Sekundarstufe einen Ganztagszweig und den Mittlere-Reife-Zweig (M-Zug) an. Wir legen großen Wert auf ein breites Bildungsangebot und ein reiches Schulleben, um unsere Schülerinnen und Schüler optimal zu fördern."
+description = "Wir sind die Bürgermeister-Schütte Schule, eine Grund- und Mittelschule im Ortsteil Partenkirchen. Unsere Schule besuchen Kinder und Jugendliche aus den Jahrgangsstufen eins bis zehn. Neben den Regelklassen gibt es bei uns ab der Sekundarstufe einen Ganztagszweig und den Mittlere-Reife-Zweig (M-Zug) Wir legen großen Wert auf ein breites Bildungsangebot und ein reiches Schulleben, um unsere Schülerinnen und Schüler optimal zu fördern."
 [extra]
 toc = true
 +++

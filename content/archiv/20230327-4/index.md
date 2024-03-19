@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Bildung" ,"Bücher" ]
 categories = ["Kunst & Kultur"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 Anfang Februar durften die Kinder der Klasse 1b das erste Mal gemeinsam mit ihrer Lehrerin die Partenkirchener Bücherei besuchen.
 

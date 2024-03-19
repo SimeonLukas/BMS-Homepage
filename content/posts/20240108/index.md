@@ -4,7 +4,7 @@ date = "2024-01-08"
 template = "page.html"
 [taxonomies]
 tags = ["Aktuelles" ,"Presse", "Sport" ]
-klassen = ["7. Klasse"]
+klassen = ["07. Klasse"]
 categories = ["Sport & Gesundheit"]
 +++
 

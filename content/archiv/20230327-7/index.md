@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Sport" ]
 categories = ["Sport & Gesundheit"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 In der Woche vom 13.-17. Februar fand die Wintersportwoche der Grund- und Mittelschule statt.
 

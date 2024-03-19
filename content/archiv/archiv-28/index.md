@@ -4,7 +4,7 @@ date = 2021-06-21
 [taxonomies]
 tags = ["Archiv" ,"Mittelschulaktivitäten" , "Tanzprojekt"]
 categories =["Kunst & Kultur"]
-klassen =["9. Klasse"]
+klassen =["09. Klasse"]
 +++
 
 {{video(src="https://volksschule-partenkirchen.de/wp-content/uploads/Filmtag-Klasse9_Video.mov")}}

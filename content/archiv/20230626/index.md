@@ -6,7 +6,7 @@ template = "page.html"
 description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" , "Schulleben" , "Karitativ"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 Was ist Glück? Mit dieser Frage beschäftigten sich die Kinder der Klasse 1b der Bürgermeister-Schütte Grund- und Mittelschule zusammen mit ihren Lehrerinnen Heike Hertlein-Schneider und Anja Schalkhäuser-Riesch.
 

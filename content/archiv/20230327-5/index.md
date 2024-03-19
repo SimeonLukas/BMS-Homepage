@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Natur" ,"Achtsamkeit"]
 categories = ["Nachhaltigkeit & Ressourcen"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 Innerlich zur Ruhe kommen und trotzdem mit allen Sinnen wachsam sein – das trainierten im März die Kinder der Klasse 1b.
 

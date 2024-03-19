@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Erste-Hilfe" ,"Verhalten" ]
 categories = ["Berufsorientierung"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 Am 27. März lernten die Kinder der Klasse 1b einen ganzen Vormittag lang die Grundlagen der Ersten Hilfe. 
 

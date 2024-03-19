@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Polizei" ,"Verhalten" ]
 categories = ["Berufsorientierung"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 
 Im Januar bekamen die ersten Klassen Besuch von Herrn Weidmann von der örtlichen Polizei.

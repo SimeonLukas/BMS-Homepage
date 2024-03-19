@@ -4,7 +4,7 @@ date = 2023-09-06
 draft = true
 [taxonomies]
 tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
-klassen = ["1. Klasse"]
+klassen = ["01. Klasse"]
 +++
 
 

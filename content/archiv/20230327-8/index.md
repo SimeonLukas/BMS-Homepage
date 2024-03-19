@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Sport" ]
 categories = ["Sport & Gesundheit"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 Im Zeitraum von Dezember bis März konnten die Kinder der Klasse 1b und 1d im Rahmen des Sportunterrichts gemeinsam mit ihren Sportlehrkräften Florian Vollmer und Anja Schalkhäuser-Riesch vielseitige Erfahrungen im Eislaufen sammeln. 
 

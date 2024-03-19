@@ -7,7 +7,7 @@ description =""
 [taxonomies]
 tags = ["Grundschulaktivitäten" ,"Brauchtum" ,"Schulleben" ]
 categories = ["Kunst & Kultur"]
-klassen =["1. Klasse"]
+klassen =["01. Klasse"]
 +++
 
 Am 6. Dezember bekamen die vier ersten Klassen hohen Besuch vom heiligen Nikolaus. 
