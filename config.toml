@@ -4,7 +4,7 @@ base_url = "https://volksschule-partenkirchen.de"
 theme = "DeepThought"
 
 
-title = "Bürgermeister-Schütte-Grund & Mittelschule"
+title = "Bürgermeister-Schütte Grund- & Mittelschule"
 description = ""
 default_language = "de"
 datetime_format = "%d.%m.%Y %HH:%MM"
