@@ -78,11 +78,6 @@ Fr: 8.00 - 12.00 Uhr
 
 sowie nach Vereinbarung
 
-{{person(name = "Sozialpädagogin (B.A.) Yara Farman" , phone="+49 152 22784460" , mail="Yara.Farman@caritasmuenchen.org")}}
-
-Mo - Fr 08.30 - 12.00 Uhr  
-Mo - Do 14.00 - 16.00 Uhr  
-
 ## [Aktivitäten](/categories/jugendsozialarbeit-an-schulen/)
 
 

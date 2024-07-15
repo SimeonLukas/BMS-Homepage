@@ -3,7 +3,7 @@ title = "Jugend übernimmt Verantwortung"
 date = "2024-06-25"
 template = "page.html"
 [taxonomies]
-tags = ["Aktuelles" , "Schulleben", "Press", "Kiwanis" ]
+tags = ["Aktuelles" , "Schulleben", "Presse", "Kiwanis" ]
 categories = ["Nachhaltigkeit & Ressourcen"]
 +++
 KIWANIS GIPFELSTÜRMER AWARD - Klasse 10M der BürgermeisterSchütte-Schule gewinnt zweiten Preis
