@@ -34,7 +34,8 @@ Das Personal einer Grund- und Mittelschule kann aus verschiedenen Berufsgruppen 
 
 |  <!-- --> |  <!-- --> | <!-- -->  |   
 |------|---|---|
-| Anke Wesemann | Sekretärin |  Verwaltungangestellte  |    
+| Ariane Cohn | Sekretärin |  Verwaltungangestellte  |
+|Hubert Moser|Sekretär|Verwaltungsangestellter|    
 
 # Lehrerkollegium
 
