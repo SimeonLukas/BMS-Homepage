@@ -7,8 +7,6 @@ tags = ["Aktuelles" , "Schulleben", "Presse"]
 #categories = ["Jugendsozialarbeit an Schulen"]
 #klassen = ["04. Klasse"]
 +++
-# Erfolgreicher Abschluss an der Bürgermeister-Schütte-Schule
-
 Am 20. Juli 2024 feierten 48 Absolventen der Bürgermeister-Schütte-Schule ihren Schulabschluss im Kongresshaus von Garmisch-Partenkirchen. Die feierliche Veranstaltung markierte einen wichtigen Meilenstein im Leben der jungen Menschen.
 
 <!-- more -->
