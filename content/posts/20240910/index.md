@@ -1,6 +1,6 @@
 +++
 weight = 1
-date = "2024-09-10"
+date = "2024-09-11"
 title = "Einschulung an der Bürgermeister-Schütte Grundschule Partenkirchen"
 template = "page.html"
 [taxonomies]
