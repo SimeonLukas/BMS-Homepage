@@ -29,10 +29,14 @@ Sie schließt die enge Zusammenarbeit mit Beratungslehrkräften und außerschuli
 
 Bei
 
-- schulischen Lern- und Leistungsschwierigkeiten
-- schulbezogenen Problemen im Verhaltens- und Erlebnisbereich wie  
-    z.B. Schulangst, Prüfungsangst, Aggressivität etc.
-- besonderen Begabungen
+- Lern- und Leistungsstörungen: z.B. Lese-Rechtschreib-Störung, Motivationsprobleme, Arbeitsverhalten, plötzlicher Leistungsabfall etc.
+- Ängste
+- Verhaltensauffälligkeiten
+- Mobbing
+- psychische Probleme Ihres Kindes
+- familiäre Problematiken
+- Schulverweigerung
+- Konflikte und Gewalt
 
 **Wie kann ich Kontakt zur Schulpsychologin aufnehmen?**
 
