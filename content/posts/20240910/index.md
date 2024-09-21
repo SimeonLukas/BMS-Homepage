@@ -19,7 +19,7 @@ In den Fluren der Bürgermeister-Schütte-Grundschule in Partenkirchen herrscht 
 Geführt von Anna Bäumler, präsentiert das Gruppenbild dieser Klasse ein Meer aus Kreativität. Jedes Kind zeigt stolz seine einzigartige Schultüte, ein Symbol für den Beginn des Schullebens.
 
 ### Klasse 1b
-Daniela Bechmann und Brigitte Kruis, leiten diese Klasse. Das auf den 10. September 2024 datierte Bild hält den ersten gemeinsamen Tag fest und zeigt die Vorfreude der Kinder auf ihre Schulzeit.
+Daniela Bechmann, leitet diese Klasse. Das auf den 10. September 2024 datierte Bild hält den ersten gemeinsamen Tag fest und zeigt die Vorfreude der Kinder auf ihre Schulzeit.
 
 ### Klasse 1c
 Unter der Leitung von Lehrerin Ursula Wiedfelder zeigt das Klassenfoto eine vielfältige Gruppe von Kindern. Ihre Begeisterung spiegelt sich in strahlenden Lächeln wider.
