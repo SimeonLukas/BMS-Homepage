@@ -8,6 +8,9 @@ tags = [ "Aktuelles" , "Schulleben"]
 +++
 # Neue Landkreisschülersprecher für Mittelschulen gewählt
 Am 18. September 2024 wurden die neuen Landkreisschülersprecher für die Mittelschulen im Landkreis Garmisch-Partenkirchen gewählt. Diese wichtige Position in der Schülermitverantwortung (SMV) trägt dazu bei, ein demokratisches, aktives und werteorientiertes Schulleben zu gestalten.
+
+<!-- more -->
+
 ## Wahl und Austausch
 Die neu gewählten Schülersprecher aller sieben Mittelschulen des Landkreises trafen sich zu einem zweitägigen Austausch in der Lichtenbachhütte des Kreisjugendrings bei Linderhof. Trotz des regnerischen Wetters war das Programm abwechslungsreich und beinhaltete:
 
