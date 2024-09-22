@@ -6,7 +6,6 @@ template = "page.html"
 [taxonomies]
 tags = [ "Aktuelles" , "Schulleben"]
 +++
-# Neue Landkreisschülersprecher für Mittelschulen gewählt
 Es wurden die neuen Landkreisschülersprecher für die Mittelschulen im Landkreis Garmisch-Partenkirchen gewählt. Diese wichtige Position in der Schülermitverantwortung (SMV) trägt dazu bei, ein demokratisches, aktives und werteorientiertes Schulleben zu gestalten.
 
 <!-- more -->
