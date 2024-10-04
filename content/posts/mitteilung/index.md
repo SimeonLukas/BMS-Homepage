@@ -7,7 +7,9 @@ description ="Hindenburgstraße keine Hol- und Bringstelle"
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
-notification = "2024-10-10"
+notification = "2024-11-11"
 +++
 # Bitte liebe Eltern denken Sie daran, dass es ab sofort in der gesamten Hindenburgstraße keine Hol- und Bringstelle für Schüler gibt.
+
+<!-- more -->
 
