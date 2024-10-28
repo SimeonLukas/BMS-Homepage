@@ -80,7 +80,7 @@ sowie nach Vereinbarung
 
 {{person(name = "Sozialpändagogin (B.A.) Michaela Briechle" , phone="+49 152 22784460" , mail="Michaela.Briechle@caritasmuenchen.org")}}
 
-Mo - Do: 07.45 - 16.00 Uhr
+Mo - Do: 07.45 - 16.00 Uhr   
 Fr: 7:45 - 13:00 Uhr
 
 
