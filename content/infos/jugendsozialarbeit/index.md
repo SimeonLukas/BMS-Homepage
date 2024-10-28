@@ -51,9 +51,9 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler, 
 
 ## **Ansprechpartnerinnen**
 
-![](images/team.jpg)
+![](images/Teambild.jpg)
 
-Elisabeth Grasegger, Veronika Klarmann, Yara Farman und Maria-Theresa Zink
+v. l. Elisabeth Grasegger, Veronika Klarmann, Maria-Theresa Zink, Michaela Briechle
 
 #### **Grundschule**
 
@@ -77,6 +77,12 @@ Mo - Do: 08.00 - 16.00 Uhr
 Fr: 8.00 - 12.00 Uhr  
 
 sowie nach Vereinbarung
+
+{{person(name = "Sozialpändagogin (B.A.) Michaela Briechle" , phone="+49 152 22784460" , mail="Michaela.Briechle@caritasmuenchen.org")}}
+
+Mo - Do: 07.45 - 16.00 Uhr
+Fr: 7:45 - 13:00 Uhr
+
 
 ## [Aktivitäten](/categories/jugendsozialarbeit-an-schulen/)
 
