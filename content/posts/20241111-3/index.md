@@ -12,7 +12,7 @@ Der Elternbrief informiert über das Angebot der Jugendsozialarbeit an der Bürg
 
 <!-- more -->
 
-Die Jugendsozialarbeit ist Ansprechpartner für Schülerinnen und Schüler bei Problemen und Krisen aller Art, wie familiären oder schulischen Schwierigkeiten, Mobbing, Sucht, Trennung der Eltern etc. Das Angebot ist freiwillig, kostenlos und unterliegt der Schweigepflicht. Auch Eltern können sich mit Fragen und Anliegen an die Jugendsozialarbeiterinnen Frau Zink und Frau Farman wenden. Kontaktdaten und Sprechzeiten sind angegeben. Der Brief wünscht allen Familien und Schülerinnen/Schülern einen guten Start ins neue Schuljahr.
+Die Jugendsozialarbeit ist Ansprechpartner für Schülerinnen und Schüler bei Problemen und Krisen aller Art, wie familiären oder schulischen Schwierigkeiten, Mobbing, Sucht, Trennung der Eltern etc. Das Angebot ist freiwillig, kostenlos und unterliegt der Schweigepflicht. Auch Eltern können sich mit Fragen und Anliegen an die Jugendsozialarbeiterinnen Frau Grasegger und Frau Klarmann wenden. Kontaktdaten und Sprechzeiten sind angegeben.
 
 
 
