@@ -9,6 +9,8 @@ klassen = ["08. Klasse"]
 
 Die Klasse 8M entschied sich in diesem Jahr für ein besonderes Wandertagsziel: den Kletterwald am Wank. Diese Wahl versprach nicht nur Abenteuer und Spannung, sondern auch eine perfekte Gelegenheit für gemeinsames Lernen und persönliches Wachstum.
 
+<!-- more -->
+
 ## Vielfältige Herausforderungen
 
 Der Kletterwald bietet mit seinen 13 verschiedenen Parcours für jeden Teilnehmer die passende Herausforderung. Von Anfängerstrecken bis hin zu anspruchsvollen Routen ist für alle Schwierigkeitsstufen gesorgt. Für die meisten Schülerinnen und Schüler war es die erste Begegnung mit einem derartigen Kletterparcours - eine spannende Premiere!

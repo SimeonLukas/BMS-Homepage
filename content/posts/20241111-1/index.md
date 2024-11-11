@@ -9,6 +9,8 @@ klassen = ["08. Klasse"]
 
 Der Zonta-Club Garmisch setzt sich aktiv gegen Gewalt an Frauen ein und fördert durch sein Engagement wichtige Präventionsarbeit an Schulen. Ein besonderes Highlight ist dabei die finanzielle Unterstützung von Selbstverteidigungskursen für Schülerinnen.
 
+<!-- more -->
+
 An der Bürgermeister-Schütte-Schule konnten die Mädchen der Klassen 8G und 8M von diesem wertvollen Angebot profitieren. Unter der fachkundigen Leitung von Judith Rhomberg fand der Kurs über vier Doppelstunden statt.
 
 ## Stärkung durch Theorie und Praxis

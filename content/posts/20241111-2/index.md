@@ -8,6 +8,8 @@ tags = ["Dokumentarfilm", "Geschichte", "Jugendprojekt", "Demokratiebildung", "A
 
 Ein bemerkenswertes Filmprojekt entsteht derzeit in unserer Region: Fünf engagierte Jugendliche arbeiten gemeinsam mit einem professionellen Filmteam an einer Dokumentation über das historische Hochland-Lager am Riegsee. Der Film "Vergiftete Wurzeln — Der lange Schatten der Hitlerjugend" beleuchtet ein wichtiges Kapitel der Regionalgeschichte.
 
+<!-- more -->
+
 ## Professionelle Unterstützung für junge Filmemacher
 
 Das Projekt wird von einem erfahrenen Team begleitet:
