@@ -1,6 +1,6 @@
 +++
 title = "Wandertag Partnachklamm 5g"
-date = 2024-11-08
+date = 2024-11-15
 [taxonomies]
 tags = [ "Aktuelles", "Schulleben"]
 klassen = [ "05. Klasse" ]
