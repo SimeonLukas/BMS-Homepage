@@ -11,7 +11,7 @@ description ="Der mittlere Schulabschluss an der Mittelschule verleiht u. a. die
 
 # Informationen
 
-Die Anmeldefrist für externe Bewerber für den Mittleren Schulabschluss ist bis Montag, 1. Februar 2024. Das letzte Zeugnis ist bei der Anmeldung vorzulegen.
+Die Anmeldefrist für externe Bewerber für den Mittleren Schulabschluss ist bis 1. Februar 2025. Das letzte Zeugnis ist bei der Anmeldung vorzulegen.
 
 Teilnehmen am Mittleren Schulabschluss können nur Personen, die zum Mittelschulverbund GAP–Mittenwald gehören.
 
