@@ -1,42 +1,17 @@
 +++
-title = "Friedenshörnchen: Kleine Mediator*innen lösen Konflikte"
+title = "Die Friedenshörnchen bekommen wieder Verstärkung"
 date = 2024-12-05
 [taxonomies]
 tags = ["Aktuelles", "Schulleben", "Friedenshörnchen"]
 categories = ["Jugendsozialarbeit an Schulen"]
 klassen = ["03. Klasse"]
 +++
-
-# Friedenshörnchen: Wenn Kinder Brücken bauen
-
-An der Grundschule gibt es eine besondere Gruppe von jungen Friedensstiftern: die **Friedenshörnchen**. 32 Drittklasskinder haben erfolgreich eine Ausbildung zur Streitschlichtung absolviert und sind nun bereit, Konflikte unter ihren Mitschüler*innen zu lösen.
-
-
 ![Das Bild zeigt die jungen Friedenshörnchen.](images/image.jpg)
 
 <!-- more -->
 
-## Die Ausbildung
-
-Die JaS-Fachkräfte Frau Klarmann und Frau Grasegger von der Caritas haben die Kinder in Kleingruppen geschult. Während der Schulungen in den Allerheiligenferien und am Buß- und Bettag lernten die Kinder wichtige Kompetenzen des Konfliktmanagements.
-
-## Ausrüstung und Motivation
-
-Mit speziellen Erkennungszeichen und einer Box voller Materialien sind die Friedenshörnchen nun in den Pausen unterwegs. Ihre Mission: Streitigkeiten friedlich und konstruktiv zu lösen.
-
-### Wie funktioniert Streitschlichtung?
-
-Die junger Mediator*innen:
-- Führen Konfliktparteien aufeinander zu
-- Bauen eine "Friedensbrücke"
-- Arbeiten gemeinsam an einer Lösung für alle Beteiligten
-
-## Warum Streitschlichtung wichtig ist
-
-Meinungsverschiedenheiten und Missverständnisse gehören zum Alltag. Entscheidend ist jedoch, *wie* wir mit diesen Situationen umgehen. Die Friedenshörnchen lernen bereits früh, Konflikte gewaltfrei und respektvoll zu lösen.
-
-## Ein Team wächst zusammen
-
-Die bereits im letzten Schuljahr ausgebildeten Viertklässler*innen freuen sich über die neuen Unterstützer im Friedenshörnchen-Team.
-
-**Ein großes Dankeschön an alle Beteiligten für diese tolle Initiative!** 🕊️👧👦
+Der Jubel war groß als 32 Drittklasskinder von Frau Klarmann und Frau Grasegger - den beiden JaS-Fachkräften der Grundschule (Caritas) - erfuhren, dass sie ab sofort alle „Friedenshörnchen“ sind. Die motivierten Grundschüler*innen absolvierten alle erfolgreich die Ausbildung zur Streitschlichtung an der Grundschule und nahmen entweder am Montag in den Allerheiligenferien oder am Buß- und Bettag an dieser Schulung teil.
+In Kleingruppen sind die „Friedenshörnchen“ nun in den Pausen unterwegs und freuen sich schon darauf, Streitigkeiten unter ihren Mitschüler*innen gemeinsam gut zu lösen. Ausgestattet mit ihren Erkennungszeichen und ihrer Box, die mit sämtlichen Materialien bestückt ist, die die Kinder zum Streitschlichten brauchen, können es die Grundschüler*innen kaum erwarten, die ersten Konflikte zu klären. Als Mediator*innen führen die Drittklässler*innen die Streitenden immer einen Schritt weiter aufeinander zu und bauen so eine „Friedensbrücke“ zwischen den Konfliktparteien – so lange bis der eine für alle passende Lösung gefunden wird. 
+Den JaS-Fachkräften ist es im Rahmen der Ausbildung immer wichtig, den Kindern wesentliche Kompetenzen des Konfliktmanagements an die Hand zu geben und die sozialen Fähigkeiten der Heranwachsenden zu schulen. Denn gewiss gehören Meinungsverschiedenheiten, Missverständnisse und Streitigkeiten zu unser aller Alltag. Und dennoch ist es ganz wesentlich, wie solchen Unstimmigkeiten im Schul- und Familienalltag begegnet wird und ob friedliche Lösungen gefunden werden.
+Die JaS-lerinnen sind sich sicher, dass sich auch die bereits im vergangenen Schuljahr ausgebildeten Viertklässler*innen genauso über „neue Gesichter“ und eine so große Verstärkung im Friedenhörnchen-Team freuen, wie sie selbst!
+Danke, dass ihr dabei wart und wir gemeinsam tolle Tage bei Pizza, Spaß und Lernen verbringen durften! 😊
