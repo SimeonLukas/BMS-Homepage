@@ -29,12 +29,12 @@ Parallel zur Neubaumaßnahme wird die Mittelschule modernisiert:
 ###  Beteiligte Personen
 An dem Spatenstich nahmen teil:
 
-Stefanie Schmidt (Rektorin)
-Ulrike Bittner-Wolf (SPD-Gemeinderätin)
-Anton Buchwieser (CSU-Gemeinderat)
-Onni Rebholz (Architektin)
-Elisabeth Koch (CSU-Bürgermeisterin)
-Claudia Zolk (CSB-Bürgermeisterin)
+Stefanie Schmidt (Rektorin)  
+Ulrike Bittner-Wolf (SPD-Gemeinderätin)  
+Anton Buchwieser (CSU-Gemeinderat)  
+Onni Rebholz (Architektin)  
+Elisabeth Koch (CSU-Bürgermeisterin)  
+Claudia Zolk (CSB-Bürgermeisterin)  
 
 ## Ausblick
 Die ersten Grundschüler sollen bereits zum Schuljahr 2027/28 in dem neuen Gebäude unterrichtet werden. Die Verantwortlichen hoffen zudem auf Fördergelder vom Freistaat.
