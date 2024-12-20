@@ -3,6 +3,7 @@ title = "Regelung der ersten Schultage"
 date = "2024-09-10"
 template = "toppage.html"
 description = "Die Bürgermeister-Schütte-Schule begrüßt alle neuen Erstklässler herzlich."
+draft = true
 [taxonomies]
 tags = ["Infos zum Schulanfang", "Materialien", "Schuleinschreibung" ]
 [extra]
