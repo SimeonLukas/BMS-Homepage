@@ -3,6 +3,7 @@ weight = 1
 date = "2024-09-11"
 title = "Einschulung an der Bürgermeister-Schütte Grundschule Partenkirchen"
 template = "page.html"
+draft = true
 [taxonomies]
 tags = [ "Aktuelles" , "Schulleben", "Presse" ,"Infos zum Schulanfang" ]
 klassen = ["01. Klasse"]

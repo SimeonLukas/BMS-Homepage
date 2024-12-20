@@ -14,18 +14,19 @@ cssclass = "nodate"
 +++
 
 
-# Informationen zur Schuleinschreibung
+# Informationen zur Schuleinschreibung 2024
+# Informationen zur Schuleinschreibung 2025 folgen!
 
 ## Allgemeine Hinweise
 
 - Schuleinschreibung: Bitte senden Sie postalisch die ausgefüllten
 Unterlagen an die Schule zurück.
 
-- Schulspiel: Ihr Kind kann am Schulspiel nach Anmeldung teilnehmen.
-Termin am Montag, 4. März 2024, 13:00 Uhr
+~~- Schulspiel: Ihr Kind kann am Schulspiel nach Anmeldung teilnehmen.
+Termin am Montag, 4. März 2024, 13:00 Uhr~~
 
-- Informationsveranstaltung für die Eltern der Schulanfänger am Montag,
-**10.06.2024, 17:00 Uhr** im Haupthaus, Hindenburgstr. 10
+~~- Informationsveranstaltung für die Eltern der Schulanfänger am Montag,
+**10.06.2024, 17:00 Uhr** im Haupthaus, Hindenburgstr. 10~~
 
 - [Anmeldung OGTS](https://volksschule-partenkirchen.de/downloads/grundschule/Anmeldung%20OGTS.pdf)
 

@@ -4,6 +4,7 @@ date = "2021-04-30"
 title = "SMV & Vertrauenslehrkräfte"
 template = "toppage.html"
 description="Die SMV ist ein von Schüler bestehendes Entscheidungsorgan."
+draft = true
 
 [extra]
 toc = true

@@ -70,7 +70,7 @@ Erfahrungsberichte aus diesem Schulversuch finden Sie hier:
 
 Weitere Eindrücke gewinnen Sie durch dieses Video, das während des Schulversuchs entstanden ist:
 
-{{video(src="https://www.km.bayern.de/medien/km_absatz/datei_mp4/25958_20180405_stmbw_bilinguale_grundschule_delivery_480p_mitstartbild.mp4")}}
+{{video(src="https://www.km.bayern.de/media/2-24-02/Bilinguale_Grundschule_angepasst_Jan_2024.mp4")}}
 
 Aktuelle und weiterführende Informationen finden Sie auf der Seite des Kultusministeriums:
 
@@ -82,13 +82,13 @@ Wir freuen uns auf alle neuen Erstklässler.
 
 ## Eindrücke aus dem Unterricht
 
-{{video(src="https://cloud.staneks.de/index.php/s/b3MkSnBrAbZdPBy/download/HwVideoEditor_2023_02_07_101406157.mp4")}}
+{{video(src="https://files.staneks.de/index.php/s/mwECpaXfoZttdDC/download/HwVideoEditor_2023_02_07_101406157.mp4")}}
 
-{{video(src="https://cloud.staneks.de/index.php/s/2w49rYBGcntdEjz/download/VID_20230207_084115.mp4")}}
+{{video(src="https://files.staneks.de/index.php/s/kccJHb5EPRyMX67/download/VID_20230207_084115.mp4")}}
 
-{{video(src="https://cloud.staneks.de/index.php/s/92y8dcQe4nqXqWt/download/VID_20230207_084947.mp4")}}
+{{video(src="https://files.staneks.de/index.php/s/5nj2Q6cB9aAAPey/download/VID_20230207_084947.mp4")}}
 
-{{video(src="https://cloud.staneks.de/index.php/s/mbDgezLjoiZykWy/download/VID_20230207_085921.mp4")}}
+{{video(src="https://files.staneks.de/index.php/s/NADXFZqPios6JHK/download/VID_20230207_085921.mp4")}}
 
 
 
