@@ -3,6 +3,7 @@ title = "Friedenshörnchen im Einsatz für ein friedliches Zusammenleben"
 description = ""
 date = "2023-11-17"
 template = "page.html"
+draft = true
 [taxonomies]
 tags = ["Aktuelles" ,"Verhalten" ,"Karitativ" ]
 categories = ["Berufsorientierung","Jugendsozialarbeit an Schulen"]

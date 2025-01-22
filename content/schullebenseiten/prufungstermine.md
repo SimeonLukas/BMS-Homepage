@@ -15,13 +15,15 @@ toc = true
 ## Schriftliche Prüfungen
 | Tag | Datum      | Fach           |
 | --- | ---------- | -------------- |
-|  Fr | 21.06.2024 |  Muttersprache |
-|  Mo | 24.06.2024 |  Englisch      |
-|  Di | 25.06.2024 |  Deutsch, DaZ  |
-|  Mi | 26.06.2024 |  Mathematik    |
+|  Fr | 27.06.2025 |  Muttersprache |
+|  Mo | 30.06.2025 |  Englisch      |
+|  Di | 01.07.2025 |  Deutsch, DaZ  |
+|  Mi | 02.07.2025 |  Mathematik    |
+|  Do | 03.07.2025 |  GPG   |
+|  Fr | 04.07.2025 |  NT|
 
 Gez.V.Hafenrichter  
-30.09.2022
+22.01.2025
 
 # Mittlerer Schulabschluss
 
@@ -29,14 +31,14 @@ Gez.V.Hafenrichter
 
 |Tag| Datum| Fach|
 |:----|:----|:----|
-|Mo| 18.06.2024| Deutsch|
-|Di| 19.06.2024| Englisch|
-|Mi| 20.06.2024| Mathematik|
+|Di| 24.06.2025| Deutsch|
+|Mi| 25.06.2025| Englisch|
+|Do| 26.06.2025| Mathematik|
 
 ---
 
 S Gez.V.Hafenrichter  
-10.01.2024
+22.01.2025
   
 Jeder Prüfling muss sich selbstständig über die Prüfungstermine informieren.  
 Genaue Uhrzeiten und Gruppeneinteilungen der einzelnen Prüfungen hängen eine Woche vor dem Prüfungstermin am Schwarzen Brett im 1. Stock des Verwaltungstraktes der Bürgermeister-Schütte Schule.
