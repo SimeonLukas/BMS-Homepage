@@ -82,13 +82,13 @@ Wir freuen uns auf alle neuen Erstklässler.
 
 ## Eindrücke aus dem Unterricht
 
-{{video(src="https://files.staneks.de/index.php/s/mwECpaXfoZttdDC/download/HwVideoEditor_2023_02_07_101406157.mp4")}}
+{{video(src="https://volksschule-partenkirchen.de/schullebenseiten/videos/HwVideoEditor_2023_02_07_101406157.mp4")}}
 
-{{video(src="https://files.staneks.de/index.php/s/kccJHb5EPRyMX67/download/VID_20230207_084115.mp4")}}
+{{video(src="https://volksschule-partenkirchen.de/schullebenseiten/videos/VID_20230207_084115.mp4")}}
 
-{{video(src="https://files.staneks.de/index.php/s/5nj2Q6cB9aAAPey/download/VID_20230207_084947.mp4")}}
+{{video(src="https://volksschule-partenkirchen.de/schullebenseiten/videos/VID_20230207_084947.mp4")}}
 
-{{video(src="https://files.staneks.de/index.php/s/NADXFZqPios6JHK/download/VID_20230207_085921.mp4")}}
+{{video(src="https://volksschule-partenkirchen.de/schullebenseiten/videos/VID_20230207_085921.mp4")}}
 
 
 
