@@ -58,7 +58,7 @@ Der Eintritt ist möglich durch:
 **Erste Prüfungsrunde (August)**
 * 05.08.25, 08:30 - 09:30 Uhr: Englisch
 * 06.08.25, 08:30 - 09:30 Uhr: Mathematik
-* 07.08.25, 08:30 - 10:00 Uhr: Deutsch
+* 07.08.25, 08:30 - 09:30 Uhr: Deutsch
 
 **Zweite Prüfungsrunde (September)**
 * 10.09.25, 08:30 - 09:30 Uhr: Englisch
