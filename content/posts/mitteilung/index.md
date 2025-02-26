@@ -9,7 +9,7 @@ tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
 notification = "2025-03-20"
 +++
-![](images/plakat.png)
+![](images/plakat.jpeg)
 
 <!-- more -->
 
