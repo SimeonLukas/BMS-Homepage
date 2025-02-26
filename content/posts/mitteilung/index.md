@@ -1,15 +1,15 @@
 +++
 weight = 1
-date = "2025-01-06"
-title = "Sternsinger"
+date = "2025-02-26"
+title = "Infoabend"
 template = "page.html"
-description ="bringen Segen ins Schulhaus"
+description ="Infoabend-Termin"
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
-notification = "2025-01-15"
+notification = "2025-03-20"
 +++
-![](images/sternsinger.jpg)
+![](images/plakat.png)
 
 <!-- more -->
 
