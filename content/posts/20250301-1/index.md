@@ -2,7 +2,8 @@
 title = "Informationen zur Schuleinschreibung 2025"
 date = 2025-03-01
 [taxonomies]
-tags = ["Aktuelles", "Schulleben", "Schuleinschreibung"]
+tags = ["Aktuelles", "Schulleben", "Schuleinschreibung", "Infos zum Schulanfang
+ "]
 +++
 ## Liebe Eltern und Erziehungsberechtigte,
 
