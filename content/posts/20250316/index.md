@@ -1,6 +1,6 @@
 +++
 title = "Einladung zum Frühlingskonzert"
-date = 2025-01-15
+date = 2025-03-16
 [taxonomies]
 tags = ["Aktuelles", "Schulleben", "Mitteilung", "Musik"]
 +++

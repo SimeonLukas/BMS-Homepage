@@ -1,6 +1,6 @@
 +++
 title = "Schulfrühstück – ein guter Start in den Tag"
-date = 2025-01-15
+date = 2025-03-15
 [taxonomies]
 tags = ["Aktuelles", "Schulleben", "Schulfrühstück"]
 +++
