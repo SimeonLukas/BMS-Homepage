@@ -14,21 +14,16 @@ cssclass = "nodate"
 +++
 
 
-# Informationen zur Schuleinschreibung 2024
-# Informationen zur Schuleinschreibung 2025 folgen!
+# Informationen zur Schuleinschreibung 2025
+
+[Informationen zur Schuleinschreibung 2025](https://volksschule-partenkirchen.de/posts/20250301-1/)
 
 ## Allgemeine Hinweise
 
 - Schuleinschreibung: Bitte senden Sie postalisch die ausgefüllten
 Unterlagen an die Schule zurück.
 
-~~- Schulspiel: Ihr Kind kann am Schulspiel nach Anmeldung teilnehmen.
-Termin am Montag, 4. März 2024, 13:00 Uhr~~
-
-~~- Informationsveranstaltung für die Eltern der Schulanfänger am Montag,
-**10.06.2024, 17:00 Uhr** im Haupthaus, Hindenburgstr. 10~~
-
-- [Anmeldung OGTS](https://volksschule-partenkirchen.de/downloads/grundschule/Anmeldung%20OGTS.pdf)
+- [Anmeldung OGTS](https://volksschule-partenkirchen.de/downloads/#grundschule)
 
 - [Einwilligung Datenschutz](https://volksschule-partenkirchen.de/downloads/grundschule/Einwilligung%20Datenschutz.pdf)
 
