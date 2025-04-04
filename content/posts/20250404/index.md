@@ -1,5 +1,5 @@
 +++
-title = "Die \„Friedenshörnchen\“ machen Werbung für sich"
+title = "Die Friedenshörnchen machen Werbung für sich"
 date = 2025-04-04
 [taxonomies]
 tags = ["Aktuelles", "Schulleben"]
