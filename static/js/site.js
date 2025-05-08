@@ -529,3 +529,17 @@ document.getElementsByClassName("lowhigh")[0].style.display = "block";
 setTimeout(function(){
   start();
 },800);
+
+function checkUrl() {
+  let url = window.location.href;
+  let path = url.split("/");
+  let lastPath = path[path.length - 2];
+  console.log(lastPath);
+  if (lastPath ==  "jugendsozialarbeit-an-schulen" ) {
+    document.getElementById("jugendsozialarbeit").style.display = "block";
+  }
+}
+
+setTimeout(function(){
+  checkUrl();
+},10);

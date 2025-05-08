@@ -968,6 +968,37 @@ article.box.noextrainfo h2 a {
 }
 
 
+#jugendsozialarbeit{
+  display: none;
+}
+
+
+#jugendsozialarbeit h2 {
+  display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: skyblue;
+}
+
+#jugendsozialarbeit h2 img {
+  width: 200px;
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 15px;
+  border: skyblue 10px solid;
+  transform: rotate(5deg);
+  box-shadow: 3px 3px 5px #444;
+  transition: all 0.3s;
+}
+#jugendsozialarbeit h2 img:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px #444;
+}
+
 
 
 
