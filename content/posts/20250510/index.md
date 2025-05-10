@@ -5,7 +5,7 @@ date = 2025-05-05
 tags = ["Aktuelles", "Schulleben"]
 categories = ["Jugendsozialarbeit an Schulen"]
 +++
-![Bild](images/1.jpg)
+![Bild](images/image00004.jpg)
 
 In den Osterferien fand das Projekt Starke Mädchen statt – zwei intensive Tage, an denen sich alles um Selbstvertrauen, Selbstbehauptung und Freundschaft drehte. 
 
