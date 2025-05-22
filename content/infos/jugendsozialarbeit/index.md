@@ -64,13 +64,6 @@ Fr: 07:30 - 14.00 Uhr
 
 #### **Mittelschule**
 
-{{person(name = "Sozialpädagogin (M.A.) Maria-Theresa Zink" , phone="+49 172 7091120" , mail="Maria-Theresa.Zink@caritasmuenchen.org")}}
-
-Mo - Do: 08.00 - 16.00 Uhr  
-Fr: 8.00 - 12.00 Uhr  
-
-sowie nach Vereinbarung
-
 {{person(name = "Sozialpändagogin (B.A.) Michaela Briechle" , phone="+49 152 22784460" , mail="Michaela.Briechle@caritasmuenchen.org")}}
 
 Mo - Do: 07.45 - 16.00 Uhr   
