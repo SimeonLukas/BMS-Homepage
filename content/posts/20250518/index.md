@@ -6,7 +6,7 @@ tags = ["Allgemein", "Umwelt", "Nachhaltigkeit", "Artenvielfalt"]
 categories = ["Nachhaltigkeit & Ressourcen"]
 klassen =["05. Klasse"]
 +++
-![Insektenhotel](images/bild1.jpg)
+![Insektenhotel](images/bild1.JPG)
 
 <!-- more -->
 
