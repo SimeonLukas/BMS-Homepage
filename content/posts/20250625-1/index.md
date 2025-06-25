@@ -3,7 +3,6 @@ title = "Aktuelle Info zum Schuljahresanfang 2025/26"
 date = 2025-06-25
 description = "Wichtige Informationen für Erstklässler und deren Eltern zum Start des Schuljahres 2025/26 an der Bürgermeister-Schütte-Schule"
 template = "page.html"
-draft = true
 [taxonomies]
 tags = ["Aktuelles", "Infos zum Schulanfang", "Schuleinschreibung" ]
 +++
