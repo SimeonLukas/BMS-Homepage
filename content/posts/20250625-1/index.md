@@ -12,6 +12,8 @@ Liebe Eltern der neuen Erstklässler,
 
 herzlich willkommen an der Bürgermeister-Schütte-Schule! Hier finden Sie alle wichtigen Informationen für den Start Ihres Kindes ins erste Schuljahr.
 
+<!-- more -->
+
 ## Regelung der ersten Schultage
 
 ### Dienstag, 16. September 2025
