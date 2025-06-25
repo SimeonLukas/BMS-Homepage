@@ -2,6 +2,7 @@
 title = "Elternbrief zum Schuljahresende 2024"
 date = "2024-08-01"
 template = "page.html"
+draft = true
 [taxonomies]
 tags = ["Aktuelles", "Infos zum Schulanfang", "Schuleinschreibung" ]
 #categories = ["Nachhaltigkeit & Ressourcen"]
