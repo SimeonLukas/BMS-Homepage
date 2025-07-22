@@ -3,7 +3,7 @@ weight = 1
 date = "2025-07-25"
 title = "Erreichbarkeit der Schulleitung während der Sommerferien 2025"
 template = "page.html"
-description ="Öffnungszeiten in den Pfingstferien"
+description ="Öffnungszeiten in den Sommerferien"
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
