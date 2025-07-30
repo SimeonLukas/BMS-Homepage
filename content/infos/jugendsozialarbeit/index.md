@@ -50,16 +50,10 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler, 
 - bei Elterngesprächen sozialpädagogische Unterstützung wünschen.
 
 ## **Ansprechpartnerinnen**
+<!-- informatione über Neubesetung -->
 
-![](images/Teambild.jpg)
+Die Stelle wird ab dem 01.09.2025 neu besetzt. Bis dahin ist die Jugendsozialarbeit an der Bürgermeister-Schütte Grund- und Mittelschule Garmisch-Partenkirchen nicht besetzt.
 
-v. l. Elisabeth Grasegger, Veronika Klarmann, Maria-Theresa Zink, Michaela Briechle
-
-
-{{person(name = "Sozialpädagogin (M.A.) Elisabeth Grasegger" , phone="+49 172 7091047" , mail="Elisabeth.Grasegger@caritasmuenchen.org")}}
-
-Mo - Do: 07.30 - 16.00 Uhr  
-Fr: 07:30 - 14.00 Uhr  
 
 
 ## [Aktivitäten](/categories/jugendsozialarbeit-an-schulen/)
