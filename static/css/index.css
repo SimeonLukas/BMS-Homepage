@@ -1016,3 +1016,8 @@ article.box.noextrainfo h2 a {
   border-radius: 10px 10px 10px 20px;
   margin-left: 50%;
 } */
+
+
+article .content p img {
+    width: 100%;
+}
