@@ -49,11 +49,35 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler, 
 - eine sozialpädagogische Einschätzung und Beratung in einer bestimmten Situation wünschen,
 - bei Elterngesprächen sozialpädagogische Unterstützung wünschen.
 
-## **Ansprechpartnerinnen**
+## **Ansprechpartner:innen**
 <!-- informatione über Neubesetung -->
 
-Die Stelle wird ab dem 01.09.2025 neu besetzt. Bis dahin ist die Jugendsozialarbeit an der Bürgermeister-Schütte Grund- und Mittelschule Garmisch-Partenkirchen nicht besetzt.
+![](images/Bild%20für%20Homepage.jpg)
 
+## Grundschule
+
+**Daina Hilble**  
+Sozialarbeiterin (B. A.)  
+JaS Grundschule  
+
+- **Mobil:** [0172 7091047](tel:01727091047)
+- **Festnetz:** [(08821) 910 3561](tel:088219103561)
+
+## Mittelschule
+
+**Ansgar Wallstein**  
+Dipl. Sozialpädagoge (FH)  
+JaS Mittelschule  
+
+- **Mobil:** [0152 55196243](tel:015255196243)
+- **Festnetz:** [(08821) 910 3567](tel:088219103567)
+
+**Katrin Brandl**  
+Sozialarbeiterin (B.A.)  
+JaS Mittelschule  
+
+- **Mobil:** [0172 7091120](tel:01727091120)
+- **Festnetz:** [(08821) 910 3567](tel:088219103567)
 
 
 ## [Aktivitäten](/categories/jugendsozialarbeit-an-schulen/)
