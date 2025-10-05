@@ -1,5 +1,5 @@
 +++
-title = "🧑‍🎓Entlassfeier der SchulabsolventInnen"
+title = "🧑‍🎓Entlassfeier der Schulabsolventen"
 date = 2022-08-05
 [taxonomies]
 tags = ["Archiv" ,"Impressionen" ]

@@ -13,12 +13,12 @@ Die Zweitklässler der Klasse 2b sangen und bastelten mit Senioren, lasen fleiß
 <!-- more -->
 
 # Besuch im Leifheit SeniorenWohnen
-Bereits im Frühjahr besuchten die Mädchen und Buben der Klasse 2b die SeniorInnen des Leifheit
+Bereits im Frühjahr besuchten die Mädchen und Buben der Klasse 2b die Senioren des Leifheit
 SeniorenWohnen, um gemeinsam zu singen und Brettspiele zu spielen. Viel Freude hatten sowohl die
 Bewohner als auch die Zweitklässler bei einem Wiedersehen am Kirchweihmontag. Gemeinsam
 wurden alte Volkslieder zum Thema „Herbst“ gesungen. Anschließend wurden in Gruppen
 Kinderbücher vorgelesen, Herbstgirlanden gebastelt, Herbstbilder gemalt und Brettspiele gespielt.
-Quartiersmanagerin Beate Löw-Schneyder führte die Kinder gemeinsam mit den SeniorInnen durch
+Quartiersmanagerin Beate Löw-Schneyder führte die Kinder gemeinsam mit den Senioren durch
 die Quilt Ausstellung zum Thema „Momo“. Als Dankeschön für ihren Besuch bekamen die Kinder von
 den Bewohnern Kirchweihkircherl geschenkt.
 

@@ -1,5 +1,5 @@
 +++
-title = "⛳ MittelschülerInnen schnuppern \"Golferluft\""
+title = "⛳ Mittelschüler schnuppern \"Golferluft\""
 date = 2022-07-27
 [taxonomies]
 tags = ["Archiv" ,"Impressionen" ,"Mittelschulaktivitäten" ,"Schulleben" ]
@@ -7,7 +7,7 @@ tags = ["Archiv" ,"Impressionen" ,"Mittelschulaktivitäten" ,"Schulleben" ]
 
 ![](images/IMG_9185-1-1024x768.jpg)
 
-"Golferluft" für MittelschülerInnen
+"Golferluft" für Mittelschüler
 
 _„Abschlag Schule“ – lautete die Projektinitiative des Deutschen Golf Verbandes._
 

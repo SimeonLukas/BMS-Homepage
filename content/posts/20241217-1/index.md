@@ -4,7 +4,7 @@ date = 2024-12-17
 [taxonomies]
 tags = ["Aktuelles", "Schulleben"]
 +++
-![Das Foto zeigt LehrerInnen beim Spatenstich](images/image.jpg)
+![Das Foto zeigt Lehrer beim Spatenstich](images/image.jpg)
 
 <!-- more -->
 

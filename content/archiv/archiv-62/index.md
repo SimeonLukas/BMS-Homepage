@@ -1,5 +1,5 @@
 +++
-title = "3G-Regel für Besucher*innen ab 24.11.2021"
+title = "3G-Regel für Besucher ab 24.11.2021"
 date = 2021-11-23
 [taxonomies]
 tags = ["Archiv" ,"Mitteilungen" ]

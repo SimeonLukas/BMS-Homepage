@@ -7,7 +7,7 @@ tags = ["Archiv" ,"Mitteilungen" ]
 
 Sehr geehrte Eltern,
 
-für GrundschülerInnen und Schüler der **Regelklassen und M-Klassen** beginnt der Unterricht am Dienstag, 14.09.2021 um 07:45 Uhr und endet am 1. Schultag um 11:00 Uhr.  
+für Grundschüler und Schüler der **Regelklassen und M-Klassen** beginnt der Unterricht am Dienstag, 14.09.2021 um 07:45 Uhr und endet am 1. Schultag um 11:00 Uhr.  
 Ab Mittwoch, 15.09.2021 beginnt der stundenplanmäßige Unterricht, in dieser Woche noch ohne Nachmittagsunterricht.
 
 Für unsere Schüler der **gebundenen Ganztagsklassen** beginnt der Unterricht ebenfalls am Dienstag, 14.09.2021 um 07:45 Uhr und endet um 11:00 Uhr. Von Mittwoch, 15.09.2021 bis Freitag, 17.09.2021 essen die Schüler zu Mittag und haben danach gegen 12:45 Uhr Unterrichtsschluss. Der reguläre Ganztagsbetrieb beginnt ab Montag, 20.09.2021.

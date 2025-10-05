@@ -7,7 +7,7 @@ tags = ["Archiv" ,"Mitteilungen" ,"Mitteilungen" ]
 
 ![](images/mufid-majnun-aNEaWqVoT0g-unsplash-2-1024x683.jpg)
 
-Lieber Schüler\*innen, sehr geehrte Eltern,  
+Lieber Schüler, sehr geehrte Eltern,  
   
 für das Pooltestverfahren der Jahrgangsstufen 5 und 6 finden sie in diesem Beitrag folgende Dokumente.
 

@@ -49,7 +49,7 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler, 
 - eine sozialpädagogische Einschätzung und Beratung in einer bestimmten Situation wünschen,
 - bei Elterngesprächen sozialpädagogische Unterstützung wünschen.
 
-## **Ansprechpartner:innen**
+## **Ansprechpartner**
 <!-- informatione über Neubesetung -->
 
 ![](images/Bild%20für%20Homepage.jpg)

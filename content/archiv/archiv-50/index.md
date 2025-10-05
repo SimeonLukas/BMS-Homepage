@@ -13,7 +13,7 @@ der Beginn der Grundschulzeit am 14.09.2021 ist für Ihr Kind ein wichtiges Erei
 ## 1\. **Testobliegenheit für Schüler**
 
   
-Die Teilnahme an der Schuleingangsfeier (9:00 Uhr auf dem Schulhof) und am Präsenzunterricht ist auch für unsere ErstklässlerInnen nur mit Nachweis eines negativen Testergebnisses möglich.  
+Die Teilnahme an der Schuleingangsfeier (9:00 Uhr auf dem Schulhof) und am Präsenzunterricht ist auch für unsere Erstklässler nur mit Nachweis eines negativen Testergebnisses möglich.  
 Der Testnachweis entfällt für asymptomatische Schüler, die vollständig geimpft oder genesen sind und einen entsprechenden Nachweis erbringen.  
   
 Liebe Eltern, das bedeutet für Sie:  
