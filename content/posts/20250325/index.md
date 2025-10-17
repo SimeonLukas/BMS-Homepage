@@ -4,6 +4,7 @@ date = 2025-03-25
 description = "Musikalische Vielfalt und beeindruckende Darbietungen beim diesjährigen Frühjahrskonzert"
 [taxonomies]
 tags = ["Konzert", "Schule", "Aktuelles", "Schulleben"]
+categories = ["Kunst & Kultur"]
 +++
 
 # Frühjahrskonzert der Bürgermeister-Schütte-Schule begeistert Publikum

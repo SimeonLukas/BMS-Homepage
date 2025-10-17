@@ -3,6 +3,7 @@ title = "Klasse 5g auf Museumsbesuch"
 date = 2025-06-06
 [taxonomies]
 tags = ["Allgemein", "Schule", "Museumsbesuch"]
+categories = ["Kunst & Kultur"]
 klassen = ["05. Klasse"]
 +++
 

@@ -9,7 +9,7 @@ description = "An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte
 toc = true
 +++
 
-![](images/Flyer-Schulberatung.png)
+![](images/Flyer-Schulberatung.png | 300)
 
 An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte zur Seite und beraten Sie, liebe Eltern und Erziehungsberechtigte, ebenso Euch Schüler(innen) bei
 

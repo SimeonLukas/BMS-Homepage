@@ -10,7 +10,7 @@ Hindenburgstraße 10
 
 <div class="triple contacts">
 <div>{{person(name = "Rektorin Stefanie Schmidt" , phone="+49 8821 9103500" , mail="schulleitung@volksschule-partenkirchen.de")}}</div>
-<div>{{person(name = "Sekretariat" , phone="+49 8821 9103500" , mail="schulleitung@volksschule-partenkirchen.de")}}</div>
+<div>{{person(name = "Sekretariat" , phone="+49 8821 9103500" , mail="sekretariat@volksschule-partenkirchen.de")}}</div>
 </div>
 
 ---

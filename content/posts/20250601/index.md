@@ -3,7 +3,7 @@ title = "Stolzer Erfolg: Doppelt Silber für unsere Handball-Teams"
 date = 2025-05-15
 description = "Die Handball-Teams der Bürgermeister-Schütte-Mittelschule erringen bei der Oberbayerischen Meisterschaft jeweils den zweiten Platz"
 [taxonomies]
-tags = ["Allgemein", "Sport", "Schulsport", "Jugend", "Oberbayerische Meisterschaft"]
+tags = ["Allgemein", "Sport", "Schulsport", "Jugend", "Oberbayerische Meisterschaft", "Presse"]
 categories = ["Sport & Gesundheit"]
 +++
 

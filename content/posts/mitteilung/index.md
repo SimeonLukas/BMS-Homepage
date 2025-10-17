@@ -4,6 +4,7 @@ date = "2025-07-25"
 title = "Erreichbarkeit der Schulleitung während der Sommerferien 2025"
 template = "page.html"
 description ="Öffnungszeiten in den Sommerferien"
+draft = true
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]

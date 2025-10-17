@@ -4,6 +4,7 @@ date = 2025-03-18
 [taxonomies]
 tags = ["Aktuelles", "Schulleben", "Abschlussfahrt"]
 klassen = ["10. Klasse"]
+categories = ["Kunst & Kultur"]
 +++
 
 # Unvergessliche Abschlussfahrt der Klasse 10M nach Amsterdam

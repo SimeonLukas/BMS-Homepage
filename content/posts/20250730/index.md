@@ -3,7 +3,7 @@ title = "Erfolgreiche Schulabschlüsse im Landkreis Garmisch-Partenkirchen 2025"
 date = 2025-07-30
 description = "Ehrung der besten Mittelschüler und Abschlussfeier an der Bürgermeister-Schütte-Schule - Ein Rückblick auf die Schulabschlüsse 2025"
 [taxonomies]
-tags = ["Aktuelles", "Schulabschlüsse", "Ehrungen"]
+tags = ["Aktuelles", "Schulabschlüsse", "Ehrungen", "Presse"]
 +++
 
 Das Schuljahr 2024/25 im Landkreis Garmisch-Partenkirchen endete mit beeindruckenden Leistungen und emotionalen Abschiedsfeiern. Von der Ehrung der besten Absolventen bis hin zu berührenden Verabschiedungen langjähriger Lehrkräfte - die vergangenen Wochen standen ganz im Zeichen schulischer Erfolge und Neuanfänge.

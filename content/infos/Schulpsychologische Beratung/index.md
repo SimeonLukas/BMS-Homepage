@@ -12,9 +12,7 @@ toc = true
 
 ## Wer ist für unsere Schule zuständig?
 
-![](images/Foto_Seyboth.jpg)
-
-**Stefanie Seyboth**  
+**Frau Christina Heine**
 Staatliche Schulpsychologin
 
 Liebe Eltern, liebe Schüler,
@@ -41,9 +39,7 @@ Bei
 **Wie kann ich Kontakt zur Schulpsychologin aufnehmen?**
 
 ## Kontakt:
-{{person(name = "Stefanie Seyboth" , phone="+49 8824 9146300 " , mail="stefanie.seyboth@schulpsychologie.gsms-ob.de")}}
-Dienstag 8:00 - 9:00 Uhr  
-james - loeb - grundschule, dr. august - einsele - ring 8, 82418 murnau  
+Frau Christina Heine
 
 Ich freue mich auf eine gute Zusammenarbeit.  
 
@@ -62,12 +58,3 @@ Montag 9:15 - 10:00 Uhr
 Mittwoch 9:30 - 10:15 Uhr  
 
 * * *
-
-## Kontakt bei Rechenschwäche
-
-
-{{person(name = "Katharina Kößler" , phone="+49  8821  9103560   " , mail="foerderstelle-rechenschwaeche.gap@lra-gap.de")}}
-
-Montag 12.00 Uhr – 12.45 Uhr  
-
-[Anmeldebogen-Rechenschwäche](https://volksschule-partenkirchen.de/wp-content/uploads/Anmeldebogen-Rechenschwäche.pdf)
