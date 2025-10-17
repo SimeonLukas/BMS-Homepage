@@ -11,11 +11,13 @@ Mit Sportgeist, Ausdauer und Einsatzbereitschaft haben sich 468 Kinder und Jugen
 
 ![Spendenlauf](images/pdf.png)
 
-<!-- more -->
+
 
 ## Beeindruckende Leistungen
 
 Die fittesten Beine hatten laut Sportlehrer Kurt Christian Loser die Grundschüler. Sie legten sich mächtig ins Zeug und zeigten großen Ehrgeiz. Die meisten Runden aller Partenkirchner Schüler absolvierte Sam Sulzgruber mit beeindruckenden 49 Runden – das sind etwa 14.700 Meter.
+
+<!-- more -->
 
 ## Erfolgreiche Spendenaktion
 
