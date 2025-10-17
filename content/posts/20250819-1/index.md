@@ -1,6 +1,6 @@
 +++
 title = "Erfolgreiche Premiere: Kultur- und Wissenschaftstage"
-date = 2024-11-22
+date = 2025-10-17
 [taxonomies]
 tags = ["Aktuelles", "Schulleben", "Kultur", "Projekte"]
 categories = ["Kunst & Kultur"]

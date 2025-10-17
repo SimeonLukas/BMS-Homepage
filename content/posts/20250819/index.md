@@ -1,6 +1,6 @@
 +++
 title = "1111 Kilometer für den guten Zweck"
-date = 2024-09-20
+date = 2025-08-19
 [taxonomies]
 tags = ["Aktuelles", "Schulleben", "Sport", "Spendenlauf"]
 +++
