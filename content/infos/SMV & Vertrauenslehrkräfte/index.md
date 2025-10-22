@@ -13,9 +13,9 @@ toc = true
 
 # Die neuen Schülersprecher der Mittelschule Garmisch-Partenkirchen
 
-  1. Schülersprecherin: Lilli Bader, 9g
-  2. Schülersprecherin: Abigirl Odidika, 8M
-  3. Schülersprecher: Peter Sedlmayr, 9a
+  1. Julian, Kl. 10MB
+  2. Mergim, Kl. 9G
+  3. Eldi, Kl. 7a 
 
 
 (aus Datenschutzgründen werden die Namen der Schüler nicht vollständig genannt,  
@@ -25,8 +25,6 @@ die Namen der Klassensprecher werden nur intern veröffentlicht)
 
 # Eure Vertrauenslehrkräfte
 
-|  <!-- --> |  <!-- --> | <!-- -->  |   
-|---|---|---|
-| Vertrauenslehrerin | Maria Stemmer |  Klassenleiterin 6a |   
-|  Vertrauenslehrer | Andreas Strobel  |  Klassenleiter 9g |   
+Maria Stemmer, Lin
+Florian Vollmer, FL 
 

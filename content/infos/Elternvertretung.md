@@ -4,6 +4,8 @@ weight = 1
 date = 2023-03-27
 template = "toppage.html"
 description="Das Amt der Klassenelternsprecher ist eine wichtige Position in jeder Grund- & Mittelschule. Die Klassenelternsprecher sind die Ansprechpartner für alle Eltern ihrer Klasse und repräsentieren die Interessen der Eltern gegenüber der Schulleitung und anderen Personen."
+draft= true
+
 [extra]
 toc = false
 +++
