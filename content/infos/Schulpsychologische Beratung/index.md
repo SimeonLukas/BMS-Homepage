@@ -39,7 +39,24 @@ Bei
 **Wie kann ich Kontakt zur Schulpsychologin aufnehmen?**
 
 ## Kontakt:
+Schulpsychologische Beratung  
 Frau Christina Heine
+
+Beratungsthemen:
+
+- Lern- und Leistungsstörungen (z.B. Lese-Rechtschreib-Störung, Motivationsprobleme, Leistungsabfall)
+- Ängste und psychische Probleme
+- Verhaltensauffälligkeiten
+- Mobbing
+- Familiäre Problematiken
+- Schulverweigerung
+- Konflikte und Gewalt
+
+{{person(name = "Christina Heine" , phone="+49 8821 9103566" , mail="christina.heine@schulpsychologie.gsms-ob.de")}}
+
+Sprechzeit: Donnerstags von 8:00 bis 9:00 Uhr  
+Website: [info-schulberatung-gap.de](info-schulberatung-gap.de)  
+Adresse: Hindenburgstraße 10, 82467 Garmisch-Partenkirchen
 
 Ich freue mich auf eine gute Zusammenarbeit.  
 
