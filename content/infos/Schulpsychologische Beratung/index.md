@@ -25,23 +25,6 @@ Sie schließt die enge Zusammenarbeit mit Beratungslehrkräften und außerschuli
 
 ## Wann wende ich mich an die Schulpsychologin?
 
-Bei
-
-- Lern- und Leistungsstörungen: z.B. Lese-Rechtschreib-Störung, Motivationsprobleme, Arbeitsverhalten, plötzlicher Leistungsabfall etc.
-- Ängste
-- Verhaltensauffälligkeiten
-- Mobbing
-- psychische Probleme Ihres Kindes
-- familiäre Problematiken
-- Schulverweigerung
-- Konflikte und Gewalt
-
-**Wie kann ich Kontakt zur Schulpsychologin aufnehmen?**
-
-## Kontakt:
-Schulpsychologische Beratung  
-Frau Christina Heine
-
 Beratungsthemen:
 
 - Lern- und Leistungsstörungen (z.B. Lese-Rechtschreib-Störung, Motivationsprobleme, Leistungsabfall)
@@ -51,6 +34,12 @@ Beratungsthemen:
 - Familiäre Problematiken
 - Schulverweigerung
 - Konflikte und Gewalt
+
+**Wie kann ich Kontakt zur Schulpsychologin aufnehmen?**
+
+## Kontakt:
+Schulpsychologische Beratung  
+Frau Christina Heine
 
 {{person(name = "Christina Heine" , phone="+49 8821 9103566" , mail="christina.heine@schulpsychologie.gsms-ob.de")}}
 
