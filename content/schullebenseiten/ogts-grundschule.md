@@ -9,7 +9,7 @@ tags = ["BRK"]
 toc = true
 +++
 
-![OGTS Logo](ogts.jpeg)
+![OGTS Logo](./ogts.jpeg)
 
 # Die OGTS des Roten Kreuzes
 
