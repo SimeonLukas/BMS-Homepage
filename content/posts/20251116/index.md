@@ -5,7 +5,7 @@ description = "Ein besonderes Tanzprojekt verbindet drei Schulen aus der Region 
 
 [taxonomies]
 categories = ["Kunst & Kultur"]
-tags = ["Tanz", "Horváth-Tage", "Kooperation", "Kultur"]
+tags = ["Tanz", "Horváth-Tage", "Kooperation", "Kultur" ,"Aktuelles"]
 
 [extra]
 +++

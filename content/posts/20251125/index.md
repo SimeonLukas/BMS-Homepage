@@ -5,7 +5,7 @@ description = "wir wollen den Jugendlichen neue Perspektiven eröffnen – küns
 
 [taxonomies]
 categories = ["Kunst & Kultur"]
-tags = ["Tanz", "Horváth-Tage", "Kooperation", "Kultur"]
+tags = ["Tanz", "Horváth-Tage", "Kooperation", "Kultur", "Aktuelles"]
 
 [extra]
 +++
