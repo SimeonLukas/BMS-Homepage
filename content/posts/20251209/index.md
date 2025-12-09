@@ -10,6 +10,8 @@ Ein besonderes Präventionsprojekt der Bundespolizei war zu Gast an unserer Schu
 
 ![Kinder mit Bundespolizist am Polizeifahrzeug](images/bundespolizei-1.jpg)
 
+<!-- more -->
+
 ## Sicherheit geht vor!
 
 Der Präventionsbeauftragte Frank Herzog von der Bundespolizei Rosenheim und zwei weitere Kollegen aus Garmisch-Partenkirchen besuchten uns mit einem beeindruckenden Dienst-SUV. Sie vermittelten den Kindern wichtiges Wissen rund um die Sicherheit im Alltag und zeigten mit viel Engagement, wie sich Kinder richtig verhalten können.

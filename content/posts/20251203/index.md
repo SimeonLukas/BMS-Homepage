@@ -10,6 +10,8 @@ Am 3. Dezember 2025 fand der diesjährige Vorlesewettbewerb der 6. Klassen an un
 
 ![Saaid](images/bild.jpg)
 
+<!-- more -->
+
 ## Ein spannender Wettbewerb
 
 Saaid präsentierte zwei beeindruckende Textpassagen: Für seinen Wahltext hatte er sich eine Passage aus Sabine Zetts Buch „Lenny, Melina und die Sache mit dem Skateboard" ausgesucht. Als Fremdtext las er aus „Amanda Black – Die Mission beginnt" von Juan Gomez-Jurado und Barbara Montes vor.

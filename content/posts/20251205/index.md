@@ -12,6 +12,8 @@ Wir laden herzlich zum Besuch unserer gemeinsamen Ausstellung ein!
 
 Die Schülerinnen und Schüler der Bürgermeister-Schütte-Schule Garmisch-Partenkirchen und der Karwendel-Grund- und Mittelschule Mittenwald präsentieren ihre kreative Auseinandersetzung mit dem wichtigen Thema Kinderrechte.
 
+<!-- more -->
+
 ## Ausstellungsdetails
 
 **Wo:** Kurhaus des Michael-Ende-Parks, Garmisch-Partenkirchen  
