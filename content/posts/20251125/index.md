@@ -1,11 +1,11 @@
 +++
 title = "Horváth-Interpretation begeistert Publikum – Drei Schulen aus zwei Landkreisen setzen starkes Zeichen kultureller Bildung"
-date = 2025-11-25
+date = 2025-12-13
 description = "wir wollen den Jugendlichen neue Perspektiven eröffnen – künstlerisch wie persönlich."
 
 [taxonomies]
 categories = ["Kunst & Kultur"]
-tags = ["Tanz", "Horváth-Tage", "Kooperation", "Kultur", "Aktuelles"]
+tags = ["Tanz", "Horváth-Tage", "Kooperation", "Kultur", "Aktuelles", "Aktualisiert"]
 
 [extra]
 +++
