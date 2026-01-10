@@ -24,7 +24,7 @@ tags = [
 
 # Kinderrechte, Engagement und Zukunft – Einblicke aus der Bürgermeister-Schütte-Schule
 
-Die Bürgermeister-Schütte-Schule lebt **Kinderrechte**, soziales Engagement, kulturelle Bildung und Berufsorientierung im Schulalltag und zeigt dies in zahlreichen Projekten und Kooperationen. Dieser Beitrag fasst die aktuellen Berichte und Inserate zusammen, die das vielfältige Schulleben sichtbar machen.[1][2][3][4][5][6][7][8][9][10][11][12][13]
+Die Bürgermeister-Schütte-Schule lebt **Kinderrechte**, soziales Engagement, kulturelle Bildung und Berufsorientierung im Schulalltag und zeigt dies in zahlreichen Projekten und Kooperationen. Dieser Beitrag fasst die aktuellen Berichte und Inserate zusammen, die das vielfältige Schulleben sichtbar machen.
 
 <!-- more -->
 
