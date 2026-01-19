@@ -13,7 +13,7 @@ description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere 
 # Informationen
 ## zum Qualifizierenden Abschluss der Mittelschule für externe Bewerber
 
-Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2025** im Sekretariat der Bürgermeister-Schütte Mittelschule statt.
+Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2026** im Sekretariat der Bürgermeister-Schütte Mittelschule statt.
 
 Für die Teilnahme am Qualifizierenden Abschluss anmelden kann sich, wer innerhalb des Sprengels der Bürgermeister-Schütte Mittelschule wohnt.
 
@@ -34,7 +34,7 @@ Aus folgenden Fächern müssen zwei Fächer verbindlich ausgewählt werden:
 
 - Englisch schriftlich und mündlich
 
-  
+Aus folgenden Fächern muss ein Fach verbindlich ausgewählt werden:
 
 - Kunst praktisch und mündlich (Kunsttheorie/-geschichte)
 
