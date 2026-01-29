@@ -16,7 +16,7 @@ toc = true
 
 Ziel unserer Schule ist es, die Schüler möglichst umfassend und zielgerichtet mit ihren individuellen Besonderheiten auf den Übergang und den Einstieg in das Berufsleben vorzubereiten.
 <!-- more -->
-Die Bürgermeister-Schütte Schule kooperiert im Bereich der Berufsorientierung mit außerschulischen Partnern wie dem BFZ/ GFI GmbH aus dem Bereich externer Bildungsträger, der Agentur für Arbeit, sowie dem  Bereich der Jugend und Sozialhilfe (Kolping und Caritas). Des Weiteren bestehen fortwährende Bestrebungen, ortsansässige Betriebe aller Berufsbereiche in die Kooperation ,,Schule-Betrieb-Ausbildung“ einzubinden.
+Die Bürgermeister-Schütte Schule kooperiert im Bereich der Berufsorientierung mit außerschulischen Partnern wie dem BFZ/ GFI GmbH, HWK Weilheim und IHK Oberbayern aus dem Bereich externer Bildungsträger, der Agentur für Arbeit, sowie dem  Bereich der Jugend und Sozialhilfe (Kolping und Caritas). Des Weiteren bestehen fortwährende Bestrebungen, ortsansässige Betriebe aller Berufsbereiche in die Kooperation ,,Schule-Betrieb-Ausbildung“ einzubinden.
 
   
 Im Zuge des Berufswahlprozesses finden seitens der Schule in den verschiedenen Jahrgangsstufen vielfältige Aktionen und Maßnahmen statt:
