@@ -36,7 +36,7 @@ Donnerstag von 07:30 Uhr bis 16:00 Uhr
 Unabhängig davon kann mich jede/-r bei Fragen oder Unterstützungsbedarf gerne ansprechen.
 
 ## Kontakt
-{{person(name = "Marcus Beley" , phone="+49 171 301 90 63" , mail="beley.marcus@wm.bfz.de")}}
+{{person(name = "Marcus Beley" , phone="+49 171 301 90 63" , mail="marcus.beley@bfz.de")}}
 
 [Homepage](https://www.bfz.de/muenchen)
 

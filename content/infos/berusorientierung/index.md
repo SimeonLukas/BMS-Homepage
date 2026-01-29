@@ -23,19 +23,31 @@ Im Zuge des Berufswahlprozesses finden seitens der Schule in den verschiedenen J
 
 # Klasse 7
 
-<table><tbody><tr><td>Potenzialanalyse</td></tr><tr><td>Werkstatttage HWK oder bfz Weilheim</td></tr><tr><td>Modul „Talente fördern“</td></tr><tr><td>Orientierungspraktikum 3 Tage</td></tr><tr><td>Berufsorientierungsordner</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td><a href="../../../infos/berufsberatung" data-type="page" data-id="534">Berufseinstiegsbegleitung »</a></td></tr></tbody></table>
+<table><tbody><tr><td>Potenzialanalyse</td></tr><tr><td>Werkstatttage HWK</td></tr><tr><td>Modul „Talente fördern“</td></tr><tr><td>Orientierungspraktikum 3 Tage</td></tr><tr><td>Berufsorientierungsordner</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td><a href="../../../infos/berufsberatung" data-type="page" data-id="534">Berufseinstiegsbegleitung »</a></td></tr></tbody></table>
 
 # Klasse 8
 
-<table><tbody><tr><td>Modul „Talente entdecken“ (Berufsorientierungs-Camp)</td></tr><tr><td>Schulbegleitendes Soziales Praktikum</td></tr><tr><td>Praktikum 2 x 1 Woche</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse</td></tr><tr><td>AusbildungsScouts der IHK kommen in die Schule</td></tr><tr><td>Besuch der Handwerksmesse in München</td></tr><tr><td><a href="../../../infos/berufsberatung">Berufseinstiegsbegleitung »</a></td></tr></tbody></table>
+<table><tbody><tr><td>Modul „Talente entdecken“ (Berufsorientierungs-Camp)</td></tr><tr><td>Praktikum 2 x 1 Woche</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse</td></tr><tr><td>AusbildungsScouts der IHK kommen in die Schule</td></tr><tr><td>Besuch der Handwerksmesse in München</td></tr><tr><td><a href="../../../infos/berufsberatung">Berufseinstiegsbegleitung »</a></td></tr>
+<tr><td>Jobfahrt</td></tr>
+
+
+</tbody></table>
 
 # Klasse 9
 
-<table><tbody><tr><td>Bewerbertag in Zusammenarbeit mit 10 verschiedenen örtlichen Betrieben</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse</td></tr><tr><td>Werksführung BMW München</td></tr><tr><td>AusbildungsScouts der IHK kommen in die Schule</td></tr><tr><td><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/">Berufseinstiegsbegleitung »</a></td></tr></tbody></table>
+<table><tbody><tr><td>Tag der Bundeswehr</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse + Kooperation Caritas St. Vinzenz Altenheim</td></tr><tr><td>Werksführung BMW München</td></tr><tr><td><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/">Berufseinstiegsbegleitung »</a></td></tr>
+<tr><td>IHK KarrriereScouts</td></tr>
+<tr><td>Jobfahrt</td></tr>
+</tbody></table>
 
 # Klasse 10
 
-<table><tbody><tr><td>Bewerbertag in Zusammenarbeit mit<br>10 verschiedenen örtlichen Betrieben</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse</td></tr><tr><td><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/">Berufseinstiegsbegleitung »</a></td></tr></tbody></table>
+<table><tbody><tr><td>IHK KarriereScouts</td></tr><tr><td>Betriebsbesichtigungen</td></tr><tr><td>Zukunftsmesse</td></tr><tr><td><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/"></a><a href="../../../infos/berufsberatung/">Berufseinstiegsbegleitung »</a></td></tr>
+<tr><td>Jobfahrt</td></tr>
+<tr><td>Tag der Bundeswehr</td></tr>
+
+
+</tbody></table>
 
 Dauerhaft: 2 Bildungspartnerschaften mit örtlichen Betrieben die der IHK angehören.  
 Diese finden klassenübergreifend statt.
