@@ -4,7 +4,7 @@ date = "2026-02-07"
 title = "Einladung zum Berufsinformationsabend"
 template = "page.html"
 description ="Berufsinformationsabend"
-draft = true
+draft = false
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
