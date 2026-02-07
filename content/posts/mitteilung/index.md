@@ -19,6 +19,8 @@ hiermit möchten wir Sie recht herzlich zum **Berufsinformationsabend** einladen
 **18:00 Uhr**  
 **Raum A 18**
 
+<!-- more -->
+
 ---
 
 ## Referenten und Themen
