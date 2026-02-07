@@ -1,7 +1,7 @@
 +++
 weight = 1
 date = "2026-02-07"
-title = "Einladung zum Berufsinformationsabend"
+title = "Einladung zum"
 template = "page.html"
 description ="Berufsinformationsabend"
 draft = false
@@ -13,28 +13,32 @@ notification = "2026-02-27"
 
 Liebe Eltern,
 
-hiermit möchten wir Sie recht herzlich zum
-Berufsinformationsabend
-am Donnerstag, 26. Februar 2026 um 
-18 Uhr im Raum A 18
+hiermit möchten wir Sie recht herzlich zum **Berufsinformationsabend** einladen:
 
-einladen.
+**Donnerstag, 26. Februar 2026**  
+**18:00 Uhr**  
+**Raum A 18**
 
-Referenten:
+---
 
-Thomas Müller, Berufsberatung (Agentur für Arbeit GAP)
-•	Aufgaben der Berufsberatung
-•	Möglichkeiten nach dem Schulabschluss (Ausbildung/weiterführende Schule)
-•	Unterstützungsmöglichkeiten/Informationsquellen
+## Referenten und Themen
 
-Marcus Beley, Berufseinstiegsbegleiter (bfz München)
-•	Erreichen des Schulabschlusses
-•	Berufsorientierung und Berufswahl
-•	Ausbildungsplatzsuche
-•	Stabilisierung des Ausbildungsplatzverhältnisses
+### Thomas Müller, Berufsberatung (Agentur für Arbeit GAP)
 
+- Aufgaben der Berufsberatung
+- Möglichkeiten nach dem Schulabschluss (Ausbildung/weiterführende Schule)
+- Unterstützungsmöglichkeiten/Informationsquellen
 
-Die Veranstaltung ist für die Eltern der Vorabgangsklassen (8g und 9M) verpflichtend.
+### Marcus Beley, Berufseinstiegsbegleiter (bfz München)
+
+- Erreichen des Schulabschlusses
+- Berufsorientierung und Berufswahl
+- Ausbildungsplatzsuche
+- Stabilisierung des Ausbildungsplatzverhältnisses
+
+---
+
+**Wichtig:** Die Veranstaltung ist für die Eltern der Vorabgangsklassen (8g und 9M) verpflichtend.
 
 Mit freundlichen Grüßen  
 Verena Hafenrichter, 1.Konrektorin  
