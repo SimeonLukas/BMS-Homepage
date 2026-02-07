@@ -1,20 +1,46 @@
 +++
 weight = 1
-date = "2025-07-25"
-title = "Erreichbarkeit der Schulleitung während der Sommerferien 2025"
+date = "2026-02-07"
+title = "Einladung zum Berufsinformationsabend"
 template = "page.html"
-description ="Öffnungszeiten in den Sommerferien"
+description ="Berufsinformationsabend"
 draft = true
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 [extra]
-notification = "2025-09-12"
+notification = "2026-02-27"
 +++
 
-Die Sommerferien stehen vor der Tür, und auch während dieser Zeit bleibt die Bürgermeister-Schütte-Schule Grund- und Mittelschule Garmisch-Partenkirchen für wichtige Angelegenheiten erreichbar.
+Liebe Eltern,
+
+hiermit möchten wir Sie recht herzlich zum
+Berufsinformationsabend
+am Donnerstag, 26. Februar 2026 um 
+18 Uhr im Raum A 18
+
+einladen.
+
+Referenten:
+
+Thomas Müller, Berufsberatung (Agentur für Arbeit GAP)
+•	Aufgaben der Berufsberatung
+•	Möglichkeiten nach dem Schulabschluss (Ausbildung/weiterführende Schule)
+•	Unterstützungsmöglichkeiten/Informationsquellen
+
+Marcus Beley, Berufseinstiegsbegleiter (bfz München)
+•	Erreichen des Schulabschlusses
+•	Berufsorientierung und Berufswahl
+•	Ausbildungsplatzsuche
+•	Stabilisierung des Ausbildungsplatzverhältnisses
 
 
-![Schule](images/image.png)
+Die Veranstaltung ist für die Eltern der Vorabgangsklassen (8g und 9M) verpflichtend.
+
+Mit freundlichen Grüßen  
+Verena Hafenrichter, 1.Konrektorin  
+Marcus Beley, Berufseinstiegsbegleiter
+
+![Schule](images/image.jpg)
 
 
 {{downloads(folder="downloads")}}
