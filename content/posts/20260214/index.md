@@ -1,7 +1,7 @@
 +++
 title = "Dritter Platz beim südbayerischen Tischtennisturnier"
 date = 2026-02-06
-description = "Die Bürgermeister-Schütte-Mittelschule aus Partenkirchen erreicht als beste Mittelschule Oberbayerns den dritten Platz bei „Jugend trainiert für Olympia""
+description = "Die Bürgermeister-Schütte-Mittelschule aus Partenkirchen erreicht als beste Mittelschule Oberbayerns den dritten Platz bei - Jugend trainiert für Olympia"
 
 [taxonomies]
 tags = ["Aktuelles", "Sport", "Tischtennis", "Mittelschule"]
