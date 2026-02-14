@@ -7,6 +7,7 @@ description ="Berufsinformationsabend"
 draft = false
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
+
 [extra]
 notification = "2026-02-27"
 +++

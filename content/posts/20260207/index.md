@@ -3,6 +3,7 @@ title = "Betriebserkundung der Firma Langmatz"
 date = 2026-02-07
 [taxonomies]
 tags = ["Aktuelles", "Bildung", "Technik", "Schulleben", "Berufserkundung", "Praktikum", "Ausbildung", "IHK-TOP"]
+categories = ["Berufsorientierung"]
 +++
 Am Dienstag, den 20. Januar 2026, besuchten die Techniker der 9. Klassen die Firma
 Langmatz in Oberau. Es war für uns alle ein sehr spannender und lehrreicher
