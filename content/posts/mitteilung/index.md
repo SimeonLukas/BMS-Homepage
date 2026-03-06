@@ -3,8 +3,7 @@ weight = 1
 date = "2026-03-06"
 title = "Informationsabend"
 template = "page.html"
-description ="mit Anmeldemöglichkeit
-zum Übertritt"
+description ="mit Anmeldemöglichkeit zum Übertritt"
 draft = false
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
