@@ -17,6 +17,8 @@ toc = true
 
 {{downloads(folder="grundschule/")}}
 
+**Formulare zur Anmeldung für die offene Ganztagsschule (Grundschule) im Sekretariat**
+
 # Mittelschule
 
 {{downloads(folder="mittelschule/")}}
