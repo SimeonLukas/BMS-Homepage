@@ -4,7 +4,7 @@ date = "2026-03-06"
 title = "Informationsabend"
 template = "page.html"
 description ="mit Anmeldemöglichkeit zum Übertritt"
-draft = false
+draft = true
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 
