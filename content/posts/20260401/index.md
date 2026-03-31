@@ -1,7 +1,7 @@
 +++
 title = "Easy Skiing der 3. Klassen im März 2026"
 date = 2026-03-31
-description = "Alle 3. Klassen nahmen mit großer Begeisterung am Projekt „Easy Skiing" teil – organisiert von der Schule, durchgeführt von der Skischule GaPa am Hausberg in Garmisch-Partenkirchen."
+description = "Alle 3. Klassen nahmen mit großer Begeisterung am Projekt Easy Skiing teil – organisiert von der Schule, durchgeführt von der Skischule GaPa am Hausberg in Garmisch-Partenkirchen."
 [taxonomies]
 tags = ["Projekte", "Sport", "Easy Skiing", "3. Klasse"]
 categories = ["Sport & Gesundheit"]
