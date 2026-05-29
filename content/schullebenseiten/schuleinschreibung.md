@@ -13,11 +13,6 @@ toc = true
 cssclass = "nodate"
 +++
 
-
-# Informationen zur Schuleinschreibung 2025
-
-[Informationen zur Schuleinschreibung 2025](https://volksschule-partenkirchen.de/posts/20250301-1/)
-
 ## Allgemeine Hinweise
 
 - Schuleinschreibung: Bitte senden Sie postalisch die ausgefüllten
