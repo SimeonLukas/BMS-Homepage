@@ -52,7 +52,7 @@ JaS ist eine Beratungsstelle innerhalb der Schule und richtet sich an Schüler, 
 ## **Ansprechpartner**
 <!-- informatione über Neubesetung -->
 
-![](images/Bild%20für%20Homepage.jpg)
+![](images/team2026.jpg)
 
 ## Grundschule
 
@@ -63,6 +63,13 @@ JaS Grundschule
 - **Mobil:** [0172 7091047](tel:01727091047)
 - **Festnetz:** [(08821) 910 3561](tel:088219103561)
 
+**Margit Unterthiner**  
+Sozialarbeiterin (B.A.)  
+JaS Grundschule
+
+- **Mobil:** [0152 22784460](tel:015222784460)
+- **Festnetz:** [(08821) 910 – 3564](tel:088219103564)
+
 ## Mittelschule
 
 **Ansgar Wallstein**  
@@ -70,13 +77,6 @@ Dipl. Sozialpädagoge (FH)
 JaS Mittelschule  
 
 - **Mobil:** [0152 55196243](tel:015255196243)
-- **Festnetz:** [(08821) 910 3567](tel:088219103567)
-
-**Katrin Brandl**  
-Sozialarbeiterin (B.A.)  
-JaS Mittelschule  
-
-- **Mobil:** [0172 7091120](tel:01727091120)
 - **Festnetz:** [(08821) 910 3567](tel:088219103567)
 
 
