@@ -57,6 +57,12 @@ Lehrkräfte
 
 ---
 
+„Bitte beachten Sie unsere Sprechzeiten, wenn Sie uns nicht erreichen schreiben Sie uns bitte eine E-Mail.“
+
+ Wir sind telefonisch von 7:00 Uhr bis 13:00 Uhr für Sie erreichbar.
+
+---
+
 <!-- <div  class="triple">
 <div onclick="location.href = 'tags/' ">
 
