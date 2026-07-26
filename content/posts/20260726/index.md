@@ -2,7 +2,7 @@
 title = "Spendenlauf der Bürgermeister-Schütte-Schule: Gemeinsam laufen für den guten Zweck"
 date = 2026-07-26
 [taxonomies]
-categories = ["Sport & Gemeinschaft"]
+categories = ["Sport & Gesundheit"]
 tags = ["Aktuelles", "Spendenlauf", "Gemeinschaft", "Engagement", "Schulleben", "Soziales"]
 +++
 
