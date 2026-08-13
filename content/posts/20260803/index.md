@@ -5,7 +5,7 @@ description = "Wahrhaft fantastisches Programm bringt einige hundert Besucher zu
 
 [taxonomies]
 categories = ["Kunst & Kultur"]
-tags = ["Aktuelles", "Schulleben", "Mitteilungen"]
+tags = ["Aktuelles", "Schulleben", "Mitteilungen", "Presse"]
 
 [extra]
 author = "Margot Schäfer"

@@ -5,7 +5,7 @@ description = "Landkreis ehrt die besten Absolventen der sechs Mittelschulen –
 
 [taxonomies]
 categories = ["Berufsorientierung"]
-tags = ["Aktuelles", "Schulleben", "Ausbildung"]
+tags = ["Aktuelles", "Schulleben", "Ausbildung", "Presse"]
 
 [extra]
 author = "Wilfried Nass"

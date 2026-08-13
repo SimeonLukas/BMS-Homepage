@@ -3,7 +3,7 @@ title = "Feldhockey: Beide Teams Vizemeister von Oberbayern"
 description = "Am 17.06.2026 fand in Grünwald die Bezirksmeisterschaft im Feldhockey statt. Die Bürgermeister-Schütte-Mittelschule nahm mit den Wettkampfgruppen Jungen III und Jungen IV daran teil und holte zwei Vizetitel."
 date = 2026-06-22
 [taxonomies]
-tags = ["Sport", "Schulsport", "Jugend trainiert für Olympia", "Oberbayerische Meisterschaft", "Schulleben"]
+tags = ["Sport", "Schulsport", "Jugend trainiert für Olympia", "Oberbayerische Meisterschaft", "Schulleben", "Presse"]
 categories = ["Sport & Gesundheit"]
 +++
 

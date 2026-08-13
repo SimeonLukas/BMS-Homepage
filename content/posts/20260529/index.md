@@ -4,7 +4,7 @@ description = "Das Engagement der Jugendlichen an unserer Schule"
 date = 2026-05-29
 
 [taxonomies]
-tags = ["Aktuelles", "Schulleben", "Mitteilungen", "KIWANIS"]
+tags = ["Aktuelles", "Schulleben", "Mitteilungen", "KIWANIS", "Presse"]
 +++
 # Impressionen von KIWANIS
 
