@@ -1,16 +1,18 @@
 +++
 weight = 1
-date = "2026-08-01"
-title = "Besetzung der Schulleitung und des Sekretariats"
+date = "2026-09-08"
+title = "Die Segnung der Erstklässler"
 template = "page.html"
-description ="Erreichbarkeit von Schulleitung und Sekretariat der Bürgermeister-Schütte-Grund- und Mittelschule während der Sommerferien 2026."
+description ="findet am 15.09.2026 um 8:00 Uhr in der Pfarrkirche Maria Himmelfahrt Partenkirchen statt."
 draft = false
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 
 [extra]
-notification = "2026-09-14"
+notification = "2026-09-15"
 +++
+
+**Die Segnung der Erstklässler findet am 15.09.2026 um 8:00 Uhr in der Pfarrkirche Maria Himmelfahrt Partenkirchen statt.**
 
 Die Bürgermeister-Schütte-Grund- und Mittelschule Garmisch-Partenkirchen informiert über die Erreichbarkeit von Schulleitung und Sekretariat während der Sommerferien 2026.
 
