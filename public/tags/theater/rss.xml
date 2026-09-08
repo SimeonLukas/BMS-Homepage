@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte Grund- &amp; Mittelschule - Theater</title>
+      <link>https://volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://volksschule-partenkirchen.de/tags/theater/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Besuch des Theaters „Frau Holle“ der Theatergruppe Creme Frech</title>
+          <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/archiv/20230327-1/</link>
+          <guid>https://volksschule-partenkirchen.de/archiv/20230327-1/</guid>
+          <description>&lt;p&gt;Was haben zwei Wetterfrösche, ein Schneemann und ein Kaminkehrer mit der bekannten Geschichte der Frau Holle zu tun?&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
