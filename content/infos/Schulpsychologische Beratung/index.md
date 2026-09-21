@@ -12,7 +12,7 @@ toc = true
 
 ## Wer ist für unsere Schule zuständig?
 
-**Frau Christina Heine**
+**Frau Franziska Oberpriller**
 Staatliche Schulpsychologin
 
 Liebe Eltern, liebe Schüler,
@@ -39,11 +39,11 @@ Beratungsthemen:
 
 ## Kontakt:
 Schulpsychologische Beratung  
-Frau Christina Heine
+Frau Franziska Oberpriller
 
-{{person(name = "Christina Heine" , phone="+49 8821 9103566" , mail="christina.heine@schulpsychologie.gsms-ob.de")}}
+{{person(name = "Franziska Oberpriller" , phone="+49 8821 9103566" , mail="franziska.oberpriller@schulpsychologie.gsms-ob.de")}}
 
-Sprechzeit: Donnerstags von 8:00 bis 9:00 Uhr  
+Sprechzeit: Deinstag von 10:40 bis 11:25 Uhr  
 Website: [info-schulberatung-gap.de](info-schulberatung-gap.de)  
 Adresse: Hindenburgstraße 10, 82467 Garmisch-Partenkirchen
 
