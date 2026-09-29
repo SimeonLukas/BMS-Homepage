@@ -1,42 +1,38 @@
 +++
 weight = 1
-date = "2026-09-08"
-title = "Die Segnung der Erstklässler"
+date = "2026-09-29"
+title = "Nachruf: Wir trauern um Sebastian Schranner"
 template = "page.html"
-description ="findet am 15.09.2026 um 8:00 Uhr in der Pfarrkirche Maria Himmelfahrt Partenkirchen statt."
+description ="Die Bürgermeister-Schütte-Schule nimmt Abschied von Studienrat Sebastian Schranner."
 draft = false
 [taxonomies]
 tags = [ "Aktuelles" , "Mitteilungen"]
 
 [extra]
-notification = "2026-09-15"
+notification = "2026-10-02"
 +++
 
-**Die Segnung der Erstklässler findet am 15.09.2026 um 8:00 Uhr in der Pfarrkirche Maria Himmelfahrt Partenkirchen statt.**
+Mit tiefer Bestürzung und Trauer nimmt die Schulfamilie der Bürgermeister-Schütte-Schule Abschied von unserem hochgeschätzten Kollegen und Lehrer **Sebastian Schranner** (Studienrat im Mittelschuldienst), der am 8. September 2026 im Alter von 66 Jahren verstorben ist.
 
-Die Bürgermeister-Schütte-Grund- und Mittelschule Garmisch-Partenkirchen informiert über die Erreichbarkeit von Schulleitung und Sekretariat während der Sommerferien 2026.
+## Ein engagiertes Wirken für unsere Schule
 
-## Erste und letzte Ferienwoche
+Herr Schranner übte seinen Beruf stets mit Leidenschaft und Hingabe aus. Für das Kollegium wie auch für die Schülerinnen und Schüler war er ein Vorbild an Menschlichkeit, Disziplin und unermüdlichem Einsatz. Sein langjähriges Wirken hat unsere Schule nachhaltig geprägt.
 
-In der ersten und letzten Ferienwoche sind Sekretariat und Schulleitung täglich von 9:00 bis 11:00 Uhr erreichbar.
+Wir danken ihm von Herzen für sein Lebenswerk und alles, was er unserer Schulgemeinschaft geschenkt hat. Unser tiefes Mitgefühl gilt seiner Familie und allen Angehörigen.
 
-- **Erste Ferienwoche** (03.08. – 07.08.26): 9:00 – 11:00 Uhr, Sekretariat und Schulleitung, Tel. 08821 9103500, schulleitung@volksschule-partenkirchen.de
-- **Letzte Ferienwoche** (07.09. – 11.09.26): 9:00 – 11:00 Uhr, Sekretariat und Schulleitung, Tel. 08821 9103500, schulleitung@volksschule-partenkirchen.de
+## Trauerfeier und Beisetzung
 
-## Übrige Ferienwochen
+Die Schulfamilie und alle Wegbegleiter sind eingeladen, gemeinsam Abschied zu nehmen:
 
-In den übrigen Ferienwochen ist das Sekretariat an folgenden Tagen von 9:00 bis 11:00 Uhr geöffnet:
+- **Trauergottesdienst:** Donnerstag, 1. Oktober 2026, um 14:00 Uhr in der Alten Kirche Garmisch (Pfarrhausweg 2)
+- **Beisetzung:** Im Anschluss um 15:00 Uhr auf dem Friedhof Garmisch
 
-- 10.–13.08.2026
-- 02.–04.09.2026
+## Spendenhinweis
 
-Weitere dringende Anfragen bitte per Mail an schulleitung@volksschule-partenkirchen.de richten.
+Auf Wunsch der Familie wird anstelle von Blumen um eine Unterstützung für den schulischen Förderverein gebeten:
 
-## Kontakt in dringenden Fällen
+- **Empfänger:** Förderverein der Bürgermeister-Schütte-Grund- und Mittelschule Garmisch-Partenkirchen e.V.
+- **IBAN:** `DE52 7035 0000 0011 3590 07`
+- **Verwendungszweck:** Sebastian Schranner
 
-In dringenden Fällen können Anfragen während der Ferien auch an das Staatliche Schulamt Garmisch-Partenkirchen gerichtet werden:
-
-**Staatliches Schulamt Garmisch-Partenkirchen**
-Burgstraße 21, 82467 Garmisch-Partenkirchen
-Tel. 08821 751 750
-E-Mail: schulamt@lra-gap.de
+{{downloads(folder="downloads")}}
