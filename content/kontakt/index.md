@@ -23,6 +23,12 @@ Hindenburgstraße 10
 
 ---
 
+<div class="triple contacts">
+<div>{{ person(name="Datenschutzbeauftragter Andreas P. Kaiser, StR", phone="+49 1520 1944764", mail="andreas.kaiser@schule-oberau.de") }}</div>
+</div>
+
+---
+
    <div class="email-generator">
    <h3>Dienst-Emails</h3>
 <div class="info-text">
