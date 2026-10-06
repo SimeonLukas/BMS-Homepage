@@ -51,7 +51,7 @@ Ich freue mich auf eine gute Zusammenarbeit.
 
 Formulare:
 
-[Anmeldebogen](/downloads/01_Anmeldebogen zur Schulberatung.pdf)
+[Anmeldebogen](downloads/01_Anmeldebogen zur Schulberatung.pdf)
 
 [Schweigepflichtentbindung](https://volksschule-partenkirchen.de/wp-content/uploads/Schweigepflichtentbindung.pdf)
 
