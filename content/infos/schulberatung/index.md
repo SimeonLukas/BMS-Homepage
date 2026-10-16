@@ -9,7 +9,7 @@ description = "An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte
 toc = true
 +++
 
-![](images/Flyer-Schulberatung.png | 300)
+![](images/Flyer-Schulberatung.png)
 
 An unserer Schule stehen Ihnen verschiedene Lehr- und Fachkräfte zur Seite und beraten Sie, liebe Eltern und Erziehungsberechtigte, ebenso Euch Schüler(innen) bei
 
@@ -34,6 +34,10 @@ Für Euch Schüler haben die Vertrauenslehrer ein offenes Ohr. Sie sind neben de
 **Wichtig zu wissen:**  
 Alle in der Beratung Tätigen unterliegen der Schweigepflicht gegenüber Dritten!  
 Die Beratung ist kostenlos! Wartezeiten lassen sich nicht immer vermeiden; eine rechtzeitige telefonische Anmeldung wird empfohlen!
+
+- Beratungslehrer: Herr Robert Rauch
+
+- Vertrauenslehrer: Frau Stemmer und Herr Pircher.
 
 * * *
 

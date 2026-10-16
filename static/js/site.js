@@ -408,7 +408,7 @@ function getarticles() {
 
   //   });
     pieanimation(2, "piechart1", "circle")
-  pieanimation(607, "piechart2", "circle1")
+  pieanimation(642, "piechart2", "circle1")
   pieanimation(62, "piechart3", "circle2")
 }
 

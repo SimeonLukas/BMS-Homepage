@@ -9,8 +9,9 @@ description ="Der qualifizierende Abschluss der Mittelschule ist eine besondere 
 
 +++
 
+# INFORMATIONEN ZUM QUALIFIZIERENDEN ABSCHLUSS DER MITTELSCHULE FOLGEN
 
-# Informationen
+<!-- # Informationen
 ## zum Qualifizierenden Abschluss der Mittelschule für externe Bewerber
 
 Die Anmeldung für externe Bewerber findet bis spätestens **1\. März 2026** im Sekretariat der Bürgermeister-Schütte Mittelschule statt.
@@ -65,5 +66,5 @@ Für Fragen stehen wir gerne zur Verfügung. Bitte im Sekretariat (08821/9103500
 
 Gez. Verena Hafenrichter 1.Konrektorin
 
-[Prüfungstermine](/schullebenseiten/prufungstermine/#quali)   
+[Prüfungstermine](/schullebenseiten/prufungstermine/#quali)    -->
 
