@@ -2,7 +2,6 @@
 title = "KI-Mogelei an Schulen: Auch Garmisch-Partenkirchen ist betroffen"
 date = 2026-10-16
 description = "Smartphones, Smartwatches und KI-Tools machen Schummeln einfacher. Wie Schulen im Landkreis darauf reagieren – und warum an der BMS schon länger Handylocker im Einsatz sind."
-draft = true
 
 [taxonomies]
 tags = ["Aktuelles", "Schulleben", "Presse", "KI", "Prüfungen", "Handyfreie Schule"]
