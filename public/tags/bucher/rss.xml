@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte Grund- &amp; Mittelschule - Bücher</title>
+      <link>https://volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://volksschule-partenkirchen.de/tags/bucher/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Fleißige Leseraten</title>
+          <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/posts/20231228/</link>
+          <guid>https://volksschule-partenkirchen.de/posts/20231228/</guid>
+          <description>&lt;p&gt;Eine Aktion, die Spaß macht: 27 Mädchen und Buben der Bürgermeister-Schütte-Schule ni Garmisch-Partenkirchen haben an der Lesepyramide teilgenommen.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Besuch in der Bücherei</title>
+          <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/archiv/20230327-4/</link>
+          <guid>https://volksschule-partenkirchen.de/archiv/20230327-4/</guid>
+          <description>&lt;p&gt;Anfang Februar durften die Kinder der Klasse 1b das erste Mal gemeinsam mit ihrer Lehrerin die Partenkirchener Bücherei besuchen.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

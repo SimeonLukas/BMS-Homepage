@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Bürgermeister-Schütte Grund- &amp; Mittelschule - Fasching</title>
+      <link>https://volksschule-partenkirchen.de</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>de</language>
+      <atom:link href="https://volksschule-partenkirchen.de/tags/fasching/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Traditionelle Maschkera des Volkstrachtenvereins Partenkirchen besuchen die Schule</title>
+          <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://volksschule-partenkirchen.de/posts/20250301/</link>
+          <guid>https://volksschule-partenkirchen.de/posts/20250301/</guid>
+          <description>&lt;p&gt;Traditionelle Maschkera des Volkstrachtenvereins Partenkirchen besuchen die Schule&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;volksschule-partenkirchen.de&#x2F;posts&#x2F;20250301&#x2F;images&#x2F;Maschkera.jpg&quot; alt=&quot;Maschkera&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
