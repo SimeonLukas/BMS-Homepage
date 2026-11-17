@@ -9,6 +9,8 @@ tags = ["Aktuelles", "Schulleben", "Mittelschulaktivitäten", "Bildung", "Medien
 
 Wie erkennt man Fake News? Welche Chancen und Gefahren birgt Künstliche Intelligenz? Mit diesen Fragen beschäftigte sich die Klasse 8G am Donnerstag, den 12. November, beim deutschlandweiten ARD-Jugendmedientag.
 
+<!-- more -->
+
 ![Die Klasse 8G mit BR-Korrespondent Martin Breitkopf](Jugendmedientag.jpg)
 
 Einen besonderen Einblick in die Medienwelt ermöglichte Martin Breitkopf, BR-Korrespondent, der unsere Schule besuchte. Gemeinsam mit den Schülerinnen und Schülern sprach er darüber, wie man Falschmeldungen erkennt, Informationen kritisch hinterfragt und KI-generierte Inhalte entlarvt.
